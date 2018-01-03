@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 02 06:28:03 +0000 2018",
+		"id": 948078417626517500,
+		"id_str": "948078417626517504",
+		"text": "RT @TheSocReview: Blockchain - don't ask how, ask why https://t.co/NHVnBMcDon https://t.co/21yUZI1gvS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheSocReview",
+					"name": "Sociological Review",
+					"id": 1927411670,
+					"id_str": "1927411670",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NHVnBMcDon",
+					"expanded_url": "https://buff.ly/2CzPoB2",
+					"display_url": "buff.ly/2CzPoB2",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 948073904693825500,
+					"id_str": "948073904693825536",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+					"url": "https://t.co/21yUZI1gvS",
+					"display_url": "pic.twitter.com/21yUZI1gvS",
+					"expanded_url": "https://twitter.com/TheSocReview/status/948073908099538944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948073908099539000,
+					"source_status_id_str": "948073908099538944",
+					"source_user_id": 1927411670,
+					"source_user_id_str": "1927411670"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948073904693825500,
+					"id_str": "948073904693825536",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+					"url": "https://t.co/21yUZI1gvS",
+					"display_url": "pic.twitter.com/21yUZI1gvS",
+					"expanded_url": "https://twitter.com/TheSocReview/status/948073908099538944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1107,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948073908099539000,
+					"source_status_id_str": "948073908099538944",
+					"source_user_id": 1927411670,
+					"source_user_id_str": "1927411670"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 750,
+			"friends_count": 817,
+			"listed_count": 56,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1287,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5478,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 02 06:10:08 +0000 2018",
+			"id": 948073908099539000,
+			"id_str": "948073908099538944",
+			"text": "Blockchain - don't ask how, ask why https://t.co/NHVnBMcDon https://t.co/21yUZI1gvS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NHVnBMcDon",
+						"expanded_url": "https://buff.ly/2CzPoB2",
+						"display_url": "buff.ly/2CzPoB2",
+						"indices": [
+							36,
+							59
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 948073904693825500,
+						"id_str": "948073904693825536",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+						"url": "https://t.co/21yUZI1gvS",
+						"display_url": "pic.twitter.com/21yUZI1gvS",
+						"expanded_url": "https://twitter.com/TheSocReview/status/948073908099538944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1107,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 664,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 948073904693825500,
+						"id_str": "948073904693825536",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DSg8MXYX0AA8IyE.jpg",
+						"url": "https://t.co/21yUZI1gvS",
+						"display_url": "pic.twitter.com/21yUZI1gvS",
+						"expanded_url": "https://twitter.com/TheSocReview/status/948073908099538944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1107,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 664,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1927411670,
+				"id_str": "1927411670",
+				"name": "Sociological Review",
+				"screen_name": "TheSocReview",
+				"location": "Global",
+				"description": "Publishing research and insight for the sociology community for over 100 years. RTs and links are not endorsements.",
+				"url": "https://t.co/f483O1XeWr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f483O1XeWr",
+								"expanded_url": "https://www.thesociologicalreview.com",
+								"display_url": "thesociologicalreview.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39442,
+				"friends_count": 5548,
+				"listed_count": 791,
+				"created_at": "Wed Oct 02 16:23:11 +0000 2013",
+				"favourites_count": 1159,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39781,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583400324649459712/swomOVss.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583400324649459712/swomOVss.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820980187525431296/e5MXI2rI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820980187525431296/e5MXI2rI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1927411670/1509443744",
+				"profile_link_color": "007BC1",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 01 09:57:57 +0000 2018",
 		"id": 947768850577281000,
 		"id_str": "947768850577281024",

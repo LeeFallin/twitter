@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 08 16:46:18 +0000 2018",
+		"id": 950408331377676300,
+		"id_str": "950408331377676288",
+		"text": "RT @naomialty: Back to work today but I do have some rather splendid paperclips so swings  and roundabouts. https://t.co/1GiR9s7b5z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naomialty",
+					"name": "Naomi Alty",
+					"id": 384814470,
+					"id_str": "384814470",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 950404239121092600,
+					"id_str": "950404239121092608",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+					"url": "https://t.co/1GiR9s7b5z",
+					"display_url": "pic.twitter.com/1GiR9s7b5z",
+					"expanded_url": "https://twitter.com/naomialty/status/950404253096570881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 877,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1497,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950404253096570900,
+					"source_status_id_str": "950404253096570881",
+					"source_user_id": 384814470,
+					"source_user_id_str": "384814470"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950404239121092600,
+					"id_str": "950404239121092608",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+					"url": "https://t.co/1GiR9s7b5z",
+					"display_url": "pic.twitter.com/1GiR9s7b5z",
+					"expanded_url": "https://twitter.com/naomialty/status/950404253096570881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 877,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1497,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950404253096570900,
+					"source_status_id_str": "950404253096570881",
+					"source_user_id": 384814470,
+					"source_user_id_str": "384814470"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 749,
+			"friends_count": 821,
+			"listed_count": 54,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1296,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5488,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 16:30:06 +0000 2018",
+			"id": 950404253096570900,
+			"id_str": "950404253096570881",
+			"text": "Back to work today but I do have some rather splendid paperclips so swings  and roundabouts. https://t.co/1GiR9s7b5z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 950404239121092600,
+						"id_str": "950404239121092608",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+						"url": "https://t.co/1GiR9s7b5z",
+						"display_url": "pic.twitter.com/1GiR9s7b5z",
+						"expanded_url": "https://twitter.com/naomialty/status/950404253096570881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 877,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1497,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950404239121092600,
+						"id_str": "950404239121092608",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DTCDnrnWkAA6A7m.jpg",
+						"url": "https://t.co/1GiR9s7b5z",
+						"display_url": "pic.twitter.com/1GiR9s7b5z",
+						"expanded_url": "https://twitter.com/naomialty/status/950404253096570881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 877,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 497,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1497,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 384814470,
+				"id_str": "384814470",
+				"name": "Naomi Alty",
+				"screen_name": "naomialty",
+				"location": "",
+				"description": "Not a prolific tweeter.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52,
+				"friends_count": 255,
+				"listed_count": 0,
+				"created_at": "Tue Oct 04 11:21:51 +0000 2011",
+				"favourites_count": 1040,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 136,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1577243019/whale_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1577243019/whale_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/384814470/1478558268",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jan 07 20:01:39 +0000 2018",
 		"id": 950095102805987300,
 		"id_str": "950095102805987329",

@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 12 20:58:31 +0000 2018",
+		"id": 973302238025277400,
+		"id_str": "973302238025277440",
+		"text": "@LTE_Hull @KEHplantsci @MichaelONeill89 @HullUni_Library @james_gilbert We also have an #NVivo User Group on campus… https://t.co/7vpQ9Kaaj8",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NVivo",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "Michael O'Neill is losing ten years of labour",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"screen_name": "james_gilbert",
+					"name": "James Gilbert",
+					"id": 21517586,
+					"id_str": "21517586",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7vpQ9Kaaj8",
+					"expanded_url": "https://twitter.com/i/web/status/973302238025277440",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 973301519973044200,
+		"in_reply_to_status_id_str": "973301519973044231",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758,
+			"friends_count": 845,
+			"listed_count": 57,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1383,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5556,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 12 20:55:40 +0000 2018",
+		"id": 973301519973044200,
+		"id_str": "973301519973044231",
+		"text": "@LTE_Hull @KEHplantsci @MichaelONeill89 @HullUni_Library @james_gilbert We have another round of training sessions… https://t.co/zmnDDwvIYA",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "Michael O'Neill is losing ten years of labour",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						23,
+						39
+					]
+				},
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"screen_name": "james_gilbert",
+					"name": "James Gilbert",
+					"id": 21517586,
+					"id_str": "21517586",
+					"indices": [
+						57,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zmnDDwvIYA",
+					"expanded_url": "https://twitter.com/i/web/status/973301519973044231",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 973300891016147000,
+		"in_reply_to_status_id_str": "973300891016146947",
+		"in_reply_to_user_id": 914481006,
+		"in_reply_to_user_id_str": "914481006",
+		"in_reply_to_screen_name": "LTE_Hull",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758,
+			"friends_count": 845,
+			"listed_count": 57,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1383,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5556,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 11 20:01:41 +0000 2018",
 		"id": 972925546811281400,
 		"id_str": "972925546811281409",

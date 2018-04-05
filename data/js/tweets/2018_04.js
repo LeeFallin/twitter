@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 04 14:50:07 +0000 2018",
+		"id": 981544447065444400,
+		"id_str": "981544447065444352",
+		"text": "RT @AVWoman: @stuartstudio If you had to be in the middle of an academic argument, who would you want to have referencing you, and who woul…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AVWoman",
+					"name": "Steph by PowerPoint",
+					"id": 321347565,
+					"id_str": "321347565",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "stuartstudio",
+					"name": "Art Robot",
+					"id": 880795053815472100,
+					"id_str": "880795053815472136",
+					"indices": [
+						13,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 777,
+			"friends_count": 852,
+			"listed_count": 57,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1495,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5691,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 04 09:24:28 +0000 2018",
+			"id": 981462496753135600,
+			"id_str": "981462496753135616",
+			"text": "@stuartstudio If you had to be in the middle of an academic argument, who would you want to have referencing you, a… https://t.co/Xpi5V9IzSS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stuartstudio",
+						"name": "Art Robot",
+						"id": 880795053815472100,
+						"id_str": "880795053815472136",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Xpi5V9IzSS",
+						"expanded_url": "https://twitter.com/i/web/status/981462496753135616",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 981460760487514100,
+			"in_reply_to_status_id_str": "981460760487514112",
+			"in_reply_to_user_id": 880795053815472100,
+			"in_reply_to_user_id_str": "880795053815472136",
+			"in_reply_to_screen_name": "stuartstudio",
+			"user": {
+				"id": 321347565,
+				"id_str": "321347565",
+				"name": "Steph by PowerPoint",
+				"screen_name": "AVWoman",
+				"location": "Eoforwic",
+				"description": "Teaching & Learning Librarina; Diarist; Dreamtweeter. Shelved at 005-6, 027, 042, 090, 305.3, 305.42, 335, 391, 412, 500, 720, 746.43, 780, 790, 800, 912, 942.",
+				"url": "https://t.co/GAwMV9yac2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GAwMV9yac2",
+								"expanded_url": "http://www.avwoman.co.uk/esc",
+								"display_url": "avwoman.co.uk/esc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1233,
+				"friends_count": 2135,
+				"listed_count": 128,
+				"created_at": "Tue Jun 21 12:33:10 +0000 2011",
+				"favourites_count": 32337,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51255,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/274901675/floor.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/274901675/floor.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981123979657216000/rJHWX4Dd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981123979657216000/rJHWX4Dd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/321347565/1431817294",
+				"profile_link_color": "977CA6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "2B0040",
+				"profile_text_color": "CC0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 03 18:04:06 +0000 2018",
 		"id": 981230878927056900,
 		"id_str": "981230878927056896",

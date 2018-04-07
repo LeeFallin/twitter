@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 06 20:43:21 +0000 2018",
+		"id": 982358117362098200,
+		"id_str": "982358117362098176",
+		"text": "RT @ColJJohnson: Some fantastic articles here, @dunhill_a @LeeFallin @jaxbartram @GrahamScott14 @DominicCHenri @KEHplantsci @JacquieWhite7…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColJJohnson",
+					"name": "Colin Johnson",
+					"id": 262195367,
+					"id_str": "262195367",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "dunhill_a",
+					"name": "ally dunhill",
+					"id": 898465831,
+					"id_str": "898465831",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"screen_name": "DominicCHenri",
+					"name": "Dominic Henri",
+					"id": 1685253343,
+					"id_str": "1685253343",
+					"indices": [
+						96,
+						110
+					]
+				},
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"screen_name": "JacquieWhite7",
+					"name": "Dr Jacquie White",
+					"id": 747518964889169900,
+					"id_str": "747518964889169920",
+					"indices": [
+						124,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 780,
+			"friends_count": 852,
+			"listed_count": 58,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1502,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5696,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 20:25:58 +0000 2018",
+			"id": 982353743734820900,
+			"id_str": "982353743734820865",
+			"text": "Some fantastic articles here, @dunhill_a @LeeFallin @jaxbartram @GrahamScott14 @DominicCHenri @KEHplantsci… https://t.co/mxkOzXDJef",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dunhill_a",
+						"name": "ally dunhill",
+						"id": 898465831,
+						"id_str": "898465831",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							41,
+							51
+						]
+					},
+					{
+						"screen_name": "jaxbartram",
+						"name": "Jacqueline Bartram",
+						"id": 393933440,
+						"id_str": "393933440",
+						"indices": [
+							52,
+							63
+						]
+					},
+					{
+						"screen_name": "GrahamScott14",
+						"name": "Graham Scott",
+						"id": 538778092,
+						"id_str": "538778092",
+						"indices": [
+							64,
+							78
+						]
+					},
+					{
+						"screen_name": "DominicCHenri",
+						"name": "Dominic Henri",
+						"id": 1685253343,
+						"id_str": "1685253343",
+						"indices": [
+							79,
+							93
+						]
+					},
+					{
+						"screen_name": "KEHplantsci",
+						"name": "Katharine Hubbard",
+						"id": 2427419792,
+						"id_str": "2427419792",
+						"indices": [
+							94,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mxkOzXDJef",
+						"expanded_url": "https://twitter.com/i/web/status/982353743734820865",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262195367,
+				"id_str": "262195367",
+				"name": "Colin Johnson",
+				"screen_name": "ColJJohnson",
+				"location": "University of Hull",
+				"description": "Graduate Sport Rehabilitator (GSR). Associate Dean, Student Experience (Faculty of Health Sciences) and EdD student at the University of Hull",
+				"url": "https://t.co/eJIqgXCWGL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eJIqgXCWGL",
+								"expanded_url": "http://www.basrat.org",
+								"display_url": "basrat.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 747,
+				"friends_count": 1482,
+				"listed_count": 9,
+				"created_at": "Mon Mar 07 15:22:55 +0000 2011",
+				"favourites_count": 2016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3104,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849945952341381120/QZAPMCFA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849945952341381120/QZAPMCFA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262195367/1406999121",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 982208700281581600,
+			"quoted_status_id_str": "982208700281581569",
+			"quoted_status": {
+				"created_at": "Fri Apr 06 10:49:37 +0000 2018",
+				"id": 982208700281581600,
+				"id_str": "982208700281581569",
+				"text": "New 'virtual' special issue from @TeachinginHE - \"Researching Pedagogy and the Pedagogy of Research\"… https://t.co/YuzQXQ3YCN",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TeachinginHE",
+							"name": "TiHE",
+							"id": 3025973253,
+							"id_str": "3025973253",
+							"indices": [
+								33,
+								46
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/YuzQXQ3YCN",
+							"expanded_url": "https://twitter.com/i/web/status/982208700281581569",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2693094020,
+					"id_str": "2693094020",
+					"name": "Dr Neil Harrison",
+					"screen_name": "DrNeilHarrison",
+					"location": "Bristol, UK",
+					"description": "Associate Professor at the University of the West of England.  Interested in social justice, student experience, intercultural education.",
+					"url": "https://t.co/8ek5QTJomz",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8ek5QTJomz",
+									"expanded_url": "http://neil-harrison.me",
+									"display_url": "neil-harrison.me",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 326,
+					"friends_count": 247,
+					"listed_count": 4,
+					"created_at": "Wed Jul 30 14:39:58 +0000 2014",
+					"favourites_count": 96,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 189,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "BAEDFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/676143399376846848/c9Jm76eY_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/676143399376846848/c9Jm76eY_normal.jpg",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 982208700281581600,
+		"quoted_status_id_str": "982208700281581569",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 05 13:36:28 +0000 2018",
 		"id": 981888300192591900,
 		"id_str": "981888300192591873",

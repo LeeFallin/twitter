@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 05 21:07:03 +0000 2018",
+		"id": 992873331547365400,
+		"id_str": "992873331547365376",
+		"text": "RT @suewatling: One to throw into the #digireshull mix - what does our data say is the key reason for using social media platforms? @mike_e…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digireshull",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 861,
+			"listed_count": 58,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1773,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5973,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 18 12:08:52 +0000 2018",
+			"id": 986577298630631400,
+			"id_str": "986577298630631424",
+			"text": "One to throw into the #digireshull mix - what does our data say is the key reason for using social media platforms?… https://t.co/CAeOAQkbJ2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "digireshull",
+						"indices": [
+							22,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CAeOAQkbJ2",
+						"expanded_url": "https://twitter.com/i/web/status/986577298630631424",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14897464,
+				"id_str": "14897464",
+				"name": "Sue Watling",
+				"screen_name": "suewatling",
+				"location": "s.watling@hull.ac.uk",
+				"description": "digital academic #phdlife blogger, CMALT, SFHEA, D4AL, allotmenteer, beach-walker  secret paleontologist, poet with pagan heart, my views etc etc",
+				"url": "https://t.co/R9w2tcsCZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R9w2tcsCZD",
+								"expanded_url": "https://digitalacademicblog.wordpress.com/",
+								"display_url": "digitalacademicblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 909,
+				"friends_count": 308,
+				"listed_count": 67,
+				"created_at": "Sun May 25 08:55:13 +0000 2008",
+				"favourites_count": 1398,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7192,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970643371906797569/j_rexA2I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970643371906797569/j_rexA2I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 986535732570402800,
+			"quoted_status_id_str": "986535732570402816",
+			"quoted_status": {
+				"created_at": "Wed Apr 18 09:23:42 +0000 2018",
+				"id": 986535732570402800,
+				"id_str": "986535732570402816",
+				"text": "Reasons #PGRsOnline use social media platforms - mainly for peer support- do you agree? https://t.co/nhJOvaO2wG",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "PGRsOnline",
+							"indices": [
+								8,
+								19
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 986535714811793400,
+							"id_str": "986535714811793410",
+							"indices": [
+								88,
+								111
+							],
+							"media_url": "http://pbs.twimg.com/media/DbDhAXeX0AIwtiX.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DbDhAXeX0AIwtiX.jpg",
+							"url": "https://t.co/nhJOvaO2wG",
+							"display_url": "pic.twitter.com/nhJOvaO2wG",
+							"expanded_url": "https://twitter.com/PhDForum/status/986535732570402816/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 986535714811793400,
+							"id_str": "986535714811793410",
+							"indices": [
+								88,
+								111
+							],
+							"media_url": "http://pbs.twimg.com/media/DbDhAXeX0AIwtiX.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DbDhAXeX0AIwtiX.jpg",
+							"url": "https://t.co/nhJOvaO2wG",
+							"display_url": "pic.twitter.com/nhJOvaO2wG",
+							"expanded_url": "https://twitter.com/PhDForum/status/986535732570402816/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1536,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 900,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 604416116,
+					"id_str": "604416116",
+					"name": "PhD Forum",
+					"screen_name": "PhDForum",
+					"location": "International",
+					"description": "Welcome, each of you help to make this a supportive, knowledgeable and dynamic #HE community",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 56380,
+					"friends_count": 29561,
+					"listed_count": 792,
+					"created_at": "Sun Jun 10 10:49:56 +0000 2012",
+					"favourites_count": 2549,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 25231,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/889715306/309b0d4744078f784dd08b1aba602e1b.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/889715306/309b0d4744078f784dd08b1aba602e1b.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/3260526293/1030bc7d2a7bbd7a35bb152d4aeb9a53_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/3260526293/1030bc7d2a7bbd7a35bb152d4aeb9a53_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/604416116/1464186005",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7,
+				"favorite_count": 19,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 986535732570402800,
+		"quoted_status_id_str": "986535732570402816",
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 04 18:35:06 +0000 2018",
 		"id": 992472705793495000,
 		"id_str": "992472705793495043",

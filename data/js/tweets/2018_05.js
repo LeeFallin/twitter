@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 10 18:13:19 +0000 2018",
+		"id": 994641550142525400,
+		"id_str": "994641550142525441",
+		"text": "RT @MikeDrout: My amazing @wheaton students made me a beautiful wooden Scrabble game--in Old English! (They even re-calculated the tile sco…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeDrout",
+					"name": "Michael Drout",
+					"id": 327182823,
+					"id_str": "327182823",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "wheaton",
+					"name": "Wheaton College (MA)",
+					"id": 16515067,
+					"id_str": "16515067",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 861,
+			"listed_count": 58,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1790,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5988,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 08 19:27:14 +0000 2018",
+			"id": 993935377009446900,
+			"id_str": "993935377009446912",
+			"text": "My amazing @wheaton students made me a beautiful wooden Scrabble game--in Old English! (They even re-calculated the… https://t.co/LYzYrzGsQ9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "wheaton",
+						"name": "Wheaton College (MA)",
+						"id": 16515067,
+						"id_str": "16515067",
+						"indices": [
+							11,
+							19
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LYzYrzGsQ9",
+						"expanded_url": "https://twitter.com/i/web/status/993935377009446912",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 327182823,
+				"id_str": "327182823",
+				"name": "Michael Drout",
+				"screen_name": "MikeDrout",
+				"location": "Massachusetts",
+				"description": "Professor of English at Wheaton College, Massachusetts.",
+				"url": "http://t.co/X3KxB7UCft",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/X3KxB7UCft",
+								"expanded_url": "http://michaeldrout.com",
+								"display_url": "michaeldrout.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 944,
+				"friends_count": 15,
+				"listed_count": 30,
+				"created_at": "Fri Jul 01 03:57:52 +0000 2011",
+				"favourites_count": 216,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 272,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740744374330351617/cDYScN_q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740744374330351617/cDYScN_q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/327182823/1377091889",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 302,
+			"favorite_count": 1152,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 302,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu May 10 18:05:08 +0000 2018",
+		"id": 994639489627803600,
+		"id_str": "994639489627803649",
+		"text": "RT @cmontgo84143270: Very interesting paper on the importance of the city in internationalisation. Historical, geographical and cultural ro…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cmontgo84143270",
+					"name": "Catherine Montgomery",
+					"id": 3110980798,
+					"id_str": "3110980798",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 861,
+			"listed_count": 58,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1790,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5988,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 10 17:32:04 +0000 2018",
+			"id": 994631169034551300,
+			"id_str": "994631169034551298",
+			"text": "Very interesting paper on the importance of the city in internationalisation. Historical, geographical and cultural… https://t.co/aAK2dHXLuR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aAK2dHXLuR",
+						"expanded_url": "https://twitter.com/i/web/status/994631169034551298",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3110980798,
+				"id_str": "3110980798",
+				"name": "Catherine Montgomery",
+				"screen_name": "cmontgo84143270",
+				"location": "",
+				"description": "Professor of International Higher Education and Academic Director of International Partnerships at the University of Bath",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 667,
+				"friends_count": 672,
+				"listed_count": 21,
+				"created_at": "Tue Mar 24 17:23:04 +0000 2015",
+				"favourites_count": 1889,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1119,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/580499099784515585/MEWN-rB-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/580499099784515585/MEWN-rB-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3110980798/1475618792",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 994484421884502000,
+			"quoted_status_id_str": "994484421884502017",
+			"quoted_status": {
+				"created_at": "Thu May 10 07:48:57 +0000 2018",
+				"id": 994484421884502000,
+				"id_str": "994484421884502017",
+				"text": "The city as a focus for university internationalisation: four European examples, @JC_Ransom, https://t.co/XX4KTfYIW7 #intled",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "intled",
+							"indices": [
+								117,
+								124
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "jc_ransom",
+							"name": "James Ransom",
+							"id": 523342374,
+							"id_str": "523342374",
+							"indices": [
+								81,
+								91
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/XX4KTfYIW7",
+							"expanded_url": "https://doi.org/10.1080/03057925.2018.1459379",
+							"display_url": "doi.org/10.1080/030579…",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 26644478,
+					"id_str": "26644478",
+					"name": "IDP Database",
+					"screen_name": "IDPDRIE",
+					"location": "Australia",
+					"description": "@IDPGlobal's Database of Research on International Education. Books, articles, reports on international students #intled #studyabroad. Thanks for the Retweets!",
+					"url": "http://t.co/dRSTwdyiUO",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/dRSTwdyiUO",
+									"expanded_url": "http://www.idp.com/researchdatabase",
+									"display_url": "idp.com/researchdataba…",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 20734,
+					"friends_count": 19265,
+					"listed_count": 489,
+					"created_at": "Thu Mar 26 00:45:22 +0000 2009",
+					"favourites_count": 30903,
+					"utc_offset": 36000,
+					"time_zone": "Melbourne",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 15803,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/875177524/ab05cd654d4f67c906685a9195332a29.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/875177524/ab05cd654d4f67c906685a9195332a29.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/918089168999215104/CknMYic2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/918089168999215104/CknMYic2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/26644478/1375849248",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 1,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 994484421884502000,
+		"quoted_status_id_str": "994484421884502017",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed May 09 18:37:06 +0000 2018",
 		"id": 994285144738615300,
 		"id_str": "994285144738615302",

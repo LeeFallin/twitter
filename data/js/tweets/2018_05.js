@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 22 06:12:18 +0000 2018",
+		"id": 998808754442338300,
+		"id_str": "998808754442338304",
+		"text": "RT @javi_draws: i think i died colouring all the tiny items one by one https://t.co/cTEeYMMtHR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "javi_draws",
+					"name": "JV",
+					"id": 1974799530,
+					"id_str": "1974799530",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 997575229739323400,
+					"id_str": "997575229739323393",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+					"media_url_https": "https://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+					"url": "https://t.co/cTEeYMMtHR",
+					"display_url": "pic.twitter.com/cTEeYMMtHR",
+					"expanded_url": "https://twitter.com/javi_draws/status/997575355534856192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1702,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 997575355534856200,
+					"source_status_id_str": "997575355534856192",
+					"source_user_id": 1974799530,
+					"source_user_id_str": "1974799530"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997575229739323400,
+					"id_str": "997575229739323393",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+					"media_url_https": "https://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+					"url": "https://t.co/cTEeYMMtHR",
+					"display_url": "pic.twitter.com/cTEeYMMtHR",
+					"expanded_url": "https://twitter.com/javi_draws/status/997575355534856192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1702,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 997575355534856200,
+					"source_status_id_str": "997575355534856192",
+					"source_user_id": 1974799530,
+					"source_user_id_str": "1974799530"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 863,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1826,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6004,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 18 20:31:13 +0000 2018",
+			"id": 997575355534856200,
+			"id_str": "997575355534856192",
+			"text": "i think i died colouring all the tiny items one by one https://t.co/cTEeYMMtHR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 997575229739323400,
+						"id_str": "997575229739323393",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+						"media_url_https": "https://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+						"url": "https://t.co/cTEeYMMtHR",
+						"display_url": "pic.twitter.com/cTEeYMMtHR",
+						"expanded_url": "https://twitter.com/javi_draws/status/997575355534856192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 669,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1702,
+								"h": 949,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 997575229739323400,
+						"id_str": "997575229739323393",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+						"media_url_https": "https://pbs.twimg.com/media/DdgZYtVXUAEaeAj.png",
+						"url": "https://t.co/cTEeYMMtHR",
+						"display_url": "pic.twitter.com/cTEeYMMtHR",
+						"expanded_url": "https://twitter.com/javi_draws/status/997575355534856192/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 669,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1702,
+								"h": 949,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1974799530,
+				"id_str": "1974799530",
+				"name": "JV",
+				"screen_name": "javi_draws",
+				"location": "",
+				"description": "22/f, hi i like to draw and play ovw please do not repost my work! contact: javee.k95@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35996,
+				"friends_count": 484,
+				"listed_count": 242,
+				"created_at": "Sun Oct 20 11:39:00 +0000 2013",
+				"favourites_count": 19331,
+				"utc_offset": 18000,
+				"time_zone": "Karachi",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 97673,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "F8FEFC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/488353490884763648/YX6xMvRT.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/488353490884763648/YX6xMvRT.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989175525829685248/53wM3m6S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989175525829685248/53wM3m6S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1974799530/1497763500",
+				"profile_link_color": "862E28",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121856,
+			"favorite_count": 423701,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121856,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 21 21:52:02 +0000 2018",
 		"id": 998682857060040700,
 		"id_str": "998682857060040704",

@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 30 06:46:47 +0000 2018",
+		"id": 1012950557156347900,
+		"id_str": "1012950557156347904",
+		"text": "RT @SuzanneNye: ⁦For my colleagues who enjoy #Lego @LeeFallin⁩ @jotraunter ⁦@InspiringTeach⁩ ⁦@dunhill_a⁩  https://t.co/oxsyfIfGGK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lego",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuzanneNye",
+					"name": "Suzanne Blake",
+					"id": 2759706273,
+					"id_str": "2759706273",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 832,
+			"friends_count": 877,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6121,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 29 21:15:09 +0000 2018",
+			"id": 1012806700791935000,
+			"id_str": "1012806700791934978",
+			"text": "⁦For my colleagues who enjoy #Lego @LeeFallin⁩ @jotraunter ⁦@InspiringTeach⁩ ⁦@dunhill_a⁩  https://t.co/oxsyfIfGGK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Lego",
+						"indices": [
+							29,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							35,
+							45
+						]
+					},
+					{
+						"screen_name": "InspiringTeach",
+						"name": "Theresa Marriott",
+						"id": 1257878924,
+						"id_str": "1257878924",
+						"indices": [
+							60,
+							75
+						]
+					},
+					{
+						"screen_name": "dunhill_a",
+						"name": "ally dunhill",
+						"id": 898465831,
+						"id_str": "898465831",
+						"indices": [
+							78,
+							88
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oxsyfIfGGK",
+						"expanded_url": "https://www.visitlincoln.com/whats-on/kingdom-lego-brick-show",
+						"display_url": "visitlincoln.com/whats-on/kingd…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2759706273,
+				"id_str": "2759706273",
+				"name": "Suzanne Blake",
+				"screen_name": "SuzanneNye",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165,
+				"friends_count": 510,
+				"listed_count": 12,
+				"created_at": "Tue Sep 02 20:18:12 +0000 2014",
+				"favourites_count": 1423,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4041,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999323127480958976/4mZicBVM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999323127480958976/4mZicBVM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2759706273/1515360216",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 29 17:16:39 +0000 2018",
 		"id": 1012746680805060600,
 		"id_str": "1012746680805060609",

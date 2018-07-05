@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Wed Jul 04 05:17:46 +0000 2018",
+		"id": 1014377708082647000,
+		"id_str": "1014377708082647040",
+		"text": "RT @redpenblackpen: What's YOUR poster look like? [looks directly at you] https://t.co/iWgZ8gNpdZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "redpenblackpen",
+					"name": "RedPen/BlackPen",
+					"id": 3300876766,
+					"id_str": "3300876766",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014350171172270100,
+					"id_str": "1014350171172270081",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+					"url": "https://t.co/iWgZ8gNpdZ",
+					"display_url": "pic.twitter.com/iWgZ8gNpdZ",
+					"expanded_url": "https://twitter.com/redpenblackpen/status/1014350203762061312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014350203762061300,
+					"source_status_id_str": "1014350203762061312",
+					"source_user_id": 3300876766,
+					"source_user_id_str": "3300876766"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014350171172270100,
+					"id_str": "1014350171172270081",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+					"url": "https://t.co/iWgZ8gNpdZ",
+					"display_url": "pic.twitter.com/iWgZ8gNpdZ",
+					"expanded_url": "https://twitter.com/redpenblackpen/status/1014350203762061312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 239,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014350203762061300,
+					"source_status_id_str": "1014350203762061312",
+					"source_user_id": 3300876766,
+					"source_user_id_str": "3300876766"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 836,
+			"friends_count": 878,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 1979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6124,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 04 03:28:28 +0000 2018",
+			"id": 1014350203762061300,
+			"id_str": "1014350203762061312",
+			"text": "What's YOUR poster look like? [looks directly at you] https://t.co/iWgZ8gNpdZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014350171172270100,
+						"id_str": "1014350171172270081",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+						"url": "https://t.co/iWgZ8gNpdZ",
+						"display_url": "pic.twitter.com/iWgZ8gNpdZ",
+						"expanded_url": "https://twitter.com/redpenblackpen/status/1014350203762061312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 421,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 719,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 239,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014350171172270100,
+						"id_str": "1014350171172270081",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhOyGz6UcAEyfzw.jpg",
+						"url": "https://t.co/iWgZ8gNpdZ",
+						"display_url": "pic.twitter.com/iWgZ8gNpdZ",
+						"expanded_url": "https://twitter.com/redpenblackpen/status/1014350203762061312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 421,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 719,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 239,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3300876766,
+				"id_str": "3300876766",
+				"name": "RedPen/BlackPen",
+				"screen_name": "redpenblackpen",
+				"location": "Corner of Science and Humor",
+				"description": "Translating funny ideas into comics with very modest artistic skill. Mostly academic research focused. By @biodataganache. Tumblr+FB: redpenblackpen",
+				"url": "https://t.co/UaoZY5yWfL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UaoZY5yWfL",
+								"expanded_url": "https://www.redbubble.com/people/redpenblackpen",
+								"display_url": "redbubble.com/people/redpenb…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11125,
+				"friends_count": 70,
+				"listed_count": 206,
+				"created_at": "Wed May 27 19:57:46 +0000 2015",
+				"favourites_count": 1521,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3516,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/928864268862156800/q24ohNfU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/928864268862156800/q24ohNfU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3300876766/1526881071",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 320,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 03 12:45:32 +0000 2018",
 		"id": 1014128003574616000,
 		"id_str": "1014128003574616064",
@@ -62,7 +419,7 @@ Grailbird.data.tweets_2018_07 =
 				},
 				{
 					"screen_name": "rwatson1955",
-					"name": "Roger Watson 🇬🇧🖋🏃‍♂️🐸",
+					"name": "Roger Watson 🇬🇧🖋🏃♂️🐸",
 					"id": 75360703,
 					"id_str": "75360703",
 					"indices": [
@@ -246,7 +603,7 @@ Grailbird.data.tweets_2018_07 =
 					},
 					{
 						"screen_name": "rwatson1955",
-						"name": "Roger Watson 🇬🇧🖋🏃‍♂️🐸",
+						"name": "Roger Watson 🇬🇧🖋🏃♂️🐸",
 						"id": 75360703,
 						"id_str": "75360703",
 						"indices": [

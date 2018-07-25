@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 24 11:27:34 +0000 2018",
+		"id": 1021718529933025300,
+		"id_str": "1021718529933025282",
+		"text": "I entered the £20 Lottery to see @JamieMusical with @TodayTixUK!\nEnter: https://t.co/7q3ViMUiYA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamieMusical",
+					"name": "JamieMusical",
+					"id": 872477465804931100,
+					"id_str": "872477465804931073",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "TodayTixUK",
+					"name": "TodayTix",
+					"id": 3075096941,
+					"id_str": "3075096941",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7q3ViMUiYA",
+					"expanded_url": "http://go.todaytix.com/JamieLotto",
+					"display_url": "go.todaytix.com/JamieLotto",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.todaytix.com/about-us/\" rel=\"nofollow\">TodayTix - Theater Tickets</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 881,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6150,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Jul 24 06:00:38 +0000 2018",
+		"id": 1021636253375254500,
+		"id_str": "1021636253375254528",
+		"text": "RT @simonrae: Nice to know some of the Movers and Shakers of #LTHEchat via NodeXL https://t.co/aP933MmPms\n\n@lthechat @suewatling @suebecks…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simonrae",
+					"name": "Simon Rae",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling 🐚🌱🌙",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aP933MmPms",
+					"expanded_url": "http://bit.ly/2A8vHCP",
+					"display_url": "bit.ly/2A8vHCP",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 881,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6150,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 23 20:31:30 +0000 2018",
+			"id": 1021493025145585700,
+			"id_str": "1021493025145585664",
+			"text": "Nice to know some of the Movers and Shakers of #LTHEchat via NodeXL https://t.co/aP933MmPms\n\n@lthechat @suewatling… https://t.co/UFjX3qn0Tn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							47,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTHEchat",
+						"name": "LTHE Tweetchat",
+						"id": 2659221798,
+						"id_str": "2659221798",
+						"indices": [
+							93,
+							102
+						]
+					},
+					{
+						"screen_name": "suewatling",
+						"name": "Sue Watling 🐚🌱🌙",
+						"id": 14897464,
+						"id_str": "14897464",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aP933MmPms",
+						"expanded_url": "http://bit.ly/2A8vHCP",
+						"display_url": "bit.ly/2A8vHCP",
+						"indices": [
+							68,
+							91
+						]
+					},
+					{
+						"url": "https://t.co/UFjX3qn0Tn",
+						"expanded_url": "https://twitter.com/i/web/status/1021493025145585664",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48292696,
+				"id_str": "48292696",
+				"name": "Simon Rae",
+				"screen_name": "simonrae",
+				"location": "Milton Keynes",
+				"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure or requests…also holder of the #LTHEchat Golden Tweeter Award",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 913,
+				"friends_count": 784,
+				"listed_count": 69,
+				"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+				"favourites_count": 3288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8305,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDF0E7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "072430",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1020806640319152100,
+			"quoted_status_id_str": "1020806640319152128",
+			"quoted_status": {
+				"created_at": "Sat Jul 21 23:04:03 +0000 2018",
+				"id": 1020806640319152100,
+				"id_str": "1020806640319152128",
+				"text": "#LTHEchat via NodeXL https://t.co/cLvkEgIxvW\n@lthechat\n@suewatling\n@suebecks\n@leefallin\n@racephil\n@chrissinerantzi… https://t.co/ZUxy3iTUbB",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "LTHEchat",
+							"indices": [
+								0,
+								9
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "LTHEchat",
+							"name": "LTHE Tweetchat",
+							"id": 2659221798,
+							"id_str": "2659221798",
+							"indices": [
+								45,
+								54
+							]
+						},
+						{
+							"screen_name": "suewatling",
+							"name": "Sue Watling 🐚🌱🌙",
+							"id": 14897464,
+							"id_str": "14897464",
+							"indices": [
+								55,
+								66
+							]
+						},
+						{
+							"screen_name": "suebecks",
+							"name": "Sue Beckingham",
+							"id": 34904126,
+							"id_str": "34904126",
+							"indices": [
+								67,
+								76
+							]
+						},
+						{
+							"screen_name": "LeeFallin",
+							"name": "Lee Fallin",
+							"id": 55448837,
+							"id_str": "55448837",
+							"indices": [
+								77,
+								87
+							]
+						},
+						{
+							"screen_name": "RacePhil",
+							"name": "Phil Race",
+							"id": 1350065268,
+							"id_str": "1350065268",
+							"indices": [
+								88,
+								97
+							]
+						},
+						{
+							"screen_name": "chrissinerantzi",
+							"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🐞🌻🍉🏓🎨",
+							"id": 34362372,
+							"id_str": "34362372",
+							"indices": [
+								98,
+								114
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/cLvkEgIxvW",
+							"expanded_url": "http://bit.ly/2A8vHCP",
+							"display_url": "bit.ly/2A8vHCP",
+							"indices": [
+								21,
+								44
+							]
+						},
+						{
+							"url": "https://t.co/ZUxy3iTUbB",
+							"expanded_url": "https://twitter.com/i/web/status/1020806640319152128",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 12160482,
+					"id_str": "12160482",
+					"name": "Marc Smith",
+					"screen_name": "marc_smith",
+					"location": "Belmont, CA, USA",
+					"description": "Sociologist of computer-mediated collective action @ Connected Action http://t.co/5dRFa89a\r\nDirector: Social Media Research Foundation http://t.co/KPxyHajJ",
+					"url": "http://t.co/X1s40eTq9M",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/X1s40eTq9M",
+									"expanded_url": "http://connectedaction.net",
+									"display_url": "connectedaction.net",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "http://t.co/5dRFa89a",
+									"expanded_url": "http://www.connectedaction.net",
+									"display_url": "connectedaction.net",
+									"indices": [
+										70,
+										90
+									]
+								},
+								{
+									"url": "http://t.co/KPxyHajJ",
+									"expanded_url": "http://smrfoundation.org",
+									"display_url": "smrfoundation.org",
+									"indices": [
+										135,
+										155
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 11068,
+					"friends_count": 6367,
+					"listed_count": 1406,
+					"created_at": "Sat Jan 12 19:12:20 +0000 2008",
+					"favourites_count": 28176,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 11714,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDECE9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/943596894831255552/cMOzkc5i_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/943596894831255552/cMOzkc5i_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/12160482/1423267766",
+					"profile_link_color": "088253",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E3E2DE",
+					"profile_text_color": "634047",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "a409256339a7c6a1",
+					"url": "https://api.twitter.com/1.1/geo/id/a409256339a7c6a1.json",
+					"place_type": "city",
+					"name": "Redwood City",
+					"full_name": "Redwood City, CA",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-122.28853,
+									37.443954
+								],
+								[
+									-122.177339,
+									37.443954
+								],
+								[
+									-122.177339,
+									37.550633
+								],
+								[
+									-122.28853,
+									37.550633
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1020806640319152100,
+		"quoted_status_id_str": "1020806640319152128",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 23 11:24:08 +0000 2018",
 		"id": 1021355276446945300,
 		"id_str": "1021355276446945280",

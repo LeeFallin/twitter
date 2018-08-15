@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 14 05:16:09 +0000 2018",
+		"id": 1029235204999794700,
+		"id_str": "1029235204999794688",
+		"text": "RT @kayguccione: Anyone conferencing this week and need a networking proforma? Thanks @robmyles 😂👏#sheffpgr #sheffecr https://t.co/dxMwg0ST…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sheffpgr",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "sheffecr",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kayguccione",
+					"name": "Dr Kay Guccione",
+					"id": 185141156,
+					"id_str": "185141156",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "robmyles",
+					"name": "Robert Myles",
+					"id": 42886706,
+					"id_str": "42886706",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 858,
+			"friends_count": 882,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6163,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 08:32:31 +0000 2018",
+			"id": 1028922232788185100,
+			"id_str": "1028922232788185089",
+			"text": "Anyone conferencing this week and need a networking proforma? Thanks @robmyles 😂👏#sheffpgr #sheffecr https://t.co/dxMwg0STnC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sheffpgr",
+						"indices": [
+							81,
+							90
+						]
+					},
+					{
+						"text": "sheffecr",
+						"indices": [
+							91,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "robmyles",
+						"name": "Robert Myles",
+						"id": 42886706,
+						"id_str": "42886706",
+						"indices": [
+							69,
+							78
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1028922227775991800,
+						"id_str": "1028922227775991808",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkd3UJAXcAAf-ZO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkd3UJAXcAAf-ZO.jpg",
+						"url": "https://t.co/dxMwg0STnC",
+						"display_url": "pic.twitter.com/dxMwg0STnC",
+						"expanded_url": "https://twitter.com/kayguccione/status/1028922232788185089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 982,
+								"h": 748,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 982,
+								"h": 748,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028922227775991800,
+						"id_str": "1028922227775991808",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkd3UJAXcAAf-ZO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkd3UJAXcAAf-ZO.jpg",
+						"url": "https://t.co/dxMwg0STnC",
+						"display_url": "pic.twitter.com/dxMwg0STnC",
+						"expanded_url": "https://twitter.com/kayguccione/status/1028922232788185089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 982,
+								"h": 748,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 982,
+								"h": 748,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 185141156,
+				"id_str": "185141156",
+				"name": "Dr Kay Guccione",
+				"screen_name": "kayguccione",
+				"location": "Sheffield, UK",
+				"description": "I listen to stories & I think about them. Design & teach #mentoring/#coaching. Come for the #phd/#postdoc/#academic practice banter, stay for the comedy typos.",
+				"url": "https://t.co/GIq5b4HdeB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GIq5b4HdeB",
+								"expanded_url": "http://www.sheffield.ac.uk/ris/ecr/mentoring/kayguccione",
+								"display_url": "sheffield.ac.uk/ris/ecr/mentor…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1818,
+				"friends_count": 672,
+				"listed_count": 90,
+				"created_at": "Tue Aug 31 09:53:18 +0000 2010",
+				"favourites_count": 3540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025021474544013313/AyXJCu6i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025021474544013313/AyXJCu6i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/185141156/1523012174",
+				"profile_link_color": "00B395",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 41,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 13 19:54:05 +0000 2018",
 		"id": 1029093752982384600,
 		"id_str": "1029093752982384641",

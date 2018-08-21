@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 20 15:03:53 +0000 2018",
+		"id": 1031557437793480700,
+		"id_str": "1031557437793480704",
+		"text": "@KoraLee_Holmes @UniOfHull @Just_RichardB @TomSwainson @Brittanyybianca I didn’t know you were just outside!!!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KoraLee_Holmes",
+					"name": "Kora-Lee Holmes",
+					"id": 20466898,
+					"id_str": "20466898",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Just_RichardB",
+					"name": "Richard Brooks",
+					"id": 99398822,
+					"id_str": "99398822",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "TomSwainson",
+					"name": "Thomas Swainson",
+					"id": 347508318,
+					"id_str": "347508318",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "Brittanyybianca",
+					"name": "Brittany Tomlinson",
+					"id": 433626162,
+					"id_str": "433626162",
+					"indices": [
+						55,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1031196419217129500,
+		"in_reply_to_status_id_str": "1031196419217129472",
+		"in_reply_to_user_id": 20466898,
+		"in_reply_to_user_id_str": "20466898",
+		"in_reply_to_screen_name": "KoraLee_Holmes",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851,
+			"friends_count": 881,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6161,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 16 07:18:30 +0000 2018",
 		"id": 1029990768549802000,
 		"id_str": "1029990768549801984",

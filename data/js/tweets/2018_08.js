@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 25 17:25:46 +0000 2018",
+		"id": 1033405086217760800,
+		"id_str": "1033405086217760773",
+		"text": "RT @marc_smith: #LTHEchat via NodeXL https://t.co/1U8a5VrgZ6\n@lthechat\n@suebecks\n@suewatling\n@nomadwarmachine\n@leefallin\n@scottturneruon\n@c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marc_smith",
+					"name": "Marc Smith",
+					"id": 12160482,
+					"id_str": "12160482",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling 🐚🌱🌙",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						121,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1U8a5VrgZ6",
+					"expanded_url": "http://bit.ly/2NhLa5p",
+					"display_url": "bit.ly/2NhLa5p",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 882,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6163,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 17:14:10 +0000 2018",
+			"id": 1033402164893245400,
+			"id_str": "1033402164893245441",
+			"text": "#LTHEchat via NodeXL https://t.co/1U8a5VrgZ6\n@lthechat\n@suebecks\n@suewatling\n@nomadwarmachine\n@leefallin… https://t.co/kGLnzde5Jd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTHEchat",
+						"name": "LTHE Tweetchat",
+						"id": 2659221798,
+						"id_str": "2659221798",
+						"indices": [
+							45,
+							54
+						]
+					},
+					{
+						"screen_name": "suebecks",
+						"name": "Sue Beckingham",
+						"id": 34904126,
+						"id_str": "34904126",
+						"indices": [
+							55,
+							64
+						]
+					},
+					{
+						"screen_name": "suewatling",
+						"name": "Sue Watling 🐚🌱🌙",
+						"id": 14897464,
+						"id_str": "14897464",
+						"indices": [
+							65,
+							76
+						]
+					},
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							77,
+							93
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1U8a5VrgZ6",
+						"expanded_url": "http://bit.ly/2NhLa5p",
+						"display_url": "bit.ly/2NhLa5p",
+						"indices": [
+							21,
+							44
+						]
+					},
+					{
+						"url": "https://t.co/kGLnzde5Jd",
+						"expanded_url": "https://twitter.com/i/web/status/1033402164893245441",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12160482,
+				"id_str": "12160482",
+				"name": "Marc Smith",
+				"screen_name": "marc_smith",
+				"location": "Belmont, CA, USA",
+				"description": "Sociologist of computer-mediated collective action @ Connected Action http://t.co/5dRFa89a\r\nDirector: Social Media Research Foundation http://t.co/KPxyHajJ",
+				"url": "http://t.co/X1s40eTq9M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/X1s40eTq9M",
+								"expanded_url": "http://connectedaction.net",
+								"display_url": "connectedaction.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/5dRFa89a",
+								"expanded_url": "http://www.connectedaction.net",
+								"display_url": "connectedaction.net",
+								"indices": [
+									70,
+									90
+								]
+							},
+							{
+								"url": "http://t.co/KPxyHajJ",
+								"expanded_url": "http://smrfoundation.org",
+								"display_url": "smrfoundation.org",
+								"indices": [
+									135,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11201,
+				"friends_count": 6398,
+				"listed_count": 1405,
+				"created_at": "Sat Jan 12 19:12:20 +0000 2008",
+				"favourites_count": 29756,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11811,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/943596894831255552/cMOzkc5i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/943596894831255552/cMOzkc5i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12160482/1423267766",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0103586d1639ca97",
+				"url": "https://api.twitter.com/1.1/geo/id/0103586d1639ca97.json",
+				"place_type": "city",
+				"name": "Hamilton City",
+				"full_name": "Hamilton City, New Zealand",
+				"country_code": "NZ",
+				"country": "New Zealand",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								175.184301,
+								-37.846039
+							],
+							[
+								175.344877,
+								-37.846039
+							],
+							[
+								175.344877,
+								-37.69933
+							],
+							[
+								175.184301,
+								-37.69933
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Aug 23 10:54:52 +0000 2018",
 		"id": 1032581933774135300,
 		"id_str": "1032581933774135296",

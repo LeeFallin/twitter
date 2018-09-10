@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 09 17:54:39 +0000 2018",
+		"id": 1038848172460789800,
+		"id_str": "1038848172460789760",
+		"text": "RT @scholastic_rat: The Three Domains of Critical Reading https://t.co/3PGjk4R2Uo https://t.co/dgLPPCoeZQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3PGjk4R2Uo",
+					"expanded_url": "https://rattusscholasticus.wordpress.com/2018/09/08/the-three-domains-of-critical-reading/",
+					"display_url": "rattusscholasticus.wordpress.com/2018/09/08/the…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1038483163805143000,
+					"id_str": "1038483163805143040",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+					"url": "https://t.co/dgLPPCoeZQ",
+					"display_url": "pic.twitter.com/dgLPPCoeZQ",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1038483167512944640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 733,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 733,
+							"h": 443,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038483167512944600,
+					"source_status_id_str": "1038483167512944640",
+					"source_user_id": 395277106,
+					"source_user_id_str": "395277106"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1038483163805143000,
+					"id_str": "1038483163805143040",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+					"url": "https://t.co/dgLPPCoeZQ",
+					"display_url": "pic.twitter.com/dgLPPCoeZQ",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1038483167512944640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 733,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 733,
+							"h": 443,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1038483167512944600,
+					"source_status_id_str": "1038483167512944640",
+					"source_user_id": 395277106,
+					"source_user_id_str": "395277106"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 884,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6175,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 08 17:44:15 +0000 2018",
+			"id": 1038483167512944600,
+			"id_str": "1038483167512944640",
+			"text": "The Three Domains of Critical Reading https://t.co/3PGjk4R2Uo https://t.co/dgLPPCoeZQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3PGjk4R2Uo",
+						"expanded_url": "https://rattusscholasticus.wordpress.com/2018/09/08/the-three-domains-of-critical-reading/",
+						"display_url": "rattusscholasticus.wordpress.com/2018/09/08/the…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1038483163805143000,
+						"id_str": "1038483163805143040",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+						"url": "https://t.co/dgLPPCoeZQ",
+						"display_url": "pic.twitter.com/dgLPPCoeZQ",
+						"expanded_url": "https://twitter.com/scholastic_rat/status/1038483167512944640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 411,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 733,
+								"h": 443,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 733,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1038483163805143000,
+						"id_str": "1038483163805143040",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dmlu73PUUAA2QX8.jpg",
+						"url": "https://t.co/dgLPPCoeZQ",
+						"display_url": "pic.twitter.com/dgLPPCoeZQ",
+						"expanded_url": "https://twitter.com/scholastic_rat/status/1038483167512944640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 411,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 733,
+								"h": 443,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 733,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 395277106,
+				"id_str": "395277106",
+				"name": "Dr Helen Webster",
+				"screen_name": "scholastic_rat",
+				"location": "University of Newcastle, UK",
+				"description": "Learning Developer at Newcastle University. Interested in pedagogy and digital, academic and information literacies. Former Medievalist. Views own.",
+				"url": "https://t.co/eoyoPKvnXK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eoyoPKvnXK",
+								"expanded_url": "https://rattusscholasticus.wordpress.com/",
+								"display_url": "rattusscholasticus.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1450,
+				"friends_count": 956,
+				"listed_count": 83,
+				"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+				"favourites_count": 2034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7889,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 27,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 08 08:34:11 +0000 2018",
 		"id": 1038344738754244600,
 		"id_str": "1038344738754244609",

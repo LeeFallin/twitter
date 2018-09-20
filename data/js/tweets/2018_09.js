@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Wed Sep 19 17:28:16 +0000 2018",
+		"id": 1042465410606682100,
+		"id_str": "1042465410606682112",
+		"text": "RT @suewatling: @LTE_Hull \n@LeeFallin https://t.co/I5JgVlUwug",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						27,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/I5JgVlUwug",
+					"expanded_url": "https://twitter.com/jgmac1106/status/1042421240961675265",
+					"display_url": "twitter.com/jgmac1106/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 887,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6200,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 19 17:08:30 +0000 2018",
+			"id": 1042460435814015000,
+			"id_str": "1042460435814014976",
+			"text": "@LTE_Hull \n@LeeFallin https://t.co/I5JgVlUwug",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTE_Hull",
+						"name": "LTE@Hull",
+						"id": 914481006,
+						"id_str": "914481006",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/I5JgVlUwug",
+						"expanded_url": "https://twitter.com/jgmac1106/status/1042421240961675265",
+						"display_url": "twitter.com/jgmac1106/stat…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 914481006,
+			"in_reply_to_user_id_str": "914481006",
+			"in_reply_to_screen_name": "LTE_Hull",
+			"user": {
+				"id": 14897464,
+				"id_str": "14897464",
+				"name": "Sue Watling🌱",
+				"screen_name": "suewatling",
+				"location": "Yorkshire and The Humber",
+				"description": "digital academic #phdlife @Lego_in_HE #lthechat CMALT, SFHEA, MIEE, allotmenteer, beach-walker, secret paleontologist, poet with pagan heart, views my own etc",
+				"url": "https://t.co/R9w2tcsCZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R9w2tcsCZD",
+								"expanded_url": "https://digitalacademicblog.wordpress.com/",
+								"display_url": "digitalacademicblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1071,
+				"friends_count": 323,
+				"listed_count": 66,
+				"created_at": "Sun May 25 08:55:13 +0000 2008",
+				"favourites_count": 2034,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8195,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000391805396021248/PATahM9y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000391805396021248/PATahM9y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+				"profile_link_color": "FFFFFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1042421240961675300,
+			"quoted_status_id_str": "1042421240961675265",
+			"quoted_status": {
+				"created_at": "Wed Sep 19 14:32:45 +0000 2018",
+				"id": 1042421240961675300,
+				"id_str": "1042421240961675265",
+				"text": "@Bali_Maha @cogdog @IrenequStewart @NomadWarMachine @yinbk @dogtrax @catherinecronin @MiaZamoraPhD #unboundeq  is w… https://t.co/viUJfusEgJ",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "unboundeq",
+							"indices": [
+								99,
+								109
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "Bali_Maha",
+							"name": "ℳąhą Bąℓi, PhD مها بالي 🌷",
+							"id": 1535273520,
+							"id_str": "1535273520",
+							"indices": [
+								0,
+								10
+							]
+						},
+						{
+							"screen_name": "cogdog",
+							"name": "Alan Levine ☠",
+							"id": 740343,
+							"id_str": "740343",
+							"indices": [
+								11,
+								18
+							]
+						},
+						{
+							"screen_name": "IrenequStewart",
+							"name": "Irene Stewart",
+							"id": 66824757,
+							"id_str": "66824757",
+							"indices": [
+								19,
+								34
+							]
+						},
+						{
+							"screen_name": "NomadWarMachine",
+							"name": "Sarah Honeychurch",
+							"id": 558091832,
+							"id_str": "558091832",
+							"indices": [
+								35,
+								51
+							]
+						},
+						{
+							"screen_name": "yinbk",
+							"name": "Yin Wah Kreher",
+							"id": 459903,
+							"id_str": "459903",
+							"indices": [
+								52,
+								58
+							]
+						},
+						{
+							"screen_name": "dogtrax",
+							"name": "KevinHodgson",
+							"id": 13307352,
+							"id_str": "13307352",
+							"indices": [
+								59,
+								67
+							]
+						},
+						{
+							"screen_name": "catherinecronin",
+							"name": "Dr. Catherine Cronin",
+							"id": 59833587,
+							"id_str": "59833587",
+							"indices": [
+								68,
+								84
+							]
+						},
+						{
+							"screen_name": "MiaZamoraPhD",
+							"name": "Mia Zamora",
+							"id": 579873574,
+							"id_str": "579873574",
+							"indices": [
+								85,
+								98
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/viUJfusEgJ",
+							"expanded_url": "https://twitter.com/i/web/status/1042421240961675265",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+				"in_reply_to_status_id": 1042403607335919600,
+				"in_reply_to_status_id_str": "1042403607335919616",
+				"in_reply_to_user_id": 1535273520,
+				"in_reply_to_user_id_str": "1535273520",
+				"in_reply_to_screen_name": "Bali_Maha",
+				"user": {
+					"id": 27620289,
+					"id_str": "27620289",
+					"name": "Greg McVerry",
+					"screen_name": "jgmac1106",
+					"location": "East Haddam, CT",
+					"description": "https://t.co/yQGcokadZs  https://t.co/iaNR4LXstM",
+					"url": "https://t.co/yQGcokadZs",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/yQGcokadZs",
+									"expanded_url": "https://jgregorymcverry.com/",
+									"display_url": "jgregorymcverry.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/yQGcokadZs",
+									"expanded_url": "https://jgregorymcverry.com/",
+									"display_url": "jgregorymcverry.com",
+									"indices": [
+										0,
+										23
+									]
+								},
+								{
+									"url": "https://t.co/iaNR4LXstM",
+									"expanded_url": "https://reviewtalentfeedback.com",
+									"display_url": "reviewtalentfeedback.com",
+									"indices": [
+										25,
+										48
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 3699,
+					"friends_count": 3463,
+					"listed_count": 345,
+					"created_at": "Mon Mar 30 11:30:57 +0000 2009",
+					"favourites_count": 1788,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 37099,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/565227710104883200/g4MDcTnx_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/565227710104883200/g4MDcTnx_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/27620289/1419012004",
+					"profile_link_color": "990000",
+					"profile_sidebar_border_color": "DFDFDF",
+					"profile_sidebar_fill_color": "F3F3F3",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1042421240961675300,
+		"quoted_status_id_str": "1042421240961675265",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Sep 18 19:22:08 +0000 2018",
 		"id": 1042131678376931300,
 		"id_str": "1042131678376931333",

@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 06:08:10 +0000 2018",
+		"id": 1050266789131759600,
+		"id_str": "1050266789131759619",
+		"full_text": "@kehinde_andrews @GMB More fundamentally we need to address the problems at home 🇬🇧. Legally, discrimination cannot take place but there is still a lot of unconscious bias and ingrained discrimination - and sometimes it’s blatant. We have a lot of work to do on social cohesion.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kehinde_andrews",
+					"name": "Kehinde Andrews",
+					"id": 3392883071,
+					"id_str": "3392883071",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "GMB",
+					"name": "Good Morning Britain",
+					"id": 19424427,
+					"id_str": "19424427",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050265821040336900,
+		"in_reply_to_status_id_str": "1050265821040336896",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 897,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6335,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kehinde_andrews @GMB More fundamentally we need to address the problems at home 🇬🇧. Legally, discrimination cannot take place but there is still a lot of unconscious bias and ingrained discrimination - and sometimes it’s blatant. We have a lot of work to do on social cohesion."
+	},
+	{
+		"created_at": "Thu Oct 11 06:04:19 +0000 2018",
+		"id": 1050265821040336900,
+		"id_str": "1050265821040336896",
+		"full_text": "@kehinde_andrews @GMB I am still appalled that social conditions in many places in the world are still founded on our 🇬🇧 historic laws and cultures. For example, some former colonies still outlaw homosexuality because they still enforce our old laws.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kehinde_andrews",
+					"name": "Kehinde Andrews",
+					"id": 3392883071,
+					"id_str": "3392883071",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "GMB",
+					"name": "Good Morning Britain",
+					"id": 19424427,
+					"id_str": "19424427",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1050265014681198600,
+		"in_reply_to_status_id_str": "1050265014681198592",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 897,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6335,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kehinde_andrews @GMB I am still appalled that social conditions in many places in the world are still founded on our 🇬🇧 historic laws and cultures. For example, some former colonies still outlaw homosexuality because they still enforce our old laws."
+	},
+	{
+		"created_at": "Tue Oct 09 17:17:25 +0000 2018",
+		"id": 1049710435920998400,
+		"id_str": "1049710435920998403",
+		"full_text": "Much respect to the brother at ITV who patted me on the back and told me I was a 'legend' just before I sat down to debate on @GMB this morning. Gave me some added strength to go into the lion's den. Big thanks to everyone for the messages of support ✊🏿 https://t.co/kqrJJMZIEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GMB",
+					"name": "Good Morning Britain",
+					"id": 19424427,
+					"id_str": "19424427",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kqrJJMZIEh",
+					"expanded_url": "https://twitter.com/GMB/status/1049549865699688448",
+					"display_url": "twitter.com/GMB/status/104…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3392883071,
+			"id_str": "3392883071",
+			"name": "Kehinde Andrews",
+			"screen_name": "kehinde_andrews",
+			"location": "",
+			"description": "Professor of #BlackStudiesBCU @MyBcu and Chair of @OBU_BlackUnity. My new book 'Back to Black: Retelling Black Radicalism for 21st C' out now with @zedbooks",
+			"url": "https://t.co/Pea3x1WmFX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pea3x1WmFX",
+							"expanded_url": "http://www.blackunity.org.uk",
+							"display_url": "blackunity.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11143,
+			"friends_count": 913,
+			"listed_count": 98,
+			"created_at": "Tue Jul 28 23:29:38 +0000 2015",
+			"favourites_count": 4745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4471,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036676892039041025/jG_VHPSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036676892039041025/jG_VHPSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3392883071/1530289386",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1049549865699688400,
+		"quoted_status_id_str": "1049549865699688448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kqrJJMZIEh",
+			"expanded": "https://twitter.com/GMB/status/1049549865699688448",
+			"display": "twitter.com/GMB/status/104…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 09 06:39:22 +0000 2018",
+			"id": 1049549865699688400,
+			"id_str": "1049549865699688448",
+			"full_text": "'The history of this country is built on racism' says Professor Kehinde Andrews attacking the UK's past actions. \n\nHe says the UK has ruined the world and that it is a racist country, built on racism. He went on to call Winston Churchill one of the roots of the problem. https://t.co/5KPunw8WdG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1049549776306495500,
+						"id_str": "1049549776306495488",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/DpC_9QqW4AAeH4-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpC_9QqW4AAeH4-.jpg",
+						"url": "https://t.co/5KPunw8WdG",
+						"display_url": "pic.twitter.com/5KPunw8WdG",
+						"expanded_url": "https://twitter.com/GMB/status/1049549865699688448/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1049549776306495500,
+						"id_str": "1049549776306495488",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/DpC_9QqW4AAeH4-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpC_9QqW4AAeH4-.jpg",
+						"url": "https://t.co/5KPunw8WdG",
+						"display_url": "pic.twitter.com/5KPunw8WdG",
+						"expanded_url": "https://twitter.com/GMB/status/1049549865699688448/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 92920,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049549776306495488/pu/vid/640x360/11a8B-9AUt4ojxMi.mp4?tag=5"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049549776306495488/pu/vid/1280x720/YttO3Ur238v1uJlb.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1049549776306495488/pu/vid/320x180/uOnTgkecqI6f30HN.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1049549776306495488/pu/pl/C7smV6TRSTLXeUsh.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19424427,
+				"id_str": "19424427",
+				"name": "Good Morning Britain",
+				"screen_name": "GMB",
+				"location": "London",
+				"description": "The UK's most talked about breakfast television show, weekdays from 6am, ITV.  Replies & content may be used on air. See https://t.co/u4BYxXFfJq",
+				"url": "https://t.co/ZZKX14E7X3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZZKX14E7X3",
+								"expanded_url": "http://www.itv.com/gmb",
+								"display_url": "itv.com/gmb",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u4BYxXFfJq",
+								"expanded_url": "http://itv.com/terms",
+								"display_url": "itv.com/terms",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 479046,
+				"friends_count": 2954,
+				"listed_count": 1566,
+				"created_at": "Sat Jan 24 00:25:12 +0000 2009",
+				"favourites_count": 4008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 64395,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F3800D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012553213298528256/PYDAQj83_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012553213298528256/PYDAQj83_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19424427/1530246566",
+				"profile_link_color": "B85B0E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "282828",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1537,
+			"favorite_count": 3724,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 570,
+		"favorite_count": 2685,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Much respect to the brother at ITV who patted me on the back and told me I was a 'legend' just before I sat down to debate on @GMB this morning. Gave me some added strength to go into the lion's den. Big thanks to everyone for the messages of support ✊🏿 https://t.co/kqrJJMZIEh"
+	},
+	{
+		"created_at": "Thu Oct 11 06:01:07 +0000 2018",
+		"id": 1050265014681198600,
+		"id_str": "1050265014681198592",
+		"full_text": "@kehinde_andrews @GMB From that clip, it doesn’t look like a debate.  Just looked like Morgan shouted at you &amp; had no respect for your position (which is VERY well founded). I hope you were actually allowed to speak at some point. 🇬🇧 We still have a duty to heal the global impact of our colonialism.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kehinde_andrews",
+					"name": "Kehinde Andrews",
+					"id": 3392883071,
+					"id_str": "3392883071",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "GMB",
+					"name": "Good Morning Britain",
+					"id": 19424427,
+					"id_str": "19424427",
+					"indices": [
+						17,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1049710435920998400,
+		"in_reply_to_status_id_str": "1049710435920998403",
+		"in_reply_to_user_id": 3392883071,
+		"in_reply_to_user_id_str": "3392883071",
+		"in_reply_to_screen_name": "kehinde_andrews",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 897,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6335,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kehinde_andrews @GMB From that clip, it doesn’t look like a debate.  Just looked like Morgan shouted at you &amp; had no respect for your position (which is VERY well founded). I hope you were actually allowed to speak at some point. 🇬🇧 We still have a duty to heal the global impact of our colonialism."
+	},
+	{
 		"created_at": "Wed Oct 10 20:59:44 +0000 2018",
 		"id": 1050128774526844900,
 		"id_str": "1050128774526844930",

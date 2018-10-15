@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 13 10:26:20 +0000 2018",
+		"id": 1051056534514491400,
+		"id_str": "1051056534514491393",
+		"full_text": "'Competence' - I worry about the usage of this word. What does it mean? 'Can do', 'Can do quickly', 'Can do well', 'Can do adequately', 'Can just about do', 'Did once', 'Could do if wanted to', 'Can do thoroughly', 'Can appear to do successfully', 'Can get away with doing'?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350065268,
+			"id_str": "1350065268",
+			"name": "Phil Race",
+			"screen_name": "RacePhil",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "Writer and keynoter on assessment, feedback, teaching and learning in tertiary education, e.g.'Making Learning Happen' & 'Lecturer's Toolkit'. NTF, PFHEA",
+			"url": "https://t.co/4KgQ6vybwe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4KgQ6vybwe",
+							"expanded_url": "http://phil-race.co.uk",
+							"display_url": "phil-race.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6344,
+			"friends_count": 6231,
+			"listed_count": 108,
+			"created_at": "Sat Apr 13 19:50:29 +0000 2013",
+			"favourites_count": 4830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7746,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350065268/1460222436",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3cf4768fb6083814",
+			"url": "https://api.twitter.com/1.1/geo/id/3cf4768fb6083814.json",
+			"place_type": "city",
+			"name": "Longbenton",
+			"full_name": "Longbenton, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.601032,
+							55.003873
+						],
+						[
+							-1.5223485,
+							55.003873
+						],
+						[
+							-1.5223485,
+							55.049562
+						],
+						[
+							-1.601032,
+							55.049562
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 243,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "'Competence' - I worry about the usage of this word. What does it mean? 'Can do', 'Can do quickly', 'Can do well', 'Can do adequately', 'Can just about do', 'Did once', 'Could do if wanted to', 'Can do thoroughly', 'Can appear to do successfully', 'Can get away with doing'?"
+	},
+	{
 		"created_at": "Sat Oct 13 06:40:49 +0000 2018",
 		"id": 1050999782297280500,
 		"id_str": "1050999782297280512",

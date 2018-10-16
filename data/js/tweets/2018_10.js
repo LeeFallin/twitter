@@ -1,6 +1,551 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 15 07:36:31 +0000 2018",
+		"id": 1051738577418313700,
+		"id_str": "1051738577418313728",
+		"full_text": "Start the week with a reminder of digital accessibility \n'Keeping the diversity flag flying' \nwith @suewatling  @LeeFallin amd @marcuselliott \nhttps://t.co/Is1Xm2JN5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"screen_name": "marcuselliott",
+					"name": "Marcus Elliott",
+					"id": 24887453,
+					"id_str": "24887453",
+					"indices": [
+						127,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Is1Xm2JN5T",
+					"expanded_url": "https://digitalacademicblog.wordpress.com/2018/10/14/keeping-the-diversity-flag-flying/",
+					"display_url": "digitalacademicblog.wordpress.com/2018/10/14/kee…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14897464,
+			"id_str": "14897464",
+			"name": "Sue Watling🌱",
+			"screen_name": "suewatling",
+			"location": "Yorkshire and The Humber",
+			"description": "digital academic #phdlife @Lego_in_HE #lthechat CMALT, SFHEA, MIEE, allotmenteer, beach-walker, secret paleontologist, poet with pagan heart, views my own etc",
+			"url": "https://t.co/R9w2tcsCZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R9w2tcsCZD",
+							"expanded_url": "https://digitalacademicblog.wordpress.com/",
+							"display_url": "digitalacademicblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1089,
+			"friends_count": 332,
+			"listed_count": 66,
+			"created_at": "Sun May 25 08:55:13 +0000 2008",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8275,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000391805396021248/PATahM9y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000391805396021248/PATahM9y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Start the week with a reminder of digital accessibility \n'Keeping the diversity flag flying' \nwith @suewatling  @LeeFallin amd @marcuselliott \nhttps://t.co/Is1Xm2JN5T"
+	},
+	{
+		"created_at": "Mon Oct 15 08:20:36 +0000 2018",
+		"id": 1051749668617642000,
+		"id_str": "1051749668617641984",
+		"full_text": "Really interesting work from @suewatling @leefallin and @marcuselliott Trying to translate this to my blogging practice https://t.co/BR4ZOmFnYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"screen_name": "marcuselliott",
+					"name": "Marcus Elliott",
+					"id": 24887453,
+					"id_str": "24887453",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BR4ZOmFnYp",
+					"expanded_url": "https://twitter.com/suewatling/status/1051738577418313728",
+					"display_url": "twitter.com/suewatling/sta…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12438922,
+			"id_str": "12438922",
+			"name": "Frances Bell",
+			"screen_name": "francesbell",
+			"location": "Macclesfield",
+			"description": "woman,friendwifemothergrandmothersisterauntcousin, feminist, tech curmudgeon, blogger, itinerant scholar, IT buddy, knitter, quilter, gardener,reader #femedtech",
+			"url": "https://t.co/vFg6ZD7vhq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vFg6ZD7vhq",
+							"expanded_url": "http://francesbell.com",
+							"display_url": "francesbell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2814,
+			"friends_count": 1099,
+			"listed_count": 223,
+			"created_at": "Sat Jan 19 19:19:49 +0000 2008",
+			"favourites_count": 5695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29005,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041049960786128897/vFj__Prr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041049960786128897/vFj__Prr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12438922/1525837017",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1051738577418313700,
+		"quoted_status_id_str": "1051738577418313728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BR4ZOmFnYp",
+			"expanded": "https://twitter.com/suewatling/status/1051738577418313728",
+			"display": "twitter.com/suewatling/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 15 07:36:31 +0000 2018",
+			"id": 1051738577418313700,
+			"id_str": "1051738577418313728",
+			"full_text": "Start the week with a reminder of digital accessibility \n'Keeping the diversity flag flying' \nwith @suewatling  @LeeFallin amd @marcuselliott \nhttps://t.co/Is1Xm2JN5T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "suewatling",
+						"name": "Sue Watling🌱",
+						"id": 14897464,
+						"id_str": "14897464",
+						"indices": [
+							99,
+							110
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							112,
+							122
+						]
+					},
+					{
+						"screen_name": "marcuselliott",
+						"name": "Marcus Elliott",
+						"id": 24887453,
+						"id_str": "24887453",
+						"indices": [
+							127,
+							141
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Is1Xm2JN5T",
+						"expanded_url": "https://digitalacademicblog.wordpress.com/2018/10/14/keeping-the-diversity-flag-flying/",
+						"display_url": "digitalacademicblog.wordpress.com/2018/10/14/kee…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14897464,
+				"id_str": "14897464",
+				"name": "Sue Watling🌱",
+				"screen_name": "suewatling",
+				"location": "Yorkshire and The Humber",
+				"description": "digital academic #phdlife @Lego_in_HE #lthechat CMALT, SFHEA, MIEE, allotmenteer, beach-walker, secret paleontologist, poet with pagan heart, views my own etc",
+				"url": "https://t.co/R9w2tcsCZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R9w2tcsCZD",
+								"expanded_url": "https://digitalacademicblog.wordpress.com/",
+								"display_url": "digitalacademicblog.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1089,
+				"friends_count": 332,
+				"listed_count": 66,
+				"created_at": "Sun May 25 08:55:13 +0000 2008",
+				"favourites_count": 2080,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8275,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000391805396021248/PATahM9y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000391805396021248/PATahM9y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+				"profile_link_color": "FFFFFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really interesting work from @suewatling @leefallin and @marcuselliott Trying to translate this to my blogging practice https://t.co/BR4ZOmFnYp"
+	},
+	{
+		"created_at": "Sat Oct 13 10:26:20 +0000 2018",
+		"id": 1051056534514491400,
+		"id_str": "1051056534514491393",
+		"full_text": "'Competence' - I worry about the usage of this word. What does it mean? 'Can do', 'Can do quickly', 'Can do well', 'Can do adequately', 'Can just about do', 'Did once', 'Could do if wanted to', 'Can do thoroughly', 'Can appear to do successfully', 'Can get away with doing'?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350065268,
+			"id_str": "1350065268",
+			"name": "Phil Race",
+			"screen_name": "RacePhil",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "Writer and keynoter on assessment, feedback, teaching and learning in tertiary education, e.g.'Making Learning Happen' & 'Lecturer's Toolkit'. NTF, PFHEA",
+			"url": "https://t.co/4KgQ6vybwe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4KgQ6vybwe",
+							"expanded_url": "http://phil-race.co.uk",
+							"display_url": "phil-race.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6357,
+			"friends_count": 6247,
+			"listed_count": 108,
+			"created_at": "Sat Apr 13 19:50:29 +0000 2013",
+			"favourites_count": 4854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7767,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350065268/1460222436",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3cf4768fb6083814",
+			"url": "https://api.twitter.com/1.1/geo/id/3cf4768fb6083814.json",
+			"place_type": "city",
+			"name": "Longbenton",
+			"full_name": "Longbenton, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.601032,
+							55.003873
+						],
+						[
+							-1.5223485,
+							55.003873
+						],
+						[
+							-1.5223485,
+							55.049562
+						],
+						[
+							-1.601032,
+							55.049562
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 279,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "'Competence' - I worry about the usage of this word. What does it mean? 'Can do', 'Can do quickly', 'Can do well', 'Can do adequately', 'Can just about do', 'Did once', 'Could do if wanted to', 'Can do thoroughly', 'Can appear to do successfully', 'Can get away with doing'?"
+	},
+	{
 		"created_at": "Sat Oct 13 10:26:20 +0000 2018",
 		"id": 1051056534514491400,
 		"id_str": "1051056534514491393",

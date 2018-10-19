@@ -1,6 +1,844 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 21:48:03 +0000 2018",
+		"id": 1053040034897645600,
+		"id_str": "1053040034897645568",
+		"full_text": "#TAGS plot of last nights #LTHEchat Top conversationalists include @LTHEchat\n@nwahls\n@cpjobling\n@kjhaxton\n@Christo_HST\n@WarwickLanguage\n@S_J_Lancaster\n@NomadWarMa…\n@LeeFallin\n@KRitchie5247\n@suebecks\n@MartinaEmke\n@chrissinerantzi\n@santanuvasant\n@TonyCasci\n@KeelingJoanne https://t.co/LRLHjB37n5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAGS",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "nwahls",
+					"name": "Naomi Wahls 🇱🇺🇺🇸",
+					"id": 16644586,
+					"id_str": "16644586",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling #FBPE",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Christopher Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "KRitchie5247",
+					"name": "Keith Ritchie",
+					"id": 2819376027,
+					"id_str": "2819376027",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🐞🌻🍉🏓🎨",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						229,
+						243
+					]
+				},
+				{
+					"screen_name": "TonyCasci",
+					"name": "Tony Casci",
+					"id": 1045068678537138200,
+					"id_str": "1045068678537138176",
+					"indices": [
+						244,
+						254
+					]
+				},
+				{
+					"screen_name": "KeelingJoanne",
+					"name": "Joanne Keeling",
+					"id": 1530879512,
+					"id_str": "1530879512",
+					"indices": [
+						255,
+						269
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053039171575664600,
+					"id_str": "1053039171575664642",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"url": "https://t.co/LRLHjB37n5",
+					"display_url": "pic.twitter.com/LRLHjB37n5",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1053040034897645568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053039171575664600,
+					"id_str": "1053039171575664642",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"url": "https://t.co/LRLHjB37n5",
+					"display_url": "pic.twitter.com/LRLHjB37n5",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1053040034897645568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Associate Prof Computing, Robots, computing education. Pi Cert Educator, code club, Member @TheIET @bcs , Views are authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2894,
+			"friends_count": 1941,
+			"listed_count": 579,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 15238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47988,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAGS plot of last nights #LTHEchat Top conversationalists include @LTHEchat\n@nwahls\n@cpjobling\n@kjhaxton\n@Christo_HST\n@WarwickLanguage\n@S_J_Lancaster\n@NomadWarMa…\n@LeeFallin\n@KRitchie5247\n@suebecks\n@MartinaEmke\n@chrissinerantzi\n@santanuvasant\n@TonyCasci\n@KeelingJoanne https://t.co/LRLHjB37n5"
+	},
+	{
+		"created_at": "Thu Oct 18 07:51:56 +0000 2018",
+		"id": 1052829618313601000,
+		"id_str": "1052829618313601024",
+		"full_text": "I do like this - very clear. https://t.co/zUTMiwKOjl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zUTMiwKOjl",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1052642492204679168",
+					"display_url": "twitter.com/LeeFallin/stat…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1735058714,
+			"id_str": "1735058714",
+			"name": "Ruth Mewis",
+			"screen_name": "RuthMewis",
+			"location": "Lancaster, England",
+			"description": "Advocate of excellence in learning and teaching in HE, former chemist, education researcher, nature enthusiast, Wainwright fell collector and runner",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 603,
+			"listed_count": 13,
+			"created_at": "Fri Sep 06 12:59:15 +0000 2013",
+			"favourites_count": 1157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1552,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/985192653217202176/GLq3j7W0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/985192653217202176/GLq3j7W0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1735058714/1483007060",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052642492204679200,
+		"quoted_status_id_str": "1052642492204679168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zUTMiwKOjl",
+			"expanded": "https://twitter.com/LeeFallin/status/1052642492204679168",
+			"display": "twitter.com/LeeFallin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 19:28:21 +0000 2018",
+			"id": 1052642492204679200,
+			"id_str": "1052642492204679168",
+			"full_text": "A3: and if this question was the last digital thing I made, probably our Supporting Diverse Leaners poster - developed with @suewatling  #LTHEchat #Accessibility #Inclusivity #InclusiveDesign https://t.co/K5n7eVBq56",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							137,
+							146
+						]
+					},
+					{
+						"text": "Accessibility",
+						"indices": [
+							147,
+							161
+						]
+					},
+					{
+						"text": "Inclusivity",
+						"indices": [
+							162,
+							174
+						]
+					},
+					{
+						"text": "InclusiveDesign",
+						"indices": [
+							175,
+							191
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "suewatling",
+						"name": "Sue Watling🌱",
+						"id": 14897464,
+						"id_str": "14897464",
+						"indices": [
+							124,
+							135
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1052642484600430600,
+						"id_str": "1052642484600430592",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpu8wzoX4AAeQzy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpu8wzoX4AAeQzy.jpg",
+						"url": "https://t.co/K5n7eVBq56",
+						"display_url": "pic.twitter.com/K5n7eVBq56",
+						"expanded_url": "https://twitter.com/LeeFallin/status/1052642492204679168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 357,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 538,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 538,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052642484600430600,
+						"id_str": "1052642484600430592",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpu8wzoX4AAeQzy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpu8wzoX4AAeQzy.jpg",
+						"url": "https://t.co/K5n7eVBq56",
+						"display_url": "pic.twitter.com/K5n7eVBq56",
+						"expanded_url": "https://twitter.com/LeeFallin/status/1052642492204679168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 357,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 538,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 538,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55448837,
+				"id_str": "55448837",
+				"name": "Lee Fallin",
+				"screen_name": "LeeFallin",
+				"location": "United Kingdom",
+				"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+				"url": "https://t.co/UWrodKaQLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UWrodKaQLd",
+								"expanded_url": "http://www.leefallin.co.uk",
+								"display_url": "leefallin.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 865,
+				"friends_count": 904,
+				"listed_count": 60,
+				"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+				"favourites_count": 2278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6386,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7bc0da87641dd821",
+				"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+				"place_type": "city",
+				"name": "Hull",
+				"full_name": "Hull, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.422572,
+								53.719616
+							],
+							[
+								-0.2453134,
+								53.719616
+							],
+							[
+								-0.2453134,
+								53.812018
+							],
+							[
+								-0.422572,
+								53.812018
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I do like this - very clear. https://t.co/zUTMiwKOjl"
+	},
+	{
+		"created_at": "Wed Oct 17 20:49:58 +0000 2018",
+		"id": 1052663031501611000,
+		"id_str": "1052663031501611008",
+		"full_text": "Useful article on accessible L&amp;T #websites #VLEs in the light of the Public Sector Bodies Accessibility Regulations 2018 https://t.co/y2BGsQnZrB - love the @UniOfHull poster on designing for diverse learners by @LeeFallin &amp; @suewatling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "websites",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "VLEs",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y2BGsQnZrB",
+					"expanded_url": "https://digitalacademicblog.wordpress.com/2018/10/14/keeping-the-diversity-flag-flying/",
+					"display_url": "digitalacademicblog.wordpress.com/2018/10/14/kee…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14322554,
+			"id_str": "14322554",
+			"name": "mariekeguy",
+			"screen_name": "mariekeguy",
+			"location": "Cirencester, Gloucestershire",
+			"description": "HE Learning Technologist @ @RoyalAgUni likes digital info/literacy, education, policy, open & green things, QA, OER, data, dataviz, #GLAM, licensing. Views own.",
+			"url": "https://t.co/6CxIQ2jgBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CxIQ2jgBf",
+							"expanded_url": "http://www.mariekeguy.co.uk",
+							"display_url": "mariekeguy.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2303,
+			"friends_count": 2064,
+			"listed_count": 227,
+			"created_at": "Mon Apr 07 13:09:08 +0000 2008",
+			"favourites_count": 766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740644955388030977/QIQc8JXx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740644955388030977/QIQc8JXx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14322554/1441955031",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Useful article on accessible L&amp;T #websites #VLEs in the light of the Public Sector Bodies Accessibility Regulations 2018 https://t.co/y2BGsQnZrB - love the @UniOfHull poster on designing for diverse learners by @LeeFallin &amp; @suewatling"
+	},
+	{
 		"created_at": "Wed Oct 17 20:49:58 +0000 2018",
 		"id": 1052663031501611000,
 		"id_str": "1052663031501611008",

@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 19 18:23:00 +0000 2018",
+		"id": 1053350818802470900,
+		"id_str": "1053350818802470912",
+		"full_text": "Definitely one of the fab things about #DigiResHull and social media platforms like Twitter is the ‘leveller’ effect - everyone engaging has equal status https://t.co/yeH96RwXqK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiResHull",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yeH96RwXqK",
+					"expanded_url": "https://twitter.com/leefallin/status/1052638846821826560",
+					"display_url": "twitter.com/leefallin/stat…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 719,
+			"listed_count": 94,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 21636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23002,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/562220446754422785/VDtfZajc_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/562220446754422785/VDtfZajc_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052638846821826600,
+		"quoted_status_id_str": "1052638846821826560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yeH96RwXqK",
+			"expanded": "https://twitter.com/leefallin/status/1052638846821826560",
+			"display": "twitter.com/leefallin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 19:13:52 +0000 2018",
+			"id": 1052638846821826600,
+			"id_str": "1052638846821826560",
+			"full_text": "Our biggest finding from #DigiResHull was the benefits of putting both students and staff together. It was beautiful - especially with research students as it enabled them to take part in something as peers with academics #LTHEchat https://t.co/TRUsOpNFxA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigiResHull",
+						"indices": [
+							25,
+							37
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							222,
+							231
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TRUsOpNFxA",
+						"expanded_url": "https://twitter.com/chrissinerantzi/status/1052638444340555776",
+						"display_url": "twitter.com/chrissinerantz…",
+						"indices": [
+							232,
+							255
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55448837,
+				"id_str": "55448837",
+				"name": "Lee Fallin",
+				"screen_name": "LeeFallin",
+				"location": "United Kingdom",
+				"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+				"url": "https://t.co/UWrodKaQLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UWrodKaQLd",
+								"expanded_url": "http://www.leefallin.co.uk",
+								"display_url": "leefallin.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 867,
+				"friends_count": 905,
+				"listed_count": 60,
+				"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+				"favourites_count": 2282,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6387,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7bc0da87641dd821",
+				"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+				"place_type": "city",
+				"name": "Hull",
+				"full_name": "Hull, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.422572,
+								53.719616
+							],
+							[
+								-0.2453134,
+								53.719616
+							],
+							[
+								-0.2453134,
+								53.812018
+							],
+							[
+								-0.422572,
+								53.812018
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1052638444340555800,
+			"quoted_status_id_str": "1052638444340555776",
+			"quoted_status_permalink": {
+				"url": "https://t.co/TRUsOpNFxA",
+				"expanded": "https://twitter.com/chrissinerantzi/status/1052638444340555776",
+				"display": "twitter.com/chrissinerantz…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Definitely one of the fab things about #DigiResHull and social media platforms like Twitter is the ‘leveller’ effect - everyone engaging has equal status https://t.co/yeH96RwXqK"
+	},
+	{
+		"created_at": "Fri Oct 19 18:03:06 +0000 2018",
+		"id": 1053345811763994600,
+		"id_str": "1053345811763994625",
+		"full_text": "@mike_ewen @LeeFallin @chrissinerantzi Absolutely. I'm a PG student, and found people I can learn from and with, on Twitter and in person. #DigiResHull",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiResHull",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🐞🌻🍉🏓🎨",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						22,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1052642099269656600,
+		"in_reply_to_status_id_str": "1052642099269656576",
+		"in_reply_to_user_id": 20668436,
+		"in_reply_to_user_id_str": "20668436",
+		"in_reply_to_screen_name": "mike_ewen",
+		"user": {
+			"id": 253595689,
+			"id_str": "253595689",
+			"name": "Yvonne Black",
+			"screen_name": "YvonneBlack76",
+			"location": "Yorkshire and The Humber, Engl",
+			"description": "PhD Researcher: nature-based health promoting activities , in the City of Hull",
+			"url": "https://t.co/ntCbtavjJo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ntCbtavjJo",
+							"expanded_url": "http://wildthings.me",
+							"display_url": "wildthings.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 317,
+			"listed_count": 5,
+			"created_at": "Thu Feb 17 15:31:54 +0000 2011",
+			"favourites_count": 909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929056778553298949/uKQPeTUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929056778553298949/uKQPeTUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253595689/1483701394",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@mike_ewen @LeeFallin @chrissinerantzi Absolutely. I'm a PG student, and found people I can learn from and with, on Twitter and in person. #DigiResHull"
+	},
+	{
+		"created_at": "Thu Oct 18 21:48:03 +0000 2018",
+		"id": 1053040034897645600,
+		"id_str": "1053040034897645568",
+		"full_text": "#TAGS plot of last nights #LTHEchat Top conversationalists include @LTHEchat\n@nwahls\n@cpjobling\n@kjhaxton\n@Christo_HST\n@WarwickLanguage\n@S_J_Lancaster\n@NomadWarMa…\n@LeeFallin\n@KRitchie5247\n@suebecks\n@MartinaEmke\n@chrissinerantzi\n@santanuvasant\n@TonyCasci\n@KeelingJoanne https://t.co/LRLHjB37n5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAGS",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "nwahls",
+					"name": "Naomi Wahls 🇱🇺🇺🇸",
+					"id": 16644586,
+					"id_str": "16644586",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling #FBPE",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Christopher Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "KRitchie5247",
+					"name": "Keith Ritchie",
+					"id": 2819376027,
+					"id_str": "2819376027",
+					"indices": [
+						175,
+						188
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"screen_name": "MartinaEmke",
+					"name": "Martina Emke",
+					"id": 843365802,
+					"id_str": "843365802",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🐞🌻🍉🏓🎨",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						229,
+						243
+					]
+				},
+				{
+					"screen_name": "TonyCasci",
+					"name": "Tony Casci",
+					"id": 1045068678537138200,
+					"id_str": "1045068678537138176",
+					"indices": [
+						244,
+						254
+					]
+				},
+				{
+					"screen_name": "KeelingJoanne",
+					"name": "Joanne Keeling",
+					"id": 1530879512,
+					"id_str": "1530879512",
+					"indices": [
+						255,
+						269
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053039171575664600,
+					"id_str": "1053039171575664642",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"url": "https://t.co/LRLHjB37n5",
+					"display_url": "pic.twitter.com/LRLHjB37n5",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1053040034897645568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053039171575664600,
+					"id_str": "1053039171575664642",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp0ljBxW0AIn3vA.jpg",
+					"url": "https://t.co/LRLHjB37n5",
+					"display_url": "pic.twitter.com/LRLHjB37n5",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1053040034897645568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 541,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 956,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Associate Prof Computing, Robots, computing education. Pi Cert Educator, code club, Member @TheIET @bcs , Views are authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2901,
+			"friends_count": 1942,
+			"listed_count": 579,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 15253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48015,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAGS plot of last nights #LTHEchat Top conversationalists include @LTHEchat\n@nwahls\n@cpjobling\n@kjhaxton\n@Christo_HST\n@WarwickLanguage\n@S_J_Lancaster\n@NomadWarMa…\n@LeeFallin\n@KRitchie5247\n@suebecks\n@MartinaEmke\n@chrissinerantzi\n@santanuvasant\n@TonyCasci\n@KeelingJoanne https://t.co/LRLHjB37n5"
+	},
+	{
 		"created_at": "Thu Oct 18 21:48:03 +0000 2018",
 		"id": 1053040034897645600,
 		"id_str": "1053040034897645568",

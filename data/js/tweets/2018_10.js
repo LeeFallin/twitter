@@ -85,6 +85,354 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 5421,
+			"friends_count": 3009,
+			"listed_count": 154,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7169,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052567456420638700,
+		"quoted_status_id_str": "1052567456420638725",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G6Q60e4w9K",
+			"expanded": "https://twitter.com/AdvanceHE/status/1052567456420638725",
+			"display": "twitter.com/AdvanceHE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 14:30:12 +0000 2018",
+			"id": 1052567456420638700,
+			"id_str": "1052567456420638725",
+			"full_text": "Join our Twitter Chat on Wednesday 31 October at 8pm (BST), where @S_J_Norton will be posing questions to some of the challenges presented in our latest blog: ‘the keys to the curriculum: Creativity, Enterprise and Employability’ – https://t.co/NI7jimRROG #AdvanceHEChat #LTHEChat https://t.co/BHnlHXZe3n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdvanceHEChat",
+						"indices": [
+							256,
+							270
+						]
+					},
+					{
+						"text": "LTHEChat",
+						"indices": [
+							271,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "S_J_Norton",
+						"name": "Stuart Norton",
+						"id": 882854278112661500,
+						"id_str": "882854278112661504",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NI7jimRROG",
+						"expanded_url": "http://ow.ly/idze30mgx79",
+						"display_url": "ow.ly/idze30mgx79",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1052567454860410900,
+						"id_str": "1052567454860410880",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"url": "https://t.co/BHnlHXZe3n",
+						"display_url": "pic.twitter.com/BHnlHXZe3n",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1052567456420638725/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052567454860410900,
+						"id_str": "1052567454860410880",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"url": "https://t.co/BHnlHXZe3n",
+						"display_url": "pic.twitter.com/BHnlHXZe3n",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1052567456420638725/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 941587234465177600,
+				"id_str": "941587234465177600",
+				"name": "Advance HE",
+				"screen_name": "AdvanceHE",
+				"location": "United Kingdom",
+				"description": "We are Advance HE, and we are dedicated to helping higher education shape its future.",
+				"url": "https://t.co/nf6dzkKahl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nf6dzkKahl",
+								"expanded_url": "http://www.advance-he.ac.uk",
+								"display_url": "advance-he.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5798,
+				"friends_count": 374,
+				"listed_count": 40,
+				"created_at": "Fri Dec 15 08:34:25 +0000 2017",
+				"favourites_count": 2171,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1607,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/941587234465177600/1532013869",
+				"profile_link_color": "03A1A4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to next weeks Halloween special - a collaborative #lthechat and #AdvanceHEChat with @s_j_Norton exploring Creativity, Enterprise and Employability. Blog  now live ! https://t.co/G6Q60e4w9K"
+	},
+	{
+		"created_at": "Wed Oct 24 20:00:00 +0000 2018",
+		"id": 1055187170929963000,
+		"id_str": "1055187170929963013",
+		"full_text": "Looking forward to next weeks Halloween special - a collaborative #lthechat and #AdvanceHEChat with @s_j_Norton exploring Creativity, Enterprise and Employability. Blog  now live ! https://t.co/G6Q60e4w9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "AdvanceHEChat",
+					"indices": [
+						80,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Norton",
+					"name": "Stuart Norton",
+					"id": 882854278112661500,
+					"id_str": "882854278112661504",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G6Q60e4w9K",
+					"expanded_url": "https://twitter.com/AdvanceHE/status/1052567456420638725",
+					"display_url": "twitter.com/AdvanceHE/stat…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 5416,
 			"friends_count": 3009,
 			"listed_count": 153,

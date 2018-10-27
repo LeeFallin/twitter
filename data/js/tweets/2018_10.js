@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 17:07:14 +0000 2018",
+		"id": 1055868466203385900,
+		"id_str": "1055868466203385857",
+		"full_text": "@suewatling @xlearn @ronm123 @alistairm @LTE_Hull @dmc_devecchi It was an excellent session as always 😁",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "xlearn",
+					"name": "xlearn",
+					"id": 9030712,
+					"id_str": "9030712",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "ronm123",
+					"name": "Ron Mitchell",
+					"id": 20941452,
+					"id_str": "20941452",
+					"indices": [
+						20,
+						28
+					]
+				},
+				{
+					"screen_name": "alistairm",
+					"name": "alistair mcnaught",
+					"id": 15778067,
+					"id_str": "15778067",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "dmc_devecchi",
+					"name": "Dr Cristina Devecchi",
+					"id": 3036351777,
+					"id_str": "3036351777",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1055818892289994800,
+		"in_reply_to_status_id_str": "1055818892289994759",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 881,
+			"friends_count": 908,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6417,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suewatling @xlearn @ronm123 @alistairm @LTE_Hull @dmc_devecchi It was an excellent session as always 😁"
+	},
+	{
+		"created_at": "Thu Oct 25 16:07:35 +0000 2018",
+		"id": 1055491066957307900,
+		"id_str": "1055491066957307904",
+		"full_text": "scary https://t.co/NX6etIKGyU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1055491058983977000,
+					"id_str": "1055491058983976960",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DqXbhqJXQAA5Fbg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqXbhqJXQAA5Fbg.jpg",
+					"url": "https://t.co/NX6etIKGyU",
+					"display_url": "pic.twitter.com/NX6etIKGyU",
+					"expanded_url": "https://twitter.com/AcademicsSay/status/1055491066957307904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055491058983977000,
+					"id_str": "1055491058983976960",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/DqXbhqJXQAA5Fbg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqXbhqJXQAA5Fbg.jpg",
+					"url": "https://t.co/NX6etIKGyU",
+					"display_url": "pic.twitter.com/NX6etIKGyU",
+					"expanded_url": "https://twitter.com/AcademicsSay/status/1055491066957307904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1891806212,
+			"id_str": "1891806212",
+			"name": "Shit Academics Say",
+			"screen_name": "AcademicsSay",
+			"location": "",
+			"description": "A social experiment | @prof_nch",
+			"url": "https://t.co/c4QEusj2qq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c4QEusj2qq",
+							"expanded_url": "http://www.chronicle.com/article/AcademicsSay-The-Story/231195",
+							"display_url": "chronicle.com/article/Academ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293791,
+			"friends_count": 0,
+			"listed_count": 3510,
+			"created_at": "Sat Sep 21 23:23:24 +0000 2013",
+			"favourites_count": 18448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748151916836716546/Ldn_dhiC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748151916836716546/Ldn_dhiC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1891806212/1379898969",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2392,
+		"favorite_count": 5946,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "scary https://t.co/NX6etIKGyU"
+	},
+	{
+		"created_at": "Wed Oct 24 20:00:00 +0000 2018",
+		"id": 1055187170929963000,
+		"id_str": "1055187170929963013",
+		"full_text": "Looking forward to next weeks Halloween special - a collaborative #lthechat and #AdvanceHEChat with @s_j_Norton exploring Creativity, Enterprise and Employability. Blog  now live ! https://t.co/G6Q60e4w9K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "AdvanceHEChat",
+					"indices": [
+						80,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Norton",
+					"name": "Stuart Norton",
+					"id": 882854278112661500,
+					"id_str": "882854278112661504",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/G6Q60e4w9K",
+					"expanded_url": "https://twitter.com/AdvanceHE/status/1052567456420638725",
+					"display_url": "twitter.com/AdvanceHE/stat…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5424,
+			"friends_count": 3010,
+			"listed_count": 154,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7169,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052567456420638700,
+		"quoted_status_id_str": "1052567456420638725",
+		"quoted_status_permalink": {
+			"url": "https://t.co/G6Q60e4w9K",
+			"expanded": "https://twitter.com/AdvanceHE/status/1052567456420638725",
+			"display": "twitter.com/AdvanceHE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 14:30:12 +0000 2018",
+			"id": 1052567456420638700,
+			"id_str": "1052567456420638725",
+			"full_text": "Join our Twitter Chat on Wednesday 31 October at 8pm (BST), where @S_J_Norton will be posing questions to some of the challenges presented in our latest blog: ‘the keys to the curriculum: Creativity, Enterprise and Employability’ – https://t.co/NI7jimRROG #AdvanceHEChat #LTHEChat https://t.co/BHnlHXZe3n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdvanceHEChat",
+						"indices": [
+							256,
+							270
+						]
+					},
+					{
+						"text": "LTHEChat",
+						"indices": [
+							271,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "S_J_Norton",
+						"name": "Stuart Norton",
+						"id": 882854278112661500,
+						"id_str": "882854278112661504",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NI7jimRROG",
+						"expanded_url": "http://ow.ly/idze30mgx79",
+						"display_url": "ow.ly/idze30mgx79",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1052567454860410900,
+						"id_str": "1052567454860410880",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"url": "https://t.co/BHnlHXZe3n",
+						"display_url": "pic.twitter.com/BHnlHXZe3n",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1052567456420638725/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052567454860410900,
+						"id_str": "1052567454860410880",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dpt4hgEXgAAvLw0.jpg",
+						"url": "https://t.co/BHnlHXZe3n",
+						"display_url": "pic.twitter.com/BHnlHXZe3n",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1052567456420638725/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 257,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 941587234465177600,
+				"id_str": "941587234465177600",
+				"name": "Advance HE",
+				"screen_name": "AdvanceHE",
+				"location": "United Kingdom",
+				"description": "We are Advance HE, and we are dedicated to helping higher education shape its future.",
+				"url": "https://t.co/nf6dzkKahl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nf6dzkKahl",
+								"expanded_url": "http://www.advance-he.ac.uk",
+								"display_url": "advance-he.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5815,
+				"friends_count": 374,
+				"listed_count": 40,
+				"created_at": "Fri Dec 15 08:34:25 +0000 2017",
+				"favourites_count": 2188,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1613,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/941587234465177600/1532013869",
+				"profile_link_color": "03A1A4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to next weeks Halloween special - a collaborative #lthechat and #AdvanceHEChat with @s_j_Norton exploring Creativity, Enterprise and Employability. Blog  now live ! https://t.co/G6Q60e4w9K"
+	},
+	{
 		"created_at": "Wed Oct 24 20:00:00 +0000 2018",
 		"id": 1055187170929963000,
 		"id_str": "1055187170929963013",

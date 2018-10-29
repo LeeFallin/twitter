@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 16:46:29 +0000 2018",
+		"id": 1056588021435453400,
+		"id_str": "1056588021435453441",
+		"full_text": "@InspiringTeach @Kerrie35195074 Where to even start counting!!!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InspiringTeach",
+					"name": "Theresa Marriott",
+					"id": 1257878924,
+					"id_str": "1257878924",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Kerrie35195074",
+					"name": "Kerrie Lee",
+					"id": 843497978786734100,
+					"id_str": "843497978786734080",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1056587877931499500,
+		"in_reply_to_status_id_str": "1056587877931499520",
+		"in_reply_to_user_id": 1257878924,
+		"in_reply_to_user_id_str": "1257878924",
+		"in_reply_to_screen_name": "InspiringTeach",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 908,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6420,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@InspiringTeach @Kerrie35195074 Where to even start counting!!!"
+	},
+	{
+		"created_at": "Sun Oct 28 09:13:51 +0000 2018",
+		"id": 1056474114343493600,
+		"id_str": "1056474114343493632",
+		"full_text": "@jaxbartram @DB_Dowd @observer @YorkBirdOfPrey @UniOfHull @findmeagift But also a piece of software they’ll all need to add to their laptops. YAY!\nLet’s test the new version of the plugin on our laptops and a lecturn. It’ll be more consistent.",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DB_Dowd",
+					"name": "DB Dowd",
+					"id": 622179125,
+					"id_str": "622179125",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "observer",
+					"name": "OBSERVER",
+					"id": 15738599,
+					"id_str": "15738599",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "YorkBirdOfPrey",
+					"name": "YorkBirdOfPreyCentre",
+					"id": 2362731901,
+					"id_str": "2362731901",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "findmeagift",
+					"name": "findmeagift",
+					"id": 18815068,
+					"id_str": "18815068",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1056473871908589600,
+		"in_reply_to_status_id_str": "1056473871908589568",
+		"in_reply_to_user_id": 393933440,
+		"in_reply_to_user_id_str": "393933440",
+		"in_reply_to_screen_name": "jaxbartram",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 908,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6420,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jaxbartram @DB_Dowd @observer @YorkBirdOfPrey @UniOfHull @findmeagift But also a piece of software they’ll all need to add to their laptops. YAY!\nLet’s test the new version of the plugin on our laptops and a lecturn. It’ll be more consistent."
+	},
+	{
+		"created_at": "Sun Oct 28 09:10:42 +0000 2018",
+		"id": 1056473319422210000,
+		"id_str": "1056473319422210048",
+		"full_text": "@jaxbartram @DB_Dowd @observer @YorkBirdOfPrey @UniOfHull @findmeagift We have part two to look forward to next week!",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DB_Dowd",
+					"name": "DB Dowd",
+					"id": 622179125,
+					"id_str": "622179125",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "observer",
+					"name": "OBSERVER",
+					"id": 15738599,
+					"id_str": "15738599",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "YorkBirdOfPrey",
+					"name": "YorkBirdOfPreyCentre",
+					"id": 2362731901,
+					"id_str": "2362731901",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "findmeagift",
+					"name": "findmeagift",
+					"id": 18815068,
+					"id_str": "18815068",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1056307674965532700,
+		"in_reply_to_status_id_str": "1056307674965532672",
+		"in_reply_to_user_id": 393933440,
+		"in_reply_to_user_id_str": "393933440",
+		"in_reply_to_screen_name": "jaxbartram",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 908,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6420,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jaxbartram @DB_Dowd @observer @YorkBirdOfPrey @UniOfHull @findmeagift We have part two to look forward to next week!"
+	},
+	{
 		"created_at": "Fri Oct 26 17:07:14 +0000 2018",
 		"id": 1055868466203385900,
 		"id_str": "1055868466203385857",

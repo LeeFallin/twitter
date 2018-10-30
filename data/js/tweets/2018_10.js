@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 27 10:33:34 +0000 2018",
+		"id": 1056131786890080300,
+		"id_str": "1056131786890080256",
+		"full_text": "I arrived at my Department’s Halloween party dressed as Reviewer 2. Scary! https://t.co/CTkKWh7JL3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056131775993278500,
+					"id_str": "1056131775993278466",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DqgiQTAU8AI_ttE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqgiQTAU8AI_ttE.jpg",
+					"url": "https://t.co/CTkKWh7JL3",
+					"display_url": "pic.twitter.com/CTkKWh7JL3",
+					"expanded_url": "https://twitter.com/timminglab/status/1056131786890080256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056131775993278500,
+					"id_str": "1056131775993278466",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/DqgiQTAU8AI_ttE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqgiQTAU8AI_ttE.jpg",
+					"url": "https://t.co/CTkKWh7JL3",
+					"display_url": "pic.twitter.com/CTkKWh7JL3",
+					"expanded_url": "https://twitter.com/timminglab/status/1056131786890080256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908226487928594400,
+			"id_str": "908226487928594432",
+			"name": "Prof. Andrew R. Timming",
+			"screen_name": "timminglab",
+			"location": "Perth, Western Australia",
+			"description": "Experimental social science laboratory focusing on human resource management and employee selection decision-making",
+			"url": "https://t.co/jpnsctyj4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpnsctyj4F",
+							"expanded_url": "http://www.timminglab.com",
+							"display_url": "timminglab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4880,
+			"friends_count": 4894,
+			"listed_count": 31,
+			"created_at": "Thu Sep 14 07:10:43 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908236768809381888/ZhxvF8Cc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908236768809381888/ZhxvF8Cc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908226487928594432/1533626096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2562,
+		"favorite_count": 9725,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I arrived at my Department’s Halloween party dressed as Reviewer 2. Scary! https://t.co/CTkKWh7JL3"
+	},
+	{
+		"created_at": "Mon Oct 29 11:51:57 +0000 2018",
+		"id": 1056876288345063400,
+		"id_str": "1056876288345063424",
+		"full_text": "@suewatling @AgnesBosanquet @LTE_Hull @Succeedat8 I wonder how many students feel that too - love learning, hate technology.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "AgnesBosanquet",
+					"name": "Agnes Bosanquet",
+					"id": 36532918,
+					"id_str": "36532918",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "Succeedat8",
+					"name": "SuCCEED@8",
+					"id": 849645291879923700,
+					"id_str": "849645291879923712",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1056844736798044200,
+		"in_reply_to_status_id_str": "1056844736798044160",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 908,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6423,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suewatling @AgnesBosanquet @LTE_Hull @Succeedat8 I wonder how many students feel that too - love learning, hate technology."
+	},
+	{
+		"created_at": "Mon Oct 29 11:51:11 +0000 2018",
+		"id": 1056876093423128600,
+		"id_str": "1056876093423128576",
+		"full_text": "@livinginhope @helenstar78 @carolinannwhite @SallyBlonde1 @StaffDevelop @UniOfHull @mike_ewen @LTE_Hull Maybe we should add this as a reading point - could even frame the Friday discussion around this. @mike_ewen",
+		"truncated": false,
+		"display_text_range": [
+			104,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livinginhope",
+					"name": "Dr Jane Wray",
+					"id": 22756431,
+					"id_str": "22756431",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "helenstar78",
+					"name": "Helen Gibson",
+					"id": 897813699234332700,
+					"id_str": "897813699234332672",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "carolinannwhite",
+					"name": "Caroline White",
+					"id": 1512932718,
+					"id_str": "1512932718",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "SallyBlonde1",
+					"name": "Sally Blonde",
+					"id": 723793268,
+					"id_str": "723793268",
+					"indices": [
+						44,
+						57
+					]
+				},
+				{
+					"screen_name": "StaffDevelop",
+					"name": "Learning&Development",
+					"id": 1683364040,
+					"id_str": "1683364040",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1056813453825007600,
+		"in_reply_to_status_id_str": "1056813453825007616",
+		"in_reply_to_user_id": 22756431,
+		"in_reply_to_user_id_str": "22756431",
+		"in_reply_to_screen_name": "livinginhope",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 908,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6423,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@livinginhope @helenstar78 @carolinannwhite @SallyBlonde1 @StaffDevelop @UniOfHull @mike_ewen @LTE_Hull Maybe we should add this as a reading point - could even frame the Friday discussion around this. @mike_ewen"
+	},
+	{
 		"created_at": "Sun Oct 28 16:46:29 +0000 2018",
 		"id": 1056588021435453400,
 		"id_str": "1056588021435453441",

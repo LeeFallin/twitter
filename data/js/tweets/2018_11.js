@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 07 16:40:11 +0000 2018",
+		"id": 1060210314304802800,
+		"id_str": "1060210314304802818",
+		"full_text": "This is my favourite festive GDPR gag of Christmas 2018 so far. https://t.co/2HheWIkviV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060210264203780100,
+					"id_str": "1060210264203780097",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DrafnjkW4AEZw7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrafnjkW4AEZw7i.jpg",
+					"url": "https://t.co/2HheWIkviV",
+					"display_url": "pic.twitter.com/2HheWIkviV",
+					"expanded_url": "https://twitter.com/charlietheking/status/1060210314304802818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060210264203780100,
+					"id_str": "1060210264203780097",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DrafnjkW4AEZw7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrafnjkW4AEZw7i.jpg",
+					"url": "https://t.co/2HheWIkviV",
+					"display_url": "pic.twitter.com/2HheWIkviV",
+					"expanded_url": "https://twitter.com/charlietheking/status/1060210314304802818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22800421,
+			"id_str": "22800421",
+			"name": "Charlie King",
+			"screen_name": "charlietheking",
+			"location": "London",
+			"description": "Managing Director of Little, Brown Book Group. Views are mine and not those of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4608,
+			"friends_count": 1802,
+			"listed_count": 123,
+			"created_at": "Wed Mar 04 17:06:49 +0000 2009",
+			"favourites_count": 1149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055010114845974528/13jeH51l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055010114845974528/13jeH51l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22800421/1393005628",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9025,
+		"favorite_count": 23227,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my favourite festive GDPR gag of Christmas 2018 so far. https://t.co/2HheWIkviV"
+	},
+	{
+		"created_at": "Wed Nov 07 21:31:29 +0000 2018",
+		"id": 1060283624002596900,
+		"id_str": "1060283624002596866",
+		"full_text": "@egillaspy @LeeFallin It may be this:\nhttps://t.co/h4dyvAktI9\n\nWhitelock, Denise; Watt, Stuart; Raw, Yvonne and Moreale, Emanuela (2003). Analysing tutor feedback to students: first steps towards constructing an electronic monitoring system. ALT-J: Research in Learning Technology, 11(3)\n#LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						288,
+						297
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "egillaspy",
+					"name": "Emma Gillaspy",
+					"id": 92031890,
+					"id_str": "92031890",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h4dyvAktI9",
+					"expanded_url": "http://oro.open.ac.uk/id/eprint/1070",
+					"display_url": "oro.open.ac.uk/id/eprint/1070",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1060267207639400400,
+		"in_reply_to_status_id_str": "1060267207639400451",
+		"in_reply_to_user_id": 92031890,
+		"in_reply_to_user_id_str": "92031890",
+		"in_reply_to_screen_name": "egillaspy",
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "Simon Rae 🇪🇺",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure or requests… also holder of the #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927,
+			"friends_count": 792,
+			"listed_count": 69,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 3350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@egillaspy @LeeFallin It may be this:\nhttps://t.co/h4dyvAktI9\n\nWhitelock, Denise; Watt, Stuart; Raw, Yvonne and Moreale, Emanuela (2003). Analysing tutor feedback to students: first steps towards constructing an electronic monitoring system. ALT-J: Research in Learning Technology, 11(3)\n#LTHEchat"
+	},
+	{
 		"created_at": "Wed Nov 07 21:12:44 +0000 2018",
 		"id": 1060278904290721800,
 		"id_str": "1060278904290721792",
@@ -1565,7 +1848,7 @@ Grailbird.data.tweets_2018_11 =
 				},
 				{
 					"screen_name": "MattyCrossley",
-					"name": "Matthew Crossley 🏳️‍🌈",
+					"name": "Matthew Crossley 🏳️🌈",
 					"id": 18325680,
 					"id_str": "18325680",
 					"indices": [
@@ -1865,7 +2148,7 @@ Grailbird.data.tweets_2018_11 =
 		"user": {
 			"id": 18325680,
 			"id_str": "18325680",
-			"name": "Matthew Crossley 🏳️‍🌈",
+			"name": "Matthew Crossley 🏳️🌈",
 			"screen_name": "MattyCrossley",
 			"location": "Manchester",
 			"description": "Senior Lecturer, Asst. Programme Leader for Computing & Digital Tech, Course Leader Games Design & Development/Web Tech at @ManMetUni, Pokémon, Zelda & FF fan",
@@ -2275,7 +2558,7 @@ Grailbird.data.tweets_2018_11 =
 				"name": "Suzanne Faulkner",
 				"screen_name": "SFaulknerPandO",
 				"location": "Largs, Scotland",
-				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻‍♀️🚴‍♀️ 🏃‍♀️Lego Serious Play facilitator",
+				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻♀️🚴♀️ 🏃♀️Lego Serious Play facilitator",
 				"url": "https://t.co/BXMTBgSRHk",
 				"entities": {
 					"url": {
@@ -3196,7 +3479,7 @@ Grailbird.data.tweets_2018_11 =
 		"user": {
 			"id": 18325680,
 			"id_str": "18325680",
-			"name": "Matthew Crossley 🏳️‍🌈",
+			"name": "Matthew Crossley 🏳️🌈",
 			"screen_name": "MattyCrossley",
 			"location": "Manchester",
 			"description": "Senior Lecturer, Asst. Programme Leader for Computing & Digital Tech, Course Leader Games Design & Development/Web Tech at @ManMetUni, Pokémon, Zelda & FF fan",

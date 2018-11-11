@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 12:57:26 +0000 2018",
+		"id": 1061241422240800800,
+		"id_str": "1061241422240800768",
+		"full_text": "@CllrRyanLangley @hulllive @AlexGroveNews @ccwoolmer Want!",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CllrRyanLangley",
+					"name": "Cllr Ryan Langley",
+					"id": 754435213023932400,
+					"id_str": "754435213023932416",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "hulllive",
+					"name": "Hull Live",
+					"id": 143050159,
+					"id_str": "143050159",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "AlexGroveNews",
+					"name": "Alex Grove",
+					"id": 742718287080005600,
+					"id_str": "742718287080005636",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "ccwoolmer",
+					"name": "Craig Woolmer",
+					"id": 706922051811024900,
+					"id_str": "706922051811024896",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1061240494460751900,
+		"in_reply_to_status_id_str": "1061240494460751877",
+		"in_reply_to_user_id": 754435213023932400,
+		"in_reply_to_user_id_str": "754435213023932416",
+		"in_reply_to_screen_name": "CllrRyanLangley",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 917,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6545,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CllrRyanLangley @hulllive @AlexGroveNews @ccwoolmer Want!"
+	},
+	{
+		"created_at": "Sat Nov 10 09:09:09 +0000 2018",
+		"id": 1061183970484871200,
+		"id_str": "1061183970484871168",
+		"full_text": "A striking view outside from where I am teaching today in @HullUni_Library @UniOfHull. 700 crosses. 7000 people from Hull who gave their lives during the war. https://t.co/2jW992Uz5O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						58,
+						74
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						75,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061183963958521900,
+					"id_str": "1061183963958521856",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DroVMV0WsAA1tcI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DroVMV0WsAA1tcI.jpg",
+					"url": "https://t.co/2jW992Uz5O",
+					"display_url": "pic.twitter.com/2jW992Uz5O",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1061183970484871168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061183963958521900,
+					"id_str": "1061183963958521856",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/DroVMV0WsAA1tcI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DroVMV0WsAA1tcI.jpg",
+					"url": "https://t.co/2jW992Uz5O",
+					"display_url": "pic.twitter.com/2jW992Uz5O",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1061183970484871168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 900,
+			"friends_count": 917,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6545,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09529e2a80167000",
+			"url": "https://api.twitter.com/1.1/geo/id/09529e2a80167000.json",
+			"place_type": "poi",
+			"name": "University Of Hull",
+			"full_name": "University Of Hull",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.3714517,
+							53.7693129
+						],
+						[
+							-0.3714517,
+							53.7693129
+						],
+						[
+							-0.3714517,
+							53.7693129
+						],
+						[
+							-0.3714517,
+							53.7693129
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A striking view outside from where I am teaching today in @HullUni_Library @UniOfHull. 700 crosses. 7000 people from Hull who gave their lives during the war. https://t.co/2jW992Uz5O"
+	},
+	{
 		"created_at": "Fri Nov 09 20:09:17 +0000 2018",
 		"id": 1060987714374373400,
 		"id_str": "1060987714374373377",
@@ -3865,7 +4229,7 @@ Grailbird.data.tweets_2018_11 =
 				},
 				{
 					"screen_name": "MattyCrossley",
-					"name": "Matthew Crossley 🏳️‍🌈",
+					"name": "Matthew Crossley 🏳️🌈",
 					"id": 18325680,
 					"id_str": "18325680",
 					"indices": [
@@ -4165,7 +4529,7 @@ Grailbird.data.tweets_2018_11 =
 		"user": {
 			"id": 18325680,
 			"id_str": "18325680",
-			"name": "Matthew Crossley 🏳️‍🌈",
+			"name": "Matthew Crossley 🏳️🌈",
 			"screen_name": "MattyCrossley",
 			"location": "Manchester",
 			"description": "Senior Lecturer, Asst. Programme Leader for Computing & Digital Tech, Course Leader Games Design & Development/Web Tech at @ManMetUni, Pokémon, Zelda & FF fan",
@@ -4575,7 +4939,7 @@ Grailbird.data.tweets_2018_11 =
 				"name": "Suzanne Faulkner",
 				"screen_name": "SFaulknerPandO",
 				"location": "Largs, Scotland",
-				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻‍♀️🚴‍♀️ 🏃‍♀️Lego Serious Play facilitator",
+				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻♀️🚴♀️ 🏃♀️Lego Serious Play facilitator",
 				"url": "https://t.co/BXMTBgSRHk",
 				"entities": {
 					"url": {
@@ -5496,7 +5860,7 @@ Grailbird.data.tweets_2018_11 =
 		"user": {
 			"id": 18325680,
 			"id_str": "18325680",
-			"name": "Matthew Crossley 🏳️‍🌈",
+			"name": "Matthew Crossley 🏳️🌈",
 			"screen_name": "MattyCrossley",
 			"location": "Manchester",
 			"description": "Senior Lecturer, Asst. Programme Leader for Computing & Digital Tech, Course Leader Games Design & Development/Web Tech at @ManMetUni, Pokémon, Zelda & FF fan",

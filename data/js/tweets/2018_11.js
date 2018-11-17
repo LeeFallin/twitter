@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 16 12:00:17 +0000 2018",
+		"id": 1063401366335488000,
+		"id_str": "1063401366335488000",
+		"full_text": "@suewatling @LTE_Hull @LeeFallin @PeterDraper3 Your scholarship is so meaningful Sue - rigorous accessible and practical too. Im wondering why we haven’t used your expertise more @LTE_Hull",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "PeterDraper3",
+					"name": "Peter Draper",
+					"id": 503167425,
+					"id_str": "503167425",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1063389364863017000,
+		"in_reply_to_status_id_str": "1063389364863016962",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 562138516,
+			"id_str": "562138516",
+			"name": "Dr Jen L L. B.A.Hons, M.Ed TLHE, PFHEA",
+			"screen_name": "jennywahwah",
+			"location": "",
+			"description": "Feminist, philosopher, critical pedagogue, Ph.D, PFHEA, mum. #immodestwoman",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 1118,
+			"listed_count": 8,
+			"created_at": "Tue Apr 24 16:01:31 +0000 2012",
+			"favourites_count": 6294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4008,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/599949313700196352/b87gPY4D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/599949313700196352/b87gPY4D_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "53b67b1d1cc81a51",
+			"url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json",
+			"place_type": "city",
+			"name": "Birmingham",
+			"full_name": "Birmingham, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.033651,
+							52.381063
+						],
+						[
+							-1.74763,
+							52.381063
+						],
+						[
+							-1.74763,
+							52.60687
+						],
+						[
+							-2.033651,
+							52.60687
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@suewatling @LTE_Hull @LeeFallin @PeterDraper3 Your scholarship is so meaningful Sue - rigorous accessible and practical too. Im wondering why we haven’t used your expertise more @LTE_Hull"
+	},
+	{
+		"created_at": "Fri Nov 16 11:12:36 +0000 2018",
+		"id": 1063389364863017000,
+		"id_str": "1063389364863016962",
+		"full_text": "another example of how external networking leads to learning and teaching enhancement - such a vital component of partnership between academic practice  and learning development both internally and externally  @LTE_Hull @LeeFallin @PeterDraper3 https://t.co/E6C0Sp3yFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"screen_name": "PeterDraper3",
+					"name": "Peter Draper",
+					"id": 503167425,
+					"id_str": "503167425",
+					"indices": [
+						231,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E6C0Sp3yFx",
+					"expanded_url": "https://twitter.com/jennywahwah/status/1063372619532197889",
+					"display_url": "twitter.com/jennywahwah/st…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14897464,
+			"id_str": "14897464",
+			"name": "Sue Watling🌱",
+			"screen_name": "suewatling",
+			"location": "Yorkshire and The Humber",
+			"description": "digital academic #phdlife @Lego_in_HE #lthechat CMALT, SFHEA, MIEE, allotmenteer, beach-walker, secret paleontologist, poet with pagan heart, views my own etc",
+			"url": "https://t.co/R9w2tcsCZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R9w2tcsCZD",
+							"expanded_url": "https://digitalacademicblog.wordpress.com/",
+							"display_url": "digitalacademicblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 346,
+			"listed_count": 68,
+			"created_at": "Sun May 25 08:55:13 +0000 2008",
+			"favourites_count": 2135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054419264290066432/cxAqEoQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054419264290066432/cxAqEoQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063372619532197900,
+		"quoted_status_id_str": "1063372619532197889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E6C0Sp3yFx",
+			"expanded": "https://twitter.com/jennywahwah/status/1063372619532197889",
+			"display": "twitter.com/jennywahwah/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 10:06:03 +0000 2018",
+			"id": 1063372619532197900,
+			"id_str": "1063372619532197889",
+			"full_text": "#sedaconf missing ⁦@chrissinerantzi⁩ today. Short listed ⁦@cwseed⁩ development initiative of the year Creativity for learning in HE brings together passionate, creative practitioners, including ⁦@LTE_Hull⁩ ⁦@suewatling⁩ https://t.co/6KAxgHMlbp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sedaconf",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chrissinerantzi",
+						"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🐞🌻🍉🏓🎨",
+						"id": 34362372,
+						"id_str": "34362372",
+						"indices": [
+							19,
+							35
+						]
+					},
+					{
+						"screen_name": "cwseed",
+						"name": "CW Seed",
+						"id": 1485699500,
+						"id_str": "1485699500",
+						"indices": [
+							58,
+							65
+						]
+					},
+					{
+						"screen_name": "LTE_Hull",
+						"name": "LTE@Hull",
+						"id": 914481006,
+						"id_str": "914481006",
+						"indices": [
+							195,
+							204
+						]
+					},
+					{
+						"screen_name": "suewatling",
+						"name": "Sue Watling🌱",
+						"id": 14897464,
+						"id_str": "14897464",
+						"indices": [
+							207,
+							218
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1063372612330549200,
+						"id_str": "1063372612330549248",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/DsHbwcXXcAAXeDI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsHbwcXXcAAXeDI.jpg",
+						"url": "https://t.co/6KAxgHMlbp",
+						"display_url": "pic.twitter.com/6KAxgHMlbp",
+						"expanded_url": "https://twitter.com/jennywahwah/status/1063372619532197889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1063372612330549200,
+						"id_str": "1063372612330549248",
+						"indices": [
+							220,
+							243
+						],
+						"media_url": "http://pbs.twimg.com/media/DsHbwcXXcAAXeDI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsHbwcXXcAAXeDI.jpg",
+						"url": "https://t.co/6KAxgHMlbp",
+						"display_url": "pic.twitter.com/6KAxgHMlbp",
+						"expanded_url": "https://twitter.com/jennywahwah/status/1063372619532197889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 562138516,
+				"id_str": "562138516",
+				"name": "Dr Jen L L. B.A.Hons, M.Ed TLHE, PFHEA",
+				"screen_name": "jennywahwah",
+				"location": "",
+				"description": "Feminist, philosopher, critical pedagogue, Ph.D, PFHEA, mum. #immodestwoman",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 577,
+				"friends_count": 1118,
+				"listed_count": 8,
+				"created_at": "Tue Apr 24 16:01:31 +0000 2012",
+				"favourites_count": 6294,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4008,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/599949313700196352/b87gPY4D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/599949313700196352/b87gPY4D_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "another example of how external networking leads to learning and teaching enhancement - such a vital component of partnership between academic practice  and learning development both internally and externally  @LTE_Hull @LeeFallin @PeterDraper3 https://t.co/E6C0Sp3yFx"
+	},
+	{
 		"created_at": "Thu Nov 15 23:08:27 +0000 2018",
 		"id": 1063207128809254900,
 		"id_str": "1063207128809254913",
@@ -1775,7 +2292,7 @@ Grailbird.data.tweets_2018_11 =
 		"created_at": "Thu Nov 15 16:53:21 +0000 2018",
 		"id": 1063112730822037500,
 		"id_str": "1063112730822037504",
-		"full_text": "@HullUni_ICT This is interesting - the Outlook 2019 program isn’t opening at all without the connection. So I can’t even work from historic / previously synced data locally until the connection is restored. 🤷‍♂️",
+		"full_text": "@HullUni_ICT This is interesting - the Outlook 2019 program isn’t opening at all without the connection. So I can’t even work from historic / previously synced data locally until the connection is restored. 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -1875,7 +2392,7 @@ Grailbird.data.tweets_2018_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@HullUni_ICT This is interesting - the Outlook 2019 program isn’t opening at all without the connection. So I can’t even work from historic / previously synced data locally until the connection is restored. 🤷‍♂️"
+		"text": "@HullUni_ICT This is interesting - the Outlook 2019 program isn’t opening at all without the connection. So I can’t even work from historic / previously synced data locally until the connection is restored. 🤷♂️"
 	},
 	{
 		"created_at": "Thu Nov 15 13:31:58 +0000 2018",

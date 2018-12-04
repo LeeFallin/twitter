@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 03 21:23:31 +0000 2018",
+		"id": 1069703700770381800,
+		"id_str": "1069703700770381824",
+		"full_text": "Regarding my own work, it has to be Ed Soja and Henri Lefebvre. Both have been beyond influential in my area of research. Developmentally, excluding supervisors, the entirety of @GeographyHull, especially Sally Eden, Lewis Holloway, Andy Jonas, David Atkinson and Graham Haughton https://t.co/DKKMXGqC59",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeographyHull",
+					"name": "Geography @ Hull Uni",
+					"id": 928711358266437600,
+					"id_str": "928711358266437638",
+					"indices": [
+						178,
+						192
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DKKMXGqC59",
+					"expanded_url": "https://twitter.com/SocialHistoryOx/status/1069509841729798144",
+					"display_url": "twitter.com/SocialHistoryO…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 959,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6799,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069509841729798100,
+		"quoted_status_id_str": "1069509841729798144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DKKMXGqC59",
+			"expanded": "https://twitter.com/SocialHistoryOx/status/1069509841729798144",
+			"display": "twitter.com/SocialHistoryO…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 03 08:33:11 +0000 2018",
+			"id": 1069509841729798100,
+			"id_str": "1069509841729798144",
+			"full_text": "Let’s bring some academic love for the festive season: aside from your supervisor, which two scholars have had the biggest positive influence on your work?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1480745756,
+				"id_str": "1480745756",
+				"name": "Jonathan Healey",
+				"screen_name": "SocialHistoryOx",
+				"location": "Kellogg College, Oxford",
+				"description": "Social historian at Oxford University. Early modernist. Northerner.",
+				"url": "https://t.co/TSKTFexmPt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TSKTFexmPt",
+								"expanded_url": "http://thesocialhistorian.wordpress.com",
+								"display_url": "thesocialhistorian.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16668,
+				"friends_count": 2374,
+				"listed_count": 287,
+				"created_at": "Mon Jun 03 22:12:41 +0000 2013",
+				"favourites_count": 25167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29323,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853371549570740225/zYbiC0n__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853371549570740225/zYbiC0n__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1480745756/1492105949",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 283,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Regarding my own work, it has to be Ed Soja and Henri Lefebvre. Both have been beyond influential in my area of research. Developmentally, excluding supervisors, the entirety of @GeographyHull, especially Sally Eden, Lewis Holloway, Andy Jonas, David Atkinson and Graham Haughton https://t.co/DKKMXGqC59"
+	},
+	{
+		"created_at": "Mon Dec 03 06:51:00 +0000 2018",
+		"id": 1069484126246449200,
+		"id_str": "1069484126246449152",
+		"full_text": "@gamerlearner @NomadWarMachine @wentale @suebecks @Lenandlar @LeeFallin @jennywahwah @koutropoulos I think that is a great space to discuss and think more about it rather than accepting the term as is. Interestingly, I follow the discussion as a #lurker and associate it with my own behavior. It is definitely not a negative term ;)",
+		"truncated": false,
+		"display_text_range": [
+			99,
+			332
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lurker",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "wentale",
+					"name": "Wendy Taleo",
+					"id": 1072328905,
+					"id_str": "1072328905",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "Lenandlar",
+					"name": "Lenandlar Singh",
+					"id": 23781321,
+					"id_str": "23781321",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "jennywahwah",
+					"name": "Dr Jen L L. B.A.Hons, M.Ed TLHE, PFHEA",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "koutropoulos",
+					"name": "Apostolos K.",
+					"id": 17907414,
+					"id_str": "17907414",
+					"indices": [
+						85,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1069401703131172900,
+		"in_reply_to_status_id_str": "1069401703131172865",
+		"in_reply_to_user_id": 239649193,
+		"in_reply_to_user_id_str": "239649193",
+		"in_reply_to_screen_name": "gamerlearner",
+		"user": {
+			"id": 83447547,
+			"id_str": "83447547",
+			"name": "Aras BOZKURT",
+			"screen_name": "arasbozkurt",
+			"location": "Neverland",
+			"description": "Netizen, freelance scholar ;) leisure learner, connectivist, hard-core gamer, clubber and ex green beret at NATO KFOR KIKPC. MA & PhD at Distance Education",
+			"url": "https://t.co/4xIpSAehw4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4xIpSAehw4",
+							"expanded_url": "http://www.arasbozkurt.com.tr",
+							"display_url": "arasbozkurt.com.tr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 888,
+			"listed_count": 96,
+			"created_at": "Sun Oct 18 21:11:32 +0000 2009",
+			"favourites_count": 4918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4337,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/604900359958622208/ZFwuCGMt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/604900359958622208/ZFwuCGMt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83447547/1399733407",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@gamerlearner @NomadWarMachine @wentale @suebecks @Lenandlar @LeeFallin @jennywahwah @koutropoulos I think that is a great space to discuss and think more about it rather than accepting the term as is. Interestingly, I follow the discussion as a #lurker and associate it with my own behavior. It is definitely not a negative term ;)"
+	},
+	{
+		"created_at": "Mon Dec 03 06:34:06 +0000 2018",
+		"id": 1069479871603183600,
+		"id_str": "1069479871603183616",
+		"full_text": "@monArslan @NVivoSup Hi Mona, this probably requires a step back to looking at your research question, methodology and method to see if/where this fits into your study. Grab @jaxbartram or I for a chat/call about this at some point maybe. If this fits in, #NVivo has the tools to do it.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NVivo",
+					"indices": [
+						256,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "monArslan",
+					"name": "mona arslan",
+					"id": 179901561,
+					"id_str": "179901561",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NVivoSup",
+					"name": "NVivo Support",
+					"id": 335004508,
+					"id_str": "335004508",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1069288715812577300,
+		"in_reply_to_status_id_str": "1069288715812577280",
+		"in_reply_to_user_id": 179901561,
+		"in_reply_to_user_id_str": "179901561",
+		"in_reply_to_screen_name": "monArslan",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 959,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6799,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@monArslan @NVivoSup Hi Mona, this probably requires a step back to looking at your research question, methodology and method to see if/where this fits into your study. Grab @jaxbartram or I for a chat/call about this at some point maybe. If this fits in, #NVivo has the tools to do it."
+	},
+	{
 		"created_at": "Sun Dec 02 12:50:58 +0000 2018",
 		"id": 1069212328091181000,
 		"id_str": "1069212328091181060",

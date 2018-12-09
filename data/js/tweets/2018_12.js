@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 13:20:52 +0000 2018",
+		"id": 1071394177223659500,
+		"id_str": "1071394177223659520",
+		"full_text": "Well. One advantage of a rail strike. Lots of empty trains without drivers - (so you can join the together and increase capacity on the fewer services). Don’t think a train this long has ever crossed through Driffield since the industrial revolution #Seats4all",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Seats4all",
+					"indices": [
+						250,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 961,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4efd6fc8c50fae33",
+			"url": "https://api.twitter.com/1.1/geo/id/4efd6fc8c50fae33.json",
+			"place_type": "admin",
+			"name": "Yorkshire and The Humber",
+			"full_name": "Yorkshire and The Humber, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.56475248726412,
+							53.3015341502953
+						],
+						[
+							0.149787002205902,
+							53.3015341502953
+						],
+						[
+							0.149787002205902,
+							54.5621550270294
+						],
+						[
+							-2.56475248726412,
+							54.5621550270294
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Well. One advantage of a rail strike. Lots of empty trains without drivers - (so you can join the together and increase capacity on the fewer services). Don’t think a train this long has ever crossed through Driffield since the industrial revolution #Seats4all"
+	},
+	{
+		"created_at": "Fri Dec 07 13:37:21 +0000 2018",
+		"id": 1071035939781337100,
+		"id_str": "1071035939781337088",
+		"full_text": "Hull is to host an exhibition of major historical milestones made entirely from Lego next year. The pieces by artist Warren Elsmore will be on display at the History Centre from Saturday 12th January to 9th March. (Photo: Vesuvius eruption, Pompeii). https://t.co/NP4k9AbT7H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1071034263691292700,
+					"id_str": "1071034263691292672",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt0T_P2XcAAMa7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt0T_P2XcAAMa7e.jpg",
+					"url": "https://t.co/NP4k9AbT7H",
+					"display_url": "pic.twitter.com/NP4k9AbT7H",
+					"expanded_url": "https://twitter.com/DaveHarrisonBBC/status/1071035939781337088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071034263691292700,
+					"id_str": "1071034263691292672",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt0T_P2XcAAMa7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt0T_P2XcAAMa7e.jpg",
+					"url": "https://t.co/NP4k9AbT7H",
+					"display_url": "pic.twitter.com/NP4k9AbT7H",
+					"expanded_url": "https://twitter.com/DaveHarrisonBBC/status/1071035939781337088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 751,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 426,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1282,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 251049133,
+			"id_str": "251049133",
+			"name": "David Harrison",
+			"screen_name": "DaveHarrisonBBC",
+			"location": "East Riding of Yorkshire",
+			"description": "BBC journalist - Endurance athlete - Manxman - Adopted Yorkshireman - Blackpool FC fan. Co-founder @banksidegalhull. Email - david.harrison@bbc.co.uk",
+			"url": "https://t.co/UoXWFzM24x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UoXWFzM24x",
+							"expanded_url": "http://www.bbc.co.uk/radiohumberside",
+							"display_url": "bbc.co.uk/radiohumberside",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2987,
+			"friends_count": 926,
+			"listed_count": 53,
+			"created_at": "Sat Feb 12 10:05:02 +0000 2011",
+			"favourites_count": 4968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/918037581123801088/Y0gyff8i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/918037581123801088/Y0gyff8i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/251049133/1481713071",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 82,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hull is to host an exhibition of major historical milestones made entirely from Lego next year. The pieces by artist Warren Elsmore will be on display at the History Centre from Saturday 12th January to 9th March. (Photo: Vesuvius eruption, Pompeii). https://t.co/NP4k9AbT7H"
+	},
+	{
 		"created_at": "Fri Dec 07 15:50:41 +0000 2018",
 		"id": 1071069492820746200,
 		"id_str": "1071069492820746241",

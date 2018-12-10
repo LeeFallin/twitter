@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 21:18:07 +0000 2018",
+		"id": 1071876670536204300,
+		"id_str": "1071876670536204290",
+		"full_text": "@jennywahwah @mike_ewen @LTE_Hull Yes! That would be great x",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennywahwah",
+					"name": "Dr Jen L L. PFHEA",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1071873692433555500,
+		"in_reply_to_status_id_str": "1071873692433555456",
+		"in_reply_to_user_id": 562138516,
+		"in_reply_to_user_id_str": "562138516",
+		"in_reply_to_screen_name": "jennywahwah",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936,
+			"friends_count": 961,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6842,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jennywahwah @mike_ewen @LTE_Hull Yes! That would be great x"
+	},
+	{
+		"created_at": "Sun Dec 09 20:55:15 +0000 2018",
+		"id": 1071870916257296400,
+		"id_str": "1071870916257296390",
+		"full_text": "@jennywahwah @mike_ewen @LTE_Hull I may need to pick your brains. As a current student, I’ve had access to faculty ethics committee procedures for my EdD research. How I go about this as professional services will be different. Would be nice to be able to do legitimate research as part of ongoing scholarship!",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			310
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennywahwah",
+					"name": "Dr Jen L L. PFHEA",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1071870130819350500,
+		"in_reply_to_status_id_str": "1071870130819350529",
+		"in_reply_to_user_id": 562138516,
+		"in_reply_to_user_id_str": "562138516",
+		"in_reply_to_screen_name": "jennywahwah",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936,
+			"friends_count": 961,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6842,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jennywahwah @mike_ewen @LTE_Hull I may need to pick your brains. As a current student, I’ve had access to faculty ethics committee procedures for my EdD research. How I go about this as professional services will be different. Would be nice to be able to do legitimate research as part of ongoing scholarship!"
+	},
+	{
+		"created_at": "Sun Dec 09 19:44:35 +0000 2018",
+		"id": 1071853133180092400,
+		"id_str": "1071853133180092416",
+		"full_text": "@jennywahwah @sureshpprabhu @mike_ewen @LTE_Hull I admire that approach. Action research is always a mine field for ethics when you’re an inside researcher! Any trouble with the ethics committee?",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jennywahwah",
+					"name": "Dr Jen L L. PFHEA",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sureshpprabhu",
+					"name": "Suresh Prabhu",
+					"id": 141208596,
+					"id_str": "141208596",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1071797807093375000,
+		"in_reply_to_status_id_str": "1071797807093374978",
+		"in_reply_to_user_id": 562138516,
+		"in_reply_to_user_id_str": "562138516",
+		"in_reply_to_screen_name": "jennywahwah",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936,
+			"friends_count": 961,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6842,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jennywahwah @sureshpprabhu @mike_ewen @LTE_Hull I admire that approach. Action research is always a mine field for ethics when you’re an inside researcher! Any trouble with the ethics committee?"
+	},
+	{
+		"created_at": "Sun Dec 09 07:46:19 +0000 2018",
+		"id": 1071672375622672400,
+		"id_str": "1071672375622672384",
+		"full_text": "WOW!!!! https://t.co/N1veoZu5oG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N1veoZu5oG",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1069623042278473729",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 936,
+			"friends_count": 961,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6842,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1069623042278473700,
+		"quoted_status_id_str": "1069623042278473729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N1veoZu5oG",
+			"expanded": "https://twitter.com/mtholfsen/status/1069623042278473729",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 03 16:03:00 +0000 2018",
+			"id": 1069623042278473700,
+			"id_str": "1069623042278473729",
+			"full_text": "HUGE NEWS! PowerPoint Desktop, Mac and Online are all getting built in real time captioning subtitles (in multiple languages)! Becoming more inclusive every day... Details at the blog: https://t.co/xZPtR3Hkoc #edtech #edchat #mieexpert #AssistiveTech #ATChat #MicrosoftEDU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							209,
+							216
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							217,
+							224
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							225,
+							235
+						]
+					},
+					{
+						"text": "AssistiveTech",
+						"indices": [
+							236,
+							250
+						]
+					},
+					{
+						"text": "ATChat",
+						"indices": [
+							251,
+							258
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							259,
+							272
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xZPtR3Hkoc",
+						"expanded_url": "https://www.microsoft.com/en-us/microsoft-365/blog/2018/12/03/present-more-inclusively-with-live-captions-and-subtitles-in-powerpoint/",
+						"display_url": "microsoft.com/en-us/microsof…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #AssistiveTech @OneNoteEDU @MicrosoftEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15233,
+				"friends_count": 2948,
+				"listed_count": 697,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 47232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25201,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 204,
+			"favorite_count": 353,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "WOW!!!! https://t.co/N1veoZu5oG"
+	},
+	{
 		"created_at": "Sat Dec 08 13:20:52 +0000 2018",
 		"id": 1071394177223659500,
 		"id_str": "1071394177223659520",

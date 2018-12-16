@@ -1,6 +1,799 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 15 14:39:39 +0000 2018",
+		"id": 1073950718745178100,
+		"id_str": "1073950718745178112",
+		"full_text": "#LTHEchat via NodeXL https://t.co/kUXhYWTGs4\n@lthechat\n@phillipdawson\n@suebecks\n@leefallin\n@santanuvasant\n@advancehe_chat\n@nomadwarmachine\n@racephil\n@scottturneruon\n@kiusum\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#qaafocuson\n#coachinghe\n#socmedhe18\n#altc\n#advancehechat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "advancehe_chat",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "qaafocuson",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"text": "coachinghe",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"text": "socmedhe18",
+					"indices": [
+						238,
+						249
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						250,
+						255
+					]
+				},
+				{
+					"text": "advancehechat",
+					"indices": [
+						256,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "phillipdawson",
+					"name": "Phillip Dawson",
+					"id": 17531694,
+					"id_str": "17531694",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						149,
+						164
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kUXhYWTGs4",
+					"expanded_url": "http://bit.ly/2QzrgIG",
+					"display_url": "bit.ly/2QzrgIG",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87606674,
+			"id_str": "87606674",
+			"name": "Nodexl Project",
+			"screen_name": "nodexl",
+			"location": "https://www.nodexlgraphgallery.org/Pages/Registration.aspx",
+			"description": "(Social) (media) network analysis and visualization add-in for Excel: influencers, segments, & content. Get NodeXL Pro! https://t.co/AlY9U3Lyfo",
+			"url": "https://t.co/FKKr76FLpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FKKr76FLpx",
+							"expanded_url": "http://www.smrfoundation.org",
+							"display_url": "smrfoundation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AlY9U3Lyfo",
+							"expanded_url": "http://bit.ly/1L0asP7",
+							"display_url": "bit.ly/1L0asP7",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7929,
+			"friends_count": 3567,
+			"listed_count": 828,
+			"created_at": "Thu Nov 05 03:29:19 +0000 2009",
+			"favourites_count": 24706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7761,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849132774661308416/pa2Uplq1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849132774661308416/pa2Uplq1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87606674/1405285356",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat via NodeXL https://t.co/kUXhYWTGs4\n@lthechat\n@phillipdawson\n@suebecks\n@leefallin\n@santanuvasant\n@advancehe_chat\n@nomadwarmachine\n@racephil\n@scottturneruon\n@kiusum\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#qaafocuson\n#coachinghe\n#socmedhe18\n#altc\n#advancehechat"
+	},
+	{
+		"created_at": "Mon Dec 03 10:59:50 +0000 2018",
+		"id": 1069546749289652200,
+		"id_str": "1069546749289652230",
+		"full_text": "@arasbozkurt @gamerlearner @NomadWarMachine @suebecks @Lenandlar @LeeFallin @jennywahwah @koutropoulos The eden of #lurkers. A #wordsalad from said paper. https://t.co/JWNRKjlU8F",
+		"truncated": false,
+		"display_text_range": [
+			103,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lurkers",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "wordsalad",
+					"indices": [
+						127,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arasbozkurt",
+					"name": "Aras BOZKURT",
+					"id": 83447547,
+					"id_str": "83447547",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "Lenandlar",
+					"name": "Lenandlar Singh",
+					"id": 23781321,
+					"id_str": "23781321",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "jennywahwah",
+					"name": "Dr Jen L L. PFHEA",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "koutropoulos",
+					"name": "Apostolos K.",
+					"id": 17907414,
+					"id_str": "17907414",
+					"indices": [
+						89,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069546741458858000,
+					"id_str": "1069546741458857984",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DtfLGDtU8AAHWqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtfLGDtU8AAHWqw.jpg",
+					"url": "https://t.co/JWNRKjlU8F",
+					"display_url": "pic.twitter.com/JWNRKjlU8F",
+					"expanded_url": "https://twitter.com/wentale/status/1069546749289652230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 963,
+							"h": 1317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069546741458858000,
+					"id_str": "1069546741458857984",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/DtfLGDtU8AAHWqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtfLGDtU8AAHWqw.jpg",
+					"url": "https://t.co/JWNRKjlU8F",
+					"display_url": "pic.twitter.com/JWNRKjlU8F",
+					"expanded_url": "https://twitter.com/wentale/status/1069546749289652230/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 877,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 963,
+							"h": 1317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1069493000017977300,
+		"in_reply_to_status_id_str": "1069493000017977345",
+		"in_reply_to_user_id": 83447547,
+		"in_reply_to_user_id_str": "83447547",
+		"in_reply_to_screen_name": "arasbozkurt",
+		"user": {
+			"id": 1072328905,
+			"id_str": "1072328905",
+			"name": "Wendy Taleo",
+			"screen_name": "wentale",
+			"location": "Australia",
+			"description": "Learning Technologist | #CDUni |  #OUStudent #TELedvisors | #VoiceThread Certified Educator | The University of Everywhere | Poetry | Crochet | Music",
+			"url": "https://t.co/Bp5Dl84oi4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bp5Dl84oi4",
+							"expanded_url": "http://about.me/wen.ta",
+							"display_url": "about.me/wen.ta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1280,
+			"friends_count": 1879,
+			"listed_count": 145,
+			"created_at": "Tue Jan 08 23:36:09 +0000 2013",
+			"favourites_count": 11747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/774141594383429632/VCWNbSwk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/774141594383429632/VCWNbSwk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072328905/1479686150",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@arasbozkurt @gamerlearner @NomadWarMachine @suebecks @Lenandlar @LeeFallin @jennywahwah @koutropoulos The eden of #lurkers. A #wordsalad from said paper. https://t.co/JWNRKjlU8F"
+	},
+	{
+		"created_at": "Thu Dec 13 10:30:04 +0000 2018",
+		"id": 1073163135312384000,
+		"id_str": "1073163135312384001",
+		"full_text": "Have you experienced a petty crime in London? Click to tell us your story.\n(Your submission may be selected for publication.) https://t.co/MRvmXdlYC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MRvmXdlYC8",
+					"expanded_url": "https://nyti.ms/2RWvCGF",
+					"display_url": "nyti.ms/2RWvCGF",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 807095,
+			"id_str": "807095",
+			"name": "The New York Times",
+			"screen_name": "nytimes",
+			"location": "New York City",
+			"description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.",
+			"url": "http://t.co/ahvuWqicF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ahvuWqicF9",
+							"expanded_url": "http://www.nytimes.com/",
+							"display_url": "nytimes.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ghL9OoYKMM",
+							"expanded_url": "http://nyti.ms/2FVHq9v",
+							"display_url": "nyti.ms/2FVHq9v",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42447288,
+			"friends_count": 882,
+			"listed_count": 198382,
+			"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+			"favourites_count": 17551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 343573,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276",
+			"profile_link_color": "607696",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3619,
+		"favorite_count": 9043,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you experienced a petty crime in London? Click to tell us your story.\n(Your submission may be selected for publication.) https://t.co/MRvmXdlYC8"
+	},
+	{
+		"created_at": "Fri Dec 14 22:05:01 +0000 2018",
+		"id": 1073700411226255400,
+		"id_str": "1073700411226255361",
+		"full_text": "Wow - #reading as an extreme sport! @RyanHoliday explains how we should ‘read to lead’ - great advice for  students of life and anyone who wants to get smart. #phd #acwri #Leadership  https://t.co/TrDYziN5PG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "reading",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "phd",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "acwri",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						171,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanHoliday",
+					"name": "Ryan Holiday",
+					"id": 3764301,
+					"id_str": "3764301",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TrDYziN5PG",
+					"expanded_url": "https://medium.com/@RyanHoliday/how-to-digest-books-above-your-level-and-increase-your-intelligence-a11bd134da13?source=twitterShare-5371132aab02-1544824565",
+					"display_url": "medium.com/@RyanHoliday/h…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168403434,
+			"id_str": "168403434",
+			"name": "Kathleen McNiff",
+			"screen_name": "KMcNiff",
+			"location": "Melbourne Australia",
+			"description": "Writer tweeting my own views on #EmployeeEngagement #InternalComms #Qualitative #Research",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 409,
+			"listed_count": 73,
+			"created_at": "Mon Jul 19 06:52:24 +0000 2010",
+			"favourites_count": 1562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2477,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/649189303193505793/8JwFs2bF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/649189303193505793/8JwFs2bF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168403434/1458083532",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow - #reading as an extreme sport! @RyanHoliday explains how we should ‘read to lead’ - great advice for  students of life and anyone who wants to get smart. #phd #acwri #Leadership  https://t.co/TrDYziN5PG"
+	},
+	{
 		"created_at": "Fri Dec 14 14:26:40 +0000 2018",
 		"id": 1073585066805264400,
 		"id_str": "1073585066805264385",

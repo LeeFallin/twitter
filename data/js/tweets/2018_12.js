@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 16 09:07:40 +0000 2018",
+		"id": 1074229561662079000,
+		"id_str": "1074229561662078976",
+		"full_text": "@Line_Kristensen Wow...",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Line_Kristensen",
+					"name": "Line Kristensen",
+					"id": 130120768,
+					"id_str": "130120768",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1073643902815690800,
+		"in_reply_to_status_id_str": "1073643902815690752",
+		"in_reply_to_user_id": 130120768,
+		"in_reply_to_user_id_str": "130120768",
+		"in_reply_to_screen_name": "Line_Kristensen",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 958,
+			"friends_count": 971,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7030,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Line_Kristensen Wow..."
+	},
+	{
+		"created_at": "Sat Dec 15 14:39:39 +0000 2018",
+		"id": 1073950718745178100,
+		"id_str": "1073950718745178112",
+		"full_text": "#LTHEchat via NodeXL https://t.co/kUXhYWTGs4\n@lthechat\n@phillipdawson\n@suebecks\n@leefallin\n@santanuvasant\n@advancehe_chat\n@nomadwarmachine\n@racephil\n@scottturneruon\n@kiusum\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#qaafocuson\n#coachinghe\n#socmedhe18\n#altc\n#advancehechat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "advancehe_chat",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"text": "qaafocuson",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"text": "coachinghe",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"text": "socmedhe18",
+					"indices": [
+						238,
+						249
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						250,
+						255
+					]
+				},
+				{
+					"text": "advancehechat",
+					"indices": [
+						256,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "phillipdawson",
+					"name": "Phillip Dawson",
+					"id": 17531694,
+					"id_str": "17531694",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						149,
+						164
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kUXhYWTGs4",
+					"expanded_url": "http://bit.ly/2QzrgIG",
+					"display_url": "bit.ly/2QzrgIG",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87606674,
+			"id_str": "87606674",
+			"name": "Nodexl Project",
+			"screen_name": "nodexl",
+			"location": "https://www.nodexlgraphgallery.org/Pages/Registration.aspx",
+			"description": "(Social) (media) network analysis and visualization add-in for Excel: influencers, segments, & content. Get NodeXL Pro! https://t.co/AlY9U3Lyfo",
+			"url": "https://t.co/FKKr76FLpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FKKr76FLpx",
+							"expanded_url": "http://www.smrfoundation.org",
+							"display_url": "smrfoundation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AlY9U3Lyfo",
+							"expanded_url": "http://bit.ly/1L0asP7",
+							"display_url": "bit.ly/1L0asP7",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7936,
+			"friends_count": 3567,
+			"listed_count": 828,
+			"created_at": "Thu Nov 05 03:29:19 +0000 2009",
+			"favourites_count": 24789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849132774661308416/pa2Uplq1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849132774661308416/pa2Uplq1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87606674/1405285356",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat via NodeXL https://t.co/kUXhYWTGs4\n@lthechat\n@phillipdawson\n@suebecks\n@leefallin\n@santanuvasant\n@advancehe_chat\n@nomadwarmachine\n@racephil\n@scottturneruon\n@kiusum\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#qaafocuson\n#coachinghe\n#socmedhe18\n#altc\n#advancehechat"
+	},
+	{
 		"created_at": "Sat Dec 15 14:39:39 +0000 2018",
 		"id": 1073950718745178100,
 		"id_str": "1073950718745178112",

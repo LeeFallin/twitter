@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 18 00:12:03 +0000 2018",
+		"id": 1074819543531487200,
+		"id_str": "1074819543531487232",
+		"full_text": "@baaanedict An offer I can’t refused 🤗",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1074800361179877400,
+		"in_reply_to_status_id_str": "1074800361179877377",
+		"in_reply_to_user_id": 987423597324103700,
+		"in_reply_to_user_id_str": "987423597324103680",
+		"in_reply_to_screen_name": "baaanedict",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 959,
+			"friends_count": 971,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7033,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@baaanedict An offer I can’t refused 🤗"
+	},
+	{
+		"created_at": "Mon Dec 17 13:59:41 +0000 2018",
+		"id": 1074665437332496400,
+		"id_str": "1074665437332496384",
+		"full_text": "@daveowhite @7AlQusairi @CarolineCooke @JillianPawlyn @drlittle26 @JaneAtkinson15 @annasonIT @VJ @tmacneil @LibTweedCat @afdujardin @drnsheridan @baaanedict @LeeFallin You’ve been quoted in my #Wakelet collection \"#GettingSparky at #ALTC\". Check it out: https://t.co/1NdR5WD4au",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wakelet",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "GettingSparky",
+					"indices": [
+						214,
+						228
+					]
+				},
+				{
+					"text": "ALTC",
+					"indices": [
+						232,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daveowhite",
+					"name": "(...) David White",
+					"id": 16230279,
+					"id_str": "16230279",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "7AlQusairi",
+					"name": "د. حنان الحربي",
+					"id": 898217283859996700,
+					"id_str": "898217283859996672",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "CarolineCooke",
+					"name": "Caroline 🎉🎄☃️❄",
+					"id": 15971978,
+					"id_str": "15971978",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "JillianPawlyn",
+					"name": "Jillian Pawlyn RNLD",
+					"id": 963212100,
+					"id_str": "963212100",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "drlittle26",
+					"name": "Chris Little",
+					"id": 3308092431,
+					"id_str": "3308092431",
+					"indices": [
+						54,
+						65
+					]
+				},
+				{
+					"screen_name": "JaneAtkinson15",
+					"name": "Jane Atkinson",
+					"id": 726995071,
+					"id_str": "726995071",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "annasonIT",
+					"name": "Anna Williams 🌻",
+					"id": 23979040,
+					"id_str": "23979040",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"screen_name": "VJ",
+					"name": "Vijay Chopra 🔶",
+					"id": 9633712,
+					"id_str": "9633712",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"screen_name": "tmacneil",
+					"name": "Tucker MacNeill 🇺🇸🇬🇧",
+					"id": 49009473,
+					"id_str": "49009473",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"screen_name": "LibTweedCat",
+					"name": "Cat Bazela",
+					"id": 907130282817470500,
+					"id_str": "907130282817470464",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "afdujardin",
+					"name": "Jardin",
+					"id": 43906821,
+					"id_str": "43906821",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						157,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1NdR5WD4au",
+					"expanded_url": "http://wke.lt/w/s/ID55o",
+					"display_url": "wke.lt/w/s/ID55o",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://wakelet.com\" rel=\"nofollow\">Wakelet</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16230279,
+		"in_reply_to_user_id_str": "16230279",
+		"in_reply_to_screen_name": "daveowhite",
+		"user": {
+			"id": 28324170,
+			"id_str": "28324170",
+			"name": "Kate Lindsay",
+			"screen_name": "KTDigital",
+			"location": "Reading",
+			"description": "Teaching & Learning in Digital Spaces | Geek Chic | @UCEMOnlineEd @StudyUCEM #jisc50social | All views are my own.",
+			"url": "https://t.co/F0Xu0wyBGI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F0Xu0wyBGI",
+							"expanded_url": "https://katelindsayblogs.com/",
+							"display_url": "katelindsayblogs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1681,
+			"friends_count": 884,
+			"listed_count": 122,
+			"created_at": "Thu Apr 02 12:02:16 +0000 2009",
+			"favourites_count": 1195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874742319421026305/BwPjZSH8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874742319421026305/BwPjZSH8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28324170/1442176894",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@daveowhite @7AlQusairi @CarolineCooke @JillianPawlyn @drlittle26 @JaneAtkinson15 @annasonIT @VJ @tmacneil @LibTweedCat @afdujardin @drnsheridan @baaanedict @LeeFallin You’ve been quoted in my #Wakelet collection \"#GettingSparky at #ALTC\". Check it out: https://t.co/1NdR5WD4au"
+	},
+	{
+		"created_at": "Mon Dec 17 09:22:29 +0000 2018",
+		"id": 1074595679765491700,
+		"id_str": "1074595679765491713",
+		"full_text": "Very jealous of everyone heading to #sochemed18 in the New Year.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sochemed18",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 959,
+			"friends_count": 971,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7033,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Very jealous of everyone heading to #sochemed18 in the New Year."
+	},
+	{
 		"created_at": "Sun Dec 16 09:07:40 +0000 2018",
 		"id": 1074229561662079000,
 		"id_str": "1074229561662078976",

@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 11:11:25 +0000 2018",
+		"id": 1078609361050714100,
+		"id_str": "1078609361050714114",
+		"full_text": "Very awkward moment your bashing commands to no avail - and then realise it’s  because you’ve got an ancient version of python installed. Forgot how long it takes to install... https://t.co/6A5hezqtEY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078609352741793800,
+					"id_str": "1078609352741793792",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvf9fdmWsAAAf5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvf9fdmWsAAAf5V.jpg",
+					"url": "https://t.co/6A5hezqtEY",
+					"display_url": "pic.twitter.com/6A5hezqtEY",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1078609361050714114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078609352741793800,
+					"id_str": "1078609352741793792",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvf9fdmWsAAAf5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvf9fdmWsAAAf5V.jpg",
+					"url": "https://t.co/6A5hezqtEY",
+					"display_url": "pic.twitter.com/6A5hezqtEY",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1078609361050714114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 971,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7034,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very awkward moment your bashing commands to no avail - and then realise it’s  because you’ve got an ancient version of python installed. Forgot how long it takes to install... https://t.co/6A5hezqtEY"
+	},
+	{
+		"created_at": "Thu Dec 27 13:04:04 +0000 2018",
+		"id": 1078275321638649900,
+		"id_str": "1078275321638649857",
+		"full_text": "Special Issue now published&gt; Discovering Innovative Applications of LEGO® in Learning and Teaching in HE. https://t.co/sMwiuc36yb Thank you our contributors, Alison @alisonrjames for doing this together &amp; Alex Avramenko for this opportunity #lego #legoinhe #LEGOSERIOUSPLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lego",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "legoinhe",
+					"indices": [
+						254,
+						263
+					]
+				},
+				{
+					"text": "LEGOSERIOUSPLAY",
+					"indices": [
+						264,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alisonrjames",
+					"name": "Prof Alison James",
+					"id": 143180609,
+					"id_str": "143180609",
+					"indices": [
+						168,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sMwiuc36yb",
+					"expanded_url": "http://ijmar.org/v5n4/toc.html",
+					"display_url": "ijmar.org/v5n4/toc.html",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34362372,
+			"id_str": "34362372",
+			"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🐞🌻🍉🏓🎨",
+			"screen_name": "chrissinerantzi",
+			"location": "United Kingdom",
+			"description": "NTF, PFHEA, FSEDA, CMALT, #go_gn alumni, my ideas: @tlcwebinars @openfdol Greenhouse @byod4l @lthechat @fos4l #creativeHE etc.",
+			"url": "https://t.co/5tgD2H2gzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5tgD2H2gzC",
+							"expanded_url": "https://chrissinerantzi.wordpress.com/",
+							"display_url": "chrissinerantzi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3376,
+			"friends_count": 2428,
+			"listed_count": 226,
+			"created_at": "Wed Apr 22 19:02:04 +0000 2009",
+			"favourites_count": 13914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885916403093647361/edF1tgAb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885916403093647361/edF1tgAb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34362372/1398468414",
+			"profile_link_color": "C0C4DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special Issue now published&gt; Discovering Innovative Applications of LEGO® in Learning and Teaching in HE. https://t.co/sMwiuc36yb Thank you our contributors, Alison @alisonrjames for doing this together &amp; Alex Avramenko for this opportunity #lego #legoinhe #LEGOSERIOUSPLAY"
+	},
+	{
 		"created_at": "Thu Dec 20 14:25:30 +0000 2018",
 		"id": 1075759099839688700,
 		"id_str": "1075759099839688705",

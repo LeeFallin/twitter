@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 29 17:24:24 +0000 2018",
+		"id": 1079065610951319600,
+		"id_str": "1079065610951319554",
+		"full_text": "@mike_ewen @Volcanologist @jaxbartram If you want to use a citation manager with Google Docs, I'd recommend @RefWorks. It's supported by @HullUni_Library Skills Team and offers University of Hull Harvard. https://t.co/R5KhAfWMiT",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Volcanologist",
+					"name": "Dr Rebecca Williams",
+					"id": 217005773,
+					"id_str": "217005773",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "RefWorks",
+					"name": "RefWorks",
+					"id": 38227367,
+					"id_str": "38227367",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R5KhAfWMiT",
+					"expanded_url": "https://chrome.google.com/webstore/detail/proquest-refworks/oekoebnddahgfhaalgnopcfhofmgnekd",
+					"display_url": "chrome.google.com/webstore/detai…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1078941711462813700,
+		"in_reply_to_status_id_str": "1078941711462813696",
+		"in_reply_to_user_id": 20668436,
+		"in_reply_to_user_id_str": "20668436",
+		"in_reply_to_screen_name": "mike_ewen",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 971,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 2939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7035,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mike_ewen @Volcanologist @jaxbartram If you want to use a citation manager with Google Docs, I'd recommend @RefWorks. It's supported by @HullUni_Library Skills Team and offers University of Hull Harvard. https://t.co/R5KhAfWMiT"
+	},
+	{
 		"created_at": "Fri Dec 28 11:11:25 +0000 2018",
 		"id": 1078609361050714100,
 		"id_str": "1078609361050714114",

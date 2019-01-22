@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 21 07:51:57 +0000 2019",
+		"id": 1087256469844738000,
+		"id_str": "1087342252249231360",
+		"full_text": "And it all starts today. Hugely excited about Subject Futures Week @FACEHull and very proud that @HistoryatHull alumni open the programme at 10am, inspiring the next generation of soon to be graduates with their experiences of life after @UniOfHull https://t.co/Qggp6jFMR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FACEHull",
+					"name": "Arts, Cultures & Ed.",
+					"id": 3034453227,
+					"id_str": "3034453227",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "HistoryatHull",
+					"name": "History@Hull",
+					"id": 308530453,
+					"id_str": "308530453",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						238,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qggp6jFMR6",
+					"expanded_url": "https://twitter.com/FACEHull/status/1082657265507860482",
+					"display_url": "twitter.com/FACEHull/statu…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309595464,
+			"id_str": "309595464",
+			"name": "Alison Price-Moir",
+			"screen_name": "PriceMoir",
+			"location": "Late convert to eLearning.",
+			"description": "Lecturer in the History of Art University of Hull. Proud Beverlonian.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350,
+			"friends_count": 146,
+			"listed_count": 10,
+			"created_at": "Thu Jun 02 10:38:12 +0000 2011",
+			"favourites_count": 1318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2795,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067757675579142145/LsvSG1-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067757675579142145/LsvSG1-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309595464/1396945761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1082657265507860500,
+		"quoted_status_id_str": "1082657265507860482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qggp6jFMR6",
+			"expanded": "https://twitter.com/FACEHull/status/1082657265507860482",
+			"display": "twitter.com/FACEHull/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 08 15:16:21 +0000 2019",
+			"id": 1082657265507860500,
+			"id_str": "1082657265507860482",
+			"full_text": "The @bus_hull initiative has been designed to encourage the city's next generation to speak out about their hopes &amp; aspirations through music.\nJoin us at @UniOfHull Subject Futures Week for a talk with Steve Arnott followed by a tour around the Beats Bus!\nhttps://t.co/QOXTZiBANb https://t.co/RVJ3uPDOK2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bus_hull",
+						"name": "Hull Beats Bus",
+						"id": 781672908137652200,
+						"id_str": "781672908137652224",
+						"indices": [
+							4,
+							13
+						]
+					},
+					{
+						"screen_name": "UniOfHull",
+						"name": "University of Hull",
+						"id": 59761280,
+						"id_str": "59761280",
+						"indices": [
+							158,
+							168
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QOXTZiBANb",
+						"expanded_url": "http://futuresweekuoh.eventbrite.co.uk",
+						"display_url": "futuresweekuoh.eventbrite.co.uk",
+						"indices": [
+							260,
+							283
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1082655621013536800,
+						"id_str": "1082655621013536768",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/DwZdjRiXgAA_fc9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwZdjRiXgAA_fc9.jpg",
+						"url": "https://t.co/RVJ3uPDOK2",
+						"display_url": "pic.twitter.com/RVJ3uPDOK2",
+						"expanded_url": "https://twitter.com/FACEHull/status/1082657265507860482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1082655621013536800,
+						"id_str": "1082655621013536768",
+						"indices": [
+							284,
+							307
+						],
+						"media_url": "http://pbs.twimg.com/media/DwZdjRiXgAA_fc9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DwZdjRiXgAA_fc9.jpg",
+						"url": "https://t.co/RVJ3uPDOK2",
+						"display_url": "pic.twitter.com/RVJ3uPDOK2",
+						"expanded_url": "https://twitter.com/FACEHull/status/1082657265507860482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3034453227,
+				"id_str": "3034453227",
+				"name": "Arts, Cultures & Ed.",
+				"screen_name": "FACEHull",
+				"location": "Hull",
+				"description": "Faculty of Arts, Cultures & Education @UniofHull // Drama English Music Screen // Education, Social Sciences // American Studies, History, Languages, Philosophy",
+				"url": "https://t.co/mHMxKet9y2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mHMxKet9y2",
+								"expanded_url": "https://www.hull.ac.uk/faculties/face.aspx",
+								"display_url": "hull.ac.uk/faculties/face…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1367,
+				"friends_count": 807,
+				"listed_count": 21,
+				"created_at": "Fri Feb 13 11:57:48 +0000 2015",
+				"favourites_count": 2271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3256,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805714281161441282/VUtu8iRq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805714281161441282/VUtu8iRq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3034453227/1480932245",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And it all starts today. Hugely excited about Subject Futures Week @FACEHull and very proud that @HistoryatHull alumni open the programme at 10am, inspiring the next generation of soon to be graduates with their experiences of life after @UniOfHull https://t.co/Qggp6jFMR6"
+	},
+	{
 		"created_at": "Fri Jan 18 10:10:21 +0000 2019",
 		"id": 1086204138478800900,
 		"id_str": "1086286147372937216",

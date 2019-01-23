@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 19:10:37 +0000 2019",
+		"id": 1087789650608046100,
+		"id_str": "1087789650608046080",
+		"full_text": "@suewatling @Succeedat8 @jhumur @NicolaPreston9 @ATStepniak @LucyAtkinsonPhD @BusuttilStacey @CharBrookes @AcademicChatter @ithinkwellHugh @InspiringTeach @jaxbartram Haha yes. I totally relate to this. If anything - Sunday’s are THEE day of research...",
+		"truncated": false,
+		"display_text_range": [
+			167,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Succeedat8",
+					"name": "SuCCEED@8",
+					"id": 849645291879923700,
+					"id_str": "849645291879923712",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "jhumur",
+					"name": "Maitreyee Buragohain",
+					"id": 13740412,
+					"id_str": "13740412",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"screen_name": "NicolaPreston9",
+					"name": "Nicola Preston",
+					"id": 2274320700,
+					"id_str": "2274320700",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "ATStepniak",
+					"name": "Anthony Stepniak",
+					"id": 3971286373,
+					"id_str": "3971286373",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "LucyAtkinsonPhD",
+					"name": "Lucy Atkinson",
+					"id": 973981598554181600,
+					"id_str": "973981598554181637",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"screen_name": "BusuttilStacey",
+					"name": "Stacey Busuttil",
+					"id": 1052134613836070900,
+					"id_str": "1052134613836070912",
+					"indices": [
+						77,
+						92
+					]
+				},
+				{
+					"screen_name": "CharBrookes",
+					"name": "Charlotte Brookes",
+					"id": 182372787,
+					"id_str": "182372787",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "AcademicChatter",
+					"name": "Academic Chatter",
+					"id": 885953601067208700,
+					"id_str": "885953601067208705",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "ithinkwellHugh",
+					"name": "Hugh Kearns",
+					"id": 3312317120,
+					"id_str": "3312317120",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"screen_name": "InspiringTeach",
+					"name": "Theresa Marriott",
+					"id": 1257878924,
+					"id_str": "1257878924",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						155,
+						166
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087666472435023900,
+		"in_reply_to_status_id_str": "1087666472435023872",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 974,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7136,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suewatling @Succeedat8 @jhumur @NicolaPreston9 @ATStepniak @LucyAtkinsonPhD @BusuttilStacey @CharBrookes @AcademicChatter @ithinkwellHugh @InspiringTeach @jaxbartram Haha yes. I totally relate to this. If anything - Sunday’s are THEE day of research..."
+	},
+	{
 		"created_at": "Mon Jan 21 07:51:57 +0000 2019",
 		"id": 1087256469844738000,
 		"id_str": "1087342252249231360",

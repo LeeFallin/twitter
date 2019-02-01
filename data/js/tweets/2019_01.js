@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 31 16:22:02 +0000 2019",
+		"id": 1091008715334058000,
+		"id_str": "1091009369553231872",
+		"full_text": "#TAGS plot of last nights #LTHEChat #AdvanceHE_chat  interactive version at https://t.co/vKrXaYcIbe\nTop Conversationalists include\n@baaanedict\n@LeeFallin\n@KiuSum\n@AdvanceHE_chat \n@neilwithnell \n@NomadWarMachine \n@CI_ElizaChilver \n@kjhaxton \n@srowett \n@S_J_Lancaster \n@libmichelle https://t.co/8J0MBqONDg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAGS",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"screen_name": "neilwithnell",
+					"name": "Neil Withnell",
+					"id": 249686528,
+					"id_str": "249686528",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						194,
+						210
+					]
+				},
+				{
+					"screen_name": "CI_ElizaChilver",
+					"name": "Eliza Bebb",
+					"id": 2597990646,
+					"id_str": "2597990646",
+					"indices": [
+						212,
+						228
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						230,
+						239
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						241,
+						249
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						251,
+						265
+					]
+				},
+				{
+					"screen_name": "libmichelle",
+					"name": "Michelle B",
+					"id": 329894291,
+					"id_str": "329894291",
+					"indices": [
+						267,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vKrXaYcIbe",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1F7HmFkx_D3ma-sDBorUr2Ptc2L7xE9ZK8D4EqkQf-qQ&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1091006661811146800,
+					"id_str": "1091006661811146752",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DyQIx0zWkAAECyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyQIx0zWkAAECyX.jpg",
+					"url": "https://t.co/8J0MBqONDg",
+					"display_url": "pic.twitter.com/8J0MBqONDg",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1091008715334057984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 838,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091006661811146800,
+					"id_str": "1091006661811146752",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DyQIx0zWkAAECyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyQIx0zWkAAECyX.jpg",
+					"url": "https://t.co/8J0MBqONDg",
+					"display_url": "pic.twitter.com/8J0MBqONDg",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1091008715334057984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 838,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Computing academic, Robots, computing education. Pi Cert Educator, code club, Member @TheIET @bcs , Views are authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3107,
+			"friends_count": 2173,
+			"listed_count": 578,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 17918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAGS plot of last nights #LTHEChat #AdvanceHE_chat  interactive version at https://t.co/vKrXaYcIbe\nTop Conversationalists include\n@baaanedict\n@LeeFallin\n@KiuSum\n@AdvanceHE_chat \n@neilwithnell \n@NomadWarMachine \n@CI_ElizaChilver \n@kjhaxton \n@srowett \n@S_J_Lancaster \n@libmichelle https://t.co/8J0MBqONDg"
+	},
+	{
+		"created_at": "Thu Jan 31 12:01:25 +0000 2019",
+		"id": 1090943129560191000,
+		"id_str": "1090943129560190976",
+		"full_text": "@MichaelONeill89 @HUUChemSoc @jaxbartram @BarbaraGuinn1 Email sent @MichaelONeill89!",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "M.",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "HUUChemSoc",
+					"name": "ChemistrySociety HUU",
+					"id": 2734885541,
+					"id_str": "2734885541",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "BarbaraGuinn1",
+					"name": "Barbara Guinn",
+					"id": 317000991,
+					"id_str": "317000991",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "M.",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1089205007491182600,
+		"in_reply_to_status_id_str": "1089205007491182593",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 972,
+			"friends_count": 975,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7264,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@MichaelONeill89 @HUUChemSoc @jaxbartram @BarbaraGuinn1 Email sent @MichaelONeill89!"
+	},
+	{
 		"created_at": "Wed Jan 30 23:58:47 +0000 2019",
 		"id": 1090761274194051100,
 		"id_str": "1090761274194051073",
@@ -5838,7 +6301,7 @@ Grailbird.data.tweets_2019_01 =
 		"created_at": "Wed Jan 30 20:32:08 +0000 2019",
 		"id": 1090709268813267000,
 		"id_str": "1090709268813266946",
-		"full_text": "*most exams 🤦‍♂️ #LTHEchat #AdvanceHE_Chat",
+		"full_text": "*most exams 🤦♂️ #LTHEchat #AdvanceHE_Chat",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -5942,7 +6405,7 @@ Grailbird.data.tweets_2019_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "*most exams 🤦‍♂️ #LTHEchat #AdvanceHE_Chat"
+		"text": "*most exams 🤦♂️ #LTHEchat #AdvanceHE_Chat"
 	},
 	{
 		"created_at": "Wed Jan 30 20:31:21 +0000 2019",

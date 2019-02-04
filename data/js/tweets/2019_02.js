@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 12:17:08 +0000 2019",
+		"id": 1092034250466095100,
+		"id_str": "1092157602149163009",
+		"full_text": "Who’s going to what EdTech conference this year? https://t.co/xn9sEtyNcT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092034167695704000,
+					"id_str": "1092034167695704065",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DyevSigXgAEi_tx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyevSigXgAEi_tx.jpg",
+					"url": "https://t.co/xn9sEtyNcT",
+					"display_url": "pic.twitter.com/xn9sEtyNcT",
+					"expanded_url": "https://twitter.com/EdTechPossum/status/1092034250466095104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092034167695704000,
+					"id_str": "1092034167695704065",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DyevSigXgAEi_tx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyevSigXgAEi_tx.jpg",
+					"url": "https://t.co/xn9sEtyNcT",
+					"display_url": "pic.twitter.com/xn9sEtyNcT",
+					"expanded_url": "https://twitter.com/EdTechPossum/status/1092034250466095104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971405306080235500,
+			"id_str": "971405306080235521",
+			"name": "Ed Tech Possum",
+			"screen_name": "EdTechPossum",
+			"location": "IN UR VLE DOING TECH",
+			"description": "Not Dead: Maybe Dead: EdTech",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 148,
+			"listed_count": 3,
+			"created_at": "Wed Mar 07 15:20:47 +0000 2018",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/971407778660184066/JZK-7HQB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/971407778660184066/JZK-7HQB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who’s going to what EdTech conference this year? https://t.co/xn9sEtyNcT"
+	},
+	{
 		"created_at": "Sat Feb 02 17:59:22 +0000 2019",
 		"id": 1091757985158840300,
 		"id_str": "1091757985158840326",

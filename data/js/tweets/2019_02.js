@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 09:54:51 +0000 2019",
+		"id": 1094172769565270000,
+		"id_str": "1094343930404134913",
+		"full_text": "To all LEGO® Serious Play® practitioners and fans, here is a new article about how Bart Victor and I developed the idea, concept, and initial product two decades ago:https://t.co/qnXrSVSXk6  Enjoy! #LEGO #LEGOSeriousPlay #LSP #SeriousPlay @LEGOSerious @LEGOSERIOUSPLAY @Hult_Biz https://t.co/G4VaoxBMJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEGO",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "LEGOSeriousPlay",
+					"indices": [
+						204,
+						220
+					]
+				},
+				{
+					"text": "LSP",
+					"indices": [
+						221,
+						225
+					]
+				},
+				{
+					"text": "SeriousPlay",
+					"indices": [
+						226,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LEGOSerious",
+					"name": "LEGO Serious Play",
+					"id": 1362299462,
+					"id_str": "1362299462",
+					"indices": [
+						239,
+						251
+					]
+				},
+				{
+					"screen_name": "LEGOSERIOUSPLAY",
+					"name": "SERIOUS PLAY",
+					"id": 28309765,
+					"id_str": "28309765",
+					"indices": [
+						252,
+						268
+					]
+				},
+				{
+					"screen_name": "Hult_Biz",
+					"name": "Hult Business School",
+					"id": 20666174,
+					"id_str": "20666174",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qnXrSVSXk6",
+					"expanded_url": "https://bit.ly/2B84Ch8",
+					"display_url": "bit.ly/2B84Ch8",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1094172413451997200,
+					"id_str": "1094172413451997185",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9IA0rWkAEOh4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9IA0rWkAEOh4a.jpg",
+					"url": "https://t.co/G4VaoxBMJM",
+					"display_url": "pic.twitter.com/G4VaoxBMJM",
+					"expanded_url": "https://twitter.com/drjohanroos/status/1094172769565270016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094172413451997200,
+					"id_str": "1094172413451997185",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy9IA0rWkAEOh4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy9IA0rWkAEOh4a.jpg",
+					"url": "https://t.co/G4VaoxBMJM",
+					"display_url": "pic.twitter.com/G4VaoxBMJM",
+					"expanded_url": "https://twitter.com/drjohanroos/status/1094172769565270016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492982354,
+			"id_str": "492982354",
+			"name": "Johan S. Roos",
+			"screen_name": "drjohanroos",
+			"location": "United Kingdom",
+			"description": "Professor and CAO at HULT & co-inventor of LEGO® Serious Play®",
+			"url": "https://t.co/vjiy9mcDX5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjiy9mcDX5",
+							"expanded_url": "http://johanroos.se",
+							"display_url": "johanroos.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 456,
+			"listed_count": 70,
+			"created_at": "Wed Feb 15 09:59:12 +0000 2012",
+			"favourites_count": 40,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1610,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042808782747840513/PdgHiFGx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042808782747840513/PdgHiFGx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492982354/1548754275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To all LEGO® Serious Play® practitioners and fans, here is a new article about how Bart Victor and I developed the idea, concept, and initial product two decades ago:https://t.co/qnXrSVSXk6  Enjoy! #LEGO #LEGOSeriousPlay #LSP #SeriousPlay @LEGOSerious @LEGOSERIOUSPLAY @Hult_Biz https://t.co/G4VaoxBMJM"
+	},
+	{
 		"created_at": "Fri Feb 08 12:22:06 +0000 2019",
 		"id": 1093847436609683500,
 		"id_str": "1093847436609683456",

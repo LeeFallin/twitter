@@ -1,6 +1,831 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 18:30:14 +0000 2019",
+		"id": 1096114409951428600,
+		"id_str": "1096114409951428609",
+		"full_text": "Day 1/7 of my #academic #7books 📕📘📘📘📘📘📘\n7 days, 7 book covers. No explanation - only cover images: 'The SAGE Handbook of Qualitative Research' [5th edition] by Norman K. Denzin https://t.co/HXQdDiEZQN https://t.co/nv541bbkSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academic",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "7books",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HXQdDiEZQN",
+					"expanded_url": "https://amzn.to/2S0q1hJ",
+					"display_url": "amzn.to/2S0q1hJ",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096114408072335400,
+					"id_str": "1096114408072335362",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYuPyZW0AI_0X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYuPyZW0AI_0X0.jpg",
+					"url": "https://t.co/nv541bbkSp",
+					"display_url": "pic.twitter.com/nv541bbkSp",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1096114409951428609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 393,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096114408072335400,
+					"id_str": "1096114408072335362",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DzYuPyZW0AI_0X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzYuPyZW0AI_0X0.jpg",
+					"url": "https://t.co/nv541bbkSp",
+					"display_url": "pic.twitter.com/nv541bbkSp",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1096114409951428609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 393,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 981,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7432,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 1/7 of my #academic #7books 📕📘📘📘📘📘📘\n7 days, 7 book covers. No explanation - only cover images: 'The SAGE Handbook of Qualitative Research' [5th edition] by Norman K. Denzin https://t.co/HXQdDiEZQN https://t.co/nv541bbkSp"
+	},
+	{
+		"created_at": "Thu Feb 14 17:32:19 +0000 2019",
+		"id": 1096099833771970600,
+		"id_str": "1096099833771970560",
+		"full_text": "@Office365 It’s my only used app for scanning and digitising.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096080761374064600,
+		"in_reply_to_status_id_str": "1096080761374064641",
+		"in_reply_to_user_id": 137365854,
+		"in_reply_to_user_id_str": "137365854",
+		"in_reply_to_screen_name": "Office365",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 981,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7432,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Office365 It’s my only used app for scanning and digitising."
+	},
+	{
+		"created_at": "Thu Feb 14 07:12:19 +0000 2019",
+		"id": 1095943805990330400,
+		"id_str": "1095943805990330370",
+		"full_text": "@libbycostello @KTDigital @LTHEchat Don’t get me wrong. Aspects of criticality can be used -in context- from the start. But this can’t expect the use of complicated, interconnected discipline ideas - i.e. thinking like a geographer, a sociologist, a computer scientist, etc. as that requires disciplinary knowledge",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			314
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "libbycostello",
+					"name": "Libby Costello",
+					"id": 53196099,
+					"id_str": "53196099",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KTDigital",
+					"name": "Kate Lindsay",
+					"id": 28324170,
+					"id_str": "28324170",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095943049899925500,
+		"in_reply_to_status_id_str": "1095943049899925505",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 981,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7432,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@libbycostello @KTDigital @LTHEchat Don’t get me wrong. Aspects of criticality can be used -in context- from the start. But this can’t expect the use of complicated, interconnected discipline ideas - i.e. thinking like a geographer, a sociologist, a computer scientist, etc. as that requires disciplinary knowledge"
+	},
+	{
+		"created_at": "Thu Feb 14 07:09:19 +0000 2019",
+		"id": 1095943049899925500,
+		"id_str": "1095943049899925505",
+		"full_text": "@libbycostello @KTDigital @LTHEchat So while the generic application of criticality can start fairly soon, the essential aspects that require a student to apply disciplinary knowledge in their critical judgements takes time as these must be first developed.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "libbycostello",
+					"name": "Libby Costello",
+					"id": 53196099,
+					"id_str": "53196099",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KTDigital",
+					"name": "Kate Lindsay",
+					"id": 28324170,
+					"id_str": "28324170",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095941689464766500,
+		"in_reply_to_status_id_str": "1095941689464766464",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 981,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7432,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@libbycostello @KTDigital @LTHEchat So while the generic application of criticality can start fairly soon, the essential aspects that require a student to apply disciplinary knowledge in their critical judgements takes time as these must be first developed.  #LTHEchat"
+	},
+	{
+		"created_at": "Thu Feb 14 07:03:55 +0000 2019",
+		"id": 1095941689464766500,
+		"id_str": "1095941689464766464",
+		"full_text": "@libbycostello @KTDigital @LTHEchat But, the heart of critical thinking in higher education is the ability to apply it in your discipline and to use subject conventions in your norms. This is why it has to start with some knowledge baseline as students need to learn this criteria #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						281,
+						290
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "libbycostello",
+					"name": "Libby Costello",
+					"id": 53196099,
+					"id_str": "53196099",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KTDigital",
+					"name": "Kate Lindsay",
+					"id": 28324170,
+					"id_str": "28324170",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095939614718771200,
+		"in_reply_to_status_id_str": "1095939614718771200",
+		"in_reply_to_user_id": 53196099,
+		"in_reply_to_user_id_str": "53196099",
+		"in_reply_to_screen_name": "libbycostello",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 981,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7432,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@libbycostello @KTDigital @LTHEchat But, the heart of critical thinking in higher education is the ability to apply it in your discipline and to use subject conventions in your norms. This is why it has to start with some knowledge baseline as students need to learn this criteria #LTHEchat"
+	},
+	{
+		"created_at": "Thu Feb 14 07:02:28 +0000 2019",
+		"id": 1095941326338707500,
+		"id_str": "1095941326338707456",
+		"full_text": "@libbycostello @KTDigital @LTHEchat I think it depends on what level. Elements of criticality should be embedded from the start - but it cannot be expected in its entirely. ‘Critical thinking’ doesn’t generally feature at L3 &amp; L4 criteria (prep time) and is expected to be developed and assessed L5 and above",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "libbycostello",
+					"name": "Libby Costello",
+					"id": 53196099,
+					"id_str": "53196099",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KTDigital",
+					"name": "Kate Lindsay",
+					"id": 28324170,
+					"id_str": "28324170",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1095939614718771200,
+		"in_reply_to_status_id_str": "1095939614718771200",
+		"in_reply_to_user_id": 53196099,
+		"in_reply_to_user_id_str": "53196099",
+		"in_reply_to_screen_name": "libbycostello",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 984,
+			"friends_count": 981,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7432,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@libbycostello @KTDigital @LTHEchat I think it depends on what level. Elements of criticality should be embedded from the start - but it cannot be expected in its entirely. ‘Critical thinking’ doesn’t generally feature at L3 &amp; L4 criteria (prep time) and is expected to be developed and assessed L5 and above"
+	},
+	{
 		"created_at": "Wed Feb 13 23:43:22 +0000 2019",
 		"id": 1095830824405123100,
 		"id_str": "1095830824405123072",
@@ -6691,7 +7516,7 @@ Grailbird.data.tweets_2019_02 =
 			"created_at": "Wed Feb 13 20:09:18 +0000 2019",
 			"id": 1095776953037131800,
 			"id_str": "1095776953037131776",
-			"full_text": "A1. How can you encourage note taking in classes when we are forever asked to give slides in advance, record our lectures, put additional reading...😳🤷‍♀️..a mix for “no note taking”. Am I being a tad dramatic there? #LTHEchat So few take notes these days it’s worrying actually 😳 https://t.co/f5tszfWtmq",
+			"full_text": "A1. How can you encourage note taking in classes when we are forever asked to give slides in advance, record our lectures, put additional reading...😳🤷♀️..a mix for “no note taking”. Am I being a tad dramatic there? #LTHEchat So few take notes these days it’s worrying actually 😳 https://t.co/f5tszfWtmq",
 			"truncated": false,
 			"display_text_range": [
 				0,

@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 18:30:04 +0000 2019",
+		"id": 1096839143718617100,
+		"id_str": "1096839143718617088",
+		"full_text": "Day 3/7 of my #academic #7books 📕📕📕📘📘📘📘 \n7 days, 7 book covers. No explanation - only cover images: 'Critique of Everyday Life' [The One-Volume Edition] by Henri Lefebvre https://t.co/nz9vl8sdWu https://t.co/HRAuqFsI82",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academic",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "7books",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nz9vl8sdWu",
+					"expanded_url": "https://amzn.to/2S3LiY1",
+					"display_url": "amzn.to/2S3LiY1",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096839141738889200,
+					"id_str": "1096839141738889216",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjBY1sXQAALNvi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjBY1sXQAALNvi.jpg",
+					"url": "https://t.co/HRAuqFsI82",
+					"display_url": "pic.twitter.com/HRAuqFsI82",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1096839143718617088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096839141738889200,
+					"id_str": "1096839141738889216",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjBY1sXQAALNvi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjBY1sXQAALNvi.jpg",
+					"url": "https://t.co/HRAuqFsI82",
+					"display_url": "pic.twitter.com/HRAuqFsI82",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1096839143718617088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 982,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7438,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 3/7 of my #academic #7books 📕📕📕📘📘📘📘 \n7 days, 7 book covers. No explanation - only cover images: 'Critique of Everyday Life' [The One-Volume Edition] by Henri Lefebvre https://t.co/nz9vl8sdWu https://t.co/HRAuqFsI82"
+	},
+	{
+		"created_at": "Wed Feb 06 12:14:54 +0000 2019",
+		"id": 1093120851979968500,
+		"id_str": "1096823464386797577",
+		"full_text": "Great to see the Materialities &amp; Historical Geographies special section I’ve guest edited in the March issue of Area. It includes fantastic papers by @hannahmstockton @bethanbide @paulwright_geog &amp; Liz Haines. https://t.co/rd9yBF2wDy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannahmstockton",
+					"name": "Hannah Stockton",
+					"id": 2197789991,
+					"id_str": "2197789991",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"screen_name": "bethanbide",
+					"name": "Bethan Bide",
+					"id": 181914691,
+					"id_str": "181914691",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"screen_name": "paulwright_geog",
+					"name": "Paul Wright",
+					"id": 733365509597564900,
+					"id_str": "733365509597564928",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093120847257194500,
+					"id_str": "1093120847257194496",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/DyuLnnVW0AA6uUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyuLnnVW0AA6uUh.jpg",
+					"url": "https://t.co/rd9yBF2wDy",
+					"display_url": "pic.twitter.com/rd9yBF2wDy",
+					"expanded_url": "https://twitter.com/RuthSlatter/status/1093120851979968512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 929,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 929,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093120847257194500,
+					"id_str": "1093120847257194496",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/DyuLnnVW0AA6uUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyuLnnVW0AA6uUh.jpg",
+					"url": "https://t.co/rd9yBF2wDy",
+					"display_url": "pic.twitter.com/rd9yBF2wDy",
+					"expanded_url": "https://twitter.com/RuthSlatter/status/1093120851979968512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 742,
+							"h": 929,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 742,
+							"h": 929,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 629457030,
+			"id_str": "629457030",
+			"name": "Ruth Slatter",
+			"screen_name": "RuthSlatter",
+			"location": "",
+			"description": "Human Geography Lecturer, University of Hull. Using material, geographical & historical approaches to explore everyday experiences of 19/20th C religion.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 729,
+			"friends_count": 739,
+			"listed_count": 10,
+			"created_at": "Sat Jul 07 14:39:20 +0000 2012",
+			"favourites_count": 983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 899,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950640195434672128/2Xzd0Isa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950640195434672128/2Xzd0Isa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/629457030/1501830628",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to see the Materialities &amp; Historical Geographies special section I’ve guest edited in the March issue of Area. It includes fantastic papers by @hannahmstockton @bethanbide @paulwright_geog &amp; Liz Haines. https://t.co/rd9yBF2wDy"
+	},
+	{
 		"created_at": "Fri Feb 15 20:07:05 +0000 2019",
 		"id": 1096501170217148400,
 		"id_str": "1096501170217148416",

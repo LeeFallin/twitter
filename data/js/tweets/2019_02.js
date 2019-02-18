@@ -1,6 +1,942 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 18:30:10 +0000 2019",
+		"id": 1097201557353975800,
+		"id_str": "1097201557353975808",
+		"full_text": "Day 4/7 of my #academic #7books 📕📕📕📕📘📘📘 \n7 days, 7 book covers. No explanation - only cover images: 'Rhythmanalysis: Space, Time and Everyday Life' [Bloomsbury Revelations] by Henri Lefebvre https://t.co/JrMG7qRVF4 https://t.co/TARrGEb2Bz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academic",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "7books",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JrMG7qRVF4",
+					"expanded_url": "https://amzn.to/2RWAPxm",
+					"display_url": "amzn.to/2RWAPxm",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097201555328114700,
+					"id_str": "1097201555328114690",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DzoLAFhWoAIzDMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzoLAFhWoAIzDMo.jpg",
+					"url": "https://t.co/TARrGEb2Bz",
+					"display_url": "pic.twitter.com/TARrGEb2Bz",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097201557353975808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 323,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 323,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 323,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097201555328114700,
+					"id_str": "1097201555328114690",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/DzoLAFhWoAIzDMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzoLAFhWoAIzDMo.jpg",
+					"url": "https://t.co/TARrGEb2Bz",
+					"display_url": "pic.twitter.com/TARrGEb2Bz",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097201557353975808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 323,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 323,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 323,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7443,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 4/7 of my #academic #7books 📕📕📕📕📘📘📘 \n7 days, 7 book covers. No explanation - only cover images: 'Rhythmanalysis: Space, Time and Everyday Life' [Bloomsbury Revelations] by Henri Lefebvre https://t.co/JrMG7qRVF4 https://t.co/TARrGEb2Bz"
+	},
+	{
+		"created_at": "Sun Feb 17 10:26:18 +0000 2019",
+		"id": 1097079784864141300,
+		"id_str": "1097079784864141314",
+		"full_text": "@JulieH_Psyc @digisim @ProfSallyBrown @kay_sambell @PickfordRuth @RacePhil @glynnmark @ruthwhitfield @chrissinerantzi @CarlessDavid @suebecks @PeterDraper3 @profpeterbrad @laura_ritchie @Lawrie @simonrae @DocWinstone And on app: https://t.co/AbszBatHbH",
+		"truncated": false,
+		"display_text_range": [
+			217,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JulieH_Psyc",
+					"name": "Julie Hulme",
+					"id": 582792042,
+					"id_str": "582792042",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "digisim",
+					"name": "Simon Thomson",
+					"id": 294516600,
+					"id_str": "294516600",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "PickfordRuth",
+					"name": "Prof Ruth Pickford",
+					"id": 2343415327,
+					"id_str": "2343415327",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "glynnmark",
+					"name": "Mark Glynn",
+					"id": 80048517,
+					"id_str": "80048517",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "ruthwhitfield",
+					"name": "Ruth Whitfield",
+					"id": 19090174,
+					"id_str": "19090174",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						101,
+						117
+					]
+				},
+				{
+					"screen_name": "CarlessDavid",
+					"name": "David Carless",
+					"id": 2891517966,
+					"id_str": "2891517966",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"screen_name": "PeterDraper3",
+					"name": "Peter Draper",
+					"id": 503167425,
+					"id_str": "503167425",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"screen_name": "laura_ritchie",
+					"name": "laura ritchie",
+					"id": 17862408,
+					"id_str": "17862408",
+					"indices": [
+						171,
+						185
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "Simon Rae 🇪🇺",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"screen_name": "DocWinstone",
+					"name": "Dr Naomi Winstone",
+					"id": 826047382043365400,
+					"id_str": "826047382043365377",
+					"indices": [
+						204,
+						216
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097079778421735400,
+					"id_str": "1097079778421735424",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmcPvMXgAATd3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmcPvMXgAATd3d.jpg",
+					"url": "https://t.co/AbszBatHbH",
+					"display_url": "pic.twitter.com/AbszBatHbH",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097079784864141314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097079778421735400,
+					"id_str": "1097079778421735424",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmcPvMXgAATd3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmcPvMXgAATd3d.jpg",
+					"url": "https://t.co/AbszBatHbH",
+					"display_url": "pic.twitter.com/AbszBatHbH",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097079784864141314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 313,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097078028709044200,
+		"in_reply_to_status_id_str": "1097078028709044224",
+		"in_reply_to_user_id": 582792042,
+		"in_reply_to_user_id_str": "582792042",
+		"in_reply_to_screen_name": "JulieH_Psyc",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7443,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JulieH_Psyc @digisim @ProfSallyBrown @kay_sambell @PickfordRuth @RacePhil @glynnmark @ruthwhitfield @chrissinerantzi @CarlessDavid @suebecks @PeterDraper3 @profpeterbrad @laura_ritchie @Lawrie @simonrae @DocWinstone And on app: https://t.co/AbszBatHbH"
+	},
+	{
+		"created_at": "Sun Feb 17 09:41:43 +0000 2019",
+		"id": 1097068568716419100,
+		"id_str": "1097068568716419072",
+		"full_text": "@SFaulknerPandO @ProfSallyBrown @kay_sambell @PickfordRuth @RacePhil @glynnmark @JulieH_Psyc @digisim @ruthwhitfield @chrissinerantzi @CarlessDavid @suebecks @PeterDraper3 @profpeterbrad @laura_ritchie @Lawrie @simonrae @DocWinstone Yes indeed - thanks @ProfSallyBrown! I’ve followed those I wasn’t already 😁",
+		"truncated": false,
+		"display_text_range": [
+			233,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "PickfordRuth",
+					"name": "Prof Ruth Pickford",
+					"id": 2343415327,
+					"id_str": "2343415327",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "glynnmark",
+					"name": "Mark Glynn",
+					"id": 80048517,
+					"id_str": "80048517",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "JulieH_Psyc",
+					"name": "Julie Hulme",
+					"id": 582792042,
+					"id_str": "582792042",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "digisim",
+					"name": "Simon Thomson",
+					"id": 294516600,
+					"id_str": "294516600",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"screen_name": "ruthwhitfield",
+					"name": "Ruth Whitfield",
+					"id": 19090174,
+					"id_str": "19090174",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"screen_name": "CarlessDavid",
+					"name": "David Carless",
+					"id": 2891517966,
+					"id_str": "2891517966",
+					"indices": [
+						134,
+						147
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"screen_name": "PeterDraper3",
+					"name": "Peter Draper",
+					"id": 503167425,
+					"id_str": "503167425",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						172,
+						186
+					]
+				},
+				{
+					"screen_name": "laura_ritchie",
+					"name": "laura ritchie",
+					"id": 17862408,
+					"id_str": "17862408",
+					"indices": [
+						187,
+						201
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "Simon Rae 🇪🇺",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"screen_name": "DocWinstone",
+					"name": "Dr Naomi Winstone",
+					"id": 826047382043365400,
+					"id_str": "826047382043365377",
+					"indices": [
+						220,
+						232
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						253,
+						268
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097068364692967400,
+		"in_reply_to_status_id_str": "1097068364692967424",
+		"in_reply_to_user_id": 859771153321259000,
+		"in_reply_to_user_id_str": "859771153321259009",
+		"in_reply_to_screen_name": "SFaulknerPandO",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7443,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SFaulknerPandO @ProfSallyBrown @kay_sambell @PickfordRuth @RacePhil @glynnmark @JulieH_Psyc @digisim @ruthwhitfield @chrissinerantzi @CarlessDavid @suebecks @PeterDraper3 @profpeterbrad @laura_ritchie @Lawrie @simonrae @DocWinstone Yes indeed - thanks @ProfSallyBrown! I’ve followed those I wasn’t already 😁"
+	},
+	{
+		"created_at": "Sun Feb 17 09:34:29 +0000 2019",
+		"id": 1097066744462696400,
+		"id_str": "1097066744462696448",
+		"full_text": "@KMcNiff Haha. Yes. If I’ve spent a long time on a computer - I have later in the day caught myself thinking ‘oh I’ll undo that’ - only to realise I’m not on a PC.  Like the time on a computer has wired my brain to think it’s possible.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMcNiff",
+					"name": "Kathleen McNiff",
+					"id": 168403434,
+					"id_str": "168403434",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1097056489045250000,
+		"in_reply_to_status_id_str": "1097056489045250048",
+		"in_reply_to_user_id": 168403434,
+		"in_reply_to_user_id_str": "168403434",
+		"in_reply_to_screen_name": "KMcNiff",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7443,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KMcNiff Haha. Yes. If I’ve spent a long time on a computer - I have later in the day caught myself thinking ‘oh I’ll undo that’ - only to realise I’m not on a PC.  Like the time on a computer has wired my brain to think it’s possible."
+	},
+	{
 		"created_at": "Sat Feb 16 18:30:04 +0000 2019",
 		"id": 1096839143718617100,
 		"id_str": "1096839143718617088",

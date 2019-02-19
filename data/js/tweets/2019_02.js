@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 18 18:30:03 +0000 2019",
+		"id": 1097563913690976300,
+		"id_str": "1097563913690976256",
+		"full_text": "Day 5/7 of my #academic #7books 📕📕📕📕📕📘📘 \n7 days, 7 book covers. No explanation - only cover images: 'The Meaning of the Library: A Cultural History' by Alice Crawford https://t.co/R9BQCmyeCe https://t.co/gkFHX9NCOj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academic",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "7books",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R9BQCmyeCe",
+					"expanded_url": "https://amzn.to/2RWsauR",
+					"display_url": "amzn.to/2RWsauR",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097563911379923000,
+					"id_str": "1097563911379922945",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DztUj_AWsAEVhcg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztUj_AWsAEVhcg.jpg",
+					"url": "https://t.co/gkFHX9NCOj",
+					"display_url": "pic.twitter.com/gkFHX9NCOj",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097563913690976256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 329,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 329,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 329,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097563911379923000,
+					"id_str": "1097563911379922945",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DztUj_AWsAEVhcg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DztUj_AWsAEVhcg.jpg",
+					"url": "https://t.co/gkFHX9NCOj",
+					"display_url": "pic.twitter.com/gkFHX9NCOj",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097563913690976256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 329,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 329,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 329,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7445,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 5/7 of my #academic #7books 📕📕📕📕📕📘📘 \n7 days, 7 book covers. No explanation - only cover images: 'The Meaning of the Library: A Cultural History' by Alice Crawford https://t.co/R9BQCmyeCe https://t.co/gkFHX9NCOj"
+	},
+	{
 		"created_at": "Sun Feb 17 18:30:10 +0000 2019",
 		"id": 1097201557353975800,
 		"id_str": "1097201557353975808",

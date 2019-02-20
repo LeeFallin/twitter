@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 15:15:02 +0000 2019",
+		"id": 1097877226207498200,
+		"id_str": "1097948770124382208",
+		"full_text": "Greetings to fellow educators! As many of you are, I'm into games for learning, &amp; I'm reaching for your experience. I do research on digital games &amp; critical thinking, &amp; would love to have you in a panel of experts #edugames #criticalthinking #MinecraftEDU @EthertonC @victorn70 https://t.co/5DcNk5RTm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edugames",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"text": "criticalthinking",
+					"indices": [
+						237,
+						254
+					]
+				},
+				{
+					"text": "MinecraftEDU",
+					"indices": [
+						255,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EthertonC",
+					"name": "Cindy Etherton",
+					"id": 150337931,
+					"id_str": "150337931",
+					"indices": [
+						269,
+						279
+					]
+				},
+				{
+					"screen_name": "victorn70",
+					"name": "Victor Ngobeni",
+					"id": 139097657,
+					"id_str": "139097657",
+					"indices": [
+						280,
+						290
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097875505045483500,
+					"id_str": "1097875505045483520",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzxv9H3WsAA2Ky3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzxv9H3WsAA2Ky3.jpg",
+					"url": "https://t.co/5DcNk5RTm2",
+					"display_url": "pic.twitter.com/5DcNk5RTm2",
+					"expanded_url": "https://twitter.com/StanislavKhanin/status/1097877226207498242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097875505045483500,
+					"id_str": "1097875505045483520",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzxv9H3WsAA2Ky3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzxv9H3WsAA2Ky3.jpg",
+					"url": "https://t.co/5DcNk5RTm2",
+					"display_url": "pic.twitter.com/5DcNk5RTm2",
+					"expanded_url": "https://twitter.com/StanislavKhanin/status/1097877226207498242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839521380982997000,
+			"id_str": "839521380982996993",
+			"name": "Khanin Stanislav",
+			"screen_name": "StanislavKhanin",
+			"location": "Kazakhstan",
+			"description": "Recruiting experts for my study: 📎https://t.co/QLMAEM4427 Doctoral Candidate in Education: Critical Thinking and Digital Games. Sustainable Development Advocate",
+			"url": "https://t.co/61eoVydwnS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/61eoVydwnS",
+							"expanded_url": "https://www.facebook.com/stas.khanin",
+							"display_url": "facebook.com/stas.khanin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QLMAEM4427",
+							"expanded_url": "https://bit.ly/2TT63an",
+							"display_url": "bit.ly/2TT63an",
+							"indices": [
+								34,
+								57
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 102,
+			"listed_count": 0,
+			"created_at": "Wed Mar 08 17:01:09 +0000 2017",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18,
+			"lang": "ru",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075359263000805376/14KmCZAg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075359263000805376/14KmCZAg_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greetings to fellow educators! As many of you are, I'm into games for learning, &amp; I'm reaching for your experience. I do research on digital games &amp; critical thinking, &amp; would love to have you in a panel of experts #edugames #criticalthinking #MinecraftEDU @EthertonC @victorn70 https://t.co/5DcNk5RTm2"
+	},
+	{
+		"created_at": "Tue Feb 19 18:30:09 +0000 2019",
+		"id": 1097926326407909400,
+		"id_str": "1097926326407909376",
+		"full_text": "Day 6/7 of my #academic #7books 📕📕📕📕📕📕📘 \n7 days, 7 book covers. No explanation - only cover images: 'For Space' by Doreen Massey https://t.co/u47KtWn8rA https://t.co/1pe1lrmFL1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academic",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "7books",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u47KtWn8rA",
+					"expanded_url": "https://amzn.to/2S0Wq7E",
+					"display_url": "amzn.to/2S0Wq7E",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097926324704940000,
+					"id_str": "1097926324704940033",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/DzyeLN2WkAEsyVc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzyeLN2WkAEsyVc.jpg",
+					"url": "https://t.co/1pe1lrmFL1",
+					"display_url": "pic.twitter.com/1pe1lrmFL1",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097926326407909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 351,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 351,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 351,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097926324704940000,
+					"id_str": "1097926324704940033",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/DzyeLN2WkAEsyVc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzyeLN2WkAEsyVc.jpg",
+					"url": "https://t.co/1pe1lrmFL1",
+					"display_url": "pic.twitter.com/1pe1lrmFL1",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1097926326407909376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 351,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 351,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 351,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7449,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 6/7 of my #academic #7books 📕📕📕📕📕📕📘 \n7 days, 7 book covers. No explanation - only cover images: 'For Space' by Doreen Massey https://t.co/u47KtWn8rA https://t.co/1pe1lrmFL1"
+	},
+	{
+		"created_at": "Tue Feb 19 18:17:27 +0000 2019",
+		"id": 1097923133032579100,
+		"id_str": "1097923133032579072",
+		"full_text": "Still reflecting on the @HullBiomed  poster session from earlier today. I’ve never seen a room full of academic posters where all were so well structured and presented. You should all be proud!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullBiomed",
+					"name": "Hull Biomed",
+					"id": 887014351965737000,
+					"id_str": "887014351965736960",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 988,
+			"friends_count": 1001,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7449,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Still reflecting on the @HullBiomed  poster session from earlier today. I’ve never seen a room full of academic posters where all were so well structured and presented. You should all be proud!"
+	},
+	{
 		"created_at": "Mon Feb 18 18:30:03 +0000 2019",
 		"id": 1097563913690976300,
 		"id_str": "1097563913690976256",

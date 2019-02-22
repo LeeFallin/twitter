@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 21 14:41:20 +0000 2019",
+		"id": 1098593518300418000,
+		"id_str": "1098596180982988802",
+		"full_text": "#TAGS plot of last nights #LTHEchat on Internationalisation by @JennyLewinJones available at: https://t.co/zaNDk3R2Am\nTop Conversationalists include\n@LTHEchat \n@baaanedict \n@WarwickLanguage \n@DrSophieCormack \n@NomadWarMachine \n@cpjobling \n@LeeFallin \n@PaulfrYorkshire \n@simonrae https://t.co/HRye4MLmiL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAGS",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						160,
+						171
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"screen_name": "DrSophieCormack",
+					"name": "Sophie Cormack",
+					"id": 1527274158,
+					"id_str": "1527274158",
+					"indices": [
+						191,
+						207
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						209,
+						225
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling #FBPE",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						227,
+						237
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						239,
+						249
+					]
+				},
+				{
+					"screen_name": "PaulfrYorkshire",
+					"name": "Paul Taylor",
+					"id": 260520843,
+					"id_str": "260520843",
+					"indices": [
+						251,
+						267
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "Simon Rae 🇪🇺 Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zaNDk3R2Am",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1yAU63hiqOdoz4LJytA4S23K9bXc3yOcCrx34l2GcYJc&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098592337155055600,
+					"id_str": "1098592337155055616",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz776PkX4AAkNDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz776PkX4AAkNDB.jpg",
+					"url": "https://t.co/HRye4MLmiL",
+					"display_url": "pic.twitter.com/HRye4MLmiL",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1098593518300418049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 722,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098592337155055600,
+					"id_str": "1098592337155055616",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz776PkX4AAkNDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz776PkX4AAkNDB.jpg",
+					"url": "https://t.co/HRye4MLmiL",
+					"display_url": "pic.twitter.com/HRye4MLmiL",
+					"expanded_url": "https://twitter.com/scottturneruon/status/1098593518300418049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 607,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 644,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 722,
+							"h": 644,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Computing academic, Robots, computing education. Pi Cert Educator, code club, Member @TheIET @bcs , Views are authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3164,
+			"friends_count": 2233,
+			"listed_count": 575,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 18309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52528,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAGS plot of last nights #LTHEchat on Internationalisation by @JennyLewinJones available at: https://t.co/zaNDk3R2Am\nTop Conversationalists include\n@LTHEchat \n@baaanedict \n@WarwickLanguage \n@DrSophieCormack \n@NomadWarMachine \n@cpjobling \n@LeeFallin \n@PaulfrYorkshire \n@simonrae https://t.co/HRye4MLmiL"
+	},
+	{
 		"created_at": "Wed Feb 20 20:58:51 +0000 2019",
 		"id": 1098326137195950100,
 		"id_str": "1098326137195950080",

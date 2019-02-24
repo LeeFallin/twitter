@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 22 17:47:33 +0000 2019",
+		"id": 1099002771968348200,
+		"id_str": "1099416321559797763",
+		"full_text": "How about my new version for learning outcomes? VASCULAR! Verifiable, action orientated, singular i.e. not several shoved together, constructively aligned, understandable, level-appropriate, affective domain inclusive&amp;regularly reviewed.Putting the life blood back into learning! https://t.co/zfiZPawpH1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zfiZPawpH1",
+					"expanded_url": "https://twitter.com/marcuselliott/status/1098940258425733122",
+					"display_url": "twitter.com/marcuselliott/…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1561332966,
+			"id_str": "1561332966",
+			"name": "Sally Brown",
+			"screen_name": "ProfSallyBrown",
+			"location": "",
+			"description": "I am a UK-based Independent consultant and visiting professor with expertise in teaching,learning and assesment at HE level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3516,
+			"friends_count": 722,
+			"listed_count": 91,
+			"created_at": "Mon Jul 01 20:01:00 +0000 2013",
+			"favourites_count": 13851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18680,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969244225689833473/_S2XNjmi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969244225689833473/_S2XNjmi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098940258425733100,
+		"quoted_status_id_str": "1098940258425733122",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zfiZPawpH1",
+			"expanded": "https://twitter.com/marcuselliott/status/1098940258425733122",
+			"display": "twitter.com/marcuselliott/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 22 13:39:09 +0000 2019",
+			"id": 1098940258425733100,
+			"id_str": "1098940258425733122",
+			"full_text": "I hate writing my own work objectives. SMART is dumb.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24887453,
+				"id_str": "24887453",
+				"name": "Marcus Elliott (but parenthetically)",
+				"screen_name": "marcuselliott",
+				"location": "Lincoln, England",
+				"description": "By day: education @ntudigital. By night: asleep. CC-BY-SA. People/Digital. He/him. @3Tbike ambassador 18/19",
+				"url": "https://t.co/6Fb6MjIeNh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Fb6MjIeNh",
+								"expanded_url": "https://marcuselliott.co.uk",
+								"display_url": "marcuselliott.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1297,
+				"friends_count": 1789,
+				"listed_count": 79,
+				"created_at": "Tue Mar 17 14:18:48 +0000 2009",
+				"favourites_count": 10823,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18867,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953275328948068352/kGzWcov4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953275328948068352/kGzWcov4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24887453/1545329883",
+				"profile_link_color": "3D6E99",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How about my new version for learning outcomes? VASCULAR! Verifiable, action orientated, singular i.e. not several shoved together, constructively aligned, understandable, level-appropriate, affective domain inclusive&amp;regularly reviewed.Putting the life blood back into learning! https://t.co/zfiZPawpH1"
+	},
+	{
 		"created_at": "Fri Feb 22 21:44:13 +0000 2019",
 		"id": 1099062328602038300,
 		"id_str": "1099062328602038272",

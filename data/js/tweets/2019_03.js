@@ -1,6 +1,848 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 20:00:47 +0000 2019",
+		"id": 1102532283100266500,
+		"id_str": "1103747339469144064",
+		"full_text": "@UHMLG Here’s the short version! Hope you guys are up for a bit of work- going to get you all doing stuff! #uhmlg19 https://t.co/eP2zPsEbnd",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "uhmlg19",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHMLG",
+					"name": "UHMLG",
+					"id": 501112633,
+					"id_str": "501112633",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102532277584695300,
+					"id_str": "1102532277584695296",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D0z7Q9bWkAAnuF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0z7Q9bWkAAnuF2.jpg",
+					"url": "https://t.co/eP2zPsEbnd",
+					"display_url": "pic.twitter.com/eP2zPsEbnd",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1102532283100266496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102532277584695300,
+					"id_str": "1102532277584695296",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D0z7Q9bWkAAnuF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0z7Q9bWkAAnuF2.jpg",
+					"url": "https://t.co/eP2zPsEbnd",
+					"display_url": "pic.twitter.com/eP2zPsEbnd",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1102532283100266496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1102518889563459600,
+		"in_reply_to_status_id_str": "1102518889563459584",
+		"in_reply_to_user_id": 501112633,
+		"in_reply_to_user_id_str": "501112633",
+		"in_reply_to_screen_name": "UHMLG",
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre- academic literacies, study skills. Ex medievalist. Views own.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1580,
+			"friends_count": 987,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 2944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8624,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@UHMLG Here’s the short version! Hope you guys are up for a bit of work- going to get you all doing stuff! #uhmlg19 https://t.co/eP2zPsEbnd"
+	},
+	{
+		"created_at": "Thu Mar 07 17:02:01 +0000 2019",
+		"id": 1103698341819543600,
+		"id_str": "1103702353067343873",
+		"full_text": "10 days in #LTHEchat via NodeXL https://t.co/5hxSezBgmc\n@leefallin\n@lthechat\n@a_l_t\n@racephil\n@s_j_norton\n@scottturneruon\n@advancehe_chat\n@leohavemann\n@suewatling\n@invisiblegrail\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#employability\n#altc\n#feedback\n#openedsig\n#m25ltg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "advancehe_chat",
+					"indices": [
+						204,
+						219
+					]
+				},
+				{
+					"text": "employability",
+					"indices": [
+						220,
+						234
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "feedback",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "openedsig",
+					"indices": [
+						251,
+						261
+					]
+				},
+				{
+					"text": "m25ltg",
+					"indices": [
+						262,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "S_J_Norton",
+					"name": "Stuart Norton",
+					"id": 882854278112661500,
+					"id_str": "882854278112661504",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						122,
+						137
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"screen_name": "invisiblegrail",
+					"name": "Invisible Grail",
+					"id": 867028604596695000,
+					"id_str": "867028604596695040",
+					"indices": [
+						163,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5hxSezBgmc",
+					"expanded_url": "http://bit.ly/2TrJSw1",
+					"display_url": "bit.ly/2TrJSw1",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Computing academic, Robots, computing education. Pi Cert Educator, code club, Member @TheIET @bcs , Views are authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 2255,
+			"listed_count": 575,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 18546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52912,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10 days in #LTHEchat via NodeXL https://t.co/5hxSezBgmc\n@leefallin\n@lthechat\n@a_l_t\n@racephil\n@s_j_norton\n@scottturneruon\n@advancehe_chat\n@leohavemann\n@suewatling\n@invisiblegrail\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#employability\n#altc\n#feedback\n#openedsig\n#m25ltg"
+	},
+	{
+		"created_at": "Thu Mar 07 12:50:37 +0000 2019",
+		"id": 1102861872137674800,
+		"id_str": "1103639085560856576",
+		"full_text": "Wanted to enter a poster this year on something that I think is very important and needs to be talked about more. #mentalhealth during a PhD, so here's my entry #RSCPoster  #phdlife #phdchat #TimetoTalk https://t.co/8tfPHtEKe6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mentalhealth",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "RSCPoster",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "phdlife",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "phdchat",
+					"indices": [
+						182,
+						190
+					]
+				},
+				{
+					"text": "TimetoTalk",
+					"indices": [
+						191,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102861840256852000,
+					"id_str": "1102861840256851968",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D04nACDX4AAfU1C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04nACDX4AAfU1C.jpg",
+					"url": "https://t.co/8tfPHtEKe6",
+					"display_url": "pic.twitter.com/8tfPHtEKe6",
+					"expanded_url": "https://twitter.com/ZJAyres/status/1102861872137674752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102861840256852000,
+					"id_str": "1102861840256851968",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/D04nACDX4AAfU1C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D04nACDX4AAfU1C.jpg",
+					"url": "https://t.co/8tfPHtEKe6",
+					"display_url": "pic.twitter.com/8tfPHtEKe6",
+					"expanded_url": "https://twitter.com/ZJAyres/status/1102861872137674752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2708824621,
+			"id_str": "2708824621",
+			"name": "Dr Zoë Ayres",
+			"screen_name": "ZJAyres",
+			"location": "England, United Kingdom",
+			"description": "Research scientist.👩‍🔬 Analytical scientist at heart.💙 Advocator for mental health awareness.🗣️  Cat lover.🐈 Feminist-in-progress.👩‍ All views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 417,
+			"listed_count": 9,
+			"created_at": "Tue Aug 05 08:58:36 +0000 2014",
+			"favourites_count": 825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103777773351514113/wQu5USmP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103777773351514113/wQu5USmP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2708824621/1551848682",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1556,
+		"favorite_count": 2951,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wanted to enter a poster this year on something that I think is very important and needs to be talked about more. #mentalhealth during a PhD, so here's my entry #RSCPoster  #phdlife #phdchat #TimetoTalk https://t.co/8tfPHtEKe6"
+	},
+	{
+		"created_at": "Thu Mar 07 12:44:21 +0000 2019",
+		"id": 1103634642073210900,
+		"id_str": "1103637511258152960",
+		"full_text": "A book says more than a thousand words.\n#worldbookday https://t.co/mvimCFvCg0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "worldbookday",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103634437454082000,
+					"id_str": "1103634437454082048",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D1DlrG5WsAA2pWR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1DlrG5WsAA2pWR.jpg",
+					"url": "https://t.co/mvimCFvCg0",
+					"display_url": "pic.twitter.com/mvimCFvCg0",
+					"expanded_url": "https://twitter.com/EthicsInBricks/status/1103634642073210880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103634437454082000,
+					"id_str": "1103634437454082048",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D1DlrG5WsAA2pWR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1DlrG5WsAA2pWR.jpg",
+					"url": "https://t.co/mvimCFvCg0",
+					"display_url": "pic.twitter.com/mvimCFvCg0",
+					"expanded_url": "https://twitter.com/EthicsInBricks/status/1103634642073210880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1103634140665208800,
+		"in_reply_to_status_id_str": "1103634140665208832",
+		"in_reply_to_user_id": 879713840119861200,
+		"in_reply_to_user_id_str": "879713840119861249",
+		"in_reply_to_screen_name": "EthicsInBricks",
+		"user": {
+			"id": 879713840119861200,
+			"id_str": "879713840119861249",
+			"name": "Ethics in Bricks",
+			"screen_name": "EthicsInBricks",
+			"location": "Brick Lane",
+			"description": "Facebook: https://t.co/6like2RpPo Instagram: https://t.co/1HibW8J6ev",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6like2RpPo",
+							"expanded_url": "http://facebook.com/ethicsinbricks",
+							"display_url": "facebook.com/ethicsinbricks",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/1HibW8J6ev",
+							"expanded_url": "http://instagram.com/ethicsinbricks",
+							"display_url": "instagram.com/ethicsinbricks",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13859,
+			"friends_count": 99,
+			"listed_count": 137,
+			"created_at": "Tue Jun 27 14:51:38 +0000 2017",
+			"favourites_count": 3821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1443,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942105969370247168/-Q8TF01e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942105969370247168/-Q8TF01e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879713840119861249/1536941545",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A book says more than a thousand words.\n#worldbookday https://t.co/mvimCFvCg0"
+	},
+	{
 		"created_at": "Wed Mar 06 21:15:47 +0000 2019",
 		"id": 1103403829863698400,
 		"id_str": "1103403829863698432",
@@ -1800,7 +2642,7 @@ Grailbird.data.tweets_2019_03 =
 		"created_at": "Wed Mar 06 20:55:31 +0000 2019",
 		"id": 1103398725945356300,
 		"id_str": "1103398725945356289",
-		"full_text": "A6: I’d made such an impact on a student they credited my support &amp; feedback on their academic success. They told me this in a coffee shop and brought over their parents, introducing me as the guy that made their degree 📜 . Can’t remember what I did 🤦‍♂️ !!! #LTHEchat https://t.co/LRcNSSjJyZ",
+		"full_text": "A6: I’d made such an impact on a student they credited my support &amp; feedback on their academic success. They told me this in a coffee shop and brought over their parents, introducing me as the guy that made their degree 📜 . Can’t remember what I did 🤦♂️ !!! #LTHEchat https://t.co/LRcNSSjJyZ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2009,7 +2851,7 @@ Grailbird.data.tweets_2019_03 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "A6: I’d made such an impact on a student they credited my support &amp; feedback on their academic success. They told me this in a coffee shop and brought over their parents, introducing me as the guy that made their degree 📜 . Can’t remember what I did 🤦‍♂️ !!! #LTHEchat https://t.co/LRcNSSjJyZ"
+		"text": "A6: I’d made such an impact on a student they credited my support &amp; feedback on their academic success. They told me this in a coffee shop and brought over their parents, introducing me as the guy that made their degree 📜 . Can’t remember what I did 🤦♂️ !!! #LTHEchat https://t.co/LRcNSSjJyZ"
 	},
 	{
 		"created_at": "Wed Mar 06 20:48:33 +0000 2019",
@@ -3525,7 +4367,7 @@ Grailbird.data.tweets_2019_03 =
 				"name": "Suzanne Faulkner",
 				"screen_name": "SFaulknerPandO",
 				"location": "Largs, Scotland",
-				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻‍♀️🚴‍♀️ 🏃‍♀️Lego Serious Play facilitator",
+				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻♀️🚴♀️ 🏃♀️Lego Serious Play facilitator",
 				"url": "https://t.co/BXMTBgSRHk",
 				"entities": {
 					"url": {

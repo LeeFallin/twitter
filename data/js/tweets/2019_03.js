@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 22:25:58 +0000 2019",
+		"id": 1104146266336972800,
+		"id_str": "1104146266336972800",
+		"full_text": "@NomadWarMachine @baaanedict @scottturneruon @KiuSum @jnyrose @CliveBuckley @LTHEchat @RacePhil @kjhaxton @S_J_Lancaster @invisiblegrail @anortcliffe @suewatling @kateawright @A_L_T @SFaulknerPandO @suebecks https://t.co/F76XwQd7wx",
+		"truncated": false,
+		"display_text_range": [
+			207,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "jnyrose",
+					"name": "Jennie",
+					"id": 7590692,
+					"id_str": "7590692",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "CliveBuckley",
+					"name": "Clive Buckley",
+					"id": 92821277,
+					"id_str": "92821277",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "invisiblegrail",
+					"name": "Invisible Grail",
+					"id": 867028604596695000,
+					"id_str": "867028604596695040",
+					"indices": [
+						121,
+						136
+					]
+				},
+				{
+					"screen_name": "anortcliffe",
+					"name": "anortcliffe",
+					"id": 592655531,
+					"id_str": "592655531",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104146253837975600,
+					"id_str": "1104146253837975552",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D1K3KvgXQAAIQ4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1K3KvgXQAAIQ4S.jpg",
+					"url": "https://t.co/F76XwQd7wx",
+					"display_url": "pic.twitter.com/F76XwQd7wx",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1104146266336972800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104146253837975600,
+					"id_str": "1104146253837975552",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/D1K3KvgXQAAIQ4S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1K3KvgXQAAIQ4S.jpg",
+					"url": "https://t.co/F76XwQd7wx",
+					"display_url": "pic.twitter.com/F76XwQd7wx",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1104146266336972800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 398,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1104106674460282900,
+		"in_reply_to_status_id_str": "1104106674460282880",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1016,
+			"friends_count": 1010,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7607,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@NomadWarMachine @baaanedict @scottturneruon @KiuSum @jnyrose @CliveBuckley @LTHEchat @RacePhil @kjhaxton @S_J_Lancaster @invisiblegrail @anortcliffe @suewatling @kateawright @A_L_T @SFaulknerPandO @suebecks https://t.co/F76XwQd7wx"
+	},
+	{
 		"created_at": "Thu Mar 07 20:00:47 +0000 2019",
 		"id": 1102532283100266500,
 		"id_str": "1103747339469144064",
@@ -599,7 +944,7 @@ Grailbird.data.tweets_2019_03 =
 			"name": "Dr Zoë Ayres",
 			"screen_name": "ZJAyres",
 			"location": "England, United Kingdom",
-			"description": "Research scientist.👩‍🔬 Analytical scientist at heart.💙 Advocator for mental health awareness.🗣️  Cat lover.🐈 Feminist-in-progress.👩‍ All views are my own.",
+			"description": "Research scientist.👩🔬 Analytical scientist at heart.💙 Advocator for mental health awareness.🗣️  Cat lover.🐈 Feminist-in-progress.👩 All views are my own.",
 			"url": null,
 			"entities": {
 				"description": {

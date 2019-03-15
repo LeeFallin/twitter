@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 14 12:20:08 +0000 2019",
+		"id": 1106135745012662300,
+		"id_str": "1106168128776605702",
+		"full_text": "@MichaelONeill89 @KEHplantsci @DrCDArmstrong @StuNattrass @Peas_E @HullSTEMEd @LeeFallin Super interesting paper on this topic: \"The ﬁnal phase of development saw students internalise research as a practice... That is to say that research became part of their identity.\" https://t.co/IgcrRy0TQO @rhordosy @SocStudiesShef - lots to add to the #valueofHE project",
+		"truncated": false,
+		"display_text_range": [
+			89,
+			360
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "valueofHE",
+					"indices": [
+						342,
+						352
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "M.",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Dr Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "DrCDArmstrong",
+					"name": "Chris Armstrong",
+					"id": 941748203652829200,
+					"id_str": "941748203652829184",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "StuNattrass",
+					"name": "Stuart Nattrass",
+					"id": 86312038,
+					"id_str": "86312038",
+					"indices": [
+						45,
+						57
+					]
+				},
+				{
+					"screen_name": "Peas_E",
+					"name": "Emma Peasland",
+					"id": 72665913,
+					"id_str": "72665913",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"screen_name": "HullSTEMEd",
+					"name": "Hull STEM Ed Group",
+					"id": 831860368397975600,
+					"id_str": "831860368397975552",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "rhordosy",
+					"name": "Rita Hordósy",
+					"id": 1027194082391679000,
+					"id_str": "1027194082391678976",
+					"indices": [
+						295,
+						304
+					]
+				},
+				{
+					"screen_name": "SocStudiesShef",
+					"name": "SocStudiesShef",
+					"id": 945598393,
+					"id_str": "945598393",
+					"indices": [
+						305,
+						320
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IgcrRy0TQO",
+					"expanded_url": "https://doi.org/10.1080/13562517.2018.1544123",
+					"display_url": "doi.org/10.1080/135625…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1105755415827173400,
+		"in_reply_to_status_id_str": "1105755415827173377",
+		"in_reply_to_user_id": 902222919245418500,
+		"in_reply_to_user_id_str": "902222919245418497",
+		"in_reply_to_screen_name": "MichaelONeill89",
+		"user": {
+			"id": 1685253343,
+			"id_str": "1685253343",
+			"name": "Dominic Henri",
+			"screen_name": "DominicCHenri",
+			"location": "Hull, England",
+			"description": "Animal Behaviour lecturer at University of Hull. Bryophytes, bugs, birds, bats and befuddled students, if it moves I study it; if not, I study it until it moves",
+			"url": "http://t.co/goAQHyqwgi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/goAQHyqwgi",
+							"expanded_url": "http://www2.hull.ac.uk/science/bbes/our-staff/academic-staff/dominic-henri.aspx",
+							"display_url": "www2.hull.ac.uk/science/bbes/o…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380,
+			"friends_count": 311,
+			"listed_count": 8,
+			"created_at": "Tue Aug 20 08:21:48 +0000 2013",
+			"favourites_count": 2529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1866,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/609008498375045120/WFdAPc9g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/609008498375045120/WFdAPc9g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1685253343/1435774594",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MichaelONeill89 @KEHplantsci @DrCDArmstrong @StuNattrass @Peas_E @HullSTEMEd @LeeFallin Super interesting paper on this topic: \"The ﬁnal phase of development saw students internalise research as a practice... That is to say that research became part of their identity.\" https://t.co/IgcrRy0TQO @rhordosy @SocStudiesShef - lots to add to the #valueofHE project"
+	},
+	{
 		"created_at": "Wed Mar 13 21:29:48 +0000 2019",
 		"id": 1105944069937737700,
 		"id_str": "1105944069937737729",

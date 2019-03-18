@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 13:50:45 +0000 2019",
+		"id": 1107278100134531100,
+		"id_str": "1107278100134531073",
+		"full_text": "This GIF wins message of the day! https://t.co/JvkaG6Zp6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JvkaG6Zp6p",
+					"expanded_url": "https://twitter.com/thelongsurname/status/1107273640394047488",
+					"display_url": "twitter.com/thelongsurname…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1029,
+			"friends_count": 1015,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7647,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107273640394047500,
+		"quoted_status_id_str": "1107273640394047488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JvkaG6Zp6p",
+			"expanded": "https://twitter.com/thelongsurname/status/1107273640394047488",
+			"display": "twitter.com/thelongsurname…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 17 13:33:02 +0000 2019",
+			"id": 1107273640394047500,
+			"id_str": "1107273640394047488",
+			"full_text": "@LeeFallin Happy Birthday Lee! https://t.co/sPQcpHdjB6",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1107273632437469200,
+						"id_str": "1107273632437469184",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D13TgIqXgAAyMsD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D13TgIqXgAAyMsD.jpg",
+						"url": "https://t.co/sPQcpHdjB6",
+						"display_url": "pic.twitter.com/sPQcpHdjB6",
+						"expanded_url": "https://twitter.com/thelongsurname/status/1107273640394047488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107273632437469200,
+						"id_str": "1107273632437469184",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D13TgIqXgAAyMsD.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D13TgIqXgAAyMsD.jpg",
+						"url": "https://t.co/sPQcpHdjB6",
+						"display_url": "pic.twitter.com/sPQcpHdjB6",
+						"expanded_url": "https://twitter.com/thelongsurname/status/1107273640394047488/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D13TgIqXgAAyMsD.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1107241859850661900,
+			"in_reply_to_status_id_str": "1107241859850661888",
+			"in_reply_to_user_id": 55448837,
+			"in_reply_to_user_id_str": "55448837",
+			"in_reply_to_screen_name": "LeeFallin",
+			"user": {
+				"id": 56149658,
+				"id_str": "56149658",
+				"name": "Kitty Lees-Edmondson",
+				"screen_name": "thelongsurname",
+				"location": "By the River ",
+				"description": ". #Hull2017 . Graphic Design . HE . Peppermint Tea . Coastal Walks. European Adventures ✈️ .",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 166,
+				"friends_count": 177,
+				"listed_count": 5,
+				"created_at": "Sun Jul 12 18:04:47 +0000 2009",
+				"favourites_count": 1249,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1624,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E80E39",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988103185788211200/vCFb8mDL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988103185788211200/vCFb8mDL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/56149658/1524416860",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This GIF wins message of the day! https://t.co/JvkaG6Zp6p"
+	},
+	{
+		"created_at": "Sun Mar 17 11:29:03 +0000 2019",
+		"id": 1107242439172149200,
+		"id_str": "1107242439172149248",
+		"full_text": "More connections/friends is not necessarily better. I’d rather students have a smaller number of meaningful, useful contacts/connections. This assessment sends the wrong message. #LTHEchat https://t.co/TNKMrjDG9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNKMrjDG9P",
+					"expanded_url": "https://twitter.com/katinamichael/status/1106049208644075521",
+					"display_url": "twitter.com/katinamichael/…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1029,
+			"friends_count": 1015,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7647,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1106049208644075500,
+		"quoted_status_id_str": "1106049208644075521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TNKMrjDG9P",
+			"expanded": "https://twitter.com/katinamichael/status/1106049208644075521",
+			"display": "twitter.com/katinamichael/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 14 04:27:35 +0000 2019",
+			"id": 1106049208644075500,
+			"id_str": "1106049208644075521",
+			"full_text": "BBC News - Chinese students graded on number of WeChat friends https://t.co/0KKp5Pi95J @IEEESSIT @ASU_SFIS @2020science @alexanderhayes @profwernimont @ProfKRichardson @SafiaBarikzai @isabel_pedersen @TechandSoc @CSPO_ASU @ASUEngineering",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IEEESSIT",
+						"name": "IEEE SSIT",
+						"id": 273552851,
+						"id_str": "273552851",
+						"indices": [
+							87,
+							96
+						]
+					},
+					{
+						"screen_name": "ASU_SFIS",
+						"name": "ASU Future",
+						"id": 738033687896330200,
+						"id_str": "738033687896330240",
+						"indices": [
+							97,
+							106
+						]
+					},
+					{
+						"screen_name": "2020science",
+						"name": "Andrew Maynard",
+						"id": 15480686,
+						"id_str": "15480686",
+						"indices": [
+							107,
+							119
+						]
+					},
+					{
+						"screen_name": "alexanderhayes",
+						"name": "Alexander Hayes",
+						"id": 5832272,
+						"id_str": "5832272",
+						"indices": [
+							120,
+							135
+						]
+					},
+					{
+						"screen_name": "profwernimont",
+						"name": "Jacqueline Wernimont",
+						"id": 190886946,
+						"id_str": "190886946",
+						"indices": [
+							136,
+							150
+						]
+					},
+					{
+						"screen_name": "SafiaBarikzai",
+						"name": "Dr Safia Barikzai",
+						"id": 2175945061,
+						"id_str": "2175945061",
+						"indices": [
+							168,
+							182
+						]
+					},
+					{
+						"screen_name": "isabel_pedersen",
+						"name": "Isabel Pedersen",
+						"id": 16497730,
+						"id_str": "16497730",
+						"indices": [
+							183,
+							199
+						]
+					},
+					{
+						"screen_name": "TechandSoc",
+						"name": "Technology&Society",
+						"id": 863072684208476200,
+						"id_str": "863072684208476161",
+						"indices": [
+							200,
+							211
+						]
+					},
+					{
+						"screen_name": "CSPO_ASU",
+						"name": "CSPO at ASU",
+						"id": 455082561,
+						"id_str": "455082561",
+						"indices": [
+							212,
+							221
+						]
+					},
+					{
+						"screen_name": "ASUEngineering",
+						"name": "ASU Engineering",
+						"id": 60664331,
+						"id_str": "60664331",
+						"indices": [
+							222,
+							237
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0KKp5Pi95J",
+						"expanded_url": "https://www.bbc.com/news/blogs-trending-47554676",
+						"display_url": "bbc.com/news/blogs-tre…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69288359,
+				"id_str": "69288359",
+				"name": "Katina Michael",
+				"screen_name": "katinamichael",
+				"location": "Arizona, USA",
+				"description": "Center Director for Engineering, Policy & Society @ASU. Founding editor of IEEE Transactions on Technology and Society @IEEESSIT. Thinking about the future.",
+				"url": "https://t.co/c7WYvd1enn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c7WYvd1enn",
+								"expanded_url": "http://isearch.asu.edu/node/253841/",
+								"display_url": "isearch.asu.edu/node/253841/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3209,
+				"friends_count": 4807,
+				"listed_count": 244,
+				"created_at": "Thu Aug 27 13:22:19 +0000 2009",
+				"favourites_count": 3974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7731,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049900813701795841/wE2qboAq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049900813701795841/wE2qboAq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69288359/1400688143",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "333238",
+				"profile_text_color": "CCBCCC",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More connections/friends is not necessarily better. I’d rather students have a smaller number of meaningful, useful contacts/connections. This assessment sends the wrong message. #LTHEchat https://t.co/TNKMrjDG9P"
+	},
+	{
 		"created_at": "Fri Mar 15 08:54:11 +0000 2019",
 		"id": 1105935286448676900,
 		"id_str": "1106478689292820481",

@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 18 12:54:32 +0000 2019",
+		"id": 1107626339148927000,
+		"id_str": "1107626339148926977",
+		"full_text": "@Staplefordk @suewatling @A_L_T Absolutely @Staplefordk - it’s licensed CC BY NC SA",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1107597608418246700,
+		"in_reply_to_status_id_str": "1107597608418246656",
+		"in_reply_to_user_id": 1114336879,
+		"in_reply_to_user_id_str": "1114336879",
+		"in_reply_to_screen_name": "Staplefordk",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1028,
+			"friends_count": 1015,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7648,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Staplefordk @suewatling @A_L_T Absolutely @Staplefordk - it’s licensed CC BY NC SA"
+	},
+	{
 		"created_at": "Sun Mar 17 13:50:45 +0000 2019",
 		"id": 1107278100134531100,
 		"id_str": "1107278100134531073",

@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 23:32:23 +0000 2019",
+		"id": 1107679054994509800,
+		"id_str": "1108149247113904128",
+		"full_text": "Very excited to be launching the University of Hull Student Social Work Journal at our conference this week.  Some of the great work from our very talented students. https://t.co/60AoF7xXYa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107679050200432600,
+					"id_str": "1107679050200432641",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D19EOjhWwAE1Tfa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D19EOjhWwAE1Tfa.jpg",
+					"url": "https://t.co/60AoF7xXYa",
+					"display_url": "pic.twitter.com/60AoF7xXYa",
+					"expanded_url": "https://twitter.com/liz_price_/status/1107679054994509825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 949,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107679050200432600,
+					"id_str": "1107679050200432641",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/D19EOjhWwAE1Tfa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D19EOjhWwAE1Tfa.jpg",
+					"url": "https://t.co/60AoF7xXYa",
+					"display_url": "pic.twitter.com/60AoF7xXYa",
+					"expanded_url": "https://twitter.com/liz_price_/status/1107679054994509825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 949,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1618,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 538,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3110728720,
+			"id_str": "3110728720",
+			"name": "Liz Price",
+			"screen_name": "liz_price_",
+			"location": "East Yorkshire",
+			"description": "Social Work at Hull. Sexualities, Chronic Illness, Music and Wellbeing (not necessarily at the same time!)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 1093,
+			"listed_count": 2,
+			"created_at": "Tue Mar 24 15:59:10 +0000 2015",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1086,
+			"lang": "en-GB",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/929092511624237058/ezuGOidU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/929092511624237058/ezuGOidU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3110728720/1467836275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very excited to be launching the University of Hull Student Social Work Journal at our conference this week.  Some of the great work from our very talented students. https://t.co/60AoF7xXYa"
+	},
+	{
 		"created_at": "Mon Mar 18 12:54:32 +0000 2019",
 		"id": 1107626339148927000,
 		"id_str": "1107626339148926977",

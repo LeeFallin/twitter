@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 12:18:53 +0000 2019",
+		"id": 1111603634792476700,
+		"id_str": "1111603634792476673",
+		"full_text": "Thanks to @CertMatters this #AllDigitalWeek, I’ve just been able to take and pass the Microsoft Certified Educator exam! 🎉 Great edition to my #MIEExpert @MicrosoftEDU @microsofteduk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AllDigitalWeek",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CertMatters",
+					"name": "Prodigy Learning",
+					"id": 255452054,
+					"id_str": "255452054",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"screen_name": "microsofteduk",
+					"name": "Microsoft Education",
+					"id": 48661542,
+					"id_str": "48661542",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity.",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1033,
+			"friends_count": 1022,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thanks to @CertMatters this #AllDigitalWeek, I’ve just been able to take and pass the Microsoft Certified Educator exam! 🎉 Great edition to my #MIEExpert @MicrosoftEDU @microsofteduk"
+	},
+	{
 		"created_at": "Wed Mar 27 20:59:04 +0000 2019",
 		"id": 1111009766300676100,
 		"id_str": "1111009766300676096",
@@ -1405,7 +1546,7 @@ Grailbird.data.tweets_2019_03 =
 		"created_at": "Wed Mar 27 20:39:46 +0000 2019",
 		"id": 1111004908520726500,
 		"id_str": "1111004908520726534",
-		"full_text": "@richdebc @katevideo @MelroseStewart1 I’m sure I’ll find it rewarding! It’s just the cost is a barrier while I’m paying to fund my doctorate still 🤦‍♂️  #HEAFellowships #LTHEchat #AdvanceHE_chat",
+		"full_text": "@richdebc @katevideo @MelroseStewart1 I’m sure I’ll find it rewarding! It’s just the cost is a barrier while I’m paying to fund my doctorate still 🤦♂️  #HEAFellowships #LTHEchat #AdvanceHE_chat",
 		"truncated": false,
 		"display_text_range": [
 			38,
@@ -1547,7 +1688,7 @@ Grailbird.data.tweets_2019_03 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@richdebc @katevideo @MelroseStewart1 I’m sure I’ll find it rewarding! It’s just the cost is a barrier while I’m paying to fund my doctorate still 🤦‍♂️  #HEAFellowships #LTHEchat #AdvanceHE_chat"
+		"text": "@richdebc @katevideo @MelroseStewart1 I’m sure I’ll find it rewarding! It’s just the cost is a barrier while I’m paying to fund my doctorate still 🤦♂️  #HEAFellowships #LTHEchat #AdvanceHE_chat"
 	},
 	{
 		"created_at": "Wed Mar 27 20:38:16 +0000 2019",

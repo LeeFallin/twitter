@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 12 15:00:05 +0000 2019",
+		"id": 1067797888066101200,
+		"id_str": "1116717629027364869",
+		"full_text": "An ultimate guide to using @wakelet in the classroom by @kathleen_morris \nFind out:\n\n🌊What Wakelet is and how it's used\n🌊How you can get started in 4 steps\n🌊How Wakelet could be used by teachers and students\n\nhttps://t.co/TvpA6Bajeb … \n\n#TheHumansAreComing #WakeletWave https://t.co/sdYGLNqUeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheHumansAreComing",
+					"indices": [
+						237,
+						256
+					]
+				},
+				{
+					"text": "WakeletWave",
+					"indices": [
+						257,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "kathleen_morris",
+					"name": "Kathleen Morris 🇦🇺",
+					"id": 23413264,
+					"id_str": "23413264",
+					"indices": [
+						56,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TvpA6Bajeb",
+					"expanded_url": "http://www.kathleenamorris.com/2018/08/27/wakelet/",
+					"display_url": "kathleenamorris.com/2018/08/27/wak…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067780380638486500,
+					"id_str": "1067780380638486529",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DtGEmU4WoAEBO4t.png",
+					"media_url_https": "https://pbs.twimg.com/media/DtGEmU4WoAEBO4t.png",
+					"url": "https://t.co/sdYGLNqUeI",
+					"display_url": "pic.twitter.com/sdYGLNqUeI",
+					"expanded_url": "https://twitter.com/Cnight97/status/1067797888066101250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067780380638486500,
+					"id_str": "1067780380638486529",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/DtGEmU4WoAEBO4t.png",
+					"media_url_https": "https://pbs.twimg.com/media/DtGEmU4WoAEBO4t.png",
+					"url": "https://t.co/sdYGLNqUeI",
+					"display_url": "pic.twitter.com/sdYGLNqUeI",
+					"expanded_url": "https://twitter.com/Cnight97/status/1067797888066101250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 560632694,
+			"id_str": "560632694",
+			"name": "Callum",
+			"screen_name": "Cnight97",
+			"location": "Stockport, England",
+			"description": "Engagement team @Wakelet. \nJoin the #WakeletWave 🌊 \n\nGet in touch: Callum@wakelet.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2114,
+			"friends_count": 2893,
+			"listed_count": 9,
+			"created_at": "Sun Apr 22 22:11:55 +0000 2012",
+			"favourites_count": 2524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3313,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079039507897483266/lv22sQq1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079039507897483266/lv22sQq1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/560632694/1477144236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An ultimate guide to using @wakelet in the classroom by @kathleen_morris \nFind out:\n\n🌊What Wakelet is and how it's used\n🌊How you can get started in 4 steps\n🌊How Wakelet could be used by teachers and students\n\nhttps://t.co/TvpA6Bajeb … \n\n#TheHumansAreComing #WakeletWave https://t.co/sdYGLNqUeI"
+	},
+	{
 		"created_at": "Thu Apr 11 10:46:46 +0000 2019",
 		"id": 1116291491981398000,
 		"id_str": "1116291491981398022",

@@ -1,6 +1,1220 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 14 21:15:19 +0000 2019",
+		"id": 1117536838493855700,
+		"id_str": "1117536838493855745",
+		"full_text": "@MichaelONeill89 🥺🥺🥺",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "michael o’neill, who prefers wagtails to pigeons",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117479476512854000,
+		"in_reply_to_status_id_str": "1117479476512854017",
+		"in_reply_to_user_id": 902222919245418500,
+		"in_reply_to_user_id_str": "902222919245418497",
+		"in_reply_to_screen_name": "MichaelONeill89",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@MichaelONeill89 🥺🥺🥺"
+	},
+	{
+		"created_at": "Sun Apr 14 15:02:52 +0000 2019",
+		"id": 1117443105626701800,
+		"id_str": "1117443105626701824",
+		"full_text": "@Staplefordk @t_hinchcliffe @ellapopper @jaxbartram @AnikaEasy I wonder how many of us will be leaving the train and heading to the Premier Inn 🏨 #ALDcon",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "t_hinchcliffe",
+					"name": "Tim Hinchcliffe",
+					"id": 2444658355,
+					"id_str": "2444658355",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AnikaEasy",
+					"name": "Anika Easy",
+					"id": 551033058,
+					"id_str": "551033058",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117442197849301000,
+		"in_reply_to_status_id_str": "1117442197849300992",
+		"in_reply_to_user_id": 1114336879,
+		"in_reply_to_user_id_str": "1114336879",
+		"in_reply_to_screen_name": "Staplefordk",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Staplefordk @t_hinchcliffe @ellapopper @jaxbartram @AnikaEasy I wonder how many of us will be leaving the train and heading to the Premier Inn 🏨 #ALDcon"
+	},
+	{
+		"created_at": "Sun Apr 14 14:53:44 +0000 2019",
+		"id": 1117440806787473400,
+		"id_str": "1117440806787473409",
+		"full_text": "@t_hinchcliffe @Staplefordk @ellapopper @jaxbartram @AnikaEasy 🤣😂🤣 https://t.co/mM1JpfSESv",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "t_hinchcliffe",
+					"name": "Tim Hinchcliffe",
+					"id": 2444658355,
+					"id_str": "2444658355",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AnikaEasy",
+					"name": "Anika Easy",
+					"id": 551033058,
+					"id_str": "551033058",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117440798298132500,
+					"id_str": "1117440798298132480",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4HyfFAW0AAMwJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4HyfFAW0AAMwJ-.jpg",
+					"url": "https://t.co/mM1JpfSESv",
+					"display_url": "pic.twitter.com/mM1JpfSESv",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117440806787473409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 450,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 252,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117440798298132500,
+					"id_str": "1117440798298132480",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4HyfFAW0AAMwJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4HyfFAW0AAMwJ-.jpg",
+					"url": "https://t.co/mM1JpfSESv",
+					"display_url": "pic.twitter.com/mM1JpfSESv",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117440806787473409/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 450,
+							"h": 252,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 252,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 252,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D4HyfFAW0AAMwJ-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117440568697720800,
+		"in_reply_to_status_id_str": "1117440568697720832",
+		"in_reply_to_user_id": 2444658355,
+		"in_reply_to_user_id_str": "2444658355",
+		"in_reply_to_screen_name": "t_hinchcliffe",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@t_hinchcliffe @Staplefordk @ellapopper @jaxbartram @AnikaEasy 🤣😂🤣 https://t.co/mM1JpfSESv"
+	},
+	{
+		"created_at": "Sun Apr 14 14:44:29 +0000 2019",
+		"id": 1117438479481417700,
+		"id_str": "1117438479481417728",
+		"full_text": "@jaxbartram @t_hinchcliffe @Staplefordk @ellapopper @AnikaEasy Although. To be fair. Sounds like via Birmingham is the only way into London from the North/East with KGX overhead power issues and work at St Pancras ...",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "t_hinchcliffe",
+					"name": "Tim Hinchcliffe",
+					"id": 2444658355,
+					"id_str": "2444658355",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AnikaEasy",
+					"name": "Anika Easy",
+					"id": 551033058,
+					"id_str": "551033058",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117437782035714000,
+		"in_reply_to_status_id_str": "1117437782035714048",
+		"in_reply_to_user_id": 393933440,
+		"in_reply_to_user_id_str": "393933440",
+		"in_reply_to_screen_name": "jaxbartram",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jaxbartram @t_hinchcliffe @Staplefordk @ellapopper @AnikaEasy Although. To be fair. Sounds like via Birmingham is the only way into London from the North/East with KGX overhead power issues and work at St Pancras ..."
+	},
+	{
+		"created_at": "Sun Apr 14 14:43:27 +0000 2019",
+		"id": 1117438222651539500,
+		"id_str": "1117438222651539457",
+		"full_text": "@jaxbartram @t_hinchcliffe @Staplefordk @ellapopper @AnikaEasy I think @CrossCountryUK are conducting an experiment to see if:\n\nhumans + pressure * heat = 💎 \n\n#ALDcon",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "t_hinchcliffe",
+					"name": "Tim Hinchcliffe",
+					"id": 2444658355,
+					"id_str": "2444658355",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AnikaEasy",
+					"name": "Anika Easy",
+					"id": 551033058,
+					"id_str": "551033058",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "CrossCountryUK",
+					"name": "CrossCountry trains",
+					"id": 153368708,
+					"id_str": "153368708",
+					"indices": [
+						71,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117437782035714000,
+		"in_reply_to_status_id_str": "1117437782035714048",
+		"in_reply_to_user_id": 393933440,
+		"in_reply_to_user_id_str": "393933440",
+		"in_reply_to_screen_name": "jaxbartram",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jaxbartram @t_hinchcliffe @Staplefordk @ellapopper @AnikaEasy I think @CrossCountryUK are conducting an experiment to see if:\n\nhumans + pressure * heat = 💎 \n\n#ALDcon"
+	},
+	{
+		"created_at": "Sun Apr 14 14:40:43 +0000 2019",
+		"id": 1117437533078597600,
+		"id_str": "1117437533078597632",
+		"full_text": "@t_hinchcliffe @Staplefordk @ellapopper @jaxbartram @AnikaEasy You should have seen the last train. This carriage has SO MUCH SPACE in comparison.",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "t_hinchcliffe",
+					"name": "Tim Hinchcliffe",
+					"id": 2444658355,
+					"id_str": "2444658355",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AnikaEasy",
+					"name": "Anika Easy",
+					"id": 551033058,
+					"id_str": "551033058",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117435261049299000,
+		"in_reply_to_status_id_str": "1117435261049298946",
+		"in_reply_to_user_id": 2444658355,
+		"in_reply_to_user_id_str": "2444658355",
+		"in_reply_to_screen_name": "t_hinchcliffe",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@t_hinchcliffe @Staplefordk @ellapopper @jaxbartram @AnikaEasy You should have seen the last train. This carriage has SO MUCH SPACE in comparison."
+	},
+	{
+		"created_at": "Sun Apr 14 14:28:40 +0000 2019",
+		"id": 1117434502220009500,
+		"id_str": "1117434502220009472",
+		"full_text": "@Staplefordk @ellapopper @t_hinchcliffe @jaxbartram @AnikaEasy We could at least have a pre-conference break out! #ALDcon",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Staplefordk",
+					"name": "Katharine Stapleford",
+					"id": 1114336879,
+					"id_str": "1114336879",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "t_hinchcliffe",
+					"name": "Tim Hinchcliffe",
+					"id": 2444658355,
+					"id_str": "2444658355",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "AnikaEasy",
+					"name": "Anika Easy",
+					"id": 551033058,
+					"id_str": "551033058",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117434254349295600,
+		"in_reply_to_status_id_str": "1117434254349295616",
+		"in_reply_to_user_id": 1114336879,
+		"in_reply_to_user_id_str": "1114336879",
+		"in_reply_to_screen_name": "Staplefordk",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Staplefordk @ellapopper @t_hinchcliffe @jaxbartram @AnikaEasy We could at least have a pre-conference break out! #ALDcon"
+	},
+	{
+		"created_at": "Sun Apr 14 09:27:03 +0000 2019",
+		"id": 1117358597749526500,
+		"id_str": "1117358597749526528",
+		"full_text": "This is the healthiest start I’ve had to a long train journey - ditching my regular sausage sandwich for some red berry portage - but it still started with @GreggsOfficial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GreggsOfficial",
+					"name": "Greggs",
+					"id": 19932359,
+					"id_str": "19932359",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1050,
+			"friends_count": 1026,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This is the healthiest start I’ve had to a long train journey - ditching my regular sausage sandwich for some red berry portage - but it still started with @GreggsOfficial"
+	},
+	{
 		"created_at": "Sat Apr 13 13:17:59 +0000 2019",
 		"id": 1117050836025090000,
 		"id_str": "1117054326428532736",

@@ -1,6 +1,6433 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 20:41:32 +0000 2019",
+		"id": 1117890722508599300,
+		"id_str": "1117890722508599296",
+		"full_text": "I think this may be the best #ALDcon night one I’ve experienced! ❤️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I think this may be the best #ALDcon night one I’ve experienced! ❤️"
+	},
+	{
+		"created_at": "Mon Apr 15 18:36:52 +0000 2019",
+		"id": 1117772226705657900,
+		"id_str": "1117859351736115204",
+		"full_text": "Scholarship of learning development is the underpinning to our practice. It provides clarity, facilities collaboration and moves our practice forward #aldcon https://t.co/bCHUdLg7sq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aldcon",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117772220166758400,
+					"id_str": "1117772220166758402",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Mf6XrW4AIsDAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Mf6XrW4AIsDAs.jpg",
+					"url": "https://t.co/bCHUdLg7sq",
+					"display_url": "pic.twitter.com/bCHUdLg7sq",
+					"expanded_url": "https://twitter.com/Staplefordk/status/1117772226705657856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117772220166758400,
+					"id_str": "1117772220166758402",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Mf6XrW4AIsDAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Mf6XrW4AIsDAs.jpg",
+					"url": "https://t.co/bCHUdLg7sq",
+					"display_url": "pic.twitter.com/bCHUdLg7sq",
+					"expanded_url": "https://twitter.com/Staplefordk/status/1117772226705657856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114336879,
+			"id_str": "1114336879",
+			"name": "Katharine Stapleford",
+			"screen_name": "Staplefordk",
+			"location": "UK",
+			"description": "Interested in e-learning and all things technology enhanced. PhD student & Lecturer in Digital Education. Also loves cats, keeps bees and runs a bit on t'moors.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 395,
+			"listed_count": 7,
+			"created_at": "Wed Jan 23 13:03:39 +0000 2013",
+			"favourites_count": 846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 778,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110136264924241921/iTBaUxf8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110136264924241921/iTBaUxf8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114336879/1364562178",
+			"profile_link_color": "1448E3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scholarship of learning development is the underpinning to our practice. It provides clarity, facilities collaboration and moves our practice forward #aldcon https://t.co/bCHUdLg7sq"
+	},
+	{
+		"created_at": "Mon Apr 15 18:33:50 +0000 2019",
+		"id": 1117858585591963600,
+		"id_str": "1117858585591963648",
+		"full_text": "I forgot about this 🤭! Seems so long ago since being awarded - but such a rewarding process! Hope there is lots more interest in CEP and CeLP after today! 🙌 #ALDcon https://t.co/lBFH9kAnGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lBFH9kAnGJ",
+					"expanded_url": "https://twitter.com/aldinhe_lh/status/1117708445036236802",
+					"display_url": "twitter.com/aldinhe_lh/sta…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117708445036236800,
+		"quoted_status_id_str": "1117708445036236802",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lBFH9kAnGJ",
+			"expanded": "https://twitter.com/aldinhe_lh/status/1117708445036236802",
+			"display": "twitter.com/aldinhe_lh/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 08:37:13 +0000 2019",
+			"id": 1117708445036236800,
+			"id_str": "1117708445036236802",
+			"full_text": "Co-chair @EvilDoctorB signing Cep and CeLP professional recognition to be awarded a #aldcon https://t.co/XTtIx0RDFf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aldcon",
+						"indices": [
+							84,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EvilDoctorB",
+						"name": "Dr Carina Buckley",
+						"id": 576962461,
+						"id_str": "576962461",
+						"indices": [
+							9,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117708436630921200,
+						"id_str": "1117708436630921216",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/D4Ll5rfX4AA0cYW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4Ll5rfX4AA0cYW.jpg",
+						"url": "https://t.co/XTtIx0RDFf",
+						"display_url": "pic.twitter.com/XTtIx0RDFf",
+						"expanded_url": "https://twitter.com/aldinhe_LH/status/1117708445036236802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117708436630921200,
+						"id_str": "1117708436630921216",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/D4Ll5rfX4AA0cYW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4Ll5rfX4AA0cYW.jpg",
+						"url": "https://t.co/XTtIx0RDFf",
+						"display_url": "pic.twitter.com/XTtIx0RDFf",
+						"expanded_url": "https://twitter.com/aldinhe_LH/status/1117708445036236802/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119064069,
+				"id_str": "119064069",
+				"name": "ALDinHE",
+				"screen_name": "aldinhe_LH",
+				"location": "",
+				"description": "Association for Learning Development in Higher Education. A community to empower Learning Developer's to empower staff and students in Higher Education.",
+				"url": "http://t.co/RPdGuA89rp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RPdGuA89rp",
+								"expanded_url": "http://www.aldinhe.ac.uk",
+								"display_url": "aldinhe.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 854,
+				"friends_count": 387,
+				"listed_count": 25,
+				"created_at": "Tue Mar 02 15:21:07 +0000 2010",
+				"favourites_count": 617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 963,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119064069/1530529040",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I forgot about this 🤭! Seems so long ago since being awarded - but such a rewarding process! Hope there is lots more interest in CEP and CeLP after today! 🙌 #ALDcon https://t.co/lBFH9kAnGJ"
+	},
+	{
+		"created_at": "Mon Apr 15 18:31:43 +0000 2019",
+		"id": 1117858053024407600,
+		"id_str": "1117858053024407554",
+		"full_text": "@DebbieHolley1 @aldcon @cel_bu @CEL_Impact and to think - @jaxbartram was concerned about closing her moving ring! #ALDcon #AppleWatch",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "AppleWatch",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "aldcon",
+					"name": "Allan",
+					"id": 315812597,
+					"id_str": "315812597",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "cel_bu",
+					"name": "CEL BU",
+					"id": 3247481625,
+					"id_str": "3247481625",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "CEL_Impact",
+					"name": "CEL_Impact",
+					"id": 1045423238803804200,
+					"id_str": "1045423238803804160",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117703185324548100,
+		"in_reply_to_status_id_str": "1117703185324548096",
+		"in_reply_to_user_id": 77721089,
+		"in_reply_to_user_id_str": "77721089",
+		"in_reply_to_screen_name": "DebbieHolley1",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DebbieHolley1 @aldcon @cel_bu @CEL_Impact and to think - @jaxbartram was concerned about closing her moving ring! #ALDcon #AppleWatch"
+	},
+	{
+		"created_at": "Mon Apr 15 18:29:58 +0000 2019",
+		"id": 1117857615088898000,
+		"id_str": "1117857615088898048",
+		"full_text": "I still haven’t looked in the bag yet. Oooop! Looking foreword to reading the newsletter! #ALDcon https://t.co/JK04ZMjIjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JK04ZMjIjq",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1117727359619276802",
+					"display_url": "twitter.com/scholastic_rat…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117727359619276800,
+		"quoted_status_id_str": "1117727359619276802",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JK04ZMjIjq",
+			"expanded": "https://twitter.com/scholastic_rat/status/1117727359619276802",
+			"display": "twitter.com/scholastic_rat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 09:52:23 +0000 2019",
+			"id": 1117727359619276800,
+			"id_str": "1117727359619276802",
+			"full_text": "Stuffing bags at #aldcon with the new @aldinhe_LH newsletter- I seem to have become engrossed in the contents rather than the task. Oops! Great articles from @kimshahabudin @estebanrooney @DebbieHolley1 and others",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aldcon",
+						"indices": [
+							17,
+							24
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aldinhe_LH",
+						"name": "ALDinHE",
+						"id": 119064069,
+						"id_str": "119064069",
+						"indices": [
+							38,
+							49
+						]
+					},
+					{
+						"screen_name": "kimshahabudin",
+						"name": "Dr Kim Shahabudin",
+						"id": 36013446,
+						"id_str": "36013446",
+						"indices": [
+							158,
+							172
+						]
+					},
+					{
+						"screen_name": "estebanrooney",
+						"name": "Steve Rooney",
+						"id": 104459771,
+						"id_str": "104459771",
+						"indices": [
+							173,
+							187
+						]
+					},
+					{
+						"screen_name": "DebbieHolley1",
+						"name": "Dr Debbie Holley",
+						"id": 77721089,
+						"id_str": "77721089",
+						"indices": [
+							188,
+							202
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 395277106,
+				"id_str": "395277106",
+				"name": "Dr Helen Webster 📚🐀",
+				"screen_name": "scholastic_rat",
+				"location": "University of Newcastle, UK",
+				"description": "Learning Developer (CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre- academic literacies, study skills. Ex medievalist. Views own.",
+				"url": "https://t.co/eoyoPKvnXK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eoyoPKvnXK",
+								"expanded_url": "https://rattusscholasticus.wordpress.com/",
+								"display_url": "rattusscholasticus.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1613,
+				"friends_count": 1004,
+				"listed_count": 79,
+				"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+				"favourites_count": 3218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8854,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I still haven’t looked in the bag yet. Oooop! Looking foreword to reading the newsletter! #ALDcon https://t.co/JK04ZMjIjq"
+	},
+	{
+		"created_at": "Mon Apr 15 18:28:31 +0000 2019",
+		"id": 1117857249832075300,
+		"id_str": "1117857249832075270",
+		"full_text": "@heathergrierson @aldinhe_LH @uglibrary Hope you’ve both enjoyed your first #ALDcon  day one afternoon @heathergrierson @manclibrarian",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						76,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heathergrierson",
+					"name": "Heather Mitchell",
+					"id": 174622989,
+					"id_str": "174622989",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "uglibrary",
+					"name": "U of G Library",
+					"id": 88947681,
+					"id_str": "88947681",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "heathergrierson",
+					"name": "Heather Mitchell",
+					"id": 174622989,
+					"id_str": "174622989",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"screen_name": "manclibrarian",
+					"name": "Sam Aston",
+					"id": 466472745,
+					"id_str": "466472745",
+					"indices": [
+						120,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117742471612702700,
+		"in_reply_to_status_id_str": "1117742471612702720",
+		"in_reply_to_user_id": 174622989,
+		"in_reply_to_user_id_str": "174622989",
+		"in_reply_to_screen_name": "heathergrierson",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heathergrierson @aldinhe_LH @uglibrary Hope you’ve both enjoyed your first #ALDcon  day one afternoon @heathergrierson @manclibrarian"
+	},
+	{
+		"created_at": "Mon Apr 15 17:47:38 +0000 2019",
+		"id": 1117846962005598200,
+		"id_str": "1117846962005598208",
+		"full_text": "Only @jaxbartram would take me on a pre-pub crawl pub crawl. #ALDcon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						61,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Only @jaxbartram would take me on a pre-pub crawl pub crawl. #ALDcon"
+	},
+	{
+		"created_at": "Mon Apr 15 17:44:08 +0000 2019",
+		"id": 1117846078081122300,
+		"id_str": "1117846078081122308",
+		"full_text": "I was good - I only had one cookie at #ALDcon break time. But they were good. Very good. This could have so easily been me @aldinhe_LH: https://t.co/nbpPhZYWfs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						123,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nbpPhZYWfs",
+					"expanded_url": "https://twitter.com/thismorning/status/1117758518352842752",
+					"display_url": "twitter.com/thismorning/st…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117758518352842800,
+		"quoted_status_id_str": "1117758518352842752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nbpPhZYWfs",
+			"expanded": "https://twitter.com/thismorning/status/1117758518352842752",
+			"display": "twitter.com/thismorning/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 11:56:12 +0000 2019",
+			"id": 1117758518352842800,
+			"id_str": "1117758518352842752",
+			"full_text": "When one cookie just isn't enough! 🍪\n\n@sesamestreet @MeCookieMonster https://t.co/J43vSHYsMY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sesamestreet",
+						"name": "Sesame Street",
+						"id": 86330674,
+						"id_str": "86330674",
+						"indices": [
+							38,
+							51
+						]
+					},
+					{
+						"screen_name": "MeCookieMonster",
+						"name": "Cookie Monster",
+						"id": 2372164754,
+						"id_str": "2372164754",
+						"indices": [
+							52,
+							68
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117758497364619300,
+						"id_str": "1117758497364619266",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4MTbmQXsAIvV_Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4MTbmQXsAIvV_Y.jpg",
+						"url": "https://t.co/J43vSHYsMY",
+						"display_url": "pic.twitter.com/J43vSHYsMY",
+						"expanded_url": "https://twitter.com/thismorning/status/1117758518352842752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117758497364619300,
+						"id_str": "1117758497364619266",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D4MTbmQXsAIvV_Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D4MTbmQXsAIvV_Y.jpg",
+						"url": "https://t.co/J43vSHYsMY",
+						"display_url": "pic.twitter.com/J43vSHYsMY",
+						"expanded_url": "https://twitter.com/thismorning/status/1117758518352842752/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 270,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D4MTbmQXsAIvV_Y.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19291952,
+				"id_str": "19291952",
+				"name": "This Morning",
+				"screen_name": "thismorning",
+				"location": "London, England",
+				"description": "Join us weekdays and Sundays at 10:30am on ITV and STV! Tweets using @ThisMorning or #ThisMorning may be used on air. Terms: https://t.co/u4BYxXFfJq",
+				"url": "https://t.co/5Kncx4h7ob",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5Kncx4h7ob",
+								"expanded_url": "http://bit.ly/DownloadTMapp",
+								"display_url": "bit.ly/DownloadTMapp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/u4BYxXFfJq",
+								"expanded_url": "http://itv.com/terms",
+								"display_url": "itv.com/terms",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1818519,
+				"friends_count": 8876,
+				"listed_count": 1912,
+				"created_at": "Wed Jan 21 15:39:18 +0000 2009",
+				"favourites_count": 7992,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 60894,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ECECEC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080071092377739264/oMbCdCc8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080071092377739264/oMbCdCc8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19291952/1555325142",
+				"profile_link_color": "0CC5B8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4E3F4",
+				"profile_text_color": "282828",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 339,
+			"favorite_count": 1354,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was good - I only had one cookie at #ALDcon break time. But they were good. Very good. This could have so easily been me @aldinhe_LH: https://t.co/nbpPhZYWfs"
+	},
+	{
+		"created_at": "Mon Apr 15 17:30:49 +0000 2019",
+		"id": 1117842729701183500,
+		"id_str": "1117842729701183490",
+		"full_text": "Anyone registered to attend this is in for a treat. We call @jaxbartram the PowerPoint Queen back at @HullUni_Library - and her doctoral research is on visual literacy. I cannot imagine anyone better to deliver this workshop. #ALDcon @aldinhe_LH https://t.co/YBCxjFO7J0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						226,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						101,
+						117
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						234,
+						245
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YBCxjFO7J0",
+					"expanded_url": "https://twitter.com/jaxbartram/status/1117828613070626816",
+					"display_url": "twitter.com/jaxbartram/sta…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117828613070626800,
+		"quoted_status_id_str": "1117828613070626816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YBCxjFO7J0",
+			"expanded": "https://twitter.com/jaxbartram/status/1117828613070626816",
+			"display": "twitter.com/jaxbartram/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 16:34:44 +0000 2019",
+			"id": 1117828613070626800,
+			"id_str": "1117828613070626816",
+			"full_text": "Can’t wait to deliver my workshop on slide design at #aldcon tomorrow. Hope peeps don’t think I’m teaching grandmothers to suck eggs! https://t.co/Jb4UWAkU4m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "aldcon",
+						"indices": [
+							53,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117828586004799500,
+						"id_str": "1117828586004799494",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/D4NTLSyX4AY52VP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4NTLSyX4AY52VP.jpg",
+						"url": "https://t.co/Jb4UWAkU4m",
+						"display_url": "pic.twitter.com/Jb4UWAkU4m",
+						"expanded_url": "https://twitter.com/jaxbartram/status/1117828613070626816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 692,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1471,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117828586004799500,
+						"id_str": "1117828586004799494",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/D4NTLSyX4AY52VP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4NTLSyX4AY52VP.jpg",
+						"url": "https://t.co/Jb4UWAkU4m",
+						"display_url": "pic.twitter.com/Jb4UWAkU4m",
+						"expanded_url": "https://twitter.com/jaxbartram/status/1117828613070626816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 692,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1471,
+								"h": 848,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 392,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 393933440,
+				"id_str": "393933440",
+				"name": "Jacqueline Bartram",
+				"screen_name": "jaxbartram",
+				"location": "Hull and York",
+				"description": "Library Skills Adviser at Uni of Hull. Book lover, visual literacy champion, mosaic artist, wildlife gardener, embarrassing mother, sloppy housekeeper.",
+				"url": "https://t.co/6VOaMafhGz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6VOaMafhGz",
+								"expanded_url": "http://jaxbartram.wordpress.com",
+								"display_url": "jaxbartram.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 342,
+				"friends_count": 256,
+				"listed_count": 5,
+				"created_at": "Wed Oct 19 09:41:58 +0000 2011",
+				"favourites_count": 711,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 787,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603333452008706048/NcO9kmRr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603333452008706048/NcO9kmRr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/393933440/1543758816",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyone registered to attend this is in for a treat. We call @jaxbartram the PowerPoint Queen back at @HullUni_Library - and her doctoral research is on visual literacy. I cannot imagine anyone better to deliver this workshop. #ALDcon @aldinhe_LH https://t.co/YBCxjFO7J0"
+	},
+	{
+		"created_at": "Mon Apr 15 17:08:51 +0000 2019",
+		"id": 1117837200635441200,
+		"id_str": "1117837200635441153",
+		"full_text": "I had the pleasure of introducing @jaxbartram to the @WetherspoonsTA  App today at #ALDcon. It’s like magic. I tap some glass (screen) until alcohol arrives at the table. She isn’t so sure...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "WetherspoonsTA",
+					"name": "Wetherspoons Table App",
+					"id": 1101549439280390100,
+					"id_str": "1101549439280390149",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I had the pleasure of introducing @jaxbartram to the @WetherspoonsTA  App today at #ALDcon. It’s like magic. I tap some glass (screen) until alcohol arrives at the table. She isn’t so sure..."
+	},
+	{
+		"created_at": "Mon Apr 15 16:26:37 +0000 2019",
+		"id": 1117826572814364700,
+		"id_str": "1117826572814364675",
+		"full_text": "A very BIG thank you to @HullUni_ICT for all the work they're doing on upgrading our email systems. This is a mammoth task! The new version of Outlook Web Access brings some big usability improvements that students will love.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_ICT",
+					"name": "Uni of Hull ICT",
+					"id": 393352082,
+					"id_str": "393352082",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A very BIG thank you to @HullUni_ICT for all the work they're doing on upgrading our email systems. This is a mammoth task! The new version of Outlook Web Access brings some big usability improvements that students will love."
+	},
+	{
+		"created_at": "Mon Apr 15 16:19:41 +0000 2019",
+		"id": 1117824828470329300,
+		"id_str": "1117824828470329345",
+		"full_text": "@SandieDonnelly2 @scholastic_rat @aldinhe_LH I love that analogy! It does feel like splitting yourself between taking part in the discussion - &amp; recording it. Then you need to take one more slice of yourself to Tweet in the process! Challenging, but fun. I hope it's of use to those both at #ALDcon &amp; those unable to make it",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			332
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						295,
+						302
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SandieDonnelly2",
+					"name": "Sandie Donnelly",
+					"id": 855536657818419200,
+					"id_str": "855536657818419200",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1117824250969247700,
+		"in_reply_to_status_id_str": "1117824250969247744",
+		"in_reply_to_user_id": 855536657818419200,
+		"in_reply_to_user_id_str": "855536657818419200",
+		"in_reply_to_screen_name": "SandieDonnelly2",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SandieDonnelly2 @scholastic_rat @aldinhe_LH I love that analogy! It does feel like splitting yourself between taking part in the discussion - &amp; recording it. Then you need to take one more slice of yourself to Tweet in the process! Challenging, but fun. I hope it's of use to those both at #ALDcon &amp; those unable to make it"
+	},
+	{
+		"created_at": "Mon Apr 15 16:16:50 +0000 2019",
+		"id": 1117824111345008600,
+		"id_str": "1117824111345008640",
+		"full_text": "\"Dear computer programmers. Please make accessibility easy.\"\nSome reflections on how accessible (or not) the accessibility features are. #Inclusion #Diversity #Accessibility #Inclusive #EdTech #MIEE #MIEExpert @suewatling [Typos amended!] https://t.co/as55PhVzJL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Inclusion",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "Diversity",
+					"indices": [
+						148,
+						158
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"text": "Inclusive",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "MIEE",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						210,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/as55PhVzJL",
+					"expanded_url": "https://leefallin.co.uk/2019/04/dear-computer-programmers-please-make-accessibility-easy/",
+					"display_url": "leefallin.co.uk/2019/04/dear-c…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Dear computer programmers. Please make accessibility easy.\"\nSome reflections on how accessible (or not) the accessibility features are. #Inclusion #Diversity #Accessibility #Inclusive #EdTech #MIEE #MIEExpert @suewatling [Typos amended!] https://t.co/as55PhVzJL"
+	},
+	{
+		"created_at": "Mon Apr 15 15:59:42 +0000 2019",
+		"id": 1117760696798908400,
+		"id_str": "1117819798082195457",
+		"full_text": "🇬🇧Calling all UK #MIEExperts, re-submission applications are now live! Make sure you continue to be a part of our wonderful community! 😀#MicrosoftEdu #MIEExpert\n🗓️Application Window: April 15th-July 15th 2019🗓️\nClick below to complete yours now👇\nhttps://t.co/LjALbPk9VI https://t.co/7qk5mHhU53",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExperts",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"text": "MicrosoftEdu",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LjALbPk9VI",
+					"expanded_url": "https://aka.ms/UKMIEEnew",
+					"display_url": "aka.ms/UKMIEEnew",
+					"indices": [
+						246,
+						269
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1117760477378023400,
+					"id_str": "1117760477378023426",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D4MVO2YWkAIbyvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4MVO2YWkAIbyvQ.jpg",
+					"url": "https://t.co/7qk5mHhU53",
+					"display_url": "pic.twitter.com/7qk5mHhU53",
+					"expanded_url": "https://twitter.com/misskmgriffin/status/1117760696798908416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117760477378023400,
+					"id_str": "1117760477378023426",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/D4MVO2YWkAIbyvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4MVO2YWkAIbyvQ.jpg",
+					"url": "https://t.co/7qk5mHhU53",
+					"display_url": "pic.twitter.com/7qk5mHhU53",
+					"expanded_url": "https://twitter.com/misskmgriffin/status/1117760696798908416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3252676367,
+			"id_str": "3252676367",
+			"name": "Kristy Hill",
+			"screen_name": "misskmgriffin",
+			"location": "Derbyshire, England",
+			"description": "Microsoft Learning Consultant on the #MicrosoftEDU team in the UK 🇬🇧 #MIEExpert #SkypeMasterTeacher #MIETrainer @microsofteduk",
+			"url": "https://t.co/t6Cs6476vA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t6Cs6476vA",
+							"expanded_url": "https://blogs.msdn.microsoft.com/teachers/",
+							"display_url": "blogs.msdn.microsoft.com/teachers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 912,
+			"friends_count": 419,
+			"listed_count": 30,
+			"created_at": "Wed May 13 20:21:47 +0000 2015",
+			"favourites_count": 470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2193,
+			"lang": "en-GB",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957948914782605312/s86nKmWS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957948914782605312/s86nKmWS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3252676367/1517072704",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🇬🇧Calling all UK #MIEExperts, re-submission applications are now live! Make sure you continue to be a part of our wonderful community! 😀#MicrosoftEdu #MIEExpert\n🗓️Application Window: April 15th-July 15th 2019🗓️\nClick below to complete yours now👇\nhttps://t.co/LjALbPk9VI https://t.co/7qk5mHhU53"
+	},
+	{
+		"created_at": "Mon Apr 15 15:58:34 +0000 2019",
+		"id": 1117819511510585300,
+		"id_str": "1117819511510585344",
+		"full_text": "This thread from @lottelydia is well worth a read #ALDcon https://t.co/ARoOVtEyhD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lottelydia",
+					"name": "Dr Charlotte Lydia Riley",
+					"id": 16805695,
+					"id_str": "16805695",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ARoOVtEyhD",
+					"expanded_url": "https://twitter.com/lottelydia/status/1117761535995207680",
+					"display_url": "twitter.com/lottelydia/sta…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117761535995207700,
+		"quoted_status_id_str": "1117761535995207680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ARoOVtEyhD",
+			"expanded": "https://twitter.com/lottelydia/status/1117761535995207680",
+			"display": "twitter.com/lottelydia/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 15 12:08:11 +0000 2019",
+			"id": 1117761535995207700,
+			"id_str": "1117761535995207680",
+			"full_text": "Fuck — and I cannot stress this enough — off, @thetimes https://t.co/v2tzqDAVoC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				55
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thetimes",
+						"name": "The Times of London",
+						"id": 6107422,
+						"id_str": "6107422",
+						"indices": [
+							46,
+							55
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117761532404928500,
+						"id_str": "1117761532404928512",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/D4MWMQqXkAAgVEu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4MWMQqXkAAgVEu.jpg",
+						"url": "https://t.co/v2tzqDAVoC",
+						"display_url": "pic.twitter.com/v2tzqDAVoC",
+						"expanded_url": "https://twitter.com/lottelydia/status/1117761535995207680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 954,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 954,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117761532404928500,
+						"id_str": "1117761532404928512",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/D4MWMQqXkAAgVEu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4MWMQqXkAAgVEu.jpg",
+						"url": "https://t.co/v2tzqDAVoC",
+						"display_url": "pic.twitter.com/v2tzqDAVoC",
+						"expanded_url": "https://twitter.com/lottelydia/status/1117761535995207680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 954,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 954,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1117761532404928500,
+						"id_str": "1117761532404928513",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/D4MWMQqXkAEh7bt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D4MWMQqXkAEh7bt.jpg",
+						"url": "https://t.co/v2tzqDAVoC",
+						"display_url": "pic.twitter.com/v2tzqDAVoC",
+						"expanded_url": "https://twitter.com/lottelydia/status/1117761535995207680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 264,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 264,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 264,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16805695,
+				"id_str": "16805695",
+				"name": "Dr Charlotte Lydia Riley",
+				"screen_name": "lottelydia",
+				"location": "the past is a foreign country",
+				"description": "History: C20 Britain / (end of) empire / Labour / gender / aid policy / (failed) ideas about the future. Podcast: @tnkpod. Politics: 🍞, 🌹🌹. Views: my own 🐝.",
+				"url": "https://t.co/Mw8G4kCMti",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mw8G4kCMti",
+								"expanded_url": "http://tomorrowneverknowspod.com/",
+								"display_url": "tomorrowneverknowspod.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27538,
+				"friends_count": 1608,
+				"listed_count": 360,
+				"created_at": "Thu Oct 16 11:34:33 +0000 2008",
+				"favourites_count": 91421,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 53461,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "345478",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113004033315389441/DG5IEdbI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113004033315389441/DG5IEdbI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16805695/1548589234",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 654,
+			"favorite_count": 3453,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread from @lottelydia is well worth a read #ALDcon https://t.co/ARoOVtEyhD"
+	},
+	{
+		"created_at": "Mon Apr 15 15:54:08 +0000 2019",
+		"id": 1117727949766238200,
+		"id_str": "1117818397880913920",
+		"full_text": "Really excited at the prospect of a new blog on theory in #loveLD - a great read already and l look forward to it evolving!  https://t.co/w6bmJKHYcM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w6bmJKHYcM",
+					"expanded_url": "https://ldtheory.wordpress.com",
+					"display_url": "ldtheory.wordpress.com",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre- academic literacies, study skills. Ex medievalist. Views own.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 1004,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 3218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8854,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really excited at the prospect of a new blog on theory in #loveLD - a great read already and l look forward to it evolving!  https://t.co/w6bmJKHYcM"
+	},
+	{
+		"created_at": "Mon Apr 15 15:14:51 +0000 2019",
+		"id": 1117808511663185900,
+		"id_str": "1117808511663185926",
+		"full_text": "@drlittle26 @WellReadHE @KeeleInnovation We’re smashing the sugar at #ALDcon too. #AmazingCookies #Sugar https://t.co/gzpYrE4pNl",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "AmazingCookies",
+					"indices": [
+						82,
+						97
+					]
+				},
+				{
+					"text": "Sugar",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drlittle26",
+					"name": "Chris Little",
+					"id": 3308092431,
+					"id_str": "3308092431",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "WellReadHE",
+					"name": "WellReadHE",
+					"id": 1034753615691440100,
+					"id_str": "1034753615691440128",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "KeeleInnovation",
+					"name": "KIITE",
+					"id": 752604258944639000,
+					"id_str": "752604258944638976",
+					"indices": [
+						24,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117808507322097700,
+					"id_str": "1117808507322097665",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D4NA6j3X4AEHJwf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4NA6j3X4AEHJwf.jpg",
+					"url": "https://t.co/gzpYrE4pNl",
+					"display_url": "pic.twitter.com/gzpYrE4pNl",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117808511663185926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117808507322097700,
+					"id_str": "1117808507322097665",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/D4NA6j3X4AEHJwf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4NA6j3X4AEHJwf.jpg",
+					"url": "https://t.co/gzpYrE4pNl",
+					"display_url": "pic.twitter.com/gzpYrE4pNl",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117808511663185926/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117788680226312200,
+		"in_reply_to_status_id_str": "1117788680226312192",
+		"in_reply_to_user_id": 3308092431,
+		"in_reply_to_user_id_str": "3308092431",
+		"in_reply_to_screen_name": "drlittle26",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@drlittle26 @WellReadHE @KeeleInnovation We’re smashing the sugar at #ALDcon too. #AmazingCookies #Sugar https://t.co/gzpYrE4pNl"
+	},
+	{
+		"created_at": "Mon Apr 15 15:09:22 +0000 2019",
+		"id": 1117807131535736800,
+		"id_str": "1117807131535736832",
+		"full_text": "The 'Facilitating Learning Development Workshops' session by @scholastic_rat led some fascinating discussions around the nature of LD workshops. #loveLD #ALDcon @aldinhe_LH #LearningDevelopment #HigherEd https://t.co/xFeD9mJ1gA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "ALDcon",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "LearningDevelopment",
+					"indices": [
+						173,
+						193
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						194,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117807110576902100,
+					"id_str": "1117807110576902144",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D4M_pQlXkAAxJyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4M_pQlXkAAxJyw.jpg",
+					"url": "https://t.co/xFeD9mJ1gA",
+					"display_url": "pic.twitter.com/xFeD9mJ1gA",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117807131535736832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117807110576902100,
+					"id_str": "1117807110576902144",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/D4M_pQlXkAAxJyw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4M_pQlXkAAxJyw.jpg",
+					"url": "https://t.co/xFeD9mJ1gA",
+					"display_url": "pic.twitter.com/xFeD9mJ1gA",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117807131535736832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 909,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 'Facilitating Learning Development Workshops' session by @scholastic_rat led some fascinating discussions around the nature of LD workshops. #loveLD #ALDcon @aldinhe_LH #LearningDevelopment #HigherEd https://t.co/xFeD9mJ1gA"
+	},
+	{
+		"created_at": "Mon Apr 15 14:50:49 +0000 2019",
+		"id": 1117802462814117900,
+		"id_str": "1117802462814117888",
+		"full_text": "What is distinct about Learning Development group teaching? Group discussion from @scholastic_rat's session. #ALDcon https://t.co/PrVTOeDOGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						109,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117802160966840300,
+					"id_str": "1117802160966840326",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D4M7JJ2XsAYrD-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4M7JJ2XsAYrD-2.jpg",
+					"url": "https://t.co/PrVTOeDOGb",
+					"display_url": "pic.twitter.com/PrVTOeDOGb",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117802462814117888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 166,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 293,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117802160966840300,
+					"id_str": "1117802160966840326",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D4M7JJ2XsAYrD-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4M7JJ2XsAYrD-2.jpg",
+					"url": "https://t.co/PrVTOeDOGb",
+					"display_url": "pic.twitter.com/PrVTOeDOGb",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117802462814117888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 166,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 293,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What is distinct about Learning Development group teaching? Group discussion from @scholastic_rat's session. #ALDcon https://t.co/PrVTOeDOGb"
+	},
+	{
+		"created_at": "Mon Apr 15 14:41:36 +0000 2019",
+		"id": 1117800143334641700,
+		"id_str": "1117800143334641664",
+		"full_text": "What are the defining features and characteristics of learning development workshops/teaching? The group feedback from @scholastic_rat's workshop: #ALDcon @aldinhe_LH https://t.co/5Acofdqc5v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						147,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						155,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117799478269026300,
+					"id_str": "1117799478269026305",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D4M4tABXoAEs9rE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4M4tABXoAEs9rE.jpg",
+					"url": "https://t.co/5Acofdqc5v",
+					"display_url": "pic.twitter.com/5Acofdqc5v",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117800143334641664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 301,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117799478269026300,
+					"id_str": "1117799478269026305",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/D4M4tABXoAEs9rE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4M4tABXoAEs9rE.jpg",
+					"url": "https://t.co/5Acofdqc5v",
+					"display_url": "pic.twitter.com/5Acofdqc5v",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117800143334641664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 301,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What are the defining features and characteristics of learning development workshops/teaching? The group feedback from @scholastic_rat's workshop: #ALDcon @aldinhe_LH https://t.co/5Acofdqc5v"
+	},
+	{
+		"created_at": "Mon Apr 15 13:34:15 +0000 2019",
+		"id": 1117783195834114000,
+		"id_str": "1117783195834114048",
+		"full_text": "This has been so much fun. Constructing Learning Development scholarship #ALDcon https://t.co/uc4SsUPoKa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117783189794304000,
+					"id_str": "1117783189794304000",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Mp44uXsAAK5q_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Mp44uXsAAK5q_.jpg",
+					"url": "https://t.co/uc4SsUPoKa",
+					"display_url": "pic.twitter.com/uc4SsUPoKa",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117783195834114048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117783189794304000,
+					"id_str": "1117783189794304000",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/D4Mp44uXsAAK5q_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4Mp44uXsAAK5q_.jpg",
+					"url": "https://t.co/uc4SsUPoKa",
+					"display_url": "pic.twitter.com/uc4SsUPoKa",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117783195834114048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This has been so much fun. Constructing Learning Development scholarship #ALDcon https://t.co/uc4SsUPoKa"
+	},
+	{
+		"created_at": "Mon Apr 15 13:18:51 +0000 2019",
+		"id": 1117779319911325700,
+		"id_str": "1117779319911325699",
+		"full_text": "“We’re all Learning Developers” #ALDcon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“We’re all Learning Developers” #ALDcon"
+	},
+	{
+		"created_at": "Mon Apr 15 13:18:16 +0000 2019",
+		"id": 1117779171214856200,
+		"id_str": "1117779171214856192",
+		"full_text": "@GreggsOfficial Haha! Clearly it was too early for me 😴",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GreggsOfficial",
+					"name": "Greggs",
+					"id": 19932359,
+					"id_str": "19932359",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117778430953775100,
+		"in_reply_to_status_id_str": "1117778430953775104",
+		"in_reply_to_user_id": 19932359,
+		"in_reply_to_user_id_str": "19932359",
+		"in_reply_to_screen_name": "GreggsOfficial",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GreggsOfficial Haha! Clearly it was too early for me 😴"
+	},
+	{
+		"created_at": "Mon Apr 15 12:57:03 +0000 2019",
+		"id": 1117773830737543200,
+		"id_str": "1117773830737543168",
+		"full_text": "Some excellent questions about the nature of Learning Development scholarship in this afternoons session #ALDcon What does an LD lens to scholarship bring? How valid is the contribution? What is scholarly activity - do we recognise this broadly enough? https://t.co/P6QBD92jSm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117773823028400100,
+					"id_str": "1117773823028400128",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D4MhXqzWkAAhje3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4MhXqzWkAAhje3.jpg",
+					"url": "https://t.co/P6QBD92jSm",
+					"display_url": "pic.twitter.com/P6QBD92jSm",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117773830737543168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1576,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117773823028400100,
+					"id_str": "1117773823028400128",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/D4MhXqzWkAAhje3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4MhXqzWkAAhje3.jpg",
+					"url": "https://t.co/P6QBD92jSm",
+					"display_url": "pic.twitter.com/P6QBD92jSm",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117773830737543168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1576,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some excellent questions about the nature of Learning Development scholarship in this afternoons session #ALDcon What does an LD lens to scholarship bring? How valid is the contribution? What is scholarly activity - do we recognise this broadly enough? https://t.co/P6QBD92jSm"
+	},
+	{
+		"created_at": "Mon Apr 15 10:42:45 +0000 2019",
+		"id": 1117740035548250100,
+		"id_str": "1117740035548250114",
+		"full_text": "@suewatling",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117736674090463200,
+		"in_reply_to_status_id_str": "1117736674090463233",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@suewatling"
+	},
+	{
+		"created_at": "Mon Apr 15 10:29:24 +0000 2019",
+		"id": 1117736674090463200,
+		"id_str": "1117736674090463233",
+		"full_text": "\"Dear computer programmers. Please make accessibility easy.\" Some musings ahead of #ALDcon about the usability of and ease of access for #accessibility tools. (Thanks @JaxBartram for patiently waiting for me to write this)… https://t.co/as55PhVzJL https://t.co/QpmLRSvVyk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						137,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Jacqueline Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						167,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/as55PhVzJL",
+					"expanded_url": "https://leefallin.co.uk/2019/04/dear-computer-programmers-please-make-accessibility-easy/",
+					"display_url": "leefallin.co.uk/2019/04/dear-c…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1117736672588963800,
+					"id_str": "1117736672588963840",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/D4L_lOoXoAAyBNx.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4L_lOoXoAAyBNx.png",
+					"url": "https://t.co/QpmLRSvVyk",
+					"display_url": "pic.twitter.com/QpmLRSvVyk",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117736674090463233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 297,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 297,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 297,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117736672588963800,
+					"id_str": "1117736672588963840",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/D4L_lOoXoAAyBNx.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4L_lOoXoAAyBNx.png",
+					"url": "https://t.co/QpmLRSvVyk",
+					"display_url": "pic.twitter.com/QpmLRSvVyk",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1117736674090463233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 297,
+							"h": 431,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 297,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 297,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Dear computer programmers. Please make accessibility easy.\" Some musings ahead of #ALDcon about the usability of and ease of access for #accessibility tools. (Thanks @JaxBartram for patiently waiting for me to write this)… https://t.co/as55PhVzJL https://t.co/QpmLRSvVyk"
+	},
+	{
+		"created_at": "Mon Apr 15 09:29:51 +0000 2019",
+		"id": 1111342569311608800,
+		"id_str": "1117721689339637761",
+		"full_text": "Catch up on the latest updates to #Microsoft365: new features in Microsoft Teams, security, Whiteboard, Outlook, LinkedIn integrations, and more!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Microsoft365",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 740240040819753000,
+			"id_str": "740240040819752960",
+			"name": "Microsoft 365 news",
+			"screen_name": "MSFT365news",
+			"location": "Redmond, WA",
+			"description": "Get the latest on Office 365, Windows 10, and Enterprise Mobility + Security. Always improving to empower everyone to be creative and work together, securely.",
+			"url": "https://t.co/gousJXc0pc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gousJXc0pc",
+							"expanded_url": "http://microsoft.com/microsoft-365",
+							"display_url": "microsoft.com/microsoft-365",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128677,
+			"friends_count": 1109,
+			"listed_count": 566,
+			"created_at": "Tue Jun 07 17:52:33 +0000 2016",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3583,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065039796702068736/iblLs372_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065039796702068736/iblLs372_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/740240040819752960/1552590216",
+			"profile_link_color": "0078D4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 500,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Catch up on the latest updates to #Microsoft365: new features in Microsoft Teams, security, Whiteboard, Outlook, LinkedIn integrations, and more!"
+	},
+	{
+		"created_at": "Mon Apr 15 07:23:48 +0000 2019",
+		"id": 1083747844006334500,
+		"id_str": "1117689965863952384",
+		"full_text": "Average number of visits per student to @UoLLibrary has increased by over 24% in the last four years - while borrowing declines. The library’s role as study environment for informal learning is becoming ever more important #sec2019 https://t.co/zu2NcPIudr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sec2019",
+					"indices": [
+						223,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoLLibrary",
+					"name": "Leeds Uni Library",
+					"id": 138509690,
+					"id_str": "138509690",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zu2NcPIudr",
+					"expanded_url": "https://twitter.com/bumsonseats/status/1083746755441819650",
+					"display_url": "twitter.com/bumsonseats/st…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23742722,
+			"id_str": "23742722",
+			"name": "Michael Fake",
+			"screen_name": "michaelfake",
+			"location": "South to North",
+			"description": "Heliocentrist dad",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 288,
+			"friends_count": 502,
+			"listed_count": 10,
+			"created_at": "Wed Mar 11 09:59:00 +0000 2009",
+			"favourites_count": 1125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1602,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834744756521558016/NynWhcTA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834744756521558016/NynWhcTA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23742722/1473074052",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083746755441819600,
+		"quoted_status_id_str": "1083746755441819650",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zu2NcPIudr",
+			"expanded": "https://twitter.com/bumsonseats/status/1083746755441819650",
+			"display": "twitter.com/bumsonseats/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 15:25:36 +0000 2019",
+			"id": 1083746755441819600,
+			"id_str": "1083746755441819650",
+			"full_text": "Library use changes - informal learning spaces used for students to come together, not just used for books and PCs, says @serene_esu #SEC2019",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEC2019",
+						"indices": [
+							133,
+							141
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "serene_esu",
+						"name": "Serene Esuruoso LUU",
+						"id": 963742940370784300,
+						"id_str": "963742940370784257",
+						"indices": [
+							121,
+							132
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19775668,
+				"id_str": "19775668",
+				"name": "Carolin Schneider",
+				"screen_name": "bumsonseats",
+				"location": "Leeds, United Kingdom",
+				"description": "Current favourite words: boondoggle, guffaw, Sparfuchs, Sternschnuppe. Personal views. Tweets in English, rarely in German, often about #libraries & #languages.",
+				"url": "https://t.co/8xr4F5orr8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8xr4F5orr8",
+								"expanded_url": "http://bumsonseats.wordpress.com",
+								"display_url": "bumsonseats.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1005,
+				"friends_count": 1401,
+				"listed_count": 98,
+				"created_at": "Fri Jan 30 16:49:47 +0000 2009",
+				"favourites_count": 2827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24637,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/653874623700967424/wfCjc4vF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/653874623700967424/wfCjc4vF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19775668/1554127093",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Average number of visits per student to @UoLLibrary has increased by over 24% in the last four years - while borrowing declines. The library’s role as study environment for informal learning is becoming ever more important #sec2019 https://t.co/zu2NcPIudr"
+	},
+	{
+		"created_at": "Mon Apr 15 06:50:33 +0000 2019",
+		"id": 1117681598655291400,
+		"id_str": "1117681598655291392",
+		"full_text": "@KateBridgeman1 @InspiringTeach @suewatling @thebigparticle Sustainability - no so sure. (Though easy to replace very specific parts if they break)\nIt is, however, BLOODY COOL!!! 😎",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "InspiringTeach",
+					"name": "Theresa Marriott",
+					"id": 1257878924,
+					"id_str": "1257878924",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "thebigparticle",
+					"name": "Patrick Lynch",
+					"id": 37933003,
+					"id_str": "37933003",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117676833829474300,
+		"in_reply_to_status_id_str": "1117676833829474304",
+		"in_reply_to_user_id": 285549243,
+		"in_reply_to_user_id_str": "285549243",
+		"in_reply_to_screen_name": "KateBridgeman1",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KateBridgeman1 @InspiringTeach @suewatling @thebigparticle Sustainability - no so sure. (Though easy to replace very specific parts if they break)\nIt is, however, BLOODY COOL!!! 😎"
+	},
+	{
+		"created_at": "Mon Apr 15 06:29:11 +0000 2019",
+		"id": 1117676221238788100,
+		"id_str": "1117676221238788097",
+		"full_text": "Very excited to be sharing the ‘Designing for Diverse Learners’ accessibility poster at #ALDcon this year. @suewatling @aldinhe_LH \n\nI’ll share a fully accessible digital copy of this after the conference 👌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						107,
+						118
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						119,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Very excited to be sharing the ‘Designing for Diverse Learners’ accessibility poster at #ALDcon this year. @suewatling @aldinhe_LH \n\nI’ll share a fully accessible digital copy of this after the conference 👌"
+	},
+	{
+		"created_at": "Mon Apr 15 06:26:40 +0000 2019",
+		"id": 1111660877642645500,
+		"id_str": "1117675589375283200",
+		"full_text": "Just because a story is online, doesn't mean it's true. The internet is great, but can also be used to spread misleading news and content. Make sure you know what you’re sharing. Don’t feed the beast.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143478208,
+			"id_str": "143478208",
+			"name": "Cabinet Office",
+			"screen_name": "cabinetofficeuk",
+			"location": "Whitehall, United Kingdom",
+			"description": "The centre of the UK government. We support the Prime Minister and make sure the government runs effectively.",
+			"url": "https://t.co/DN9rRo9atw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DN9rRo9atw",
+							"expanded_url": "http://gov.uk/cabinetoffice",
+							"display_url": "gov.uk/cabinetoffice",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374206,
+			"friends_count": 455,
+			"listed_count": 2308,
+			"created_at": "Thu May 13 15:37:40 +0000 2010",
+			"favourites_count": 1124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063093549804216320/NDRfCNQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063093549804216320/NDRfCNQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143478208/1512989813",
+			"profile_link_color": "2155A0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1467,
+		"favorite_count": 4196,
+		"favorited": true,
+		"retweeted": true,
+		"scopes": {
+			"followers": false
+		},
+		"lang": "en",
+		"text": "Just because a story is online, doesn't mean it's true. The internet is great, but can also be used to spread misleading news and content. Make sure you know what you’re sharing. Don’t feed the beast."
+	},
+	{
+		"created_at": "Mon Apr 15 06:26:26 +0000 2019",
+		"id": 1117675529107333100,
+		"id_str": "1117675529107333125",
+		"full_text": "Another fantastic implementation of @Microsoft Intelligent Services for accessibility in @Office365. This really is a powerful tool - and to be honest it works so well it looks a bit like magic! #MIEExpert #MCE #MIEE https://t.co/7FCSXSy4AS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "MCE",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "MIEE",
+					"indices": [
+						211,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7FCSXSy4AS",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1117144167753371648",
+					"display_url": "twitter.com/mtholfsen/stat…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1117144167753371600,
+		"quoted_status_id_str": "1117144167753371648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7FCSXSy4AS",
+			"expanded": "https://twitter.com/mtholfsen/status/1117144167753371648",
+			"display": "twitter.com/mtholfsen/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 13 19:14:59 +0000 2019",
+			"id": 1117144167753371600,
+			"id_str": "1117144167753371648",
+			"full_text": "NEW! Real-time captioning and translation 🌎 is now rolling out to PowerPoint Online 🎉 (First Release ring) Built-in, compliant, works on PC, Mac, Chromebook, and any other browser #edtech #AssistiveTech #accessibility #ATchat #a11y #mieexpert #MicrosoftEDU\n\nSee video below 👇 https://t.co/XVOzG0YulD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							180,
+							187
+						]
+					},
+					{
+						"text": "AssistiveTech",
+						"indices": [
+							188,
+							202
+						]
+					},
+					{
+						"text": "accessibility",
+						"indices": [
+							203,
+							217
+						]
+					},
+					{
+						"text": "ATchat",
+						"indices": [
+							218,
+							225
+						]
+					},
+					{
+						"text": "a11y",
+						"indices": [
+							226,
+							231
+						]
+					},
+					{
+						"text": "mieexpert",
+						"indices": [
+							232,
+							242
+						]
+					},
+					{
+						"text": "MicrosoftEDU",
+						"indices": [
+							243,
+							256
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1117143995749154800,
+						"id_str": "1117143995749154822",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117143995749154822/pu/img/21Dbre3zWxsf1IIx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117143995749154822/pu/img/21Dbre3zWxsf1IIx.jpg",
+						"url": "https://t.co/XVOzG0YulD",
+						"display_url": "pic.twitter.com/XVOzG0YulD",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1117144167753371648/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1117143995749154800,
+						"id_str": "1117143995749154822",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1117143995749154822/pu/img/21Dbre3zWxsf1IIx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1117143995749154822/pu/img/21Dbre3zWxsf1IIx.jpg",
+						"url": "https://t.co/XVOzG0YulD",
+						"display_url": "pic.twitter.com/XVOzG0YulD",
+						"expanded_url": "https://twitter.com/mtholfsen/status/1117144167753371648/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								2
+							],
+							"duration_millis": 24767,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117143995749154822/pu/vid/1080x720/LUl0z6CuWim0CwQx.mp4?tag=8"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117143995749154822/pu/vid/270x180/L_3TdaGvwGLl5um0.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1117143995749154822/pu/pl/ViXEQ32P_6EO4aKN.m3u8?tag=8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1117143995749154822/pu/vid/540x360/CJY9uBmBOWWn6yek.mp4?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27673327,
+				"id_str": "27673327",
+				"name": "Mike Tholfsen",
+				"screen_name": "mtholfsen",
+				"location": "Redmond, WA",
+				"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #E2 #Road2E2 @OneNoteEDU @MicrosoftEDU",
+				"url": "https://t.co/ANIFpSE2FB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANIFpSE2FB",
+								"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+								"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17538,
+				"friends_count": 3176,
+				"listed_count": 715,
+				"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+				"favourites_count": 59446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28201,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 356,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another fantastic implementation of @Microsoft Intelligent Services for accessibility in @Office365. This really is a powerful tool - and to be honest it works so well it looks a bit like magic! #MIEExpert #MCE #MIEE https://t.co/7FCSXSy4AS"
+	},
+	{
+		"created_at": "Mon Apr 15 06:22:59 +0000 2019",
+		"id": 1117380915972513800,
+		"id_str": "1117674663038025728",
+		"full_text": "...and this one is especially for @KiuSum ... winter can't come soon enough! #GOT https://t.co/QPA5n4CC1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117380683532468200,
+					"id_str": "1117380683532468224",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D4G7z8DWAAAplzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4G7z8DWAAAplzX.jpg",
+					"url": "https://t.co/QPA5n4CC1I",
+					"display_url": "pic.twitter.com/QPA5n4CC1I",
+					"expanded_url": "https://twitter.com/SocMedHE/status/1117380915972513793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117380683532468200,
+					"id_str": "1117380683532468224",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/D4G7z8DWAAAplzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4G7z8DWAAAplzX.jpg",
+					"url": "https://t.co/QPA5n4CC1I",
+					"display_url": "pic.twitter.com/QPA5n4CC1I",
+					"expanded_url": "https://twitter.com/SocMedHE/status/1117380915972513793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3346395670,
+			"id_str": "3346395670",
+			"name": "@SocMedHE",
+			"screen_name": "SocMedHE",
+			"location": "Edge Hill University Lancashire",
+			"description": "The Social Media for Learning in Higher Education Conference call for proposals is now open! Please click the link below for more information.",
+			"url": "https://t.co/NZRN47zNyC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NZRN47zNyC",
+							"expanded_url": "https://www.edgehill.ac.uk/clt/conference-2014/social-media-for-learning-in-higher-education-confere",
+							"display_url": "edgehill.ac.uk/clt/conference…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1443,
+			"friends_count": 1620,
+			"listed_count": 66,
+			"created_at": "Fri Jun 26 08:20:41 +0000 2015",
+			"favourites_count": 2501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1981,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117150409070608384/lk5kz6Yp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117150409070608384/lk5kz6Yp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346395670/1555184297",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "...and this one is especially for @KiuSum ... winter can't come soon enough! #GOT https://t.co/QPA5n4CC1I"
+	},
+	{
+		"created_at": "Mon Apr 15 06:01:32 +0000 2019",
+		"id": 1117669263605674000,
+		"id_str": "1117669263605673984",
+		"full_text": "@PeterDraper3 @KateBridgeman1 But in all seriousness - emojis are too open to interpretation. \n🤷‍♂️ - Confused? Angry? Unsure? Which ever way, what does that mean about work?\nIt’s also TOTALLY inaccessible. Even if a screen reader and interpret the emoji, there is the issue of meaning and translation together!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			311
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterDraper3",
+					"name": "Peter Draper",
+					"id": 503167425,
+					"id_str": "503167425",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117668763678146600,
+		"in_reply_to_status_id_str": "1117668763678146560",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PeterDraper3 @KateBridgeman1 But in all seriousness - emojis are too open to interpretation. \n🤷‍♂️ - Confused? Angry? Unsure? Which ever way, what does that mean about work?\nIt’s also TOTALLY inaccessible. Even if a screen reader and interpret the emoji, there is the issue of meaning and translation together!"
+	},
+	{
+		"created_at": "Mon Apr 15 05:59:33 +0000 2019",
+		"id": 1117668763678146600,
+		"id_str": "1117668763678146560",
+		"full_text": "@PeterDraper3 @KateBridgeman1 🙄 🤔 😐 \n🤷‍♂️ 👍 👎",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterDraper3",
+					"name": "Peter Draper",
+					"id": 503167425,
+					"id_str": "503167425",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117513209102073900,
+		"in_reply_to_status_id_str": "1117513209102073857",
+		"in_reply_to_user_id": 503167425,
+		"in_reply_to_user_id_str": "503167425",
+		"in_reply_to_screen_name": "PeterDraper3",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1036,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7874,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1486734016",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@PeterDraper3 @KateBridgeman1 🙄 🤔 😐 \n🤷‍♂️ 👍 👎"
+	},
+	{
 		"created_at": "Sun Apr 14 21:15:19 +0000 2019",
 		"id": 1117536838493855700,
 		"id_str": "1117536838493855745",

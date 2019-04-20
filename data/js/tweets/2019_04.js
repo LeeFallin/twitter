@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 10:22:10 +0000 2019",
+		"id": 1119184404012765200,
+		"id_str": "1119184404012765184",
+		"full_text": "@YearwoodJackman @PadmaInala @suewatling @aldinhe_LH @LILAC_conf A very valuable lens too, especially given both the attainment gaps and the drive for internationalisation.\nMy colleague @fionaware is representing our team at LILAC this year - look out for her 🙂",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YearwoodJackman",
+					"name": "Shirley Yearwood-Jackman",
+					"id": 993392863,
+					"id_str": "993392863",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "PadmaInala",
+					"name": "Padma Inala",
+					"id": 917970301,
+					"id_str": "917970301",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "LILAC_conf",
+					"name": "LILAC Conference",
+					"id": 76322882,
+					"id_str": "76322882",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "fionaware",
+					"name": "Fiona Ware",
+					"id": 390118404,
+					"id_str": "390118404",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1119162077245874200,
+		"in_reply_to_status_id_str": "1119162077245874176",
+		"in_reply_to_user_id": 993392863,
+		"in_reply_to_user_id_str": "993392863",
+		"in_reply_to_screen_name": "YearwoodJackman",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 1041,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7981,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@YearwoodJackman @PadmaInala @suewatling @aldinhe_LH @LILAC_conf A very valuable lens too, especially given both the attainment gaps and the drive for internationalisation.\nMy colleague @fionaware is representing our team at LILAC this year - look out for her 🙂"
+	},
+	{
+		"created_at": "Fri Apr 19 07:37:46 +0000 2019",
+		"id": 1119143032694042600,
+		"id_str": "1119143032694042625",
+		"full_text": "@abmladybug @catspyjamasnz Multi-level lists - More debate. Bullets are great for breaking up information, &amp; they are generally favoured. But when you go into multiple levels, you get the same ragged effect. They can also be generally confusing for anyone &amp; difficult to follow for those with certain SpLDs",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			314
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abmladybug",
+					"name": "Ashley Anderson",
+					"id": 3184463034,
+					"id_str": "3184463034",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "catspyjamasnz",
+					"name": "Joyce Seitzinger ❤️📝✏️",
+					"id": 10451462,
+					"id_str": "10451462",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1119020790790230000,
+		"in_reply_to_status_id_str": "1119020790790230016",
+		"in_reply_to_user_id": 3184463034,
+		"in_reply_to_user_id_str": "3184463034",
+		"in_reply_to_screen_name": "abmladybug",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 1041,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7981,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abmladybug @catspyjamasnz Multi-level lists - More debate. Bullets are great for breaking up information, &amp; they are generally favoured. But when you go into multiple levels, you get the same ragged effect. They can also be generally confusing for anyone &amp; difficult to follow for those with certain SpLDs"
+	},
+	{
+		"created_at": "Fri Apr 19 07:31:40 +0000 2019",
+		"id": 1119141497838825500,
+		"id_str": "1119141497838825472",
+		"full_text": "@abmladybug @catspyjamasnz The text alignment is something @suewatling and I really enforce. I have no defined visual impairment, but do really struggle with centred text in normal conditions but particularly if my eyes are sore (from hay fever or lack of sleep for example).",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abmladybug",
+					"name": "Ashley Anderson",
+					"id": 3184463034,
+					"id_str": "3184463034",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "catspyjamasnz",
+					"name": "Joyce Seitzinger ❤️📝✏️",
+					"id": 10451462,
+					"id_str": "10451462",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						59,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1119141030542995500,
+		"in_reply_to_status_id_str": "1119141030542995456",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "#LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat, #politics & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1103,
+			"friends_count": 1041,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7981,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abmladybug @catspyjamasnz The text alignment is something @suewatling and I really enforce. I have no defined visual impairment, but do really struggle with centred text in normal conditions but particularly if my eyes are sore (from hay fever or lack of sleep for example)."
+	},
+	{
 		"created_at": "Thu Apr 18 22:03:03 +0000 2019",
 		"id": 1118998399775379500,
 		"id_str": "1118998399775379456",

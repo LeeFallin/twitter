@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 12:31:19 +0000 2019",
+		"id": 1119913441496584200,
+		"id_str": "1119941681791553536",
+		"full_text": "@LeeFallin Spending today @edenproject &amp; carbon literacy sounds grand plan - help sustain the learning &amp; research being absorbed today &amp; continue to live out such learning at home/daily lives",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "edenproject",
+					"name": "Eden Project",
+					"id": 9972662,
+					"id_str": "9972662",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1119720488379588600,
+		"in_reply_to_status_id_str": "1119720488379588608",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 855536657818419200,
+			"id_str": "855536657818419200",
+			"name": "Sandie Donnelly",
+			"screen_name": "SandieDonnelly2",
+			"location": "",
+			"description": "Learning & teaching, arts, mental wellbeing, awe & wonder of planet Earth. Views my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217,
+			"friends_count": 380,
+			"listed_count": 3,
+			"created_at": "Fri Apr 21 21:40:09 +0000 2017",
+			"favourites_count": 7002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876512186646048768/VjdKFKzk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876512186646048768/VjdKFKzk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/855536657818419200/1497811532",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin Spending today @edenproject &amp; carbon literacy sounds grand plan - help sustain the learning &amp; research being absorbed today &amp; continue to live out such learning at home/daily lives"
+	},
+	{
 		"created_at": "Sat Apr 20 21:52:22 +0000 2019",
 		"id": 1119720488379588600,
 		"id_str": "1119720488379588608",

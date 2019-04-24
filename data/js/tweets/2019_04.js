@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 06:06:33 +0000 2019",
+		"id": 1120326389570449400,
+		"id_str": "1120569628273594368",
+		"full_text": "We stand by the 2 P's: Purple and Paperless! Today, and everyday, we celebrate #EarthDay by saving trees.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EarthDay",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23735316,
+			"id_str": "23735316",
+			"name": "Microsoft OneNote",
+			"screen_name": "msonenote",
+			"location": "Redmond, WA, USA",
+			"description": "Capture and organize ideas instantly with Microsoft OneNote.",
+			"url": "http://t.co/wzBkyeUbTU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wzBkyeUbTU",
+							"expanded_url": "http://www.onenote.com",
+							"display_url": "onenote.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79944,
+			"friends_count": 636,
+			"listed_count": 1665,
+			"created_at": "Wed Mar 11 07:32:39 +0000 2009",
+			"favourites_count": 3579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50787,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "68217A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876909882095550465/VZyK5jOu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876909882095550465/VZyK5jOu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23735316/1461096626",
+			"profile_link_color": "68217A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 127,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We stand by the 2 P's: Purple and Paperless! Today, and everyday, we celebrate #EarthDay by saving trees."
+	},
+	{
 		"created_at": "Mon Apr 22 08:28:02 +0000 2019",
 		"id": 1120242845049413600,
 		"id_str": "1120242845049413632",

@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 11:15:12 +0000 2019",
+		"id": 1123184017413689300,
+		"id_str": "1123184017413689345",
+		"full_text": "I am incredibly happy to share that I have been awarded with Senior Fellowship of the HEA! \nA massive thank you to everyone who has helped me with my development: @HullUni_Library @LTE_Hull #MIEExpert #LTHEchat @aldinhe_LH @A_L_T @MicrosoftEDU @suewatling @scholastic_rat #SFHEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						201,
+						210
+					]
+				},
+				{
+					"text": "SFHEA",
+					"indices": [
+						272,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						230,
+						243
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						244,
+						255
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						256,
+						271
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 1048,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 3983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7993,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I am incredibly happy to share that I have been awarded with Senior Fellowship of the HEA! \nA massive thank you to everyone who has helped me with my development: @HullUni_Library @LTE_Hull #MIEExpert #LTHEchat @aldinhe_LH @A_L_T @MicrosoftEDU @suewatling @scholastic_rat #SFHEA"
+	},
+	{
 		"created_at": "Sat Apr 27 19:03:49 +0000 2019",
 		"id": 1122214785150484500,
 		"id_str": "1122214785150484481",

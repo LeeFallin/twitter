@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 09:36:06 +0000 2019",
+		"id": 1124949108513476600,
+		"id_str": "1124971016856440833",
+		"full_text": "Thanks for @CatherineLill20 for sharing this timely resource on viva survival from @DrRyder\nPassing it on....\n@LeeFallin @pgrhub @Succeedat8 @dmc_devecchi @suebecks \nhttps://t.co/CECrDcUns0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CatherineLill20",
+					"name": "Catherine Lillie",
+					"id": 1020242166600355800,
+					"id_str": "1020242166600355841",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "DrRyder",
+					"name": "Nathan Ryder",
+					"id": 114790523,
+					"id_str": "114790523",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"screen_name": "pgrhub",
+					"name": "Hull Graduate School",
+					"id": 741579412295012400,
+					"id_str": "741579412295012352",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"screen_name": "Succeedat8",
+					"name": "SuCCEED@8",
+					"id": 849645291879923700,
+					"id_str": "849645291879923712",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"screen_name": "dmc_devecchi",
+					"name": "Dr Cristina Devecchi",
+					"id": 3036351777,
+					"id_str": "3036351777",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CECrDcUns0",
+					"expanded_url": "http://viva-survivors.com/resources/",
+					"display_url": "viva-survivors.com/resources/",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14897464,
+			"id_str": "14897464",
+			"name": "Sue Watling🌱",
+			"screen_name": "suewatling",
+			"location": "Yorkshire and The Humber",
+			"description": "digital academic #phdlife @Lego_in_HE #lthechat CMALT, SFHEA, MIEE, allotmenteer, beach-walker, secret paleontologist, poet with pagan heart, views my own etc",
+			"url": "https://t.co/R9w2tcsCZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R9w2tcsCZD",
+							"expanded_url": "https://digitalacademicblog.wordpress.com/",
+							"display_url": "digitalacademicblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1221,
+			"friends_count": 354,
+			"listed_count": 66,
+			"created_at": "Sun May 25 08:55:13 +0000 2008",
+			"favourites_count": 2253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8606,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054419264290066432/cxAqEoQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054419264290066432/cxAqEoQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for @CatherineLill20 for sharing this timely resource on viva survival from @DrRyder\nPassing it on....\n@LeeFallin @pgrhub @Succeedat8 @dmc_devecchi @suebecks \nhttps://t.co/CECrDcUns0"
+	},
+	{
 		"created_at": "Fri May 03 08:57:06 +0000 2019",
 		"id": 1124236428668547100,
 		"id_str": "1124236428668547072",

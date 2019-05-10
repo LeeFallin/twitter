@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 13:37:41 +0000 2019",
+		"id": 1126481365384474600,
+		"id_str": "1126481365384474624",
+		"full_text": "@scottturneruon @Charlesknight @LindaKKaye @NomadWarMachine @LTHEchat @srowett @santanuvasant @simonrae @dmc_devecchi @CheMichael7 @elliewhitt @ProfSallyBrown @RacePhil I love tags so much. The fact I don’t have to have a server running or a PC switched on constantly is a massive bonus!",
+		"truncated": false,
+		"display_text_range": [
+			169,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Charlesknight",
+					"name": "Dr. Charles Knight",
+					"id": 14210626,
+					"id_str": "14210626",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "LindaKKaye",
+					"name": "Dr Linda K. Kaye",
+					"id": 234744939,
+					"id_str": "234744939",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"screen_name": "dmc_devecchi",
+					"name": "Dr Cristina Devecchi",
+					"id": 3036351777,
+					"id_str": "3036351777",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"screen_name": "CheMichael7",
+					"name": "CheMichael",
+					"id": 1106664169686925300,
+					"id_str": "1106664169686925314",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"screen_name": "elliewhitt",
+					"name": "Ellie Whittaker",
+					"id": 43585028,
+					"id_str": "43585028",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						159,
+						168
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126479853002293200,
+		"in_reply_to_status_id_str": "1126479853002293248",
+		"in_reply_to_user_id": 56366858,
+		"in_reply_to_user_id_str": "56366858",
+		"in_reply_to_screen_name": "scottturneruon",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1129,
+			"friends_count": 1048,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8087,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scottturneruon @Charlesknight @LindaKKaye @NomadWarMachine @LTHEchat @srowett @santanuvasant @simonrae @dmc_devecchi @CheMichael7 @elliewhitt @ProfSallyBrown @RacePhil I love tags so much. The fact I don’t have to have a server running or a PC switched on constantly is a massive bonus!"
+	},
+	{
 		"created_at": "Wed May 08 20:22:56 +0000 2019",
 		"id": 1126220963077599200,
 		"id_str": "1126220963077599235",

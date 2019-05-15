@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 11:44:00 +0000 2019",
+		"id": 1128264697696989200,
+		"id_str": "1128264697696989184",
+		"full_text": "@OfficeSupport Ah! This is now solved @OfficeSupport! It was one of the settings under 'advanced' in Outlook.  Didn't think to look beyond calendar settings as it was only impacting my calendar.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficeSupport",
+					"name": "OfficeSupport",
+					"id": 2903085889,
+					"id_str": "2903085889",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "OfficeSupport",
+					"name": "OfficeSupport",
+					"id": 2903085889,
+					"id_str": "2903085889",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128258037066686500,
+		"in_reply_to_status_id_str": "1128258037066686464",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1134,
+			"friends_count": 1049,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8110,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OfficeSupport Ah! This is now solved @OfficeSupport! It was one of the settings under 'advanced' in Outlook.  Didn't think to look beyond calendar settings as it was only impacting my calendar."
+	},
+	{
 		"created_at": "Mon May 13 22:15:44 +0000 2019",
 		"id": 1128061288138068000,
 		"id_str": "1128061288138067975",
@@ -533,7 +649,7 @@ Grailbird.data.tweets_2019_05 =
 		"created_at": "Mon May 13 13:43:11 +0000 2019",
 		"id": 1127932302095454200,
 		"id_str": "1127932302095454209",
-		"full_text": "@DrCDArmstrong @Office365 @Microsoft And nothing else in the program is left to right either. Which is more strange. 🤷‍♂️",
+		"full_text": "@DrCDArmstrong @Office365 @Microsoft And nothing else in the program is left to right either. Which is more strange. 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			37,
@@ -653,7 +769,7 @@ Grailbird.data.tweets_2019_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@DrCDArmstrong @Office365 @Microsoft And nothing else in the program is left to right either. Which is more strange. 🤷‍♂️"
+		"text": "@DrCDArmstrong @Office365 @Microsoft And nothing else in the program is left to right either. Which is more strange. 🤷♂️"
 	},
 	{
 		"created_at": "Mon May 13 13:42:02 +0000 2019",

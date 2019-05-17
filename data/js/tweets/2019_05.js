@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 18:10:28 +0000 2019",
+		"id": 1128943912385695700,
+		"id_str": "1129086732023025665",
+		"full_text": "Jobs of the future? Rebecca Ferguson @OpenUniversity asks #digitalleeds https://t.co/4ioTPdCEhD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalleeds",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenUniversity",
+					"name": "The Open University",
+					"id": 14049061,
+					"id_str": "14049061",
+					"indices": [
+						37,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128943902461968400,
+					"id_str": "1128943902461968384",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D6rQf3WWwAA3H1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6rQf3WWwAA3H1k.jpg",
+					"url": "https://t.co/4ioTPdCEhD",
+					"display_url": "pic.twitter.com/4ioTPdCEhD",
+					"expanded_url": "https://twitter.com/Staplefordk/status/1128943912385695745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128943902461968400,
+					"id_str": "1128943902461968384",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/D6rQf3WWwAA3H1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6rQf3WWwAA3H1k.jpg",
+					"url": "https://t.co/4ioTPdCEhD",
+					"display_url": "pic.twitter.com/4ioTPdCEhD",
+					"expanded_url": "https://twitter.com/Staplefordk/status/1128943912385695745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114336879,
+			"id_str": "1114336879",
+			"name": "Katharine Stapleford",
+			"screen_name": "Staplefordk",
+			"location": "UK",
+			"description": "Interested in e-learning and all things technology enhanced. PhD student & Lecturer in Digital Education. Also loves cats, keeps bees and runs a bit on t'moors.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 397,
+			"listed_count": 7,
+			"created_at": "Wed Jan 23 13:03:39 +0000 2013",
+			"favourites_count": 905,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110136264924241921/iTBaUxf8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110136264924241921/iTBaUxf8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114336879/1364562178",
+			"profile_link_color": "1448E3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jobs of the future? Rebecca Ferguson @OpenUniversity asks #digitalleeds https://t.co/4ioTPdCEhD"
+	},
+	{
 		"created_at": "Wed May 15 20:03:06 +0000 2019",
 		"id": 1128752687061905400,
 		"id_str": "1128752687061905408",

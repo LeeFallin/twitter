@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 15:02:44 +0000 2019",
+		"id": 1129397489491165200,
+		"id_str": "1129401874971537410",
+		"full_text": "#WhatLibrariesDo ? We:\n💪Empower\n🤗Support\n🧙‍♂️Transport\n👩‍🎓Educate\n💡Illuminate\n☕️Comfort\n🏠Shelter\n❓Explain\n😂Entertain\n🐣Evolve \n🤩Inspire\n👍Survive\n\n@CILIPSLG @InspireELS @leicslibraries @leicesterlibrar @CassieKempSLS @rusheymeadlib @LeicesterWiT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhatLibrariesDo",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CILIPSLG",
+					"name": "CILIP SLG",
+					"id": 308649668,
+					"id_str": "308649668",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"screen_name": "InspireELS",
+					"name": "Inspire ELS",
+					"id": 838039745192153100,
+					"id_str": "838039745192153088",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"screen_name": "leicslibraries",
+					"name": "Leics Libraries",
+					"id": 22485040,
+					"id_str": "22485040",
+					"indices": [
+						167,
+						182
+					]
+				},
+				{
+					"screen_name": "leicesterlibrar",
+					"name": "Leicester Libraries and Community Centres",
+					"id": 101606792,
+					"id_str": "101606792",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"screen_name": "CassieKempSLS",
+					"name": "Cassie",
+					"id": 563727676,
+					"id_str": "563727676",
+					"indices": [
+						200,
+						214
+					]
+				},
+				{
+					"screen_name": "rusheymeadlib",
+					"name": "RMA Library",
+					"id": 945444720,
+					"id_str": "945444720",
+					"indices": [
+						215,
+						229
+					]
+				},
+				{
+					"screen_name": "LeicesterWiT",
+					"name": "Whatever it Takes",
+					"id": 932022992,
+					"id_str": "932022992",
+					"indices": [
+						230,
+						243
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4773453437,
+			"id_str": "4773453437",
+			"name": "CLS",
+			"screen_name": "MidlandsCLS",
+			"location": "Leicester, England",
+			"description": "We support #schools with resources, pupil sessions, reading cafes, advice & training. #libraries #museums #artworks #outreach #books #artefacts #topicboxes",
+			"url": "https://t.co/wYupHqzYpc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wYupHqzYpc",
+							"expanded_url": "http://www.creativelearningservices.org.uk",
+							"display_url": "creativelearningservices.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1217,
+			"listed_count": 11,
+			"created_at": "Mon Jan 11 10:51:29 +0000 2016",
+			"favourites_count": 2455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3233,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/686502302325280768/_6CjpEe6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/686502302325280768/_6CjpEe6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4773453437/1539094463",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#WhatLibrariesDo ? We:\n💪Empower\n🤗Support\n🧙‍♂️Transport\n👩‍🎓Educate\n💡Illuminate\n☕️Comfort\n🏠Shelter\n❓Explain\n😂Entertain\n🐣Evolve \n🤩Inspire\n👍Survive\n\n@CILIPSLG @InspireELS @leicslibraries @leicesterlibrar @CassieKempSLS @rusheymeadlib @LeicesterWiT"
+	},
+	{
 		"created_at": "Thu May 16 18:10:28 +0000 2019",
 		"id": 1128943912385695700,
 		"id_str": "1129086732023025665",

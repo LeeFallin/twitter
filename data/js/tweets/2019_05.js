@@ -1,10 +1,145 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 17:37:29 +0000 2019",
+		"id": 1129297019959480300,
+		"id_str": "1130165593385119744",
+		"full_text": "Most effective way to understand digital exclusion is to experience it for yourself, personally or vicariously \nThe Accessibility in government site continues to offer excellence advice and guidance @LeeFallin @LTE_Hull #GlobalAccessibilityAwarenessDay \nhttps://t.co/FaJKlFzSHx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobalAccessibilityAwarenessDay",
+					"indices": [
+						220,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"screen_name": "LTE_Hull",
+					"name": "LTE@Hull",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FaJKlFzSHx",
+					"expanded_url": "https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/",
+					"display_url": "accessibility.blog.gov.uk/2019/02/11/usi…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14897464,
+			"id_str": "14897464",
+			"name": "Sue Watling🌱",
+			"screen_name": "suewatling",
+			"location": "Yorkshire and The Humber",
+			"description": "digital academic #phdlife @Lego_in_HE #lthechat CMALT, SFHEA, MIEE, allotmenteer, beach-walker, secret paleontologist, poet with pagan heart, views my own etc",
+			"url": "https://t.co/R9w2tcsCZD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R9w2tcsCZD",
+							"expanded_url": "https://digitalacademicblog.wordpress.com/",
+							"display_url": "digitalacademicblog.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1223,
+			"friends_count": 356,
+			"listed_count": 66,
+			"created_at": "Sun May 25 08:55:13 +0000 2008",
+			"favourites_count": 2273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8627,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054419264290066432/cxAqEoQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054419264290066432/cxAqEoQ6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14897464/1520254625",
+			"profile_link_color": "FFFFFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Most effective way to understand digital exclusion is to experience it for yourself, personally or vicariously \nThe Accessibility in government site continues to offer excellence advice and guidance @LeeFallin @LTE_Hull #GlobalAccessibilityAwarenessDay \nhttps://t.co/FaJKlFzSHx"
+	},
+	{
 		"created_at": "Fri May 17 15:02:44 +0000 2019",
 		"id": 1129397489491165200,
 		"id_str": "1129401874971537410",
-		"full_text": "#WhatLibrariesDo ? We:\n💪Empower\n🤗Support\n🧙‍♂️Transport\n👩‍🎓Educate\n💡Illuminate\n☕️Comfort\n🏠Shelter\n❓Explain\n😂Entertain\n🐣Evolve \n🤩Inspire\n👍Survive\n\n@CILIPSLG @InspireELS @leicslibraries @leicesterlibrar @CassieKempSLS @rusheymeadlib @LeicesterWiT",
+		"full_text": "#WhatLibrariesDo ? We:\n💪Empower\n🤗Support\n🧙♂️Transport\n👩🎓Educate\n💡Illuminate\n☕️Comfort\n🏠Shelter\n❓Explain\n😂Entertain\n🐣Evolve \n🤩Inspire\n👍Survive\n\n@CILIPSLG @InspireELS @leicslibraries @leicesterlibrar @CassieKempSLS @rusheymeadlib @LeicesterWiT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -172,7 +307,7 @@ Grailbird.data.tweets_2019_05 =
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
-		"text": "#WhatLibrariesDo ? We:\n💪Empower\n🤗Support\n🧙‍♂️Transport\n👩‍🎓Educate\n💡Illuminate\n☕️Comfort\n🏠Shelter\n❓Explain\n😂Entertain\n🐣Evolve \n🤩Inspire\n👍Survive\n\n@CILIPSLG @InspireELS @leicslibraries @leicesterlibrar @CassieKempSLS @rusheymeadlib @LeicesterWiT"
+		"text": "#WhatLibrariesDo ? We:\n💪Empower\n🤗Support\n🧙♂️Transport\n👩🎓Educate\n💡Illuminate\n☕️Comfort\n🏠Shelter\n❓Explain\n😂Entertain\n🐣Evolve \n🤩Inspire\n👍Survive\n\n@CILIPSLG @InspireELS @leicslibraries @leicesterlibrar @CassieKempSLS @rusheymeadlib @LeicesterWiT"
 	},
 	{
 		"created_at": "Thu May 16 18:10:28 +0000 2019",

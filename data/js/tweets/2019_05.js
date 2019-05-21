@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 17:29:06 +0000 2019",
+		"id": 1129122038290026500,
+		"id_str": "1130525870052052992",
+		"full_text": "I love libraries @hull_libraries @HullUni_Library and the fab people who work there (@LeeFallin 👍) and on this list yep no16 💕 https://t.co/oKICP1x33k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hull_libraries",
+					"name": "Hull Libraries",
+					"id": 47659954,
+					"id_str": "47659954",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						33,
+						49
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oKICP1x33k",
+					"expanded_url": "https://twitter.com/grumpwitch/status/1128686834563866629",
+					"display_url": "twitter.com/grumpwitch/sta…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1359,
+			"friends_count": 869,
+			"listed_count": 94,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 26286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074754328693493765/4E-blENx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074754328693493765/4E-blENx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128686834563866600,
+		"quoted_status_id_str": "1128686834563866629",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oKICP1x33k",
+			"expanded": "https://twitter.com/grumpwitch/status/1128686834563866629",
+			"display": "twitter.com/grumpwitch/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 15:41:26 +0000 2019",
+			"id": 1128686834563866600,
+			"id_str": "1128686834563866629",
+			"full_text": "Things I have learned about the general public whilst working at the library:\n\n1. A huge number of people under 20 can't read face clocks, having grown up with only digital one.\n2. Many people don't know how to spell \"library.\" It's in our email address. This causes problems",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20466483,
+				"id_str": "20466483",
+				"name": "Secret Library Gorgon 🐍",
+				"screen_name": "grumpwitch",
+				"location": "Scotland, United Kingdom",
+				"description": "Library goblin, swamp witch. Keeper of the tomes. Snake handler. Not in that way. Swears a lot. All opinions my own. // Avatar by AkumiIrako",
+				"url": "https://t.co/yzg6yJhSAQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yzg6yJhSAQ",
+								"expanded_url": "https://grumpwitch.wordpress.com/",
+								"display_url": "grumpwitch.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12269,
+				"friends_count": 950,
+				"listed_count": 72,
+				"created_at": "Mon Feb 09 20:57:19 +0000 2009",
+				"favourites_count": 49794,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 78134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1062365727640961026/GusjBJSA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062365727640961026/GusjBJSA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20466483/1542121342",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27331,
+			"favorite_count": 73796,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love libraries @hull_libraries @HullUni_Library and the fab people who work there (@LeeFallin 👍) and on this list yep no16 💕 https://t.co/oKICP1x33k"
+	},
+	{
 		"created_at": "Sun May 19 17:37:29 +0000 2019",
 		"id": 1129297019959480300,
 		"id_str": "1130165593385119744",

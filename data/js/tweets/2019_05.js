@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 14:10:28 +0000 2019",
+		"id": 1132625660244049900,
+		"id_str": "1132650211942252544",
+		"full_text": "@LeeFallin Or hey.. em alternative assessments to the exam!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131521239372193800,
+		"in_reply_to_status_id_str": "1131521239372193793",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 77721089,
+			"id_str": "77721089",
+			"name": "Dr Debbie Holley",
+			"screen_name": "DebbieHolley1",
+			"location": "UK",
+			"description": "Professor of Learning Innovation, FHSS, Bournemouth University. Research Interests: students/technology, committed to OER Opinions my own.",
+			"url": "https://t.co/7t3BrWGpwd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7t3BrWGpwd",
+							"expanded_url": "http://drdebbieholley.com",
+							"display_url": "drdebbieholley.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1761,
+			"friends_count": 938,
+			"listed_count": 256,
+			"created_at": "Sun Sep 27 12:03:13 +0000 2009",
+			"favourites_count": 8354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114516058977853440/WchNc7yZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114516058977853440/WchNc7yZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77721089/1554556397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin Or hey.. em alternative assessments to the exam!"
+	},
+	{
 		"created_at": "Sat May 25 17:11:51 +0000 2019",
 		"id": 1132333468682264600,
 		"id_str": "1132333468682264576",

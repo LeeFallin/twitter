@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 10:10:40 +0000 2019",
+		"id": 1134401802777047000,
+		"id_str": "1134401802777047040",
+		"full_text": "Does anyone know why these three names are on a whiteboard on campus hahaha? https://t.co/j8wJCJh215",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j8wJCJh215",
+					"expanded_url": "https://twitter.com/michael_gratzke/status/1134394583499059200",
+					"display_url": "twitter.com/michael_gratzk…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1143,
+			"friends_count": 1054,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134394583499059200,
+		"quoted_status_id_str": "1134394583499059200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j8wJCJh215",
+			"expanded": "https://twitter.com/michael_gratzke/status/1134394583499059200",
+			"display": "twitter.com/michael_gratzk…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 31 09:41:59 +0000 2019",
+			"id": 1134394583499059200,
+			"id_str": "1134394583499059200",
+			"full_text": "The big three. @LeeFallin https://t.co/LbbAnjV2jV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							15,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134394575676674000,
+						"id_str": "1134394575676674048",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/D74t2zZWkAAhp83.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D74t2zZWkAAhp83.jpg",
+						"url": "https://t.co/LbbAnjV2jV",
+						"display_url": "pic.twitter.com/LbbAnjV2jV",
+						"expanded_url": "https://twitter.com/michael_gratzke/status/1134394583499059200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134394575676674000,
+						"id_str": "1134394575676674048",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/D74t2zZWkAAhp83.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D74t2zZWkAAhp83.jpg",
+						"url": "https://t.co/LbbAnjV2jV",
+						"display_url": "pic.twitter.com/LbbAnjV2jV",
+						"expanded_url": "https://twitter.com/michael_gratzke/status/1134394583499059200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2742524306,
+				"id_str": "2742524306",
+				"name": "Michael",
+				"screen_name": "michael_gratzke",
+				"location": "Hull, East Riding of Yorkshire",
+				"description": "Academic @loveresearchnet Director of @PGRhub Director with @LTE_Hull and zine maker (link below)",
+				"url": "https://t.co/YpvpXyldW5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpvpXyldW5",
+								"expanded_url": "https://tinyurl.com/y83b3mcg",
+								"display_url": "tinyurl.com/y83b3mcg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1207,
+				"friends_count": 736,
+				"listed_count": 93,
+				"created_at": "Mon Aug 18 17:16:19 +0000 2014",
+				"favourites_count": 28348,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29692,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129749467975081986/80TQtohA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129749467975081986/80TQtohA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2742524306/1558188238",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does anyone know why these three names are on a whiteboard on campus hahaha? https://t.co/j8wJCJh215"
+	},
+	{
 		"created_at": "Thu May 30 23:39:37 +0000 2019",
 		"id": 1134093026501038100,
 		"id_str": "1134242994234765312",

@@ -1,6 +1,1255 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 18:03:53 +0000 2019",
+		"id": 1138507158973288400,
+		"id_str": "1138507158973288450",
+		"full_text": "@calimarshall @livinginhope @UniOfHull @rwatson1955 @FacHealthHull @mike_ewen I promise that there is nothing to be nervous about @calimarshall!",
+		"truncated": false,
+		"display_text_range": [
+			78,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "calimarshall",
+					"name": "claire marshall",
+					"id": 89433226,
+					"id_str": "89433226",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "livinginhope",
+					"name": "Dr Jane Wray",
+					"id": 22756431,
+					"id_str": "22756431",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "rwatson1955",
+					"name": "Roger Watson 🇬🇧🖋🏃‍♂️🐸",
+					"id": 75360703,
+					"id_str": "75360703",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "FacHealthHull",
+					"name": "Hull Health Sciences",
+					"id": 971909150,
+					"id_str": "971909150",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"screen_name": "calimarshall",
+					"name": "claire marshall",
+					"id": 89433226,
+					"id_str": "89433226",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1138506231109365800,
+		"in_reply_to_status_id_str": "1138506231109365760",
+		"in_reply_to_user_id": 89433226,
+		"in_reply_to_user_id_str": "89433226",
+		"in_reply_to_screen_name": "calimarshall",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1146,
+			"friends_count": 1058,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@calimarshall @livinginhope @UniOfHull @rwatson1955 @FacHealthHull @mike_ewen I promise that there is nothing to be nervous about @calimarshall!"
+	},
+	{
+		"created_at": "Tue Jun 11 17:12:58 +0000 2019",
+		"id": 1138494343558389800,
+		"id_str": "1138494343558389761",
+		"full_text": "@JosefPloner ☺️☺️☺️\n\nDon’t forget that brilliant co-authored chapter on literature reviews too 😉😅😇",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JosefPloner",
+					"name": "Josef Ploner",
+					"id": 2769245961,
+					"id_str": "2769245961",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1138489121385648100,
+		"in_reply_to_status_id_str": "1138489121385648128",
+		"in_reply_to_user_id": 2769245961,
+		"in_reply_to_user_id_str": "2769245961",
+		"in_reply_to_screen_name": "JosefPloner",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1146,
+			"friends_count": 1058,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JosefPloner ☺️☺️☺️\n\nDon’t forget that brilliant co-authored chapter on literature reviews too 😉😅😇"
+	},
+	{
+		"created_at": "Tue Jun 11 17:12:10 +0000 2019",
+		"id": 1138489121385648100,
+		"id_str": "1138494143498522624",
+		"full_text": "Received this wonderful present today from my colleague Clive Opie, editor of this fantastic new book - a must-read for UG and PGT Education students! With a fine chapter on effective NVivo use by @LeeFallin #educationalresearch #researchmethods #Dissertation https://t.co/5KgrGdtEED",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "educationalresearch",
+					"indices": [
+						208,
+						228
+					]
+				},
+				{
+					"text": "researchmethods",
+					"indices": [
+						229,
+						245
+					]
+				},
+				{
+					"text": "Dissertation",
+					"indices": [
+						246,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						197,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138489115706626000,
+					"id_str": "1138489115706626049",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D8y50ZpXkAEfRCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8y50ZpXkAEfRCH.jpg",
+					"url": "https://t.co/5KgrGdtEED",
+					"display_url": "pic.twitter.com/5KgrGdtEED",
+					"expanded_url": "https://twitter.com/JosefPloner/status/1138489121385648128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138489115706626000,
+					"id_str": "1138489115706626049",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/D8y50ZpXkAEfRCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8y50ZpXkAEfRCH.jpg",
+					"url": "https://t.co/5KgrGdtEED",
+					"display_url": "pic.twitter.com/5KgrGdtEED",
+					"expanded_url": "https://twitter.com/JosefPloner/status/1138489121385648128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2769245961,
+			"id_str": "2769245961",
+			"name": "Josef Ploner",
+			"screen_name": "JosefPloner",
+			"location": "Sheffield, England",
+			"description": "Lecturer @FACEHull @UniOfHull. working on international Higher Education and Tourism Mobilities; Learning, Heritage and Memory.",
+			"url": "https://t.co/bqNUuijonl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bqNUuijonl",
+							"expanded_url": "http://ow.ly/T91Jx",
+							"display_url": "ow.ly/T91Jx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459,
+			"friends_count": 961,
+			"listed_count": 15,
+			"created_at": "Sat Sep 13 20:08:50 +0000 2014",
+			"favourites_count": 3940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/510884078556807168/a9vBcVV4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/510884078556807168/a9vBcVV4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2769245961/1410639301",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Received this wonderful present today from my colleague Clive Opie, editor of this fantastic new book - a must-read for UG and PGT Education students! With a fine chapter on effective NVivo use by @LeeFallin #educationalresearch #researchmethods #Dissertation https://t.co/5KgrGdtEED"
+	},
+	{
+		"created_at": "Tue Jun 11 16:04:53 +0000 2019",
+		"id": 1138477211466522600,
+		"id_str": "1138477211466522625",
+		"full_text": "@kateawright Direct link: https://t.co/Dm4b3ttbVI ❤️🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dm4b3ttbVI",
+					"expanded_url": "https://libguides.hull.ac.uk/diverselearners#s-lib-ctab-14936255-1",
+					"display_url": "libguides.hull.ac.uk/diverselearner…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1138407891919130600,
+		"in_reply_to_status_id_str": "1138407891919130625",
+		"in_reply_to_user_id": 28408419,
+		"in_reply_to_user_id_str": "28408419",
+		"in_reply_to_screen_name": "kateawright",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1146,
+			"friends_count": 1058,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@kateawright Direct link: https://t.co/Dm4b3ttbVI ❤️🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+	},
+	{
+		"created_at": "Tue Jun 11 16:00:45 +0000 2019",
+		"id": 1138476168586432500,
+		"id_str": "1138476168586432513",
+		"full_text": "Very happy to share that the 'Designing for Diverse Learners Poster' has been tranlated into Welsh. HUGE thanks to @kateawright for facilitating this with the @AberUni/@Prifysgol_Aber's Translation Unit ❤️🏴󠁧󠁢󠁷󠁬󠁳󠁿\n\nDownload here: https://t.co/uBo2jTOkeN \n\n#Accessibility #Inclusion https://t.co/D85ImpMC9n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Accessibility",
+					"indices": [
+						255,
+						269
+					]
+				},
+				{
+					"text": "Inclusion",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"screen_name": "AberUni",
+					"name": "Aberystwyth University",
+					"id": 18721907,
+					"id_str": "18721907",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"screen_name": "Prifysgol_Aber",
+					"name": "Prifysgol Aberystwyth",
+					"id": 41361688,
+					"id_str": "41361688",
+					"indices": [
+						168,
+						183
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uBo2jTOkeN",
+					"expanded_url": "https://libguides.hull.ac.uk/diverselearners",
+					"display_url": "libguides.hull.ac.uk/diverselearners",
+					"indices": [
+						229,
+						252
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138474765050679300,
+					"id_str": "1138474765050679296",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ysxFSXkAANedu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ysxFSXkAANedu.jpg",
+					"url": "https://t.co/D85ImpMC9n",
+					"display_url": "pic.twitter.com/D85ImpMC9n",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1138476168586432513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138474765050679300,
+					"id_str": "1138474765050679296",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ysxFSXkAANedu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ysxFSXkAANedu.jpg",
+					"url": "https://t.co/D85ImpMC9n",
+					"display_url": "pic.twitter.com/D85ImpMC9n",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1138476168586432513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1146,
+			"friends_count": 1058,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very happy to share that the 'Designing for Diverse Learners Poster' has been tranlated into Welsh. HUGE thanks to @kateawright for facilitating this with the @AberUni/@Prifysgol_Aber's Translation Unit ❤️🏴󠁧󠁢󠁷󠁬󠁳󠁿\n\nDownload here: https://t.co/uBo2jTOkeN \n\n#Accessibility #Inclusion https://t.co/D85ImpMC9n"
+	},
+	{
+		"created_at": "Tue Jun 11 15:38:17 +0000 2019",
+		"id": 1138470514983395300,
+		"id_str": "1138470514983395328",
+		"full_text": "@PhoenixYork @mike_ewen @Microsoft @MicrosoftTeams @Azure @MSPowerBI I'm already firing up @MSPowerBI - It's been some time! https://t.co/N7XgIkdlRr",
+		"truncated": false,
+		"display_text_range": [
+			69,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhoenixYork",
+					"name": "Phoenix Software",
+					"id": 278080884,
+					"id_str": "278080884",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"screen_name": "Azure",
+					"name": "Microsoft Azure",
+					"id": 17000457,
+					"id_str": "17000457",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"screen_name": "MSPowerBI",
+					"name": "Power BI",
+					"id": 227829587,
+					"id_str": "227829587",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "MSPowerBI",
+					"name": "Power BI",
+					"id": 227829587,
+					"id_str": "227829587",
+					"indices": [
+						91,
+						101
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138470347962048500,
+					"id_str": "1138470347962048512",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yov-WX4AAM2Ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yov-WX4AAM2Ps.jpg",
+					"url": "https://t.co/N7XgIkdlRr",
+					"display_url": "pic.twitter.com/N7XgIkdlRr",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1138470514983395328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138470347962048500,
+					"id_str": "1138470347962048512",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/D8yov-WX4AAM2Ps.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8yov-WX4AAM2Ps.jpg",
+					"url": "https://t.co/N7XgIkdlRr",
+					"display_url": "pic.twitter.com/N7XgIkdlRr",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1138470514983395328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1138466214278303700,
+		"in_reply_to_status_id_str": "1138466214278303748",
+		"in_reply_to_user_id": 278080884,
+		"in_reply_to_user_id_str": "278080884",
+		"in_reply_to_screen_name": "PhoenixYork",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1146,
+			"friends_count": 1058,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@PhoenixYork @mike_ewen @Microsoft @MicrosoftTeams @Azure @MSPowerBI I'm already firing up @MSPowerBI - It's been some time! https://t.co/N7XgIkdlRr"
+	},
+	{
+		"created_at": "Tue Jun 11 15:17:08 +0000 2019",
+		"id": 1138465193309167600,
+		"id_str": "1138465193309167616",
+		"full_text": "Had a very good day with @mike_ewen attending a @Microsoft Technology Session with @PhoenixYork. Lots to think about - particularly with @MicrosoftTeams, @Azure and @MSPowerBI. #MIEExpert #MicrosoftEDU #Microsoft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						188,
+						201
+					]
+				},
+				{
+					"text": "Microsoft",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "Microsoft",
+					"name": "Microsoft",
+					"id": 74286565,
+					"id_str": "74286565",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "PhoenixYork",
+					"name": "Phoenix Software",
+					"id": 278080884,
+					"id_str": "278080884",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						137,
+						152
+					]
+				},
+				{
+					"screen_name": "Azure",
+					"name": "Microsoft Azure",
+					"id": 17000457,
+					"id_str": "17000457",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"screen_name": "MSPowerBI",
+					"name": "Power BI",
+					"id": 227829587,
+					"id_str": "227829587",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1146,
+			"friends_count": 1058,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Had a very good day with @mike_ewen attending a @Microsoft Technology Session with @PhoenixYork. Lots to think about - particularly with @MicrosoftTeams, @Azure and @MSPowerBI. #MIEExpert #MicrosoftEDU #Microsoft"
+	},
+	{
 		"created_at": "Mon Jun 10 10:12:01 +0000 2019",
 		"id": 1137297656676528100,
 		"id_str": "1138026022589349888",
@@ -116,7 +1365,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

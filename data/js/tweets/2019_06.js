@@ -1,6 +1,998 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 20:53:27 +0000 2019",
+		"id": 1140361770688757800,
+		"id_str": "1140361770688757762",
+		"full_text": "Great visualisation. Really shows how the landscape of social media is ever evolving. #SocialMedia #SocialNetworks #EdTech #Facebook #YouTube #Twitter https://t.co/63xpyT1BK8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialMedia",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"text": "SocialNetworks",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/63xpyT1BK8",
+					"expanded_url": "https://twitter.com/urban_teacher/status/1139032952275447808",
+					"display_url": "twitter.com/urban_teacher/…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1169,
+			"friends_count": 1065,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139032952275447800,
+		"quoted_status_id_str": "1139032952275447808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/63xpyT1BK8",
+			"expanded": "https://twitter.com/urban_teacher/status/1139032952275447808",
+			"display": "twitter.com/urban_teacher/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 13 04:53:12 +0000 2019",
+			"id": 1139032952275447800,
+			"id_str": "1139032952275447808",
+			"full_text": "The most popular social media networks in data visulisation.\n\nhttps://t.co/dMcLzfwVho",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1138771328536907800,
+						"id_str": "1138771328536907777",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/D826xjZX4AEcOHd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D826xjZX4AEcOHd.jpg",
+						"url": "https://t.co/dMcLzfwVho",
+						"display_url": "pic.twitter.com/dMcLzfwVho",
+						"expanded_url": "https://twitter.com/thenextweb/status/1138771820595818497/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1138771820595818500,
+						"source_status_id_str": "1138771820595818497",
+						"source_user_id": 10876852,
+						"source_user_id_str": "10876852"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1138771328536907800,
+						"id_str": "1138771328536907777",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/D826xjZX4AEcOHd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D826xjZX4AEcOHd.jpg",
+						"url": "https://t.co/dMcLzfwVho",
+						"display_url": "pic.twitter.com/dMcLzfwVho",
+						"expanded_url": "https://twitter.com/thenextweb/status/1138771820595818497/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1138771820595818500,
+						"source_status_id_str": "1138771820595818497",
+						"source_user_id": 10876852,
+						"source_user_id_str": "10876852",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 85210,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1138771328536907777/vid/480x480/FXgGREUIPq8mScNC.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1138771328536907777/vid/320x320/zml3Kz7ynAv9y_kK.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1138771328536907777/pl/cLIvFOHCYCfNiD0b.m3u8?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1138771328536907777/vid/720x720/e8_FWXlnsDfoj2Ac.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://thenextweb.com/tech/2019/06/11/most-popular-social-media-networks-year-animated/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 10876852,
+								"id_str": "10876852",
+								"name": "TNW",
+								"screen_name": "thenextweb",
+								"location": "Amsterdam, The Netherlands",
+								"description": "The heart of tech.",
+								"url": "https://t.co/PJK4LY30F6",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/PJK4LY30F6",
+												"expanded_url": "https://www.thenextweb.com",
+												"display_url": "thenextweb.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1742086,
+								"friends_count": 271,
+								"listed_count": 33003,
+								"created_at": "Wed Dec 05 17:26:15 +0000 2007",
+								"favourites_count": 7840,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 180401,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "FF3C1F",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1013677783300665344/RqhvBSM3_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013677783300665344/RqhvBSM3_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/10876852/1557914630",
+								"profile_link_color": "FF4422",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "F3F3F3",
+								"profile_text_color": "333333",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 218179230,
+				"id_str": "218179230",
+				"name": "Urban Teacher",
+				"screen_name": "urban_teacher",
+				"location": "London",
+				"description": "Teacher | Computer Science | MAed | #EdTech Pro | @LFC FAN",
+				"url": "https://t.co/P3UPy6Amv3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P3UPy6Amv3",
+								"expanded_url": "http://urbanteacher.co.uk",
+								"display_url": "urbanteacher.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27016,
+				"friends_count": 763,
+				"listed_count": 1001,
+				"created_at": "Sun Nov 21 16:58:46 +0000 2010",
+				"favourites_count": 12809,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25637,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711212783426248704/oMI8OGtX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711212783426248704/oMI8OGtX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/218179230/1439998413",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great visualisation. Really shows how the landscape of social media is ever evolving. #SocialMedia #SocialNetworks #EdTech #Facebook #YouTube #Twitter https://t.co/63xpyT1BK8"
+	},
+	{
+		"created_at": "Sun Jun 16 20:40:15 +0000 2019",
+		"id": 1139537653240610800,
+		"id_str": "1140358448934264834",
+		"full_text": "Don't underestimate the value of Certification #DigitalSkills #employability #CMLive19 @DigitalStaffs @BusinessStaffs https://t.co/oHAQEZwzdF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalSkills",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"text": "employability",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"text": "CMLive19",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalStaffs",
+					"name": "Digital Services",
+					"id": 915227396009336800,
+					"id_str": "915227396009336833",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "BusinessStaffs",
+					"name": "Staffs Uni Business",
+					"id": 3344025755,
+					"id_str": "3344025755",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139537627147919400,
+					"id_str": "1139537627147919365",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D9BzbzJX4AU502x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9BzbzJX4AU502x.jpg",
+					"url": "https://t.co/oHAQEZwzdF",
+					"display_url": "pic.twitter.com/oHAQEZwzdF",
+					"expanded_url": "https://twitter.com/IteroAnge/status/1139537653240610816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2009,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139537627147919400,
+					"id_str": "1139537627147919365",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D9BzbzJX4AU502x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9BzbzJX4AU502x.jpg",
+					"url": "https://t.co/oHAQEZwzdF",
+					"display_url": "pic.twitter.com/oHAQEZwzdF",
+					"expanded_url": "https://twitter.com/IteroAnge/status/1139537653240610816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2009,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30532346,
+			"id_str": "30532346",
+			"name": "Angela Lawrence",
+			"screen_name": "IteroAnge",
+			"location": "Staffordshire",
+			"description": "Head of Dept, Staffordshire Business School, Senior Fellow HEA, Chartered Marketer & Doctoral student. Passionate about all things digital. All views my own",
+			"url": "https://t.co/KhuwMR8g8j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhuwMR8g8j",
+							"expanded_url": "https://www.linkedin.com/in/angelawrence/",
+							"display_url": "linkedin.com/in/angelawrenc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 624,
+			"friends_count": 762,
+			"listed_count": 22,
+			"created_at": "Sat Apr 11 21:46:09 +0000 2009",
+			"favourites_count": 3852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992386644639698944/AxlRxC2m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992386644639698944/AxlRxC2m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/30532346/1530285843",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09529c157a170004",
+			"url": "https://api.twitter.com/1.1/geo/id/09529c157a170004.json",
+			"place_type": "poi",
+			"name": "The British Library",
+			"full_name": "The British Library",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.127026,
+							51.529994
+						],
+						[
+							-0.127026,
+							51.529994
+						],
+						[
+							-0.127026,
+							51.529994
+						],
+						[
+							-0.127026,
+							51.529994
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't underestimate the value of Certification #DigitalSkills #employability #CMLive19 @DigitalStaffs @BusinessStaffs https://t.co/oHAQEZwzdF"
+	},
+	{
+		"created_at": "Sun Jun 16 08:49:52 +0000 2019",
+		"id": 1140179675857195000,
+		"id_str": "1140179675857195009",
+		"full_text": "Hello #LTHEchat, #HigherEd and #DigitalStudent communities. We are running a week-long course at Hull (#DigiResHull) which will have daily activities on Twitter Monday-Friday next week. We'd love you to join in - so keep an eye out for #DigiResHull",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						6,
+						15
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "DigitalStudent",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"text": "DigiResHull",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "DigiResHull",
+					"indices": [
+						236,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1169,
+			"friends_count": 1065,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hello #LTHEchat, #HigherEd and #DigitalStudent communities. We are running a week-long course at Hull (#DigiResHull) which will have daily activities on Twitter Monday-Friday next week. We'd love you to join in - so keep an eye out for #DigiResHull"
+	},
+	{
+		"created_at": "Sun Jun 16 08:45:26 +0000 2019",
+		"id": 1140178557693571100,
+		"id_str": "1140178557693571072",
+		"full_text": "Nice to see so many introductions hitting the #DigiResHull forum. BIG hello to @zachary_north, @joyjitchat, @Juliebrumby, @ChrisWestoby, @elizamonaghan, @nirmalasoundar2 and @osman_yansaneh. Looking forward to connecting with you all in the course and on Twitter!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiResHull",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zachary North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "joyjitchat",
+					"name": "Joyjit Chatterjee",
+					"id": 842983075994853400,
+					"id_str": "842983075994853376",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "JulieBrumby",
+					"name": "Julie Brumby",
+					"id": 508897684,
+					"id_str": "508897684",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "ChrisWestoby",
+					"name": "Chris Westoby",
+					"id": 1091334331157672000,
+					"id_str": "1091334331157671936",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"screen_name": "ElizaMonaghan",
+					"name": "Elizabeth Monaghan",
+					"id": 912166686,
+					"id_str": "912166686",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"screen_name": "nirmalasoundar2",
+					"name": "Nimmi",
+					"id": 784250240337584100,
+					"id_str": "784250240337584128",
+					"indices": [
+						153,
+						169
+					]
+				},
+				{
+					"screen_name": "osman_yansaneh",
+					"name": "Osman Yansaneh",
+					"id": 3831620385,
+					"id_str": "3831620385",
+					"indices": [
+						174,
+						189
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1169,
+			"friends_count": 1065,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Nice to see so many introductions hitting the #DigiResHull forum. BIG hello to @zachary_north, @joyjitchat, @Juliebrumby, @ChrisWestoby, @elizamonaghan, @nirmalasoundar2 and @osman_yansaneh. Looking forward to connecting with you all in the course and on Twitter!"
+	},
+	{
 		"created_at": "Sat Jun 15 07:20:51 +0000 2019",
 		"id": 1139786522851459100,
 		"id_str": "1139794883252822016",
@@ -305,7 +1297,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

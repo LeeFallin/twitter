@@ -1,6 +1,165 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 18:52:24 +0000 2019",
+		"id": 1142501472250355700,
+		"id_str": "1142505635046727680",
+		"full_text": "Microsoft Innovative Educators is out! https://t.co/LPaT4D2pxt #mieexpert #edtech #K12 via @Steven_Abrahams @AmandaTrouba @LeeFallin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mieexpert",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "K12",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Steven_Abrahams",
+					"name": "Steven Abrahams",
+					"id": 6339822,
+					"id_str": "6339822",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"screen_name": "AmandaTrouba",
+					"name": "Amanda Trouba",
+					"id": 803714156620873700,
+					"id_str": "803714156620873728",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LPaT4D2pxt",
+					"expanded_url": "https://paper.li/f-1415975491?edition_id=8eed4c90-951c-11e9-a746-0cc47a0d1605",
+					"display_url": "paper.li/f-1415975491?e…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://paper.li\" rel=\"nofollow\">Paper.li</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, Learning Tools & #MicrosoftTeams #edtech #ISTE19 @OneNoteEDU @MicrosoftEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19237,
+			"friends_count": 3254,
+			"listed_count": 742,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 67024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft Innovative Educators is out! https://t.co/LPaT4D2pxt #mieexpert #edtech #K12 via @Steven_Abrahams @AmandaTrouba @LeeFallin"
+	},
+	{
 		"created_at": "Fri Jun 21 20:45:36 +0000 2019",
 		"id": 1142171735451668500,
 		"id_str": "1142171735451668482",
@@ -46,7 +205,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -579,7 +738,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -856,7 +1015,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1182,7 +1341,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1296,7 +1455,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1810,7 +1969,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1915,7 +2074,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -2246,7 +2405,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -2584,7 +2743,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -2945,7 +3104,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

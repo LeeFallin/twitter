@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 24 15:54:45 +0000 2019",
+		"id": 1143182427621396500,
+		"id_str": "1143185703242817543",
+		"full_text": "@LeeFallin @rwatson1955 sharing some quality advice on making social media work for your research to our research community this afternoon @pgrhub #research #pgr #Profile https://t.co/57ZLlaenvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "research",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "pgr",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Profile",
+					"indices": [
+						162,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "rwatson1955",
+					"name": "Roger Watson 🇬🇧🖋🏃‍♂️🐸",
+					"id": 75360703,
+					"id_str": "75360703",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "pgrhub",
+					"name": "Doctoral College @ the University of Hull",
+					"id": 741579412295012400,
+					"id_str": "741579412295012352",
+					"indices": [
+						139,
+						146
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143182417508937700,
+					"id_str": "1143182417508937728",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D91mWhUXsAAMxDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D91mWhUXsAAMxDS.jpg",
+					"url": "https://t.co/57ZLlaenvL",
+					"display_url": "pic.twitter.com/57ZLlaenvL",
+					"expanded_url": "https://twitter.com/law_rich/status/1143182427621396485/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143182417508937700,
+					"id_str": "1143182417508937728",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D91mWhUXsAAMxDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D91mWhUXsAAMxDS.jpg",
+					"url": "https://t.co/57ZLlaenvL",
+					"display_url": "pic.twitter.com/57ZLlaenvL",
+					"expanded_url": "https://twitter.com/law_rich/status/1143182427621396485/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 196,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D91mWhUXsAAMxDS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 2316925263,
+			"id_str": "2316925263",
+			"name": "Richard Barnes",
+			"screen_name": "law_rich",
+			"location": "Hull, England",
+			"description": "Law Prof working on #law #oceans #plastics #brexit #fisheries. And football skills. Not all at once. Some signs of improvement.",
+			"url": "https://t.co/HmO86Zi9Sw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HmO86Zi9Sw",
+							"expanded_url": "http://www.hull.ac.uk/Faculties/staff-profiles/Professor-Richard-Barnes.aspx",
+							"display_url": "hull.ac.uk/Faculties/staf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1063,
+			"friends_count": 832,
+			"listed_count": 43,
+			"created_at": "Fri Jan 31 21:39:08 +0000 2014",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940894587517849600/DZ5DrSCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940894587517849600/DZ5DrSCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2316925263/1425368398",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LeeFallin @rwatson1955 sharing some quality advice on making social media work for your research to our research community this afternoon @pgrhub #research #pgr #Profile https://t.co/57ZLlaenvL"
+	},
+	{
+		"created_at": "Mon Jun 24 10:20:49 +0000 2019",
+		"id": 1143101667308646400,
+		"id_str": "1143101667308646402",
+		"full_text": "@CheMichael7 Follow up question. Do PSRBs focus too much on content, knowledge and skill at the expense of pedagogic considerations?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CheMichael7",
+					"name": "CheMichael",
+					"id": 1106664169686925300,
+					"id_str": "1106664169686925314",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1143040655071092700,
+		"in_reply_to_status_id_str": "1143040655071092737",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1187,
+			"friends_count": 1070,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CheMichael7 Follow up question. Do PSRBs focus too much on content, knowledge and skill at the expense of pedagogic considerations?"
+	},
+	{
 		"created_at": "Sun Jun 23 16:12:10 +0000 2019",
 		"id": 1142827698949148700,
 		"id_str": "1142827698949148672",
@@ -39,7 +385,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

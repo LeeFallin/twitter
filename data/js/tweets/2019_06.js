@@ -1,6 +1,949 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 05:53:19 +0000 2019",
+		"id": 1144483897482158100,
+		"id_str": "1144483897482158080",
+		"full_text": "Did someone say ‘place making’ 😍 Looking forward to reading this at some point after I write my thesis of course 😉 https://t.co/wuOcmYYq5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wuOcmYYq5Y",
+					"expanded_url": "https://twitter.com/childrensgeogs/status/1144272344694874112",
+					"display_url": "twitter.com/childrensgeogs…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1200,
+			"friends_count": 1072,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1144272344694874100,
+		"quoted_status_id_str": "1144272344694874112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wuOcmYYq5Y",
+			"expanded": "https://twitter.com/childrensgeogs/status/1144272344694874112",
+			"display": "twitter.com/childrensgeogs…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 27 15:52:41 +0000 2019",
+			"id": 1144272344694874100,
+			"id_str": "1144272344694874112",
+			"full_text": "*NEW PAPER* @JosefPloner &amp; @jones_lisa2014 on young people’s understandings of #culture and #place and cultural #regeneration\n\nhttps://t.co/22ANwwIPTP https://t.co/7XZbFbbzyo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "culture",
+						"indices": [
+							83,
+							91
+						]
+					},
+					{
+						"text": "place",
+						"indices": [
+							96,
+							102
+						]
+					},
+					{
+						"text": "regeneration",
+						"indices": [
+							116,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JosefPloner",
+						"name": "Josef Ploner",
+						"id": 2769245961,
+						"id_str": "2769245961",
+						"indices": [
+							12,
+							24
+						]
+					},
+					{
+						"screen_name": "Jones_Lisa2014",
+						"name": "Lisa Jones",
+						"id": 785406852007915500,
+						"id_str": "785406852007915520",
+						"indices": [
+							31,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/22ANwwIPTP",
+						"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/14733285.2019.1634245",
+						"display_url": "tandfonline.com/doi/full/10.10…",
+						"indices": [
+							131,
+							154
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1144272269042229200,
+						"id_str": "1144272269042229248",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/D-FFkOqXoAAMJfD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-FFkOqXoAAMJfD.jpg",
+						"url": "https://t.co/7XZbFbbzyo",
+						"display_url": "pic.twitter.com/7XZbFbbzyo",
+						"expanded_url": "https://twitter.com/ChildrensGeogs/status/1144272344694874112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 916,
+								"h": 581,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 916,
+								"h": 581,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1144272269042229200,
+						"id_str": "1144272269042229248",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/D-FFkOqXoAAMJfD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-FFkOqXoAAMJfD.jpg",
+						"url": "https://t.co/7XZbFbbzyo",
+						"display_url": "pic.twitter.com/7XZbFbbzyo",
+						"expanded_url": "https://twitter.com/ChildrensGeogs/status/1144272344694874112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 916,
+								"h": 581,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 916,
+								"h": 581,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 431,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1006930399975694300,
+				"id_str": "1006930399975694336",
+				"name": "Children's Geographies",
+				"screen_name": "ChildrensGeogs",
+				"location": "",
+				"description": "Children's Geographies is an international peer-reviewed journal that publishes leading research and scholarship relating to children, young people and families",
+				"url": "https://t.co/ertnRG18nu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ertnRG18nu",
+								"expanded_url": "https://www.tandfonline.com/loi/cchg20",
+								"display_url": "tandfonline.com/loi/cchg20",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 544,
+				"friends_count": 122,
+				"listed_count": 4,
+				"created_at": "Wed Jun 13 16:04:50 +0000 2018",
+				"favourites_count": 59,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009400775133618176/oPcRYGyD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009400775133618176/oPcRYGyD_normal.jpg",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did someone say ‘place making’ 😍 Looking forward to reading this at some point after I write my thesis of course 😉 https://t.co/wuOcmYYq5Y"
+	},
+	{
+		"created_at": "Fri Jun 28 05:51:18 +0000 2019",
+		"id": 1144221385927090200,
+		"id_str": "1144483390252408832",
+		"full_text": "If your institution is not a member of #ALDinHE ,take a look at what we can offer: https://t.co/b53JbED0UM Start your membership for the new academic  year 2019-2020 &amp; join our network of institutional members,as pictured. #LoveLD #StudyChat #LearningDevelopment #HigherEducation https://t.co/77vqDT8hOt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDinHE",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "LoveLD",
+					"indices": [
+						227,
+						234
+					]
+				},
+				{
+					"text": "StudyChat",
+					"indices": [
+						235,
+						245
+					]
+				},
+				{
+					"text": "LearningDevelopment",
+					"indices": [
+						246,
+						266
+					]
+				},
+				{
+					"text": "HigherEducation",
+					"indices": [
+						267,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b53JbED0UM",
+					"expanded_url": "http://aldinhe.ac.uk/join",
+					"display_url": "aldinhe.ac.uk/join",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144221384433905700,
+					"id_str": "1144221384433905664",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EXSWuWsAATBpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EXSWuWsAATBpL.jpg",
+					"url": "https://t.co/77vqDT8hOt",
+					"display_url": "pic.twitter.com/77vqDT8hOt",
+					"expanded_url": "https://twitter.com/aldinhe_LH/status/1144221385927090176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 671,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144221384433905700,
+					"id_str": "1144221384433905664",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EXSWuWsAATBpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EXSWuWsAATBpL.jpg",
+					"url": "https://t.co/77vqDT8hOt",
+					"display_url": "pic.twitter.com/77vqDT8hOt",
+					"expanded_url": "https://twitter.com/aldinhe_LH/status/1144221385927090176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 671,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119064069,
+			"id_str": "119064069",
+			"name": "ALDinHE",
+			"screen_name": "aldinhe_LH",
+			"location": "",
+			"description": "Association for Learning Development in Higher Education. A community to empower Learning Developers to empower staff and students in Higher Education.",
+			"url": "https://t.co/l7ujX9JW7p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l7ujX9JW7p",
+							"expanded_url": "http://www.aldinhe.ac.uk",
+							"display_url": "aldinhe.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 953,
+			"friends_count": 591,
+			"listed_count": 28,
+			"created_at": "Tue Mar 02 15:21:07 +0000 2010",
+			"favourites_count": 722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119064069/1530529040",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If your institution is not a member of #ALDinHE ,take a look at what we can offer: https://t.co/b53JbED0UM Start your membership for the new academic  year 2019-2020 &amp; join our network of institutional members,as pictured. #LoveLD #StudyChat #LearningDevelopment #HigherEducation https://t.co/77vqDT8hOt"
+	},
+	{
+		"created_at": "Fri Jun 28 05:48:35 +0000 2019",
+		"id": 1144292993442177000,
+		"id_str": "1144482706794803200",
+		"full_text": "The myth that people have different learning styles (often framed as visual, auditory or kinaesthetic but there's other models) has long been disproven but there's a hardcore group of people, including educators, who keep believing it: https://t.co/WIPUuyFkUx Via @ResearchDigest https://t.co/Cz057XiAqw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResearchDigest",
+					"name": "BPS Research Digest",
+					"id": 24862758,
+					"id_str": "24862758",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WIPUuyFkUx",
+					"expanded_url": "https://digest.bps.org.uk/2019/06/20/a-core-subgroup-of-believers-dont-just-think-learning-styles-are-real-but-also-inherited-and-hard-wired-in-the-brain/",
+					"display_url": "digest.bps.org.uk/2019/06/20/a-c…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144292861782962200,
+					"id_str": "1144292861782962177",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D-FYS4mWsAECswC.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-FYS4mWsAECswC.png",
+					"url": "https://t.co/Cz057XiAqw",
+					"display_url": "pic.twitter.com/Cz057XiAqw",
+					"expanded_url": "https://twitter.com/helenbevan/status/1144292993442177029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144292861782962200,
+					"id_str": "1144292861782962177",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D-FYS4mWsAECswC.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-FYS4mWsAECswC.png",
+					"url": "https://t.co/Cz057XiAqw",
+					"display_url": "pic.twitter.com/Cz057XiAqw",
+					"expanded_url": "https://twitter.com/helenbevan/status/1144292993442177029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190960735,
+			"id_str": "190960735",
+			"name": "Helen Bevan",
+			"screen_name": "helenbevan",
+			"location": "Coventry, England",
+			"description": "Chief Transformation Officer, @HorizonsNHS Seeking out ideas, learning & connections to help large scale change in health & care. All views my own",
+			"url": "https://t.co/Qs1HVvZwDf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qs1HVvZwDf",
+							"expanded_url": "http://linkedin.com/in/helenbevanhealthcare",
+							"display_url": "linkedin.com/in/helenbevanh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75168,
+			"friends_count": 21615,
+			"listed_count": 1194,
+			"created_at": "Wed Sep 15 08:05:27 +0000 2010",
+			"favourites_count": 12684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/910175222497710080/av5zmTRW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/910175222497710080/av5zmTRW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190960735/1557503812",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 194,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The myth that people have different learning styles (often framed as visual, auditory or kinaesthetic but there's other models) has long been disproven but there's a hardcore group of people, including educators, who keep believing it: https://t.co/WIPUuyFkUx Via @ResearchDigest https://t.co/Cz057XiAqw"
+	},
+	{
+		"created_at": "Fri Jun 28 05:48:30 +0000 2019",
+		"id": 1144482686225932300,
+		"id_str": "1144482686225932289",
+		"full_text": "@helenbevan @ResearchDigest This should definitely be tweeted out on #DieLearningStylesDie",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DieLearningStylesDie",
+					"indices": [
+						69,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helenbevan",
+					"name": "Helen Bevan",
+					"id": 190960735,
+					"id_str": "190960735",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ResearchDigest",
+					"name": "BPS Research Digest",
+					"id": 24862758,
+					"id_str": "24862758",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1144292993442177000,
+		"in_reply_to_status_id_str": "1144292993442177029",
+		"in_reply_to_user_id": 190960735,
+		"in_reply_to_user_id_str": "190960735",
+		"in_reply_to_screen_name": "helenbevan",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1200,
+			"friends_count": 1072,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helenbevan @ResearchDigest This should definitely be tweeted out on #DieLearningStylesDie"
+	},
+	{
 		"created_at": "Thu Jun 27 21:23:48 +0000 2019",
 		"id": 1144327557518680000,
 		"id_str": "1144355674534686722",
@@ -402,7 +1345,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -516,7 +1459,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -632,7 +1575,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -837,7 +1780,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -985,7 +1928,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1166,7 +2109,7 @@ Grailbird.data.tweets_2019_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

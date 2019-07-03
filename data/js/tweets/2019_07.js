@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 12:00:48 +0000 2019",
+		"id": 1145990926688542700,
+		"id_str": "1146025930181304320",
+		"full_text": "Don’t miss this excellent keynote from @BexHuxBinns. Watch now at https://t.co/Y0nGYTh9AV #telfest #altc #lthechat https://t.co/GC7Pc212Ol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "telfest",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Rebecca Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y0nGYTh9AV",
+					"expanded_url": "http://sheffield.ac.uk/telfest/live",
+					"display_url": "sheffield.ac.uk/telfest/live",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/GC7Pc212Ol",
+					"expanded_url": "https://twitter.com/Dan_LXIX/status/1145990482406838273",
+					"display_url": "twitter.com/Dan_LXIX/statu…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107356021,
+			"id_str": "107356021",
+			"name": "John Couperthwaite",
+			"screen_name": "johncoup",
+			"location": "Birmingham, Europe",
+			"description": "Education Consultant for @Echo360 EMEA. Educator, passionate about #activelearning, #learninganalytics,  #lecturecapture & #blendedlearning. Tweets are my own.",
+			"url": "https://t.co/X9AoWFbNkt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X9AoWFbNkt",
+							"expanded_url": "https://www.linkedin.com/in/johncouperthwaite",
+							"display_url": "linkedin.com/in/johncoupert…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1496,
+			"friends_count": 1200,
+			"listed_count": 123,
+			"created_at": "Fri Jan 22 08:54:14 +0000 2010",
+			"favourites_count": 4947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897861295122395136/kbZsjY_D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897861295122395136/kbZsjY_D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107356021/1471430608",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1145990482406838300,
+		"quoted_status_id_str": "1145990482406838273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GC7Pc212Ol",
+			"expanded": "https://twitter.com/Dan_LXIX/status/1145990482406838273",
+			"display": "twitter.com/Dan_LXIX/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 02 09:39:57 +0000 2019",
+			"id": 1145990482406838300,
+			"id_str": "1145990482406838273",
+			"full_text": "Fantastic  #telfest opening keynote from Becky Huxley-Binns https://t.co/RFDKJraUGc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "telfest",
+						"indices": [
+							11,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1145990477063381000,
+						"id_str": "1145990477063380992",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D-dgRGVX4AAU5ic.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-dgRGVX4AAU5ic.jpg",
+						"url": "https://t.co/RFDKJraUGc",
+						"display_url": "pic.twitter.com/RFDKJraUGc",
+						"expanded_url": "https://twitter.com/Dan_LXIX/status/1145990482406838273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1145990477063381000,
+						"id_str": "1145990477063380992",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/D-dgRGVX4AAU5ic.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-dgRGVX4AAU5ic.jpg",
+						"url": "https://t.co/RFDKJraUGc",
+						"display_url": "pic.twitter.com/RFDKJraUGc",
+						"expanded_url": "https://twitter.com/Dan_LXIX/status/1145990482406838273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17960599,
+				"id_str": "17960599",
+				"name": "Danny Monaghan",
+				"screen_name": "Dan_LXIX",
+				"location": "Sheffield, England",
+				"description": "Play rugby union, sail a Phantom dinghy, love the Peak District and the great outdoors and work as a Senior Learning Technologist at The University of Sheffield",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 407,
+				"friends_count": 221,
+				"listed_count": 24,
+				"created_at": "Mon Dec 08 11:01:53 +0000 2008",
+				"favourites_count": 154,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/581391366267265024/mCyncYT9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/581391366267265024/mCyncYT9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17960599/1430298792",
+				"profile_link_color": "1B51BD",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t miss this excellent keynote from @BexHuxBinns. Watch now at https://t.co/Y0nGYTh9AV #telfest #altc #lthechat https://t.co/GC7Pc212Ol"
+	},
+	{
+		"created_at": "Tue Jul 02 09:10:37 +0000 2019",
+		"id": 1145983099899170800,
+		"id_str": "1145983099899170817",
+		"full_text": "@CheMichael7 Didn’t necessarily say it was good research. But DOGGOS 🐶 🐶 🐶",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CheMichael7",
+					"name": "CheMichael",
+					"id": 1106664169686925300,
+					"id_str": "1106664169686925314",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1145982060009611300,
+		"in_reply_to_status_id_str": "1145982060009611264",
+		"in_reply_to_user_id": 1106664169686925300,
+		"in_reply_to_user_id_str": "1106664169686925314",
+		"in_reply_to_screen_name": "CheMichael7",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1203,
+			"friends_count": 1072,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 4915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CheMichael7 Didn’t necessarily say it was good research. But DOGGOS 🐶 🐶 🐶"
+	},
+	{
 		"created_at": "Mon Jul 01 14:34:56 +0000 2019",
 		"id": 1145702331897528300,
 		"id_str": "1145702331897528323",
@@ -114,7 +543,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -221,7 +650,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -327,7 +756,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -410,7 +839,7 @@ Grailbird.data.tweets_2019_07 =
 			"user_mentions": [
 				{
 					"screen_name": "kimtairi",
-					"name": "1.58m of awesomeness 👨🏽‍🎤💃🏽👗🐝🦄🧘🏽‍♀️🎼📝",
+					"name": "1.58m of awesomeness 👨🏽🎤💃🏽👗🐝🦄🧘🏽♀️🎼📝",
 					"id": 18299613,
 					"id_str": "18299613",
 					"indices": [
@@ -463,7 +892,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

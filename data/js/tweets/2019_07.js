@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 19:18:16 +0000 2019",
+		"id": 1148670946720518100,
+		"id_str": "1148672736153296896",
+		"full_text": "Great meeting today with @LeeFallin @mike_ewen catching up and reflecting on the most recent #DigiResHull each cohort is so different and we are keen to understand how we can improve what we do #watchthisspace https://t.co/0rMeUOqHyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiResHull",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"text": "watchthisspace",
+					"indices": [
+						194,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148670937224699900,
+					"id_str": "1148670937224699904",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_DmIakX4AAuW04.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_DmIakX4AAuW04.jpg",
+					"url": "https://t.co/0rMeUOqHyW",
+					"display_url": "pic.twitter.com/0rMeUOqHyW",
+					"expanded_url": "https://twitter.com/livinginhope/status/1148670946720518144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 396,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 396,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 396,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148670937224699900,
+					"id_str": "1148670937224699904",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_DmIakX4AAuW04.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_DmIakX4AAuW04.jpg",
+					"url": "https://t.co/0rMeUOqHyW",
+					"display_url": "pic.twitter.com/0rMeUOqHyW",
+					"expanded_url": "https://twitter.com/livinginhope/status/1148670946720518144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 396,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 396,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 396,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							99,
+							50
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_DmIakX4AAuW04.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1388,
+			"friends_count": 877,
+			"listed_count": 92,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 26867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146840613586968581/lemtnoKZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146840613586968581/lemtnoKZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great meeting today with @LeeFallin @mike_ewen catching up and reflecting on the most recent #DigiResHull each cohort is so different and we are keen to understand how we can improve what we do #watchthisspace https://t.co/0rMeUOqHyW"
+	},
+	{
 		"created_at": "Mon Jul 08 12:03:13 +0000 2019",
 		"id": 1148200863866982400,
 		"id_str": "1148200863866982401",
@@ -109,7 +319,7 @@ Grailbird.data.tweets_2019_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

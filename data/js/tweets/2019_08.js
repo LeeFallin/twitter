@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 14:52:32 +0000 2019",
+		"id": 1159046017267961900,
+		"id_str": "1159115112340492288",
+		"full_text": "This is choice. This is opportunity. This is Clearing! 🙌\nWe're open for Clearing. Find out what it means for you.\n➡️ https://t.co/BN09kKFNce https://t.co/jBChaKgtBH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BN09kKFNce",
+					"expanded_url": "http://www.hull.ac.uk/clearing",
+					"display_url": "hull.ac.uk/clearing",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159041581082656800,
+					"id_str": "1159041581082656769",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EBW-fF1WsAAQJhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBW-fF1WsAAQJhb.jpg",
+					"url": "https://t.co/jBChaKgtBH",
+					"display_url": "pic.twitter.com/jBChaKgtBH",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1159046017267961857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159041581082656800,
+					"id_str": "1159041581082656769",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EBW-fF1WsAAQJhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBW-fF1WsAAQJhb.jpg",
+					"url": "https://t.co/jBChaKgtBH",
+					"display_url": "pic.twitter.com/jBChaKgtBH",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1159046017267961857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1159041581082656769/pl/-7qQy4Kope5HlV6j.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1159041581082656769/vid/720x720/620227ct81xUq7l5.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1159041581082656769/vid/320x320/fGbc54EmZ_30gwz1.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1159041581082656769/vid/480x480/JoX_jhLPHTPeZ9Fx.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.hull.ac.uk/clearing/clearing.aspx"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59761280,
+			"id_str": "59761280",
+			"name": "University of Hull",
+			"screen_name": "UniOfHull",
+			"location": "Hull, East Yorkshire",
+			"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+			"url": "https://t.co/3NGsMGUfmy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3NGsMGUfmy",
+							"expanded_url": "http://www.hull.ac.uk",
+							"display_url": "hull.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42258,
+			"friends_count": 1115,
+			"listed_count": 555,
+			"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+			"favourites_count": 11335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AE2B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121324383933554689/gJuGpQrO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121324383933554689/gJuGpQrO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1565097013",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is choice. This is opportunity. This is Clearing! 🙌\nWe're open for Clearing. Find out what it means for you.\n➡️ https://t.co/BN09kKFNce https://t.co/jBChaKgtBH"
+	},
+	{
 		"created_at": "Tue Aug 06 19:24:38 +0000 2019",
 		"id": 1158821198643568600,
 		"id_str": "1158821198643568641",
@@ -79,7 +302,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

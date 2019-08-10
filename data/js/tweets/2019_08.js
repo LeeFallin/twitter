@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 15:07:26 +0000 2019",
+		"id": 1159112782534652000,
+		"id_str": "1159843636973977601",
+		"full_text": "Following the announcement on Monday, we'd just like to add our congratulations to @KEHplantsci on becoming a National Teaching Fellow. This is a highly prestigious award and one richly deserved 👏\n\nhttps://t.co/BOkkSIMhAl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Dr Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BOkkSIMhAl",
+					"expanded_url": "https://www.advance-he.ac.uk/ntfs/dr-katharine-hubbard",
+					"display_url": "advance-he.ac.uk/ntfs/dr-kathar…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914481006,
+			"id_str": "914481006",
+			"name": "Teaching Excellence Academy",
+			"screen_name": "UoHAcademy",
+			"location": "The University of Hull, UK",
+			"description": "Latest news from the team as we look to celebrate, develop and promote excellent teaching at @UniofHull.",
+			"url": "https://t.co/jpQpljYSrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpQpljYSrP",
+							"expanded_url": "http://hull.ac.uk/academy",
+							"display_url": "hull.ac.uk/academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 751,
+			"friends_count": 632,
+			"listed_count": 18,
+			"created_at": "Tue Oct 30 12:02:43 +0000 2012",
+			"favourites_count": 838,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914481006/1533221368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Following the announcement on Monday, we'd just like to add our congratulations to @KEHplantsci on becoming a National Teaching Fellow. This is a highly prestigious award and one richly deserved 👏\n\nhttps://t.co/BOkkSIMhAl"
+	},
+	{
+		"created_at": "Fri Aug 09 08:45:12 +0000 2019",
+		"id": 1159747445225640000,
+		"id_str": "1159747445225639937",
+		"full_text": "@ElaineTopham @microsofteduk Not at all a surprise! Congratulations!!!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElaineTopham",
+					"name": "Elaine Topham",
+					"id": 4827857529,
+					"id_str": "4827857529",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "microsofteduk",
+					"name": "Microsoft Education UK",
+					"id": 48661542,
+					"id_str": "48661542",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1159432896761008000,
+		"in_reply_to_status_id_str": "1159432896761008128",
+		"in_reply_to_user_id": 4827857529,
+		"in_reply_to_user_id_str": "4827857529",
+		"in_reply_to_screen_name": "ElaineTopham",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1217,
+			"friends_count": 1078,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ElaineTopham @microsofteduk Not at all a surprise! Congratulations!!!"
+	},
+	{
+		"created_at": "Fri Aug 09 08:43:05 +0000 2019",
+		"id": 1159746912943267800,
+		"id_str": "1159746912943267840",
+		"full_text": "@scholastic_rat @ellapopper @KevinMerry14 @DerbyUni @TeamDerby I think there is opportunity to do both at the same time. We’re blurring into bits of educational development, but only when it relates to helping students with the development of their learning or academic skills in curriculum.",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ellapopper",
+					"name": "Ella Turner",
+					"id": 4899387202,
+					"id_str": "4899387202",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "KevinMerry14",
+					"name": "Kevin Merry",
+					"id": 1137404548392390700,
+					"id_str": "1137404548392390657",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "DerbyUni",
+					"name": "University of Derby",
+					"id": 39975307,
+					"id_str": "39975307",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "TeamDerby",
+					"name": "Team Derby",
+					"id": 378061233,
+					"id_str": "378061233",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1159530907423977500,
+		"in_reply_to_status_id_str": "1159530907423977478",
+		"in_reply_to_user_id": 395277106,
+		"in_reply_to_user_id_str": "395277106",
+		"in_reply_to_screen_name": "scholastic_rat",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1217,
+			"friends_count": 1078,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scholastic_rat @ellapopper @KevinMerry14 @DerbyUni @TeamDerby I think there is opportunity to do both at the same time. We’re blurring into bits of educational development, but only when it relates to helping students with the development of their learning or academic skills in curriculum."
+	},
+	{
+		"created_at": "Fri Aug 09 07:24:18 +0000 2019",
+		"id": 1159720535145795600,
+		"id_str": "1159727083884568576",
+		"full_text": "“As Lisa correctly points out, a small town with a centralised population doesn’t have much need for a mass transit system.”\n\nThis has got everything: historical data, quotes, Spock, mention of prime locations like Malaysia, Alton Towers and Ogdenville... \nhttps://t.co/Rwo5tX7VbY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rwo5tX7VbY",
+					"expanded_url": "https://www.citymetric.com/transport/can-simpsons-explain-why-monorails-never-took-form-transport-4733",
+					"display_url": "citymetric.com/transport/can-…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20466898,
+			"id_str": "20466898",
+			"name": "Kora-Lee Holmes",
+			"screen_name": "KoraLee_Holmes",
+			"location": "London, England",
+			"description": "Edna Krabappel meets Leslie Knope. I dream of one day settling Catan once and for all. Proud staffer for disaster relief NGO @ShelterBox.",
+			"url": "https://t.co/4pTkS0RMPO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4pTkS0RMPO",
+							"expanded_url": "https://Instagram.com/koralee_holmes/",
+							"display_url": "Instagram.com/koralee_holmes/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 872,
+			"friends_count": 608,
+			"listed_count": 13,
+			"created_at": "Mon Feb 09 21:02:11 +0000 2009",
+			"favourites_count": 3687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1038942541641666561/HkmUaLJu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038942541641666561/HkmUaLJu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20466898/1418225063",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9BDC7",
+			"profile_text_color": "080708",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“As Lisa correctly points out, a small town with a centralised population doesn’t have much need for a mass transit system.”\n\nThis has got everything: historical data, quotes, Spock, mention of prime locations like Malaysia, Alton Towers and Ogdenville... \nhttps://t.co/Rwo5tX7VbY"
+	},
+	{
 		"created_at": "Thu Aug 08 20:29:43 +0000 2019",
 		"id": 1159562352142049300,
 		"id_str": "1159562352142049287",
@@ -47,7 +532,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

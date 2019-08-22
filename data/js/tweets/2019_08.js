@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 10:08:53 +0000 2019",
+		"id": 1164115347324231700,
+		"id_str": "1164117160266031107",
+		"full_text": "Special #altc edition of #LTHEchat – 28 August 2019 8pm https://t.co/c0aSD7Ym3T https://t.co/NAA3HJNlzO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c0aSD7Ym3T",
+					"expanded_url": "http://lthechat.com/2019/08/21/special-altc-edition-of-lthechat-28-august-2019-8pm/",
+					"display_url": "lthechat.com/2019/08/21/spe…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164115345487122400,
+					"id_str": "1164115345487122434",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ECfEvS1XUAI0Pzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECfEvS1XUAI0Pzn.jpg",
+					"url": "https://t.co/NAA3HJNlzO",
+					"display_url": "pic.twitter.com/NAA3HJNlzO",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1164115347324231681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164115345487122400,
+					"id_str": "1164115345487122434",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/ECfEvS1XUAI0Pzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECfEvS1XUAI0Pzn.jpg",
+					"url": "https://t.co/NAA3HJNlzO",
+					"display_url": "pic.twitter.com/NAA3HJNlzO",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1164115347324231681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6230,
+			"friends_count": 3146,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 3085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special #altc edition of #LTHEchat – 28 August 2019 8pm https://t.co/c0aSD7Ym3T https://t.co/NAA3HJNlzO"
+	},
+	{
 		"created_at": "Sat Aug 17 06:55:20 +0000 2019",
 		"id": 1162589513358762000,
 		"id_str": "1162618897843011584",
@@ -67,7 +266,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Elaine Topham",
 			"screen_name": "ElaineTopham",
 			"location": "Grimsby, England",
-			"description": "Senior Learning Technologist at #GIFHE, #MIEExpert and trainer👩‍🎓| #MSFTEduChat Alum",
+			"description": "Senior Learning Technologist at #GIFHE, #MIEExpert and trainer👩🎓| #MSFTEduChat Alum",
 			"url": "https://t.co/wMZVLWP6d8",
 			"entities": {
 				"url": {

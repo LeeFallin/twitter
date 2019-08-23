@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 14:34:50 +0000 2019",
+		"id": 1164537929731051500,
+		"id_str": "1164546476929880064",
+		"full_text": "How can academics keep up with the literature? https://t.co/omcbFQYXBu via @timeshighered \n\n💕  Helen Sword’s suggestion of a reading retreat...\n\nKeele’s Academic Reading Retreats offer opportunities to explore possible solutions 📚 https://t.co/eZfunlraH6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timeshighered",
+					"name": "TimesHigherEducation",
+					"id": 23602600,
+					"id_str": "23602600",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/omcbFQYXBu",
+					"expanded_url": "https://www.timeshighereducation.com/features/how-can-academics-keep-literature",
+					"display_url": "timeshighereducation.com/features/how-c…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164537921107611600,
+					"id_str": "1164537921107611649",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EClFEbsXUAEa7qN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EClFEbsXUAEa7qN.jpg",
+					"url": "https://t.co/eZfunlraH6",
+					"display_url": "pic.twitter.com/eZfunlraH6",
+					"expanded_url": "https://twitter.com/WellReadHE/status/1164537929731051520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164537921107611600,
+					"id_str": "1164537921107611649",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EClFEbsXUAEa7qN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EClFEbsXUAEa7qN.jpg",
+					"url": "https://t.co/eZfunlraH6",
+					"display_url": "pic.twitter.com/eZfunlraH6",
+					"expanded_url": "https://twitter.com/WellReadHE/status/1164537929731051520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 364,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							182
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EClFEbsXUAEa7qN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034753615691440100,
+			"id_str": "1034753615691440128",
+			"name": "WellReadHE",
+			"screen_name": "WellReadHE",
+			"location": "Stoke-on-Trent, England",
+			"description": "Angela Rhead, SFHEA \nLearning Developer @ Keele University\nPassionate about demystifying academic reading and facilitating reading retreats. \nViews are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132,
+			"friends_count": 105,
+			"listed_count": 0,
+			"created_at": "Wed Aug 29 10:44:21 +0000 2018",
+			"favourites_count": 194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034755641263439873/NbyzCXZu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034755641263439873/NbyzCXZu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034753615691440128/1551959118",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How can academics keep up with the literature? https://t.co/omcbFQYXBu via @timeshighered \n\n💕  Helen Sword’s suggestion of a reading retreat...\n\nKeele’s Academic Reading Retreats offer opportunities to explore possible solutions 📚 https://t.co/eZfunlraH6"
+	},
+	{
 		"created_at": "Wed Aug 21 10:08:53 +0000 2019",
 		"id": 1164115347324231700,
 		"id_str": "1164117160266031107",

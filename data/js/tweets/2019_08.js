@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 04:57:23 +0000 2019",
+		"id": 1165900945923944400,
+		"id_str": "1166213093212508160",
+		"full_text": "Forget REF, TEF and KEF, I hereby propose the LEF.....Leisure Excellence Framework! I'm sure there are plenty of academics out there who are truly excellent at utilising leisure time and doing amazing things which aren't work-related. We need to share snd celebrate this.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234744939,
+			"id_str": "234744939",
+			"name": "Dr Linda K. Kaye",
+			"screen_name": "LindaKKaye",
+			"location": "United Kingdom",
+			"description": "Psychology academic at @EdgeHill_Psych. Cyber Doctor! Psych of gaming & online behaviour. Founding member & Chair of @BPSCyberpsych | TEDx speaker",
+			"url": "https://t.co/wV2WNcCRNs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wV2WNcCRNs",
+							"expanded_url": "http://lindakkaye.wix.com/dr-linda-kaye",
+							"display_url": "lindakkaye.wix.com/dr-linda-kaye",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4370,
+			"friends_count": 4270,
+			"listed_count": 139,
+			"created_at": "Thu Jan 06 13:19:44 +0000 2011",
+			"favourites_count": 33021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030732811525922816/OSl9xEhH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030732811525922816/OSl9xEhH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234744939/1541780534",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 473,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Forget REF, TEF and KEF, I hereby propose the LEF.....Leisure Excellence Framework! I'm sure there are plenty of academics out there who are truly excellent at utilising leisure time and doing amazing things which aren't work-related. We need to share snd celebrate this."
+	},
+	{
 		"created_at": "Mon Aug 26 10:22:08 +0000 2019",
 		"id": 1165932430815051800,
 		"id_str": "1165932430815051777",
@@ -39,7 +134,7 @@ Grailbird.data.tweets_2019_08 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

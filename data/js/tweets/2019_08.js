@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 13:34:07 +0000 2019",
+		"id": 1167792684414787600,
+		"id_str": "1167792684414787591",
+		"full_text": "@suewatling @VivaSurvivors @DrRyder @Succeedat8 @AcademicChatter Oh! I like these very much!!! I think it will help me feel like I’m doing something useful between hand in and exam too!",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling🌱",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "VivaSurvivors",
+					"name": "Viva Survivors",
+					"id": 599934596,
+					"id_str": "599934596",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "DrRyder",
+					"name": "Nathan Ryder",
+					"id": 114790523,
+					"id_str": "114790523",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "Succeedat8",
+					"name": "SuCCEED@8",
+					"id": 849645291879923700,
+					"id_str": "849645291879923712",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "AcademicChatter",
+					"name": "Academic Chatter",
+					"id": 885953601067208700,
+					"id_str": "885953601067208705",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1167747876006649900,
+		"in_reply_to_status_id_str": "1167747876006649864",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 1087,
+			"listed_count": 65,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suewatling @VivaSurvivors @DrRyder @Succeedat8 @AcademicChatter Oh! I like these very much!!! I think it will help me feel like I’m doing something useful between hand in and exam too!"
+	},
+	{
 		"created_at": "Thu Aug 29 08:29:49 +0000 2019",
 		"id": 1166990327091216400,
 		"id_str": "1166991330758844417",

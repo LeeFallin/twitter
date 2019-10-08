@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 21:43:18 +0000 2019",
+		"id": 1181238800279732200,
+		"id_str": "1181324142492180480",
+		"full_text": "NEW! Inclusive Classroom updates for reading, writing, math &amp; communication 💯 #MIEExpert #edtech #MicrosoftEDU\n \n📝 Immersive Reader in Forms &amp; Teams Assignments\n🔊 Neural TTS Voices \n🎙 Dictation for PPT web\n➗ Math Quiz in #OneNote web\n&amp; more\n \n👉 https://t.co/W1ZJiIRXOu https://t.co/6fd4t0VD57",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						229,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W1ZJiIRXOu",
+					"expanded_url": "http://aka.ms/InclusiveClassroomOct2020",
+					"display_url": "aka.ms/InclusiveClass…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1181238786493010000,
+					"id_str": "1181238786493009920",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGSaavfUUAA07sn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGSaavfUUAA07sn.jpg",
+					"url": "https://t.co/6fd4t0VD57",
+					"display_url": "pic.twitter.com/6fd4t0VD57",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1181238800279732224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 424,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181238786493010000,
+					"id_str": "1181238786493009920",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGSaavfUUAA07sn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGSaavfUUAA07sn.jpg",
+					"url": "https://t.co/6fd4t0VD57",
+					"display_url": "pic.twitter.com/6fd4t0VD57",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1181238800279732224/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							100,
+							53
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGSaavfUUAA07sn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader & #MicrosoftTeams #edtech #accessibility @OneNoteEDU",
+			"url": "https://t.co/ANIFpSE2FB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANIFpSE2FB",
+							"expanded_url": "https://techcommunity.microsoft.com/t5/Education-Blog/bg-p/EducationBlog",
+							"display_url": "techcommunity.microsoft.com/t5/Education-B…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21470,
+			"friends_count": 3437,
+			"listed_count": 765,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 79896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1422222208",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! Inclusive Classroom updates for reading, writing, math &amp; communication 💯 #MIEExpert #edtech #MicrosoftEDU\n \n📝 Immersive Reader in Forms &amp; Teams Assignments\n🔊 Neural TTS Voices \n🎙 Dictation for PPT web\n➗ Math Quiz in #OneNote web\n&amp; more\n \n👉 https://t.co/W1ZJiIRXOu https://t.co/6fd4t0VD57"
+	},
+	{
 		"created_at": "Thu Oct 03 14:36:50 +0000 2019",
 		"id": 1179767270408691700,
 		"id_str": "1179767270408691712",
@@ -49,7 +275,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

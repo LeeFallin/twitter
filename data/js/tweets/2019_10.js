@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 06:06:19 +0000 2019",
+		"id": 1181188539435761700,
+		"id_str": "1181450733696307200",
+		"full_text": "Scientists, you know how you get mad when people say \"science doesn't prove global warming is man-made\"? And you shout \"there's consensus!!!\"?\n\nThat's how I feel seeing y'all using teaching evals for tenure decisions. There's scientific consensus on how problematic they are.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14981648,
+			"id_str": "14981648",
+			"name": "Dr. Chanda Prescod-Weinstein 🙅🏽‍♀️ 🇧🇧🏳️‍🌈",
+			"screen_name": "IBJIYONGI",
+			"location": "DurhamNH/CambridgeMA/Wakanda",
+			"description": "#BlackandSTEM Assist. Prof of #Physics & #Astro & Black Feminist #HistSTM. agender woman/she. 2021: #DisorderedCosmos from @BoldTypeBooks! tweets by/for me only",
+			"url": "https://t.co/AK7jC8SDxd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AK7jC8SDxd",
+							"expanded_url": "http://profcpw.com",
+							"display_url": "profcpw.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61448,
+			"friends_count": 6931,
+			"listed_count": 1068,
+			"created_at": "Mon Jun 02 16:15:41 +0000 2008",
+			"favourites_count": 95649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 166026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158451418291793922/zMNqfj2h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158451418291793922/zMNqfj2h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14981648/1541138870",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 557,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Scientists, you know how you get mad when people say \"science doesn't prove global warming is man-made\"? And you shout \"there's consensus!!!\"?\n\nThat's how I feel seeing y'all using teaching evals for tenure decisions. There's scientific consensus on how problematic they are."
+	},
+	{
 		"created_at": "Mon Oct 07 21:43:18 +0000 2019",
 		"id": 1181238800279732200,
 		"id_str": "1181324142492180480",

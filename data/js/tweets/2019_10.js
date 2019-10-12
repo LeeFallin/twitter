@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 15:54:38 +0000 2019",
+		"id": 1182685135432552400,
+		"id_str": "1182685950448689152",
+		"full_text": "10 days in #LTHEchat via NodeXL https://t.co/tvxRTmGGfk\n@lthechat\n@andrewmid\n@scottturneruon\n@racephil\n@alejandroa\n@s_j_lancaster\n@srowett\n@profsallybrown\n@leefallin\n@kateawright\n\nTop hashtags:\n#lthechat\n#abl\n#cleogames\n#altc\n#he\n#activelearning\n#highered\n#edtech\n#advancehe_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "abl",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "cleogames",
+					"indices": [
+						209,
+						219
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						220,
+						225
+					]
+				},
+				{
+					"text": "he",
+					"indices": [
+						226,
+						229
+					]
+				},
+				{
+					"text": "activelearning",
+					"indices": [
+						230,
+						245
+					]
+				},
+				{
+					"text": "highered",
+					"indices": [
+						246,
+						255
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						256,
+						263
+					]
+				},
+				{
+					"text": "advancehe_chat",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "andrewmid",
+					"name": "Andrew Middleton",
+					"id": 800614,
+					"id_str": "800614",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						77,
+						92
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"screen_name": "alejandroa",
+					"name": "Alejandro Armellini",
+					"id": 17308664,
+					"id_str": "17308664",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						155,
+						165
+					]
+				},
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						166,
+						178
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tvxRTmGGfk",
+					"expanded_url": "http://bit.ly/315GtBK",
+					"display_url": "bit.ly/315GtBK",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Computing academic, Robots, computing education. Pi Cert Educator, code club, Member BCS @TheIET, #FRSA #caschat Views  authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541,
+			"friends_count": 2541,
+			"listed_count": 581,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 23340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10 days in #LTHEchat via NodeXL https://t.co/tvxRTmGGfk\n@lthechat\n@andrewmid\n@scottturneruon\n@racephil\n@alejandroa\n@s_j_lancaster\n@srowett\n@profsallybrown\n@leefallin\n@kateawright\n\nTop hashtags:\n#lthechat\n#abl\n#cleogames\n#altc\n#he\n#activelearning\n#highered\n#edtech\n#advancehe_chat"
+	},
+	{
 		"created_at": "Thu Oct 10 10:06:15 +0000 2019",
 		"id": 1182235889021444000,
 		"id_str": "1182235889021444096",
@@ -46,7 +324,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

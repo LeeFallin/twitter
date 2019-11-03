@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 02 14:52:18 +0000 2019",
+		"id": 1190597077652381700,
+		"id_str": "1190642797197574144",
+		"full_text": "We’re at Trinity market today helping people find out how to live well with breathlessness-do come along #ESRCFestival https://t.co/3R2BhNoFLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ESRCFestival",
+					"indices": [
+						105,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190597067758080000,
+					"id_str": "1190597067758080001",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EIXZuZ5XkAErWQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIXZuZ5XkAErWQ7.jpg",
+					"url": "https://t.co/3R2BhNoFLA",
+					"display_url": "pic.twitter.com/3R2BhNoFLA",
+					"expanded_url": "https://twitter.com/AHutchinsonHull/status/1190597077652381696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "94580096",
+									"screen_name": "lunguk",
+									"name": "British Lung Foundation"
+								},
+								{
+									"type": "user",
+									"user_id": "804892070",
+									"screen_name": "EastRidingCCG",
+									"name": "East Riding CCG"
+								},
+								{
+									"type": "user",
+									"user_id": "720623128385318912",
+									"screen_name": "HullYorkMed",
+									"name": "Hull York Medical School"
+								},
+								{
+									"type": "user",
+									"user_id": "960814254",
+									"screen_name": "NHSHullCCG",
+									"name": "NHS Hull CCG"
+								},
+								{
+									"type": "user",
+									"user_id": "114731960",
+									"screen_name": "andycomfort",
+									"name": "Andy Comfort"
+								},
+								{
+									"type": "user",
+									"user_id": "218946323",
+									"screen_name": "SallyFairfax",
+									"name": "Sally Fairfax"
+								},
+								{
+									"type": "user",
+									"user_id": "19393236",
+									"screen_name": "ESRC",
+									"name": "Economic and Social Research Council"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190597067758080000,
+					"id_str": "1190597067758080001",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EIXZuZ5XkAErWQ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIXZuZ5XkAErWQ7.jpg",
+					"url": "https://t.co/3R2BhNoFLA",
+					"display_url": "pic.twitter.com/3R2BhNoFLA",
+					"expanded_url": "https://twitter.com/AHutchinsonHull/status/1190597077652381696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "94580096",
+									"screen_name": "lunguk",
+									"name": "British Lung Foundation"
+								},
+								{
+									"type": "user",
+									"user_id": "804892070",
+									"screen_name": "EastRidingCCG",
+									"name": "East Riding CCG"
+								},
+								{
+									"type": "user",
+									"user_id": "720623128385318912",
+									"screen_name": "HullYorkMed",
+									"name": "Hull York Medical School"
+								},
+								{
+									"type": "user",
+									"user_id": "960814254",
+									"screen_name": "NHSHullCCG",
+									"name": "NHS Hull CCG"
+								},
+								{
+									"type": "user",
+									"user_id": "114731960",
+									"screen_name": "andycomfort",
+									"name": "Andy Comfort"
+								},
+								{
+									"type": "user",
+									"user_id": "218946323",
+									"screen_name": "SallyFairfax",
+									"name": "Sally Fairfax"
+								},
+								{
+									"type": "user",
+									"user_id": "19393236",
+									"screen_name": "ESRC",
+									"name": "Economic and Social Research Council"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2148191769,
+			"id_str": "2148191769",
+			"name": "Ann Hutchinson",
+			"screen_name": "AHutchinsonHull",
+			"location": "Hull, England",
+			"description": "Research fellow interested in both chronic breathlessness and cancer-associated thrombosis. Wolfson Palliative Care Research Centre, HYMS, University of Hull",
+			"url": "https://t.co/hid9bcsyjr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hid9bcsyjr",
+							"expanded_url": "https://hull-repository.worktribe.com/person/317084/ann-hutchinson",
+							"display_url": "hull-repository.worktribe.com/person/317084/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 415,
+			"listed_count": 7,
+			"created_at": "Tue Oct 22 08:10:30 +0000 2013",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109073181799788544/c_TgDfYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109073181799788544/c_TgDfYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2148191769/1536998799",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re at Trinity market today helping people find out how to live well with breathlessness-do come along #ESRCFestival https://t.co/3R2BhNoFLA"
+	},
+	{
 		"created_at": "Fri Nov 01 20:34:22 +0000 2019",
 		"id": 1190366492396839000,
 		"id_str": "1190366492396838913",
@@ -39,7 +343,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -187,7 +491,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -368,7 +672,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -516,7 +820,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

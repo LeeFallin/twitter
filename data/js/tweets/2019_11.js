@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 09:29:10 +0000 2019",
+		"id": 1195437571297468400,
+		"id_str": "1195634909014044672",
+		"full_text": "I want one in my office. And my home. And all the places in between. #PlayforPower https://t.co/qHvCmIaouX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayforPower",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qHvCmIaouX",
+					"expanded_url": "https://twitter.com/gerbenhelleman/status/1194985777882681351",
+					"display_url": "twitter.com/gerbenhelleman…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1496,
+			"friends_count": 930,
+			"listed_count": 92,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 29067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1194985777882681300,
+		"quoted_status_id_str": "1194985777882681351",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qHvCmIaouX",
+			"expanded": "https://twitter.com/gerbenhelleman/status/1194985777882681351",
+			"display": "twitter.com/gerbenhelleman…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 14 14:29:45 +0000 2019",
+			"id": 1194985777882681300,
+			"id_str": "1194985777882681351",
+			"full_text": "These kids are charging their telephone on energy-generating swings! And having a great time as well! #Play for power. @NS_online @StationUtrecht @ID310_\n#ChildrensDay #childfriendlycities #publicspace @CFSC_NIUA @Childinthecity1 https://t.co/SDojDpan4F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Play",
+						"indices": [
+							102,
+							107
+						]
+					},
+					{
+						"text": "ChildrensDay",
+						"indices": [
+							154,
+							167
+						]
+					},
+					{
+						"text": "childfriendlycities",
+						"indices": [
+							168,
+							188
+						]
+					},
+					{
+						"text": "publicspace",
+						"indices": [
+							189,
+							201
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NS_online",
+						"name": "NS online",
+						"id": 121372044,
+						"id_str": "121372044",
+						"indices": [
+							119,
+							129
+						]
+					},
+					{
+						"screen_name": "StationUtrecht",
+						"name": "NS Utrecht Centraal",
+						"id": 1384825698,
+						"id_str": "1384825698",
+						"indices": [
+							130,
+							145
+						]
+					},
+					{
+						"screen_name": "ID310_",
+						"name": "ID310",
+						"id": 334568562,
+						"id_str": "334568562",
+						"indices": [
+							146,
+							153
+						]
+					},
+					{
+						"screen_name": "CFSC_NIUA",
+						"name": "Child Friendly Smart Cities",
+						"id": 946640852486463500,
+						"id_str": "946640852486463488",
+						"indices": [
+							202,
+							212
+						]
+					},
+					{
+						"screen_name": "Childinthecity1",
+						"name": "@Childinthecity",
+						"id": 3903770654,
+						"id_str": "3903770654",
+						"indices": [
+							213,
+							229
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1194985734316478500,
+						"id_str": "1194985734316478464",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194985734316478464/pu/img/81GqnQlQsv2yLiDg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194985734316478464/pu/img/81GqnQlQsv2yLiDg.jpg",
+						"url": "https://t.co/SDojDpan4F",
+						"display_url": "pic.twitter.com/SDojDpan4F",
+						"expanded_url": "https://twitter.com/Gerbenhelleman/status/1194985777882681351/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1194985734316478500,
+						"id_str": "1194985734316478464",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194985734316478464/pu/img/81GqnQlQsv2yLiDg.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194985734316478464/pu/img/81GqnQlQsv2yLiDg.jpg",
+						"url": "https://t.co/SDojDpan4F",
+						"display_url": "pic.twitter.com/SDojDpan4F",
+						"expanded_url": "https://twitter.com/Gerbenhelleman/status/1194985777882681351/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 5391,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194985734316478464/pu/vid/640x360/lDMEQs38PaFglUvl.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1194985734316478464/pu/pl/VrrVUQxypXon04IA.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194985734316478464/pu/vid/1280x720/O5yQgswWvxfz2mfZ.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1194985734316478464/pu/vid/480x270/qtcu-0qvcLlLzY8q.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 324524088,
+				"id_str": "324524088",
+				"name": "Stadslente",
+				"screen_name": "Gerbenhelleman",
+				"location": "Netherlands",
+				"description": "Stadslente (UrbanSpringtime in Dutch) is about the interface and connections between the Planned and the Lived City. #placemaking #urbanism #publicspace #cities",
+				"url": "https://t.co/jZGZPQHSG4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jZGZPQHSG4",
+								"expanded_url": "http://urbanspringtime.blogspot.com",
+								"display_url": "urbanspringtime.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 517,
+				"friends_count": 507,
+				"listed_count": 44,
+				"created_at": "Sun Jun 26 19:37:22 +0000 2011",
+				"favourites_count": 544,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1558,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1709723412/favicon_stadslente_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709723412/favicon_stadslente_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324524088/1545990969",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want one in my office. And my home. And all the places in between. #PlayforPower https://t.co/qHvCmIaouX"
+	},
+	{
 		"created_at": "Fri Nov 15 12:33:25 +0000 2019",
 		"id": 1195318887354687500,
 		"id_str": "1195318887354687488",
@@ -49,7 +447,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -200,7 +598,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -351,7 +749,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -424,7 +822,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Fri Nov 15 12:23:52 +0000 2019",
 		"id": 1195316486111408000,
 		"id_str": "1195316486111408129",
-		"full_text": "@scholastic_rat It’s like solving a Sherlock Holmes 🕵️‍♂️ crime. You’ve got all these pieces of evidence for what a successful assignment looks like, but it’s almost impossible to see how it all fits together. Sometimes the plethora of guidance is also contradictory 🤦‍♂️",
+		"full_text": "@scholastic_rat It’s like solving a Sherlock Holmes 🕵️♂️ crime. You’ve got all these pieces of evidence for what a successful assignment looks like, but it’s almost impossible to see how it all fits together. Sometimes the plethora of guidance is also contradictory 🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			16,
@@ -459,7 +857,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -559,7 +957,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@scholastic_rat It’s like solving a Sherlock Holmes 🕵️‍♂️ crime. You’ve got all these pieces of evidence for what a successful assignment looks like, but it’s almost impossible to see how it all fits together. Sometimes the plethora of guidance is also contradictory 🤦‍♂️"
+		"text": "@scholastic_rat It’s like solving a Sherlock Holmes 🕵️♂️ crime. You’ve got all these pieces of evidence for what a successful assignment looks like, but it’s almost impossible to see how it all fits together. Sometimes the plethora of guidance is also contradictory 🤦♂️"
 	},
 	{
 		"created_at": "Fri Nov 15 12:22:22 +0000 2019",
@@ -600,7 +998,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -716,7 +1114,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -857,7 +1255,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1086,7 +1484,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

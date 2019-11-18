@@ -1,6 +1,723 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 10:26:27 +0000 2019",
+		"id": 1196011711104458800,
+		"id_str": "1196011711104458752",
+		"full_text": "On a brighter note, I had an amazing free festive drink from Caffè Nero, alongside a mince pie to start my day 🎄 ☕️\nA lovely weekend treat to celebrate a day away from EdD writing (and my total sugar allowance for the day 🤣). https://t.co/oavQ9KEssS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196011701147197400,
+					"id_str": "1196011701147197440",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkWTjIW4AAx2kO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkWTjIW4AAx2kO.jpg",
+					"url": "https://t.co/oavQ9KEssS",
+					"display_url": "pic.twitter.com/oavQ9KEssS",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1196011711104458752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196011701147197400,
+					"id_str": "1196011701147197440",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/EJkWTjIW4AAx2kO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJkWTjIW4AAx2kO.jpg",
+					"url": "https://t.co/oavQ9KEssS",
+					"display_url": "pic.twitter.com/oavQ9KEssS",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1196011711104458752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256,
+			"friends_count": 1103,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On a brighter note, I had an amazing free festive drink from Caffè Nero, alongside a mince pie to start my day 🎄 ☕️\nA lovely weekend treat to celebrate a day away from EdD writing (and my total sugar allowance for the day 🤣). https://t.co/oavQ9KEssS"
+	},
+	{
+		"created_at": "Sun Nov 17 10:22:19 +0000 2019",
+		"id": 1196010673316212700,
+		"id_str": "1196010673316212737",
+		"full_text": "Just had my flu jab at my (NHS) doctors. Was speaking to the practice nurse who said they’re already struggling to get medications because of Brexit. This, and the threat of USA influence over the NHS in future trade really does scare me... 😟",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1256,
+			"friends_count": 1103,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Just had my flu jab at my (NHS) doctors. Was speaking to the practice nurse who said they’re already struggling to get medications because of Brexit. This, and the threat of USA influence over the NHS in future trade really does scare me... 😟"
+	},
+	{
+		"created_at": "Sun Nov 17 09:54:24 +0000 2019",
+		"id": 1196001390243516400,
+		"id_str": "1196003644593901568",
+		"full_text": "@LeeFallin @ProfSallyBrown @aldinhe_LH @CILIPinfo Perhaps we need one big \"super conference\" on learning literacies, involving all of our wonderful professional bodies. Imagine trying to organise it though... 😳 @aldinhe_LH @Seda_UK_ @CILIPinfo",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "CILIPinfo",
+					"name": "CILIP",
+					"id": 61518146,
+					"id_str": "61518146",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"screen_name": "Seda_UK_",
+					"name": "SEDA",
+					"id": 335534230,
+					"id_str": "335534230",
+					"indices": [
+						223,
+						232
+					]
+				},
+				{
+					"screen_name": "CILIPinfo",
+					"name": "CILIP",
+					"id": 61518146,
+					"id_str": "61518146",
+					"indices": [
+						233,
+						243
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1195985682902204400,
+		"in_reply_to_status_id_str": "1195985682902204416",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 4899387202,
+			"id_str": "4899387202",
+			"name": "Ella Turner",
+			"screen_name": "ellapopper",
+			"location": "North West, England",
+			"description": "Learning Developer @uochester. #SFHEA. Steering Committee member @aldinhe_LH. Studying for a Doctorate in Education. Personal views, mainly on #HigherEducation.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789,
+			"friends_count": 1026,
+			"listed_count": 60,
+			"created_at": "Thu Feb 11 21:20:41 +0000 2016",
+			"favourites_count": 8649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927986714999738371/sQuQ7STB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927986714999738371/sQuQ7STB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4899387202/1510085997",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin @ProfSallyBrown @aldinhe_LH @CILIPinfo Perhaps we need one big \"super conference\" on learning literacies, involving all of our wonderful professional bodies. Imagine trying to organise it though... 😳 @aldinhe_LH @Seda_UK_ @CILIPinfo"
+	},
+	{
+		"created_at": "Sun Nov 17 08:44:49 +0000 2019",
+		"id": 941640766996217900,
+		"id_str": "1195986135232786432",
+		"full_text": "I'm angered by people who use the phrase \"I haven't used a library since I was a kid\" as selfish justification for their lack of support. Millions of people do! I haven't used maternity services for 24 years, doesn't mean I want them removed for others. #savelibraries",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "savelibraries",
+					"indices": [
+						254,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 428401411,
+			"id_str": "428401411",
+			"name": "Dawn Finch - apprentice avenging angel",
+			"screen_name": "dawnafinch",
+			"location": "An allotment in Aberdeenshire",
+			"description": "Author, librarian, library activist. Trustee @cilipinfo and Chair of #CWIG at @soc_of_authors. Activism isn’t a political decision it’s an ethical one. she/her",
+			"url": "https://t.co/3yWzxV9o3c",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3yWzxV9o3c",
+							"expanded_url": "http://www.dawnfinch.com",
+							"display_url": "dawnfinch.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7926,
+			"friends_count": 1877,
+			"listed_count": 225,
+			"created_at": "Sun Dec 04 18:28:34 +0000 2011",
+			"favourites_count": 25538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193818221691985920/qZEELiB7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193818221691985920/qZEELiB7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/428401411/1573639075",
+			"profile_link_color": "090626",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "C017CF",
+			"profile_text_color": "2D0C47",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11415,
+		"favorite_count": 32644,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm angered by people who use the phrase \"I haven't used a library since I was a kid\" as selfish justification for their lack of support. Millions of people do! I haven't used maternity services for 24 years, doesn't mean I want them removed for others. #savelibraries"
+	},
+	{
+		"created_at": "Sun Nov 17 08:44:15 +0000 2019",
+		"id": 1192015036329410600,
+		"id_str": "1195985994107015169",
+		"full_text": "We're asking all the political parties to show their support for libraries at #GE2019 by signing up to 5 key commitments. Sign the Open Letter and help us spread the #votelibraries message https://t.co/tMxzfJ3kXB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE2019",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "votelibraries",
+					"indices": [
+						166,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tMxzfJ3kXB",
+					"expanded_url": "https://www.librariesdeliver.uk/openletter",
+					"display_url": "librariesdeliver.uk/openletter",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61518146,
+			"id_str": "61518146",
+			"name": "CILIP",
+			"screen_name": "CILIPinfo",
+			"location": "Bloomsbury, London",
+			"description": "The leading professional body for librarians, information specialists and knowledge managers.",
+			"url": "http://t.co/CMBPuJTM4e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CMBPuJTM4e",
+							"expanded_url": "http://www.cilip.org.uk",
+							"display_url": "cilip.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25206,
+			"friends_count": 3505,
+			"listed_count": 1080,
+			"created_at": "Thu Jul 30 15:40:19 +0000 2009",
+			"favourites_count": 7952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836513089881243648/Gl4dWUMS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836513089881243648/Gl4dWUMS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61518146/1573121285",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 304,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're asking all the political parties to show their support for libraries at #GE2019 by signing up to 5 key commitments. Sign the Open Letter and help us spread the #votelibraries message https://t.co/tMxzfJ3kXB"
+	},
+	{
 		"created_at": "Sat Nov 16 09:29:10 +0000 2019",
 		"id": 1195437571297468400,
 		"id_str": "1195634909014044672",

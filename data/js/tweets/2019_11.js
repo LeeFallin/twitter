@@ -1,6 +1,114 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 06:43:31 +0000 2019",
+		"id": 1196217955173859300,
+		"id_str": "1196317996140158976",
+		"full_text": "One of my friends recorded my talk - I genuinely had so much fun putting this silly presentation together I thought I'd share it since people always ask 👀 (this is what it sounds like fitting a 10 min talk in 4 mins &amp; 30 seconds sorry)\n\nhttps://t.co/xrp5xyPkQh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xrp5xyPkQh",
+					"expanded_url": "https://youtu.be/e1tkFZPGoO0",
+					"display_url": "youtu.be/e1tkFZPGoO0",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1196125444216520700,
+		"in_reply_to_status_id_str": "1196125444216520704",
+		"in_reply_to_user_id": 885824718,
+		"in_reply_to_user_id_str": "885824718",
+		"in_reply_to_screen_name": "Miexriir",
+		"user": {
+			"id": 885824718,
+			"id_str": "885824718",
+			"name": "Michal",
+			"screen_name": "Miexriir",
+			"location": "Seattle, WA",
+			"description": "I'm a Software Engineer. I talk a lot about lore. One time I got the top 30 score in the world on a neopets game.",
+			"url": "https://t.co/xnyJqU1sJP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xnyJqU1sJP",
+							"expanded_url": "http://Instagram.com/miexriir/",
+							"display_url": "Instagram.com/miexriir/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28062,
+			"friends_count": 155,
+			"listed_count": 148,
+			"created_at": "Wed Oct 17 02:11:23 +0000 2012",
+			"favourites_count": 15631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998394124872040448/qTWfM6nd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998394124872040448/qTWfM6nd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885824718/1405542306",
+			"profile_link_color": "8C4DCB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 2542,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of my friends recorded my talk - I genuinely had so much fun putting this silly presentation together I thought I'd share it since people always ask 👀 (this is what it sounds like fitting a 10 min talk in 4 mins &amp; 30 seconds sorry)\n\nhttps://t.co/xrp5xyPkQh"
+	},
+	{
 		"created_at": "Sun Nov 17 10:26:27 +0000 2019",
 		"id": 1196011711104458800,
 		"id_str": "1196011711104458752",
@@ -134,7 +242,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -232,7 +340,7 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

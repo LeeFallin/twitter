@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 22:45:57 +0000 2019",
+		"id": 1196922589697859600,
+		"id_str": "1196922589697859584",
+		"full_text": "Looking forward to the next couple of days! Expect tweets on this: https://t.co/tV5v2Fh7vs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tV5v2Fh7vs",
+					"expanded_url": "https://twitter.com/uniofhull/status/1192009746607484928",
+					"display_url": "twitter.com/uniofhull/stat…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1255,
+			"friends_count": 1103,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192009746607485000,
+		"quoted_status_id_str": "1192009746607484928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tV5v2Fh7vs",
+			"expanded": "https://twitter.com/uniofhull/status/1192009746607484928",
+			"display": "twitter.com/uniofhull/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 06 09:24:04 +0000 2019",
+			"id": 1192009746607485000,
+			"id_str": "1192009746607484928",
+			"full_text": "🎆 It's nearly time! Join us as we delve once again into the evaluation of our incredible year as UK City of Culture 2017, exploring the impact it had for #Hull.\n\nLimited spaces available. Registration closes Sunday.\n#CulturalTransformations\n➡️ https://t.co/h6gTTcKbZj https://t.co/1fxRBYTuFx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hull",
+						"indices": [
+							154,
+							159
+						]
+					},
+					{
+						"text": "CulturalTransformations",
+						"indices": [
+							216,
+							240
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h6gTTcKbZj",
+						"expanded_url": "http://impact.hull.ac.uk",
+						"display_url": "impact.hull.ac.uk",
+						"indices": [
+							244,
+							267
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1192009736973168600,
+						"id_str": "1192009736973168640",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EIreik0XsAABEUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIreik0XsAABEUT.jpg",
+						"url": "https://t.co/1fxRBYTuFx",
+						"display_url": "pic.twitter.com/1fxRBYTuFx",
+						"expanded_url": "https://twitter.com/UniOfHull/status/1192009746607484928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1192009736973168600,
+						"id_str": "1192009736973168640",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EIreik0XsAABEUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIreik0XsAABEUT.jpg",
+						"url": "https://t.co/1fxRBYTuFx",
+						"display_url": "pic.twitter.com/1fxRBYTuFx",
+						"expanded_url": "https://twitter.com/UniOfHull/status/1192009746607484928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59761280,
+				"id_str": "59761280",
+				"name": "University of Hull",
+				"screen_name": "UniOfHull",
+				"location": "Hull, East Yorkshire",
+				"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+				"url": "https://t.co/3NGsMGUfmy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3NGsMGUfmy",
+								"expanded_url": "http://www.hull.ac.uk",
+								"display_url": "hull.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42918,
+				"friends_count": 1126,
+				"listed_count": 555,
+				"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+				"favourites_count": 11337,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "AE2B2F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190201439269863424/RRc06Bqq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190201439269863424/RRc06Bqq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1572859660",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to the next couple of days! Expect tweets on this: https://t.co/tV5v2Fh7vs"
+	},
+	{
+		"created_at": "Tue Nov 19 22:32:31 +0000 2019",
+		"id": 1196919209508458500,
+		"id_str": "1196919209508458497",
+		"full_text": "Had a wonderful evening at the Employee Excellence Awards @UniOfHull.  Very happy to have been nominated for a category, and while I didn’t win, it was great to see so many amazing colleagues recognised for their hard work. Well done all 👏 🏆 https://t.co/UUuSwjpcV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196919203367919600,
+					"id_str": "1196919203367919616",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EJxPrIWWoAAu_Ug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJxPrIWWoAAu_Ug.jpg",
+					"url": "https://t.co/UUuSwjpcV1",
+					"display_url": "pic.twitter.com/UUuSwjpcV1",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1196919209508458497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196919203367919600,
+					"id_str": "1196919203367919616",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/EJxPrIWWoAAu_Ug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJxPrIWWoAAu_Ug.jpg",
+					"url": "https://t.co/UUuSwjpcV1",
+					"display_url": "pic.twitter.com/UUuSwjpcV1",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1196919209508458497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1255,
+			"friends_count": 1103,
+			"listed_count": 64,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 5824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had a wonderful evening at the Employee Excellence Awards @UniOfHull.  Very happy to have been nominated for a category, and while I didn’t win, it was great to see so many amazing colleagues recognised for their hard work. Well done all 👏 🏆 https://t.co/UUuSwjpcV1"
+	},
+	{
 		"created_at": "Mon Nov 18 06:43:31 +0000 2019",
 		"id": 1196217955173859300,
 		"id_str": "1196317996140158976",

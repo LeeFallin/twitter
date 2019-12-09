@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 10:38:46 +0000 2019",
+		"id": 1203411649631260700,
+		"id_str": "1203624957185548288",
+		"full_text": "@ColJJohnson You can never have enough lights https://t.co/f86K82C9IO",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ColJJohnson",
+					"name": "Colin Johnson",
+					"id": 262195367,
+					"id_str": "262195367",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203411641846681600,
+					"id_str": "1203411641846681600",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELNggybXUAALDpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELNggybXUAALDpd.jpg",
+					"url": "https://t.co/f86K82C9IO",
+					"display_url": "pic.twitter.com/f86K82C9IO",
+					"expanded_url": "https://twitter.com/Volcanologist/status/1203411649631260672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 308,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203411641846681600,
+					"id_str": "1203411641846681600",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELNggybXUAALDpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELNggybXUAALDpd.jpg",
+					"url": "https://t.co/f86K82C9IO",
+					"display_url": "pic.twitter.com/f86K82C9IO",
+					"expanded_url": "https://twitter.com/Volcanologist/status/1203411649631260672/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 308,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 308,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							154
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELNggybXUAALDpd.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1203396583401934800,
+		"in_reply_to_status_id_str": "1203396583401934854",
+		"in_reply_to_user_id": 262195367,
+		"in_reply_to_user_id_str": "262195367",
+		"in_reply_to_screen_name": "ColJJohnson",
+		"user": {
+			"id": 217005773,
+			"id_str": "217005773",
+			"name": "Dr Rebecca Williams",
+			"screen_name": "Volcanologist",
+			"location": "University of Hull",
+			"description": "Volcanologist in @GeologyHull Associate Dean for Student Experience @HullUniScience. Waffle about volcanology, HE & tea. SFHEA & STEM ambassador. She/her.",
+			"url": "https://t.co/3qsCkvqU79",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3qsCkvqU79",
+							"expanded_url": "https://rwvolcanologist.wordpress.com",
+							"display_url": "rwvolcanologist.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6155,
+			"friends_count": 1314,
+			"listed_count": 255,
+			"created_at": "Thu Nov 18 09:42:17 +0000 2010",
+			"favourites_count": 13871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CBD6DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/606841194493190144/KA15Cf5F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/606841194493190144/KA15Cf5F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217005773/1398336040",
+			"profile_link_color": "A784BF",
+			"profile_sidebar_border_color": "A35D47",
+			"profile_sidebar_fill_color": "5E442A",
+			"profile_text_color": "745A47",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ColJJohnson You can never have enough lights https://t.co/f86K82C9IO"
+	},
+	{
 		"created_at": "Fri Dec 06 08:12:33 +0000 2019",
 		"id": 1202605405467222000,
 		"id_str": "1202863384624091136",
@@ -28,7 +230,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "PhD Diaries",
 			"screen_name": "thoughtsofaphd",
 			"location": "Toronto, Ontario",
-			"description": "PhD 👩‍🔬 studying insulin where it was discovered 🇨🇦💉 | Chronicling my PhD in 280 characters or less | Equal parts student 🎓 & sass 💁‍♀️ & science 🧬",
+			"description": "PhD 👩🔬 studying insulin where it was discovered 🇨🇦💉 | Chronicling my PhD in 280 characters or less | Equal parts student 🎓 & sass 💁♀️ & science 🧬",
 			"url": "https://t.co/71aPlXyWKt",
 			"entities": {
 				"url": {

@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 07:58:52 +0000 2020",
+		"id": 1214452842750206000,
+		"id_str": "1214456353458139136",
+		"full_text": "Delicious, peer-reviewed trolling here. https://t.co/DTzAvZLlf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214452835749912600,
+					"id_str": "1214452835749912576",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqaa29W4AAkHH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqaa29W4AAkHH0.jpg",
+					"url": "https://t.co/DTzAvZLlf3",
+					"display_url": "pic.twitter.com/DTzAvZLlf3",
+					"expanded_url": "https://twitter.com/CheMichael7/status/1214452842750205954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214452835749912600,
+					"id_str": "1214452835749912576",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqaa29W4AAkHH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqaa29W4AAkHH0.jpg",
+					"url": "https://t.co/DTzAvZLlf3",
+					"display_url": "pic.twitter.com/DTzAvZLlf3",
+					"expanded_url": "https://twitter.com/CheMichael7/status/1214452842750205954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1214452835737362400,
+					"id_str": "1214452835737362432",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/ENqaa26XYAAx00Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENqaa26XYAAx00Q.jpg",
+					"url": "https://t.co/DTzAvZLlf3",
+					"display_url": "pic.twitter.com/DTzAvZLlf3",
+					"expanded_url": "https://twitter.com/CheMichael7/status/1214452842750205954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 414,
+									"y": 663,
+									"h": 151,
+									"w": 151
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 235,
+									"y": 375,
+									"h": 85,
+									"w": 85
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 1132,
+									"h": 258,
+									"w": 258
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 1132,
+									"h": 258,
+									"w": 258
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106664169686925300,
+			"id_str": "1106664169686925314",
+			"name": "CheMichael",
+			"screen_name": "CheMichael7",
+			"location": "",
+			"description": "Michael O’Neill, Inorganic Chemistry lecturer @OxfordChemistry and Associate Director for Assessment & Feedback @OxICFM. Education-focused. He/him.",
+			"url": "https://t.co/Ii9GXQgZFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ii9GXQgZFq",
+							"expanded_url": "http://www.michaeloneill.org",
+							"display_url": "michaeloneill.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331,
+			"friends_count": 740,
+			"listed_count": 1,
+			"created_at": "Fri Mar 15 21:11:13 +0000 2019",
+			"favourites_count": 2235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106666517360451584/ZYNuIBtq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106666517360451584/ZYNuIBtq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106664169686925314/1559499698",
+			"profile_link_color": "FF6666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delicious, peer-reviewed trolling here. https://t.co/DTzAvZLlf3"
+	},
+	{
 		"created_at": "Mon Jan 06 23:14:10 +0000 2020",
 		"id": 1214324306068541400,
 		"id_str": "1214324306068541441",
@@ -49,7 +331,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

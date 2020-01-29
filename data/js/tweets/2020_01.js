@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 23:55:39 +0000 2020",
+		"id": 1222097257006276600,
+		"id_str": "1222307277606150145",
+		"full_text": "Happy #DataProtectionDay! As library and information workers we strongly support your rights to privacy and for your data to be protected.\n\nWe like this diagram from @ODIHQ that explains the different types of data about us (from https://t.co/WfkCyTNx7k) #PrivacyDay https://t.co/ziVaFZVDuw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DataProtectionDay",
+					"indices": [
+						6,
+						24
+					]
+				},
+				{
+					"text": "PrivacyDay",
+					"indices": [
+						255,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ODIHQ",
+					"name": "Open Data Institute",
+					"id": 534255106,
+					"id_str": "534255106",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WfkCyTNx7k",
+					"expanded_url": "https://theodi.org/article/data-about-us-the-people-know-and-care-more-than-they-are-given-credit-for",
+					"display_url": "theodi.org/article/data-a…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1222097255123112000,
+					"id_str": "1222097255123111936",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EPXC-oSX0AA8dyH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPXC-oSX0AA8dyH.png",
+					"url": "https://t.co/ziVaFZVDuw",
+					"display_url": "pic.twitter.com/ziVaFZVDuw",
+					"expanded_url": "https://twitter.com/ToonLibraries/status/1222097257006276619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 858,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 612,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 193,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 519,
+									"y": 261,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 40,
+									"y": 267,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 244,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 656,
+									"y": 330,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 51,
+									"y": 338,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 244,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 656,
+									"y": 330,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 51,
+									"y": 338,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 244,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 656,
+									"y": 330,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 51,
+									"y": 338,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222097255123112000,
+					"id_str": "1222097255123111936",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EPXC-oSX0AA8dyH.png",
+					"media_url_https": "https://pbs.twimg.com/media/EPXC-oSX0AA8dyH.png",
+					"url": "https://t.co/ziVaFZVDuw",
+					"display_url": "pic.twitter.com/ziVaFZVDuw",
+					"expanded_url": "https://twitter.com/ToonLibraries/status/1222097257006276619/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 858,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 612,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 193,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 519,
+									"y": 261,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 40,
+									"y": 267,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 244,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 656,
+									"y": 330,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 51,
+									"y": 338,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 244,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 656,
+									"y": 330,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 51,
+									"y": 338,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 244,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 656,
+									"y": 330,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 51,
+									"y": 338,
+									"h": 118,
+									"w": 118
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 24875376,
+			"id_str": "24875376",
+			"name": "Newcastle Libraries",
+			"screen_name": "ToonLibraries",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "We're the public libraries of Newcastle upon Tyne.\nIf what you want to tell us is longer than a tweet, call 01912774100 or email information@newcastle.gov.uk",
+			"url": "http://t.co/3xOe43TfOv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3xOe43TfOv",
+							"expanded_url": "http://www.newcastle.gov.uk/leisure-libraries-and-tourism/libraries",
+							"display_url": "newcastle.gov.uk/leisure-librar…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10988,
+			"friends_count": 778,
+			"listed_count": 385,
+			"created_at": "Tue Mar 17 12:43:14 +0000 2009",
+			"favourites_count": 2858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912268147213955073/8nByo2bb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912268147213955073/8nByo2bb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/24875376/1571061919",
+			"profile_link_color": "3E07DF",
+			"profile_sidebar_border_color": "DD0E0E",
+			"profile_sidebar_fill_color": "F6990E",
+			"profile_text_color": "080808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #DataProtectionDay! As library and information workers we strongly support your rights to privacy and for your data to be protected.\n\nWe like this diagram from @ODIHQ that explains the different types of data about us (from https://t.co/WfkCyTNx7k) #PrivacyDay https://t.co/ziVaFZVDuw"
+	},
+	{
+		"created_at": "Tue Jan 28 17:32:54 +0000 2020",
+		"id": 1222210958963150800,
+		"id_str": "1222210958963150851",
+		"full_text": "@Peas_E *coding stripes",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Peas_E",
+					"name": "Emma Peasland",
+					"id": 72665913,
+					"id_str": "72665913",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222210408213291000,
+		"in_reply_to_status_id_str": "1222210408213291008",
+		"in_reply_to_user_id": 72665913,
+		"in_reply_to_user_id_str": "72665913",
+		"in_reply_to_screen_name": "Peas_E",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1128,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Peas_E *coding stripes"
+	},
+	{
 		"created_at": "Sat Jan 25 07:08:11 +0000 2020",
 		"id": 1220966577887219700,
 		"id_str": "1220966577887219712",
@@ -39,7 +539,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

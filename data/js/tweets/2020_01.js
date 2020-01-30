@@ -1,6 +1,4024 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 29 21:02:42 +0000 2020",
+		"id": 1222626069678870500,
+		"id_str": "1222626142118727680",
+		"full_text": "Special thanks to @cdvallance on this evening #lthechat #AdvanceHE_chat topic on motivation.\n\nA lot to think about (including green lime chairs! @scottturneruon @srowett @kjhaxton @NomadWarMachine @LeeFallin @Judith_ekn @drnsheridan @Christo_HST @ChrisHeadleand @santanuvasant) https://t.co/LGtSOoUlpD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cdvallance",
+					"name": "Cindy Vallance",
+					"id": 65066990,
+					"id_str": "65066990",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						145,
+						160
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"screen_name": "Judith_ekn",
+					"name": "Dr Judith Enterkin",
+					"id": 2425498854,
+					"id_str": "2425498854",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						220,
+						232
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Chris Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						233,
+						245
+					]
+				},
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Dr Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						246,
+						261
+					]
+				},
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						262,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LGtSOoUlpD",
+					"expanded_url": "https://twitter.com/KiuSum/status/1222610733923475457",
+					"display_url": "twitter.com/KiuSum/status/…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 246951711,
+			"id_str": "246951711",
+			"name": "Kiu Sum",
+			"screen_name": "KiuSum",
+			"location": "",
+			"description": "PhD-ing 👧🏻| ANutr 🍏| @ImperialMed 🎓 | #LegoNutSciGradGoesPhD 📝 | Student Officer @RAISEnetwork, Chair of Student Section @NutritionSoc 💻| Own Views 🔍",
+			"url": "https://t.co/Bsoj79D8Nw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bsoj79D8Nw",
+							"expanded_url": "https://nutscigradgoesphd.wordpress.com/",
+							"display_url": "nutscigradgoesphd.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1328,
+			"friends_count": 766,
+			"listed_count": 116,
+			"created_at": "Thu Feb 03 20:02:38 +0000 2011",
+			"favourites_count": 1869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/915596670959783936/8Hysdkh__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/915596670959783936/8Hysdkh__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/246951711/1485288052",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222610733923475500,
+		"quoted_status_id_str": "1222610733923475457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LGtSOoUlpD",
+			"expanded": "https://twitter.com/KiuSum/status/1222610733923475457",
+			"display": "twitter.com/KiuSum/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 29 20:01:28 +0000 2020",
+			"id": 1222610733923475500,
+			"id_str": "1222610733923475457",
+			"full_text": "A very interesting topic in this evening's double #AdvanceHE_chat #lthechat @AdvanceHE_chat facilitated by @cdvallance. https://t.co/SWKNoK1ExF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdvanceHE_chat",
+						"indices": [
+							50,
+							65
+						]
+					},
+					{
+						"text": "lthechat",
+						"indices": [
+							66,
+							75
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AdvanceHE_chat",
+						"name": "#AdvanceHE_chat",
+						"id": 3726587775,
+						"id_str": "3726587775",
+						"indices": [
+							76,
+							91
+						]
+					},
+					{
+						"screen_name": "cdvallance",
+						"name": "Cindy Vallance",
+						"id": 65066990,
+						"id_str": "65066990",
+						"indices": [
+							107,
+							118
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SWKNoK1ExF",
+						"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1222610366439546880",
+						"display_url": "twitter.com/AdvanceHE_chat…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 246951711,
+				"id_str": "246951711",
+				"name": "Kiu Sum",
+				"screen_name": "KiuSum",
+				"location": "",
+				"description": "PhD-ing 👧🏻| ANutr 🍏| @ImperialMed 🎓 | #LegoNutSciGradGoesPhD 📝 | Student Officer @RAISEnetwork, Chair of Student Section @NutritionSoc 💻| Own Views 🔍",
+				"url": "https://t.co/Bsoj79D8Nw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bsoj79D8Nw",
+								"expanded_url": "https://nutscigradgoesphd.wordpress.com/",
+								"display_url": "nutscigradgoesphd.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1328,
+				"friends_count": 766,
+				"listed_count": 116,
+				"created_at": "Thu Feb 03 20:02:38 +0000 2011",
+				"favourites_count": 1869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11098,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/915596670959783936/8Hysdkh__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/915596670959783936/8Hysdkh__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/246951711/1485288052",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1222610366439547000,
+			"quoted_status_id_str": "1222610366439546880",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SWKNoK1ExF",
+				"expanded": "https://twitter.com/AdvanceHE_chat/status/1222610366439546880",
+				"display": "twitter.com/AdvanceHE_chat…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special thanks to @cdvallance on this evening #lthechat #AdvanceHE_chat topic on motivation.\n\nA lot to think about (including green lime chairs! @scottturneruon @srowett @kjhaxton @NomadWarMachine @LeeFallin @Judith_ekn @drnsheridan @Christo_HST @ChrisHeadleand @santanuvasant) https://t.co/LGtSOoUlpD"
+	},
+	{
+		"created_at": "Wed Jan 29 21:01:13 +0000 2020",
+		"id": 1222625768347512800,
+		"id_str": "1222625768347512833",
+		"full_text": "@KiuSum @srowett @NomadWarMachine @ChrisHeadleand @Christo_HST @AdvanceHE_chat @cdvallance @drnsheridan @scottturneruon It feels like most architects and designers think ‘young people’ need LOUD or BRIGHT or BOLD colours. You rarely see new campus buildings being tame in their use of colour.  #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			319
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						294,
+						309
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						310,
+						319
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Dr Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Chris Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						63,
+						78
+					]
+				},
+				{
+					"screen_name": "cdvallance",
+					"name": "Cindy Vallance",
+					"id": 65066990,
+					"id_str": "65066990",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						104,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222624819335790600,
+		"in_reply_to_status_id_str": "1222624819335790596",
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KiuSum @srowett @NomadWarMachine @ChrisHeadleand @Christo_HST @AdvanceHE_chat @cdvallance @drnsheridan @scottturneruon It feels like most architects and designers think ‘young people’ need LOUD or BRIGHT or BOLD colours. You rarely see new campus buildings being tame in their use of colour.  #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:59:12 +0000 2020",
+		"id": 1222625264368308200,
+		"id_str": "1222625264368308224",
+		"full_text": "@drnsheridan @kjhaxton @Judith_ekn @NomadWarMachine @AdvanceHE_chat I always make a point of bringing my own white board markers. Love my purple and orange ones. Standing out from the crowd. 😎  #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						194,
+						209
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "Judith_ekn",
+					"name": "Dr Judith Enterkin",
+					"id": 2425498854,
+					"id_str": "2425498854",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222624682551259100,
+		"in_reply_to_status_id_str": "1222624682551259140",
+		"in_reply_to_user_id": 60389169,
+		"in_reply_to_user_id_str": "60389169",
+		"in_reply_to_screen_name": "drnsheridan",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drnsheridan @kjhaxton @Judith_ekn @NomadWarMachine @AdvanceHE_chat I always make a point of bringing my own white board markers. Love my purple and orange ones. Standing out from the crowd. 😎  #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:57:41 +0000 2020",
+		"id": 1222624881659064300,
+		"id_str": "1222624881659064320",
+		"full_text": "@drnsheridan @Judith_ekn @kjhaxton @NomadWarMachine @AdvanceHE_chat Pens that dry up. Post it notes that don’t stick. Paper that’s see-though. Sticky tape that snaps. Pencil sharpeners that are blunt. Erasers that smudge. Budget stationary 😭😭😭 #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						244,
+						259
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						260,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Judith_ekn",
+					"name": "Dr Judith Enterkin",
+					"id": 2425498854,
+					"id_str": "2425498854",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222623803487981600,
+		"in_reply_to_status_id_str": "1222623803487981569",
+		"in_reply_to_user_id": 60389169,
+		"in_reply_to_user_id_str": "60389169",
+		"in_reply_to_screen_name": "drnsheridan",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drnsheridan @Judith_ekn @kjhaxton @NomadWarMachine @AdvanceHE_chat Pens that dry up. Post it notes that don’t stick. Paper that’s see-though. Sticky tape that snaps. Pencil sharpeners that are blunt. Erasers that smudge. Budget stationary 😭😭😭 #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:55:37 +0000 2020",
+		"id": 1222624360457998300,
+		"id_str": "1222624360457998342",
+		"full_text": "@KiuSum @srowett @NomadWarMachine @ChrisHeadleand @Christo_HST @AdvanceHE_chat @cdvallance @drnsheridan @scottturneruon Haha! Thanks @KiuSum! That colour is the exact same our old Scarborough Campus chairs used to be. I kinda liked them. Funky - but maybe a bit child like? I genuinely felt the colour woke me up! Lime Green is LOUD.  #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			120,
+			360
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						335,
+						350
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						351,
+						360
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Dr Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Chris Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						63,
+						78
+					]
+				},
+				{
+					"screen_name": "cdvallance",
+					"name": "Cindy Vallance",
+					"id": 65066990,
+					"id_str": "65066990",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222623371525009400,
+		"in_reply_to_status_id_str": "1222623371525009408",
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KiuSum @srowett @NomadWarMachine @ChrisHeadleand @Christo_HST @AdvanceHE_chat @cdvallance @drnsheridan @scottturneruon Haha! Thanks @KiuSum! That colour is the exact same our old Scarborough Campus chairs used to be. I kinda liked them. Funky - but maybe a bit child like? I genuinely felt the colour woke me up! Lime Green is LOUD.  #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:52:48 +0000 2020",
+		"id": 1222623650563707000,
+		"id_str": "1222623650563706880",
+		"full_text": "@srowett @silyld @AdvanceHE_chat I probably should have said ‘students money’. You spent my tuition on food for staff as opposed to the library, sports facilities, IT, student services &amp; so on... The bigger picture, it’s a good thing to do and leads to productive staff. Small picture. Bad press.  #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			317
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						302,
+						317
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "silyld",
+					"name": "Dave Otway",
+					"id": 8465292,
+					"id_str": "8465292",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222622739552444400,
+		"in_reply_to_status_id_str": "1222622739552444417",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@srowett @silyld @AdvanceHE_chat I probably should have said ‘students money’. You spent my tuition on food for staff as opposed to the library, sports facilities, IT, student services &amp; so on... The bigger picture, it’s a good thing to do and leads to productive staff. Small picture. Bad press.  #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:50:12 +0000 2020",
+		"id": 1222622999095980000,
+		"id_str": "1222622999095980033",
+		"full_text": "@NomadWarMachine @AdvanceHE_chat Stationary 😍\nWhy is stationary so genuinely exciting.  #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222620176702693400,
+		"in_reply_to_status_id_str": "1222620176702693383",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NomadWarMachine @AdvanceHE_chat Stationary 😍\nWhy is stationary so genuinely exciting.  #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:48:13 +0000 2020",
+		"id": 1222622498887491600,
+		"id_str": "1222622498887491584",
+		"full_text": "@silyld @AdvanceHE_chat Some employers do great, healthy subsidised food for their employees. Keep them energised, healthy and well-fed. I can certainly imagine that being a good motivator. Hard to justify the cost when  you’re using public money (all be it indirectly).  #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						272,
+						287
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						288,
+						297
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "silyld",
+					"name": "Dave Otway",
+					"id": 8465292,
+					"id_str": "8465292",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222621851920294000,
+		"in_reply_to_status_id_str": "1222621851920293895",
+		"in_reply_to_user_id": 8465292,
+		"in_reply_to_user_id_str": "8465292",
+		"in_reply_to_screen_name": "silyld",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@silyld @AdvanceHE_chat Some employers do great, healthy subsidised food for their employees. Keep them energised, healthy and well-fed. I can certainly imagine that being a good motivator. Hard to justify the cost when  you’re using public money (all be it indirectly).  #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:46:18 +0000 2020",
+		"id": 1222622017058418700,
+		"id_str": "1222622017058418688",
+		"full_text": "Kindness is so important. We’ve even used the work to frame our workplace culture.  #AdvanceHE_chat #LTHEchat https://t.co/f39xysUtjU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						84,
+						99
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f39xysUtjU",
+					"expanded_url": "https://twitter.com/halamansour/status/1222621850569781249",
+					"display_url": "twitter.com/halamansour/st…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222621850569781200,
+		"quoted_status_id_str": "1222621850569781249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f39xysUtjU",
+			"expanded": "https://twitter.com/halamansour/status/1222621850569781249",
+			"display": "twitter.com/halamansour/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 29 20:45:39 +0000 2020",
+			"id": 1222621850569781200,
+			"id_str": "1222621850569781249",
+			"full_text": "A4 lead by example, listen carefully, be kind to each other and SHARE experience #advancedhe_chat #LTHEchat https://t.co/a1CPyMsGoJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "advancedhe_chat",
+						"indices": [
+							81,
+							97
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/a1CPyMsGoJ",
+						"expanded_url": "https://twitter.com/advancehe_chat/status/1222619422894018562",
+						"display_url": "twitter.com/advancehe_chat…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95709872,
+				"id_str": "95709872",
+				"name": "Asc.Prof. Hala Mansour",
+				"screen_name": "HalaMansour",
+				"location": "UK",
+				"description": "Associate Professor in HRM/OB, Leader PhD and DBA, Faculty of Business & Law @UniNorthantsFBL @UniNorthants. Tweets own not my institution #research",
+				"url": "https://t.co/tFj0xt1Ge7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tFj0xt1Ge7",
+								"expanded_url": "http://www.northampton.ac.uk/directories/people/hala-mansour",
+								"display_url": "northampton.ac.uk/directories/pe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1334,
+				"friends_count": 1903,
+				"listed_count": 91,
+				"created_at": "Wed Dec 09 19:07:23 +0000 2009",
+				"favourites_count": 26643,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13185,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217183142114725894/dl1gYFTo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217183142114725894/dl1gYFTo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95709872/1566402646",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1222619422894018600,
+			"quoted_status_id_str": "1222619422894018562",
+			"quoted_status_permalink": {
+				"url": "https://t.co/a1CPyMsGoJ",
+				"expanded": "https://twitter.com/advancehe_chat/status/1222619422894018562",
+				"display": "twitter.com/advancehe_chat…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kindness is so important. We’ve even used the work to frame our workplace culture.  #AdvanceHE_chat #LTHEchat https://t.co/f39xysUtjU"
+	},
+	{
+		"created_at": "Wed Jan 29 20:39:29 +0000 2020",
+		"id": 1222620299176353800,
+		"id_str": "1222620299176353794",
+		"full_text": "A4: it can appear difficult to motivate a team of people when everyone has different  thing driving them. In my team I think there is a lot of synergy as we were motivated towards similar career paths. We have different motivations out of work of course #AdvanceHE_chat #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						254,
+						269
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						270,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A4: it can appear difficult to motivate a team of people when everyone has different  thing driving them. In my team I think there is a lot of synergy as we were motivated towards similar career paths. We have different motivations out of work of course #AdvanceHE_chat #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:29:21 +0000 2020",
+		"id": 1222617749417013200,
+		"id_str": "1222617749417013251",
+		"full_text": "A3: I think a big motivation of mine comes from my colleagues too! Motivated to help them as well as students. Collegiality is an important part of my environment I guess! #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: I think a big motivation of mine comes from my colleagues too! Motivated to help them as well as students. Collegiality is an important part of my environment I guess! #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:26:43 +0000 2020",
+		"id": 1222617085790118000,
+		"id_str": "1222617085790117888",
+		"full_text": "@Christo_HST @ruth_wells Depends on your politics. Some would say the issue is that some sectors pay too much 😂\nMy pay always seems fair! #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						148,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Christo_HST",
+					"name": "Chris Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ruth_wells",
+					"name": "Ruth Wells",
+					"id": 456023050,
+					"id_str": "456023050",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222616200447975400,
+		"in_reply_to_status_id_str": "1222616200447975424",
+		"in_reply_to_user_id": 379721853,
+		"in_reply_to_user_id_str": "379721853",
+		"in_reply_to_screen_name": "Christo_HST",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Christo_HST @ruth_wells Depends on your politics. Some would say the issue is that some sectors pay too much 😂\nMy pay always seems fair! #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:19:23 +0000 2020",
+		"id": 1222615241055514600,
+		"id_str": "1222615241055514625",
+		"full_text": "A2: One thing I’m not motivated by is money. I don’t know if any of us could be. We’d all be in the private sector.  #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: One thing I’m not motivated by is money. I don’t know if any of us could be. We’d all be in the private sector.  #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:16:32 +0000 2020",
+		"id": 1222614524940951600,
+		"id_str": "1222614524940951552",
+		"full_text": "A2: I also like having several things on the go so I can dance between stuff depending on what I feel motivated to do. I try not to leave things so last minute I have to do any single one. #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						199,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: I also like having several things on the go so I can dance between stuff depending on what I feel motivated to do. I try not to leave things so last minute I have to do any single one. #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:14:29 +0000 2020",
+		"id": 1222614008987050000,
+		"id_str": "1222614008987049984",
+		"full_text": "A2: Why do I do what I do at work. Philosophically, because it helps students. If something I’m doing doesn’t direct help students, I’m not very motivated to do it. Although, I have many things in this category that I do too! #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						236,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: Why do I do what I do at work. Philosophically, because it helps students. If something I’m doing doesn’t direct help students, I’m not very motivated to do it. Although, I have many things in this category that I do too! #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:10:10 +0000 2020",
+		"id": 1222612924625301500,
+		"id_str": "1222612924625301505",
+		"full_text": "@HeatherPepperR1 @AdvanceHE_chat Can you be at both points on the bridge? #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HeatherPepperR1",
+					"name": "Heather Pepper RN",
+					"id": 1012631646854701000,
+					"id_str": "1012631646854701056",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222612775052202000,
+		"in_reply_to_status_id_str": "1222612775052201991",
+		"in_reply_to_user_id": 1012631646854701000,
+		"in_reply_to_user_id_str": "1012631646854701056",
+		"in_reply_to_screen_name": "HeatherPepperR1",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HeatherPepperR1 @AdvanceHE_chat Can you be at both points on the bridge? #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:09:28 +0000 2020",
+		"id": 1222612745851490300,
+		"id_str": "1222612745851490304",
+		"full_text": "A1: I think motivations can change daily too. I was so thirsty and decaffinated by this a afternoon, I am scared I would have done *anything* for coffee 🤣🤣#LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: I think motivations can change daily too. I was so thirsty and decaffinated by this a afternoon, I am scared I would have done *anything* for coffee 🤣🤣#LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:07:36 +0000 2020",
+		"id": 1222612190508847000,
+		"id_str": "1222612276475285506",
+		"full_text": "@LeeFallin Personally I value my own raw interest in driving me into a subject - indeed, I often need to 'motivate' myself to not be guided by my interests so I can focus on a more valuable goal! #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						196,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1222611757845401600,
+		"in_reply_to_status_id_str": "1222611757845401601",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 379721853,
+			"id_str": "379721853",
+			"name": "Chris Thompson",
+			"screen_name": "Christo_HST",
+			"location": "Huddersfield, England",
+			"description": "Learning designer @uoldigital & LITE project lead @leedsteaching | Senior Fellow HEA | Scholar of comics, comix & graphic novels | Views my own (he/him)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 844,
+			"listed_count": 14,
+			"created_at": "Sun Sep 25 13:03:39 +0000 2011",
+			"favourites_count": 15733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096339824661942272/IQBfqQbf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096339824661942272/IQBfqQbf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/379721853/1464857652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin Personally I value my own raw interest in driving me into a subject - indeed, I often need to 'motivate' myself to not be guided by my interests so I can focus on a more valuable goal! #LTHEchat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:06:34 +0000 2020",
+		"id": 1222612018060046300,
+		"id_str": "1222612018060046339",
+		"full_text": "A1: Motivation also has an interesting temporal element. That motivates me here and now (yum - chocolate), isn’t what necessarily motivates me in the long term. #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						171,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222611439631896600,
+		"in_reply_to_status_id_str": "1222611439631896579",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: Motivation also has an interesting temporal element. That motivates me here and now (yum - chocolate), isn’t what necessarily motivates me in the long term. #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:05:32 +0000 2020",
+		"id": 1222611757845401600,
+		"id_str": "1222611757845401601",
+		"full_text": "A1... things like money, authority, self-satisfaction, helping others, faith, belief, supporting a future goal - all things that can motivate (or not). #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						162,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222611439631896600,
+		"in_reply_to_status_id_str": "1222611439631896579",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1... things like money, authority, self-satisfaction, helping others, faith, belief, supporting a future goal - all things that can motivate (or not). #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:04:16 +0000 2020",
+		"id": 1222611439631896600,
+		"id_str": "1222611439631896579",
+		"full_text": "A1: I see motivation as the reasons for doing something. They’re personal and different for all. In any given situation there are things that drive to act - or not act. There can be multiple influences and everyone values different things.  #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						251,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: I see motivation as the reasons for doing something. They’re personal and different for all. In any given situation there are things that drive to act - or not act. There can be multiple influences and everyone values different things.  #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:02:29 +0000 2020",
+		"id": 1222610990606450700,
+		"id_str": "1222610990606450688",
+		"full_text": "Evening all. I’m Lee and I work for the library at the University of Hull. #LTHEchat #AdvanceHE_chat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						85,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1127,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Evening all. I’m Lee and I work for the library at the University of Hull. #LTHEchat #AdvanceHE_chat"
+	},
+	{
+		"created_at": "Wed Jan 29 20:00:34 +0000 2020",
+		"id": 1222610366439547000,
+		"id_str": "1222610507330400256",
+		"full_text": "Tonight we are focusing on motivation. What is motivation? What motivates you?  Two weeks ago we started having these conversations as part of the @advanceHE Connect Series #ShareConnectCollaborate with @cdvallance &amp; @LEAD_Doug tonight we continue #LTHEchat #AdvanceHE_chat https://t.co/mYnH04Xj3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShareConnectCollaborate",
+					"indices": [
+						173,
+						197
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						262,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "cdvallance",
+					"name": "Cindy Vallance",
+					"id": 65066990,
+					"id_str": "65066990",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"screen_name": "LEAD_Doug",
+					"name": "Doug Parkin",
+					"id": 1160003557,
+					"id_str": "1160003557",
+					"indices": [
+						221,
+						231
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222105712047874000,
+					"id_str": "1222105712047874050",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EPXKq4yW4AI8B0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPXKq4yW4AI8B0Z.jpg",
+					"url": "https://t.co/mYnH04Xj3E",
+					"display_url": "pic.twitter.com/mYnH04Xj3E",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1222610366439546880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 392,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 392,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 425,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222105712047874000,
+					"id_str": "1222105712047874050",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EPXKq4yW4AI8B0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPXKq4yW4AI8B0Z.jpg",
+					"url": "https://t.co/mYnH04Xj3E",
+					"display_url": "pic.twitter.com/mYnH04Xj3E",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1222610366439546880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 392,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 392,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 392,
+							"h": 425,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 293,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2707,
+			"friends_count": 601,
+			"listed_count": 39,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tonight we are focusing on motivation. What is motivation? What motivates you?  Two weeks ago we started having these conversations as part of the @advanceHE Connect Series #ShareConnectCollaborate with @cdvallance &amp; @LEAD_Doug tonight we continue #LTHEchat #AdvanceHE_chat https://t.co/mYnH04Xj3E"
+	},
+	{
 		"created_at": "Tue Jan 28 23:55:39 +0000 2020",
 		"id": 1222097257006276600,
 		"id_str": "1222307277606150145",
@@ -431,7 +4449,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

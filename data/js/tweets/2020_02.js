@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 06:55:39 +0000 2020",
+		"id": 1230455335644692500,
+		"id_str": "1230747896779165697",
+		"full_text": "NEW PROJECT! Creating space for #kindness will work with public #libraries across Scotland to develop &amp; test ideas that further encourage kindness: https://t.co/D4lVDh5BbO \n\n#spaceforkindness https://t.co/tQrTGOgxkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kindness",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "spaceforkindness",
+					"indices": [
+						178,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D4lVDh5BbO",
+					"expanded_url": "http://bit.ly/38FsNSD",
+					"display_url": "bit.ly/38FsNSD",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230454591122288600,
+					"id_str": "1230454591122288646",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ERNz7nAXsAYlIqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERNz7nAXsAYlIqe.jpg",
+					"url": "https://t.co/tQrTGOgxkd",
+					"display_url": "pic.twitter.com/tQrTGOgxkd",
+					"expanded_url": "https://twitter.com/CarnegieUKTrust/status/1230455335644692480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 466,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230454591122288600,
+					"id_str": "1230454591122288646",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ERNz7nAXsAYlIqe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERNz7nAXsAYlIqe.jpg",
+					"url": "https://t.co/tQrTGOgxkd",
+					"display_url": "pic.twitter.com/tQrTGOgxkd",
+					"expanded_url": "https://twitter.com/CarnegieUKTrust/status/1230455335644692480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 466,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 466,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 324969914,
+			"id_str": "324969914",
+			"name": "Carnegie UK Trust",
+			"screen_name": "CarnegieUKTrust",
+			"location": "UK",
+			"description": "Tweets from the Carnegie UK Trust. Working to improve the wellbeing of people throughout the UK & Ireland.",
+			"url": "http://t.co/4ism5G8XSu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/4ism5G8XSu",
+							"expanded_url": "http://www.carnegieuktrust.org.uk",
+							"display_url": "carnegieuktrust.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10280,
+			"friends_count": 2581,
+			"listed_count": 265,
+			"created_at": "Mon Jun 27 14:33:47 +0000 2011",
+			"favourites_count": 2772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133758754242084867/vQT4RwHJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133758754242084867/vQT4RwHJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/324969914/1579186357",
+			"profile_link_color": "452266",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW PROJECT! Creating space for #kindness will work with public #libraries across Scotland to develop &amp; test ideas that further encourage kindness: https://t.co/D4lVDh5BbO \n\n#spaceforkindness https://t.co/tQrTGOgxkd"
+	},
+	{
 		"created_at": "Thu Feb 20 19:45:39 +0000 2020",
 		"id": 1230579285653696500,
 		"id_str": "1230579285653696513",
@@ -59,7 +265,7 @@ Grailbird.data.tweets_2020_02 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

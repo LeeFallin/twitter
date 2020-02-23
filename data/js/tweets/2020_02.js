@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 05:34:39 +0000 2020",
+		"id": 1230896129367302100,
+		"id_str": "1231089902118490113",
+		"full_text": "#Decolonisation isn't as simple as plenty of people suggest https://t.co/tr3n4Y9e3k via @wonkhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Decolonisation",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wonkhe",
+					"name": "Wonkhe",
+					"id": 245499504,
+					"id_str": "245499504",
+					"indices": [
+						88,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tr3n4Y9e3k",
+					"expanded_url": "https://wonkhe.com/blogs/decolonisation-isnt-as-simple-as-plenty-of-people-suggest/",
+					"display_url": "wonkhe.com/blogs/decoloni…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17063304,
+			"id_str": "17063304",
+			"name": "Lee Ballantyne",
+			"screen_name": "lee_ballantyne",
+			"location": "Ayrshire, Scotland",
+			"description": "She/her. Head of Education Futures at UWS. EdTech. Inclusion. Social justice. Cats. Climate. Running. Opinions (lots), all of my own. RT ≠ agree.",
+			"url": "https://t.co/u3YSCbu5BY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u3YSCbu5BY",
+							"expanded_url": "https://www.uws.ac.uk/about-uws/academic-life/education-futures/",
+							"display_url": "uws.ac.uk/about-uws/acad…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2157,
+			"friends_count": 2837,
+			"listed_count": 107,
+			"created_at": "Thu Oct 30 11:15:42 +0000 2008",
+			"favourites_count": 3787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223155968286044161/_Q2TKrir_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223155968286044161/_Q2TKrir_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17063304/1581113866",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7DA1B9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Decolonisation isn't as simple as plenty of people suggest https://t.co/tr3n4Y9e3k via @wonkhe"
+	},
+	{
 		"created_at": "Fri Feb 21 06:55:39 +0000 2020",
 		"id": 1230455335644692500,
 		"id_str": "1230747896779165697",

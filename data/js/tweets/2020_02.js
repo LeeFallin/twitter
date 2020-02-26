@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 10:48:04 +0000 2020",
+		"id": 1231920761901850600,
+		"id_str": "1232255938058489857",
+		"full_text": "\"We lose ourselves in what we read, only to return to ourselves, transformed and part of a more expansive world.\"\n- Judith Butler (born #onthisday) https://t.co/INdVyn1cAq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "onthisday",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231920689059418000,
+					"id_str": "1231920689059418114",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ERipVvbXUAIL8wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERipVvbXUAIL8wd.jpg",
+					"url": "https://t.co/INdVyn1cAq",
+					"display_url": "pic.twitter.com/INdVyn1cAq",
+					"expanded_url": "https://twitter.com/EthicsInBricks/status/1231920761901850624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1039,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231920689059418000,
+					"id_str": "1231920689059418114",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/ERipVvbXUAIL8wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERipVvbXUAIL8wd.jpg",
+					"url": "https://t.co/INdVyn1cAq",
+					"display_url": "pic.twitter.com/INdVyn1cAq",
+					"expanded_url": "https://twitter.com/EthicsInBricks/status/1231920761901850624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1039,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 879713840119861200,
+			"id_str": "879713840119861249",
+			"name": "Ethics in Bricks",
+			"screen_name": "EthicsInBricks",
+			"location": "Brick Lane",
+			"description": "🏆 Top 10 Philosophy Organization on Twitter (https://t.co/WegS3WmYG6). Also check out @econinbricks.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WegS3WmYG6",
+							"expanded_url": "http://truesciphi.org/phiorg.html",
+							"display_url": "truesciphi.org/phiorg.html",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28316,
+			"friends_count": 100,
+			"listed_count": 280,
+			"created_at": "Tue Jun 27 14:51:38 +0000 2017",
+			"favourites_count": 7591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190167054596427776/mQOC4PLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190167054596427776/mQOC4PLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879713840119861249/1572592914",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 291,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"We lose ourselves in what we read, only to return to ourselves, transformed and part of a more expansive world.\"\n- Judith Butler (born #onthisday) https://t.co/INdVyn1cAq"
+	},
+	{
 		"created_at": "Sat Feb 22 05:34:39 +0000 2020",
 		"id": 1230896129367302100,
 		"id_str": "1231089902118490113",

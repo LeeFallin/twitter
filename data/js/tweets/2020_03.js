@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 14:18:58 +0000 2020",
+		"id": 1238908822376218600,
+		"id_str": "1239194383251058688",
+		"full_text": "Do you ever develop an emotional attachment to 30+ tabs you've had open for a very long time for your research draft preparation, and don't want to close them? 🙄\n#phdlife #AcademicChatter #AcademicTwitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "phdlife",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "AcademicChatter",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 831814271717609500,
+			"id_str": "831814271717609476",
+			"name": "Ruchi Pandey🔭",
+			"screen_name": "imruchipandey",
+			"location": "India 🇮🇳",
+			"description": "#FirstGen #PhDscholar studying dust around exploding binary star systems • ❤️ Coding • \n#womeninSTEM #womeninAstronomy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143,
+			"friends_count": 210,
+			"listed_count": 0,
+			"created_at": "Wed Feb 15 10:35:51 +0000 2017",
+			"favourites_count": 304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227171946145599488/JlVbhKt-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227171946145599488/JlVbhKt-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/831814271717609476/1573536183",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 3430,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Do you ever develop an emotional attachment to 30+ tabs you've had open for a very long time for your research draft preparation, and don't want to close them? 🙄\n#phdlife #AcademicChatter #AcademicTwitter"
+	},
+	{
 		"created_at": "Fri Mar 13 16:48:49 +0000 2020",
 		"id": 1238499840751030300,
 		"id_str": "1238507319488589824",

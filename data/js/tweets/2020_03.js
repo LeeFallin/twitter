@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 17:27:21 +0000 2020",
+		"id": 1239954344780447700,
+		"id_str": "1239966565296001026",
+		"full_text": "We've pulled together a course outlining how you can start to move your teaching online. It covers guidance for replicating lectures, seminars and gives ideas around assessment.\n\n@UniOfHull staff can enrol on to the course via this link:\n\nhttps://t.co/BOc8qJ3JgN https://t.co/Rf0rGcP9pW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BOc8qJ3JgN",
+					"expanded_url": "https://canvas.hull.ac.uk/enroll/WTB3YC",
+					"display_url": "canvas.hull.ac.uk/enroll/WTB3YC",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239954267898855400,
+					"id_str": "1239954267898855425",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETUz1kvXQAEu_Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETUz1kvXQAEu_Ay.jpg",
+					"url": "https://t.co/Rf0rGcP9pW",
+					"display_url": "pic.twitter.com/Rf0rGcP9pW",
+					"expanded_url": "https://twitter.com/UoHAcademy/status/1239954344780447746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239954267898855400,
+					"id_str": "1239954267898855425",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ETUz1kvXQAEu_Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETUz1kvXQAEu_Ay.jpg",
+					"url": "https://t.co/Rf0rGcP9pW",
+					"display_url": "pic.twitter.com/Rf0rGcP9pW",
+					"expanded_url": "https://twitter.com/UoHAcademy/status/1239954344780447746/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ETUz1kvXQAEu_Ay.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914481006,
+			"id_str": "914481006",
+			"name": "Teaching Excellence Academy",
+			"screen_name": "UoHAcademy",
+			"location": "The University of Hull, UK",
+			"description": "Latest news from the team as we look to celebrate, develop and promote excellent teaching at @UniofHull.",
+			"url": "https://t.co/jpQpljYSrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpQpljYSrP",
+							"expanded_url": "http://hull.ac.uk/academy",
+							"display_url": "hull.ac.uk/academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 725,
+			"listed_count": 19,
+			"created_at": "Tue Oct 30 12:02:43 +0000 2012",
+			"favourites_count": 1061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914481006/1533221368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've pulled together a course outlining how you can start to move your teaching online. It covers guidance for replicating lectures, seminars and gives ideas around assessment.\n\n@UniOfHull staff can enrol on to the course via this link:\n\nhttps://t.co/BOc8qJ3JgN https://t.co/Rf0rGcP9pW"
+	},
+	{
+		"created_at": "Tue Mar 17 05:59:34 +0000 2020",
+		"id": 1239793481238941700,
+		"id_str": "1239793481238941697",
+		"full_text": "@suewatling It’s also why Sanderson is my favourite authors. Churns out great novels, at pace. Blogs annually to tell people what he’s working on and when it’s published. It’s great.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1239793267786633200,
+		"in_reply_to_status_id_str": "1239793267786633218",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 1134,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suewatling It’s also why Sanderson is my favourite authors. Churns out great novels, at pace. Blogs annually to tell people what he’s working on and when it’s published. It’s great."
+	},
+	{
 		"created_at": "Mon Mar 16 22:50:36 +0000 2020",
 		"id": 1239685527378550800,
 		"id_str": "1239685527378550785",
@@ -39,7 +353,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

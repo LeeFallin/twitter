@@ -1,6 +1,1062 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 20:11:28 +0000 2020",
+		"id": 1242906971289849900,
+		"id_str": "1242906971289849856",
+		"full_text": "@KiuSum @suebecks @alexgspiers @ColetteMazzola @ChrisLearnTech @cgerrard02 @AdGrocott @DigiLin_ @Mikeeds11 @mrhollidayteach @MrAndiPrice @SimonPobble @MrTullock @ICT_MrP @InspiredMind5 @GuyBassBooks @Paul3lack @EmmaCBradshaw @karajrennie @davesanger09 @ivrashton @nickykc @xloubellxx @nilsleonard @clairelpetzal @DollyDeighton @eavesie @YasminArrigo @StephenLepitak @_steph_matthews @WomeninMarketin @snblackman @rachelgeraghty @loveinheadscarf @mumwards_ @hannahasayer @MzEvieMo @jessiegsullivan @katrosenfield @likewinterblue @benmccluskey @livvyrosenthall @taraghaemi1 @NomadWarMachine @neilwithnell @rachelleeobrien @begumru @HalehMoravej @HalaMansour @UniWestLib Not long until I’m back in #LTHEchat. Thesis should be in next week 👍",
+		"truncated": false,
+		"display_text_range": [
+			668,
+			737
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						695,
+						704
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"screen_name": "alexgspiers",
+					"name": "Alex Spiers is in lockdown",
+					"id": 1056578767,
+					"id_str": "1056578767",
+					"indices": [
+						18,
+						30
+					]
+				},
+				{
+					"screen_name": "ColetteMazzola",
+					"name": "Colette Mazzola-Randles",
+					"id": 75255514,
+					"id_str": "75255514",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "ChrisLearnTech",
+					"name": "Chris Melia #edtech",
+					"id": 865887202814943200,
+					"id_str": "865887202814943234",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "cgerrard02",
+					"name": "Chris Gerrard 🔜at #E2🇦🇺",
+					"id": 819162812278800400,
+					"id_str": "819162812278800385",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "AdGrocott",
+					"name": "Adam Grocott",
+					"id": 39306193,
+					"id_str": "39306193",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"screen_name": "DigiLin_",
+					"name": "Linda Parsons",
+					"id": 1109408589708517400,
+					"id_str": "1109408589708517377",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "Mikeeds11",
+					"name": "Mike Edwards",
+					"id": 702718625,
+					"id_str": "702718625",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "mrhollidayteach",
+					"name": "Sam Holliday",
+					"id": 819384827187228700,
+					"id_str": "819384827187228673",
+					"indices": [
+						107,
+						123
+					]
+				},
+				{
+					"screen_name": "MrAndiPrice",
+					"name": "Andi Price",
+					"id": 736843656,
+					"id_str": "736843656",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"screen_name": "SimonPobble",
+					"name": "Simon Blower",
+					"id": 2230528458,
+					"id_str": "2230528458",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"screen_name": "MrTullock",
+					"name": "Paul Tullock",
+					"id": 1599211716,
+					"id_str": "1599211716",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"screen_name": "ICT_MrP",
+					"name": "Mr Parkinson",
+					"id": 972561662,
+					"id_str": "972561662",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"screen_name": "InspiredMind5",
+					"name": "𝕄𝕒𝕥 ✎",
+					"id": 602800020,
+					"id_str": "602800020",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"screen_name": "GuyBassBooks",
+					"name": "Guy Bass",
+					"id": 34926519,
+					"id_str": "34926519",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"screen_name": "Paul3lack",
+					"name": "Paul Black",
+					"id": 19538150,
+					"id_str": "19538150",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"screen_name": "EmmaCBradshaw",
+					"name": "Emma Bradshaw",
+					"id": 199008252,
+					"id_str": "199008252",
+					"indices": [
+						210,
+						224
+					]
+				},
+				{
+					"screen_name": "karajrennie",
+					"name": "Kara Rennie",
+					"id": 30891374,
+					"id_str": "30891374",
+					"indices": [
+						225,
+						237
+					]
+				},
+				{
+					"screen_name": "davesanger09",
+					"name": "Dave Sanger",
+					"id": 1378424772,
+					"id_str": "1378424772",
+					"indices": [
+						238,
+						251
+					]
+				},
+				{
+					"screen_name": "ivrashton",
+					"name": "Izzy Ashton",
+					"id": 614388514,
+					"id_str": "614388514",
+					"indices": [
+						252,
+						262
+					]
+				},
+				{
+					"screen_name": "nickykc",
+					"name": "Nicola Kemp",
+					"id": 19708951,
+					"id_str": "19708951",
+					"indices": [
+						263,
+						271
+					]
+				},
+				{
+					"screen_name": "xloubellxx",
+					"name": "Louise Jack",
+					"id": 212313721,
+					"id_str": "212313721",
+					"indices": [
+						272,
+						283
+					]
+				},
+				{
+					"screen_name": "nilsleonard",
+					"name": "Nils Leonard",
+					"id": 20261159,
+					"id_str": "20261159",
+					"indices": [
+						284,
+						296
+					]
+				},
+				{
+					"screen_name": "clairelpetzal",
+					"name": "Claire Petzal 🥨",
+					"id": 226516956,
+					"id_str": "226516956",
+					"indices": [
+						297,
+						311
+					]
+				},
+				{
+					"screen_name": "DollyDeighton",
+					"name": "Katie Deighton",
+					"id": 375131729,
+					"id_str": "375131729",
+					"indices": [
+						312,
+						326
+					]
+				},
+				{
+					"screen_name": "eavesie",
+					"name": "Mark Eaves",
+					"id": 19255836,
+					"id_str": "19255836",
+					"indices": [
+						327,
+						335
+					]
+				},
+				{
+					"screen_name": "YasminArrigo",
+					"name": "YasminArrigo",
+					"id": 18770736,
+					"id_str": "18770736",
+					"indices": [
+						336,
+						349
+					]
+				},
+				{
+					"screen_name": "StephenLepitak",
+					"name": "Stephen Lepitak",
+					"id": 22925520,
+					"id_str": "22925520",
+					"indices": [
+						350,
+						365
+					]
+				},
+				{
+					"screen_name": "_steph_matthews",
+					"name": "Stephanie Matthews",
+					"id": 17426770,
+					"id_str": "17426770",
+					"indices": [
+						366,
+						382
+					]
+				},
+				{
+					"screen_name": "WomeninMarketin",
+					"name": "Women In Marketing",
+					"id": 164018073,
+					"id_str": "164018073",
+					"indices": [
+						383,
+						399
+					]
+				},
+				{
+					"screen_name": "snblackman",
+					"name": "Siân",
+					"id": 930915464,
+					"id_str": "930915464",
+					"indices": [
+						400,
+						411
+					]
+				},
+				{
+					"screen_name": "rachelgeraghty",
+					"name": "Rachel Geraghty",
+					"id": 32872219,
+					"id_str": "32872219",
+					"indices": [
+						412,
+						427
+					]
+				},
+				{
+					"screen_name": "loveinheadscarf",
+					"name": "Shelina Janmohamed",
+					"id": 20982835,
+					"id_str": "20982835",
+					"indices": [
+						428,
+						444
+					]
+				},
+				{
+					"screen_name": "mumwards_",
+					"name": "Louise Scodie",
+					"id": 834334442634227700,
+					"id_str": "834334442634227712",
+					"indices": [
+						445,
+						455
+					]
+				},
+				{
+					"screen_name": "hannahasayer",
+					"name": "Hannah Sayer",
+					"id": 739599341199974400,
+					"id_str": "739599341199974400",
+					"indices": [
+						456,
+						469
+					]
+				},
+				{
+					"screen_name": "MzEvieMo",
+					"name": "Eve Wersocki Morris",
+					"id": 1601302950,
+					"id_str": "1601302950",
+					"indices": [
+						470,
+						479
+					]
+				},
+				{
+					"screen_name": "jessiegsullivan",
+					"name": "Jessie Sullivan",
+					"id": 461278247,
+					"id_str": "461278247",
+					"indices": [
+						480,
+						496
+					]
+				},
+				{
+					"screen_name": "katrosenfield",
+					"name": "Kat Rosenfield",
+					"id": 70518745,
+					"id_str": "70518745",
+					"indices": [
+						497,
+						511
+					]
+				},
+				{
+					"screen_name": "likewinterblue",
+					"name": "Will Smith",
+					"id": 270352052,
+					"id_str": "270352052",
+					"indices": [
+						512,
+						527
+					]
+				},
+				{
+					"screen_name": "benmccluskey",
+					"name": "Ben McCluskey",
+					"id": 40545080,
+					"id_str": "40545080",
+					"indices": [
+						528,
+						541
+					]
+				},
+				{
+					"screen_name": "livvyrosenthall",
+					"name": "Olivia Rosenthall",
+					"id": 785393394164138000,
+					"id_str": "785393394164137984",
+					"indices": [
+						542,
+						558
+					]
+				},
+				{
+					"screen_name": "taraghaemi1",
+					"name": "Tara Ghaemi",
+					"id": 37258784,
+					"id_str": "37258784",
+					"indices": [
+						559,
+						571
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						572,
+						588
+					]
+				},
+				{
+					"screen_name": "neilwithnell",
+					"name": "Neil Withnell",
+					"id": 249686528,
+					"id_str": "249686528",
+					"indices": [
+						589,
+						602
+					]
+				},
+				{
+					"screen_name": "rachelleeobrien",
+					"name": "Rachelle O'Brien",
+					"id": 43586185,
+					"id_str": "43586185",
+					"indices": [
+						603,
+						619
+					]
+				},
+				{
+					"screen_name": "begumru",
+					"name": "Rumy Begum",
+					"id": 744569905614303200,
+					"id_str": "744569905614303232",
+					"indices": [
+						620,
+						628
+					]
+				},
+				{
+					"screen_name": "HalehMoravej",
+					"name": "Haleh Moravej",
+					"id": 1469609768,
+					"id_str": "1469609768",
+					"indices": [
+						629,
+						642
+					]
+				},
+				{
+					"screen_name": "HalaMansour",
+					"name": "Dr Hala Mansour",
+					"id": 95709872,
+					"id_str": "95709872",
+					"indices": [
+						643,
+						655
+					]
+				},
+				{
+					"screen_name": "UniWestLib",
+					"name": "University of Westminster Library",
+					"id": 802463360,
+					"id_str": "802463360",
+					"indices": [
+						656,
+						667
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242902326861594600,
+		"in_reply_to_status_id_str": "1242902326861594632",
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1299,
+			"friends_count": 1137,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KiuSum @suebecks @alexgspiers @ColetteMazzola @ChrisLearnTech @cgerrard02 @AdGrocott @DigiLin_ @Mikeeds11 @mrhollidayteach @MrAndiPrice @SimonPobble @MrTullock @ICT_MrP @InspiredMind5 @GuyBassBooks @Paul3lack @EmmaCBradshaw @karajrennie @davesanger09 @ivrashton @nickykc @xloubellxx @nilsleonard @clairelpetzal @DollyDeighton @eavesie @YasminArrigo @StephenLepitak @_steph_matthews @WomeninMarketin @snblackman @rachelgeraghty @loveinheadscarf @mumwards_ @hannahasayer @MzEvieMo @jessiegsullivan @katrosenfield @likewinterblue @benmccluskey @livvyrosenthall @taraghaemi1 @NomadWarMachine @neilwithnell @rachelleeobrien @begumru @HalehMoravej @HalaMansour @UniWestLib Not long until I’m back in #LTHEchat. Thesis should be in next week 👍"
+	},
+	{
+		"created_at": "Wed Mar 25 14:36:29 +0000 2020",
+		"id": 1242822671005597700,
+		"id_str": "1242822671005597697",
+		"full_text": "@scholastic_rat @DrRobDale @NCL_WDC All the guidance I’ve written so far has been more focus on communication technology and how to keep connected (in an inclusive way considering some may have other respon and priorities)",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DrRobDale",
+					"name": "Robert Dale",
+					"id": 3558558136,
+					"id_str": "3558558136",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "NCL_WDC",
+					"name": "Writing Development",
+					"id": 2969557323,
+					"id_str": "2969557323",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242820368651423700,
+		"in_reply_to_status_id_str": "1242820368651423746",
+		"in_reply_to_user_id": 395277106,
+		"in_reply_to_user_id_str": "395277106",
+		"in_reply_to_screen_name": "scholastic_rat",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1299,
+			"friends_count": 1137,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scholastic_rat @DrRobDale @NCL_WDC All the guidance I’ve written so far has been more focus on communication technology and how to keep connected (in an inclusive way considering some may have other respon and priorities)"
+	},
+	{
+		"created_at": "Wed Mar 25 14:34:25 +0000 2020",
+		"id": 1242805081461985300,
+		"id_str": "1242822151020982274",
+		"full_text": "@DrRobDale Yes. In the scramble to “deliver content”, we must not lose sight of the fact that connection is far more important. Learning is not content, not information. It is connection. And not all of it has to be to prescribed, predicted outcomes",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrRobDale",
+					"name": "Robert Dale",
+					"id": 3558558136,
+					"id_str": "3558558136",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242803300132704300,
+		"in_reply_to_status_id_str": "1242803300132704257",
+		"in_reply_to_user_id": 3558558136,
+		"in_reply_to_user_id_str": "3558558136",
+		"in_reply_to_screen_name": "DrRobDale",
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (National Teaching Fellow, CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre. Academic Literacies, study skills.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1911,
+			"friends_count": 1094,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 7140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@DrRobDale Yes. In the scramble to “deliver content”, we must not lose sight of the fact that connection is far more important. Learning is not content, not information. It is connection. And not all of it has to be to prescribed, predicted outcomes"
+	},
+	{
+		"created_at": "Wed Mar 25 07:27:52 +0000 2020",
+		"id": 1242478491582357500,
+		"id_str": "1242714804881629186",
+		"full_text": "Trying to rewrite some advice on time management for students in these circumstances and finding myself writing things I’d never have believed two weeks ago. “Attending synchronous teaching may be difficult if you have caring responsibilities or have to, you know, FIND FOOD” https://t.co/3xjOyqLxaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242478483227410400,
+					"id_str": "1242478483227410432",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET4rmPnWAAA0GAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET4rmPnWAAA0GAV.jpg",
+					"url": "https://t.co/3xjOyqLxaa",
+					"display_url": "pic.twitter.com/3xjOyqLxaa",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1242478491582357505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242478483227410400,
+					"id_str": "1242478483227410432",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ET4rmPnWAAA0GAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET4rmPnWAAA0GAV.jpg",
+					"url": "https://t.co/3xjOyqLxaa",
+					"display_url": "pic.twitter.com/3xjOyqLxaa",
+					"expanded_url": "https://twitter.com/scholastic_rat/status/1242478491582357505/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ET4rmPnWAAA0GAV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (National Teaching Fellow, CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre. Academic Literacies, study skills.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1911,
+			"friends_count": 1094,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 7140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trying to rewrite some advice on time management for students in these circumstances and finding myself writing things I’d never have believed two weeks ago. “Attending synchronous teaching may be difficult if you have caring responsibilities or have to, you know, FIND FOOD” https://t.co/3xjOyqLxaa"
+	},
+	{
 		"created_at": "Mon Mar 23 13:31:17 +0000 2020",
 		"id": 1242081484292460500,
 		"id_str": "1242081484292460551",
@@ -39,7 +1095,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

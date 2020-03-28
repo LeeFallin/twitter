@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 17:48:53 +0000 2020",
+		"id": 1243588340307419100,
+		"id_str": "1243595862506340353",
+		"full_text": "In these uncertain times, one thing is certain – we’re still here to help you in any way that we can. And we always will be. #WEAREHULL\nhttps://t.co/JATw6dugZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEAREHULL",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JATw6dugZZ",
+					"expanded_url": "https://www.youtube.com/watch?v=eqVipvzXuYo",
+					"display_url": "youtube.com/watch?v=eqVipv…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59761280,
+			"id_str": "59761280",
+			"name": "University of Hull",
+			"screen_name": "UniOfHull",
+			"location": "Hull, East Yorkshire",
+			"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+			"url": "https://t.co/3NGsMGUfmy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3NGsMGUfmy",
+							"expanded_url": "http://www.hull.ac.uk",
+							"display_url": "hull.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43538,
+			"friends_count": 1127,
+			"listed_count": 559,
+			"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+			"favourites_count": 11615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AE2B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213058855627821056/zBR5Y1n6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213058855627821056/zBR5Y1n6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1574510044",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In these uncertain times, one thing is certain – we’re still here to help you in any way that we can. And we always will be. #WEAREHULL\nhttps://t.co/JATw6dugZZ"
+	},
+	{
 		"created_at": "Thu Mar 26 13:34:20 +0000 2020",
 		"id": 1243169415820173300,
 		"id_str": "1243169415820173312",
@@ -39,7 +153,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

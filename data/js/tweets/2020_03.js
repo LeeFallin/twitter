@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 10:30:30 +0000 2020",
+		"id": 1243635272002068500,
+		"id_str": "1243847927094816768",
+		"full_text": "true https://t.co/sHJhEqQfwk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sHJhEqQfwk",
+					"expanded_url": "https://twitter.com/saliltripathi/status/1243598490808303621",
+					"display_url": "twitter.com/saliltripathi/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1891806212,
+			"id_str": "1891806212",
+			"name": "Shit Academics Say",
+			"screen_name": "AcademicsSay",
+			"location": "",
+			"description": "A social experiment | @prof_nch",
+			"url": "https://t.co/c4QEusj2qq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c4QEusj2qq",
+							"expanded_url": "http://www.chronicle.com/article/AcademicsSay-The-Story/231195",
+							"display_url": "chronicle.com/article/Academ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327501,
+			"friends_count": 0,
+			"listed_count": 3642,
+			"created_at": "Sat Sep 21 23:23:24 +0000 2013",
+			"favourites_count": 18125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748151916836716546/Ldn_dhiC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748151916836716546/Ldn_dhiC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1891806212/1379898969",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243598490808303600,
+		"quoted_status_id_str": "1243598490808303621",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sHJhEqQfwk",
+			"expanded": "https://twitter.com/saliltripathi/status/1243598490808303621",
+			"display": "twitter.com/saliltripathi/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 27 17:59:19 +0000 2020",
+			"id": 1243598490808303600,
+			"id_str": "1243598490808303621",
+			"full_text": "https://t.co/tp7aQWvejf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1243598376509288400,
+						"id_str": "1243598376509288454",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EUImInMWsAY8zNL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUImInMWsAY8zNL.jpg",
+						"url": "https://t.co/tp7aQWvejf",
+						"display_url": "pic.twitter.com/tp7aQWvejf",
+						"expanded_url": "https://twitter.com/saliltripathi/status/1243598490808303621/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 988,
+								"h": 752,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 988,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243598376509288400,
+						"id_str": "1243598376509288454",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/EUImInMWsAY8zNL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUImInMWsAY8zNL.jpg",
+						"url": "https://t.co/tp7aQWvejf",
+						"display_url": "pic.twitter.com/tp7aQWvejf",
+						"expanded_url": "https://twitter.com/saliltripathi/status/1243598490808303621/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 988,
+								"h": 752,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 988,
+								"h": 752,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14582087,
+				"id_str": "14582087",
+				"name": "Salil Tripathi سلیل تریپاٹھی સલિલ ત્રિપાઠી",
+				"screen_name": "saliltripathi",
+				"location": "New York",
+				"description": "@livemint @thecaravanindia WIPC @pen_int VisitingScholar @NYU Books @AlephBookCo @yalepress @westlandbooks @seagullbooks Next:Gujaratis Sr Adv @ihrb Views mine",
+				"url": "https://t.co/PYwSO2cVMe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PYwSO2cVMe",
+								"expanded_url": "http://saliltripathi.wordpress.com/about/",
+								"display_url": "saliltripathi.wordpress.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63329,
+				"friends_count": 6030,
+				"listed_count": 662,
+				"created_at": "Tue Apr 29 08:03:25 +0000 2008",
+				"favourites_count": 35069,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 136131,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9CC2B2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1186447145341259778/4fBmwUOe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186447145341259778/4fBmwUOe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14582087/1569989797",
+				"profile_link_color": "8A867B",
+				"profile_sidebar_border_color": "F5F2D7",
+				"profile_sidebar_fill_color": "F1EBBB",
+				"profile_text_color": "837066",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4580,
+			"favorite_count": 15765,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 644,
+		"favorite_count": 2489,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "true https://t.co/sHJhEqQfwk"
+	},
+	{
 		"created_at": "Fri Mar 27 17:48:53 +0000 2020",
 		"id": 1243588340307419100,
 		"id_str": "1243595862506340353",

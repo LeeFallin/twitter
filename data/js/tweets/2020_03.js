@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 12:34:48 +0000 2020",
+		"id": 1242543250533204000,
+		"id_str": "1244966371802468352",
+		"full_text": "A VERY important message https://t.co/8X03czKetu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242543167725068300,
+					"id_str": "1242543167725068288",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242543167725068288/pu/img/qm3952ert2MvAiBA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242543167725068288/pu/img/qm3952ert2MvAiBA.jpg",
+					"url": "https://t.co/8X03czKetu",
+					"display_url": "pic.twitter.com/8X03czKetu",
+					"expanded_url": "https://twitter.com/RealMattLucas/status/1242543250533203968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242543167725068300,
+					"id_str": "1242543167725068288",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242543167725068288/pu/img/qm3952ert2MvAiBA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242543167725068288/pu/img/qm3952ert2MvAiBA.jpg",
+					"url": "https://t.co/8X03czKetu",
+					"display_url": "pic.twitter.com/8X03czKetu",
+					"expanded_url": "https://twitter.com/RealMattLucas/status/1242543250533203968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 55318,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242543167725068288/pu/vid/320x568/xWW4N3ecfy7bQwQA.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242543167725068288/pu/vid/720x1280/OyKMiV9MsO8FwIWB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1242543167725068288/pu/pl/IgoXgk-aTuY6Vnro.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242543167725068288/pu/vid/360x640/hoZd4m2c4qPcDu6Y.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26003792,
+			"id_str": "26003792",
+			"name": "realmattlucas",
+			"screen_name": "RealMattLucas",
+			"location": "Arsenal",
+			"description": "Little Britain, Come Fly With Me, Shooting Stars, Doctor Who, Les Miserables, Alice In Wonderland, Bridesmaids, Paddington and - eventually - GBBO",
+			"url": "https://t.co/ioe1sX7kw5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ioe1sX7kw5",
+							"expanded_url": "https://slinky.to/ThankYouBakedPotato",
+							"display_url": "slinky.to/ThankYouBakedP…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1079789,
+			"friends_count": 10345,
+			"listed_count": 5288,
+			"created_at": "Mon Mar 23 13:52:57 +0000 2009",
+			"favourites_count": 57229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147722006823153664/-9dfqPr__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147722006823153664/-9dfqPr__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26003792/1585673900",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31673,
+		"favorite_count": 107462,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A VERY important message https://t.co/8X03czKetu"
+	},
+	{
+		"created_at": "Tue Mar 31 05:53:58 +0000 2020",
+		"id": 1244865498661126100,
+		"id_str": "1244865498661126145",
+		"full_text": "@Isobel_Gowers @AngliaLTA Thanks Isobel. I think it’s managed to get even more complicated when you throw in technical capability, additional student responsibilities and bandwidth (or even access to internet). On the whole staff are doing an amazing job - it’s just easy to forget the basics sometimes.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			303
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Isobel_Gowers",
+					"name": "Dr Isobel Gowers",
+					"id": 70955761,
+					"id_str": "70955761",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AngliaLTA",
+					"name": "Anglia L&T",
+					"id": 393435540,
+					"id_str": "393435540",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1244861518363144200,
+		"in_reply_to_status_id_str": "1244861518363144194",
+		"in_reply_to_user_id": 70955761,
+		"in_reply_to_user_id_str": "70955761",
+		"in_reply_to_screen_name": "Isobel_Gowers",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1304,
+			"friends_count": 1139,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Isobel_Gowers @AngliaLTA Thanks Isobel. I think it’s managed to get even more complicated when you throw in technical capability, additional student responsibilities and bandwidth (or even access to internet). On the whole staff are doing an amazing job - it’s just easy to forget the basics sometimes."
+	},
+	{
 		"created_at": "Mon Mar 30 13:50:59 +0000 2020",
 		"id": 1244622741636026400,
 		"id_str": "1244623156914118656",

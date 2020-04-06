@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 18:30:45 +0000 2020",
+		"id": 1246867889182957600,
+		"id_str": "1246867889182957568",
+		"full_text": "👉 @pgrhub @UoHAcademy @HullUni_LibRST @UoHTimetabling @HullUni_ICT @KEHplantsci @mike_ewen @PriceMoir @h_fenwick @RuthSlatter @KateBridgeman1 @DominicCHenri @GrahamScott14 @livinginhope @DrMJBunting @JacquieWhite7 @ColJJohnson @HullSSPS @HullStudentLife @HullStudentLife https://t.co/TkGlhSLl8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pgrhub",
+					"name": "Doctoral College @ the University of Hull",
+					"id": 741579412295012400,
+					"id_str": "741579412295012352",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "HullUni_LibRST",
+					"name": "UoH Lib Research",
+					"id": 3387192261,
+					"id_str": "3387192261",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "UoHTimetabling",
+					"name": "Hull Uni Timetabling",
+					"id": 1695036056,
+					"id_str": "1695036056",
+					"indices": [
+						38,
+						53
+					]
+				},
+				{
+					"screen_name": "HullUni_ICT",
+					"name": "Uni of Hull ICT",
+					"id": 393352082,
+					"id_str": "393352082",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Dr Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"screen_name": "PriceMoir",
+					"name": "Alison Price-Moir",
+					"id": 309595464,
+					"id_str": "309595464",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "h_fenwick",
+					"name": "Helen Fenwick",
+					"id": 2782183163,
+					"id_str": "2782183163",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"screen_name": "RuthSlatter",
+					"name": "Ruth Slatter",
+					"id": 629457030,
+					"id_str": "629457030",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"screen_name": "DominicCHenri",
+					"name": "Dominic Henri",
+					"id": 1685253343,
+					"id_str": "1685253343",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"screen_name": "livinginhope",
+					"name": "Dr Jane Wray",
+					"id": 22756431,
+					"id_str": "22756431",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"screen_name": "DrMJBunting",
+					"name": "Jane Bunting",
+					"id": 1548063218,
+					"id_str": "1548063218",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"screen_name": "JacquieWhite7",
+					"name": "Dr Jacquie White",
+					"id": 747518964889169900,
+					"id_str": "747518964889169920",
+					"indices": [
+						199,
+						213
+					]
+				},
+				{
+					"screen_name": "ColJJohnson",
+					"name": "Colin Johnson",
+					"id": 262195367,
+					"id_str": "262195367",
+					"indices": [
+						214,
+						226
+					]
+				},
+				{
+					"screen_name": "HullSSPS",
+					"name": "Student/Staff Partnerships",
+					"id": 1107163279800049700,
+					"id_str": "1107163279800049665",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"screen_name": "HullStudentLife",
+					"name": "Hull Uni Student Life Team",
+					"id": 703214621516308500,
+					"id_str": "703214621516308480",
+					"indices": [
+						237,
+						253
+					]
+				},
+				{
+					"screen_name": "HullStudentLife",
+					"name": "Hull Uni Student Life Team",
+					"id": 703214621516308500,
+					"id_str": "703214621516308480",
+					"indices": [
+						254,
+						270
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TkGlhSLl8K",
+					"expanded_url": "https://twitter.com/hulluni_library/status/1246865461305901057",
+					"display_url": "twitter.com/hulluni_librar…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1318,
+			"friends_count": 1137,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246865461305901000,
+		"quoted_status_id_str": "1246865461305901057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TkGlhSLl8K",
+			"expanded": "https://twitter.com/hulluni_library/status/1246865461305901057",
+			"display": "twitter.com/hulluni_librar…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 18:21:06 +0000 2020",
+			"id": 1246865461305901000,
+			"id_str": "1246865461305901057",
+			"full_text": "Can you keep a secret?\nEeep! Neither can we! \nCheck out our new beta homepage and library search. Let us know on Twitter if you have any feedback. \n\nhttps://t.co/B2J9Co5wx5 https://t.co/zVLWYCMIlH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B2J9Co5wx5",
+						"expanded_url": "https://www.hull.ac.uk/choose-hull/study-at-hull/library/test",
+						"display_url": "hull.ac.uk/choose-hull/st…",
+						"indices": [
+							149,
+							172
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1246865454330720300,
+						"id_str": "1246865454330720259",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EU3BhkgWsAMQrVJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EU3BhkgWsAMQrVJ.jpg",
+						"url": "https://t.co/zVLWYCMIlH",
+						"display_url": "pic.twitter.com/zVLWYCMIlH",
+						"expanded_url": "https://twitter.com/HullUni_Library/status/1246865461305901057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 498,
+								"h": 364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 364,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 364,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246865454330720300,
+						"id_str": "1246865454330720259",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EU3BhkgWsAMQrVJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EU3BhkgWsAMQrVJ.jpg",
+						"url": "https://t.co/zVLWYCMIlH",
+						"display_url": "pic.twitter.com/zVLWYCMIlH",
+						"expanded_url": "https://twitter.com/HullUni_Library/status/1246865461305901057/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 498,
+								"h": 364,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 364,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 364,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								182
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EU3BhkgWsAMQrVJ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239865033,
+				"id_str": "239865033",
+				"name": "Hull Uni Library",
+				"screen_name": "HullUni_Library",
+				"location": "Hull, East Yorkshire, UK",
+				"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+				"url": "https://t.co/TbBJdYe4pw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TbBJdYe4pw",
+								"expanded_url": "http://www.hull.ac.uk/lib",
+								"display_url": "hull.ac.uk/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6808,
+				"friends_count": 875,
+				"listed_count": 89,
+				"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+				"favourites_count": 2478,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8278,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CB812A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+				"profile_link_color": "CB812A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👉 @pgrhub @UoHAcademy @HullUni_LibRST @UoHTimetabling @HullUni_ICT @KEHplantsci @mike_ewen @PriceMoir @h_fenwick @RuthSlatter @KateBridgeman1 @DominicCHenri @GrahamScott14 @livinginhope @DrMJBunting @JacquieWhite7 @ColJJohnson @HullSSPS @HullStudentLife @HullStudentLife https://t.co/TkGlhSLl8K"
+	},
+	{
 		"created_at": "Thu Apr 02 10:17:30 +0000 2020",
 		"id": 1245656594831929300,
 		"id_str": "1245656594831929344",
@@ -28,7 +571,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -225,7 +768,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -352,7 +895,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,968 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 23:14:54 +0000 2020",
+		"id": 1247664175977021400,
+		"id_str": "1247664175977021442",
+		"full_text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Difficult though. I went for a balance of stuff I was hooked on over the last two decades.",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "S.E.MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "huwcdavies",
+					"name": "Huw Davies",
+					"id": 75880856,
+					"id_str": "75880856",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "DRatnaike",
+					"name": "Danaidh Ratnaike",
+					"id": 319631940,
+					"id_str": "319631940",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "GJOE_neuro",
+					"name": "Gareth Evans",
+					"id": 874929115756888000,
+					"id_str": "874929115756888065",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "Free_wheeler68",
+					"name": "Dr Catriona Jones",
+					"id": 2175665066,
+					"id_str": "2175665066",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "ksein36",
+					"name": "Kim Sein",
+					"id": 43125124,
+					"id_str": "43125124",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "_jo_hope",
+					"name": "Dr Jo Hope",
+					"id": 270329138,
+					"id_str": "270329138",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247661056962502700,
+		"in_reply_to_status_id_str": "1247661056962502657",
+		"in_reply_to_user_id": 803320348792025100,
+		"in_reply_to_user_id_str": "803320348792025097",
+		"in_reply_to_screen_name": "wsi2016",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 1134,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Difficult though. I went for a balance of stuff I was hooked on over the last two decades."
+	},
+	{
+		"created_at": "Tue Apr 07 22:59:22 +0000 2020",
+		"id": 1247660265103073300,
+		"id_str": "1247660265103073281",
+		"full_text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope At least I numbered and listed the 6 first 😊",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "S.E.MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "huwcdavies",
+					"name": "Huw Davies",
+					"id": 75880856,
+					"id_str": "75880856",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "DRatnaike",
+					"name": "Danaidh Ratnaike",
+					"id": 319631940,
+					"id_str": "319631940",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "GJOE_neuro",
+					"name": "Gareth Evans",
+					"id": 874929115756888000,
+					"id_str": "874929115756888065",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "Free_wheeler68",
+					"name": "Dr Catriona Jones",
+					"id": 2175665066,
+					"id_str": "2175665066",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "ksein36",
+					"name": "Kim Sein",
+					"id": 43125124,
+					"id_str": "43125124",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "_jo_hope",
+					"name": "Dr Jo Hope",
+					"id": 270329138,
+					"id_str": "270329138",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247659258742800400,
+		"in_reply_to_status_id_str": "1247659258742800388",
+		"in_reply_to_user_id": 803320348792025100,
+		"in_reply_to_user_id_str": "803320348792025097",
+		"in_reply_to_screen_name": "wsi2016",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 1134,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope At least I numbered and listed the 6 first 😊"
+	},
+	{
+		"created_at": "Tue Apr 07 22:45:20 +0000 2020",
+		"id": 1247656735483080700,
+		"id_str": "1247656735483080706",
+		"full_text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Battlestar = phenomenal. It mixes politics and sci-Fi.",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "S.E.MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "huwcdavies",
+					"name": "Huw Davies",
+					"id": 75880856,
+					"id_str": "75880856",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "DRatnaike",
+					"name": "Danaidh Ratnaike",
+					"id": 319631940,
+					"id_str": "319631940",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "GJOE_neuro",
+					"name": "Gareth Evans",
+					"id": 874929115756888000,
+					"id_str": "874929115756888065",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "Free_wheeler68",
+					"name": "Dr Catriona Jones",
+					"id": 2175665066,
+					"id_str": "2175665066",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "ksein36",
+					"name": "Kim Sein",
+					"id": 43125124,
+					"id_str": "43125124",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "_jo_hope",
+					"name": "Dr Jo Hope",
+					"id": 270329138,
+					"id_str": "270329138",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247654903150977000,
+		"in_reply_to_status_id_str": "1247654903150977026",
+		"in_reply_to_user_id": 803320348792025100,
+		"in_reply_to_user_id_str": "803320348792025097",
+		"in_reply_to_screen_name": "wsi2016",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 1134,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Battlestar = phenomenal. It mixes politics and sci-Fi."
+	},
+	{
+		"created_at": "Tue Apr 07 22:44:24 +0000 2020",
+		"id": 1247656498257367000,
+		"id_str": "1247656498257367040",
+		"full_text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Runners up:\nQueer eye\nThe Blacklist\nSunday Politics\nStranger Things \nBuffy \nBones\nFuturama\nOutnumbered \nSherlock (BBC)\nThe Politician (Netflix)\nBlack Mirror\nStar Trek Discovery",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "S.E.MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "huwcdavies",
+					"name": "Huw Davies",
+					"id": 75880856,
+					"id_str": "75880856",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "DRatnaike",
+					"name": "Danaidh Ratnaike",
+					"id": 319631940,
+					"id_str": "319631940",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "GJOE_neuro",
+					"name": "Gareth Evans",
+					"id": 874929115756888000,
+					"id_str": "874929115756888065",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "Free_wheeler68",
+					"name": "Dr Catriona Jones",
+					"id": 2175665066,
+					"id_str": "2175665066",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "ksein36",
+					"name": "Kim Sein",
+					"id": 43125124,
+					"id_str": "43125124",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "_jo_hope",
+					"name": "Dr Jo Hope",
+					"id": 270329138,
+					"id_str": "270329138",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247654007130251300,
+		"in_reply_to_status_id_str": "1247654007130251265",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 1134,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Runners up:\nQueer eye\nThe Blacklist\nSunday Politics\nStranger Things \nBuffy \nBones\nFuturama\nOutnumbered \nSherlock (BBC)\nThe Politician (Netflix)\nBlack Mirror\nStar Trek Discovery"
+	},
+	{
+		"created_at": "Tue Apr 07 22:34:30 +0000 2020",
+		"id": 1247654007130251300,
+		"id_str": "1247654007130251265",
+		"full_text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Ooooh! Great question. Difficult answer...\n\n1) Battlestar Galactica (reboot)\n2) Star Trek Voyager\n3) Brooklyn 99\n4) Last Week Tonight (John Oliver)\n5) Weeds\n6) Greys anatomy",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "S.E.MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "huwcdavies",
+					"name": "Huw Davies",
+					"id": 75880856,
+					"id_str": "75880856",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "DRatnaike",
+					"name": "Danaidh Ratnaike",
+					"id": 319631940,
+					"id_str": "319631940",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "GJOE_neuro",
+					"name": "Gareth Evans",
+					"id": 874929115756888000,
+					"id_str": "874929115756888065",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "Free_wheeler68",
+					"name": "Dr Catriona Jones",
+					"id": 2175665066,
+					"id_str": "2175665066",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "ksein36",
+					"name": "Kim Sein",
+					"id": 43125124,
+					"id_str": "43125124",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "_jo_hope",
+					"name": "Dr Jo Hope",
+					"id": 270329138,
+					"id_str": "270329138",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247593744263766000,
+		"in_reply_to_status_id_str": "1247593744263766017",
+		"in_reply_to_user_id": 803320348792025100,
+		"in_reply_to_user_id_str": "803320348792025097",
+		"in_reply_to_screen_name": "wsi2016",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 1134,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wsi2016 @huwcdavies @DRatnaike @GJOE_neuro @Free_wheeler68 @ksein36 @_jo_hope Ooooh! Great question. Difficult answer...\n\n1) Battlestar Galactica (reboot)\n2) Star Trek Voyager\n3) Brooklyn 99\n4) Last Week Tonight (John Oliver)\n5) Weeds\n6) Greys anatomy"
+	},
+	{
 		"created_at": "Sun Apr 05 18:30:45 +0000 2020",
 		"id": 1246867889182957600,
 		"id_str": "1246867889182957568",
@@ -239,7 +1201,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

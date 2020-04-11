@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 05:57:19 +0000 2020",
+		"id": 1248146742748602400,
+		"id_str": "1248490221613641733",
+		"full_text": "A very sensitive and caring friend from my school days and his colleagues did this. Click through. It’s just lovely. https://t.co/P6LIOG1N9u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P6LIOG1N9u",
+					"expanded_url": "http://www.frommywindow.rga.com",
+					"display_url": "frommywindow.rga.com",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322173181,
+			"id_str": "322173181",
+			"name": "Rebecca Huxley-Binns",
+			"screen_name": "BexHuxBinns",
+			"location": "Hull, England",
+			"description": "Her/she.    Pro-Vice Chancellor (Education) at the University of Hull. National Teaching Fellow. PFHEA. Retweet is not endorsement. Views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146,
+			"friends_count": 316,
+			"listed_count": 46,
+			"created_at": "Wed Jun 22 19:06:32 +0000 2011",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030489489297297408/kpQxWxiz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030489489297297408/kpQxWxiz_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 77,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very sensitive and caring friend from my school days and his colleagues did this. Click through. It’s just lovely. https://t.co/P6LIOG1N9u"
+	},
+	{
 		"created_at": "Wed Apr 08 05:29:36 +0000 2020",
 		"id": 1247758472889819100,
 		"id_str": "1247758472889819137",
@@ -99,7 +191,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

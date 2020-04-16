@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 16:41:18 +0000 2020",
+		"id": 1250464225757147100,
+		"id_str": "1250464225757147136",
+		"full_text": "And so our Remote Learning guide continues to grow #loveLD #PhDchat #PhDforum #PhDlife https://t.co/VWnvyTRpsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "PhDchat",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "PhDforum",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "PhDlife",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VWnvyTRpsi",
+					"expanded_url": "https://twitter.com/hulluni_library/status/1250461622646300672",
+					"display_url": "twitter.com/hulluni_librar…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 1136,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250461622646300700,
+		"quoted_status_id_str": "1250461622646300672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VWnvyTRpsi",
+			"expanded": "https://twitter.com/hulluni_library/status/1250461622646300672",
+			"display": "twitter.com/hulluni_librar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 16:30:57 +0000 2020",
+			"id": 1250461622646300700,
+			"id_str": "1250461622646300672",
+			"full_text": "We've expanded our remote learning guide to include some pages on research. Thanks, @GrahamScott14 for forwarding us some resources to help! https://t.co/1Mi63fLOHf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrahamScott14",
+						"name": "Graham Scott",
+						"id": 538778092,
+						"id_str": "538778092",
+						"indices": [
+							84,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1Mi63fLOHf",
+						"expanded_url": "https://libguides.hull.ac.uk/remote/research",
+						"display_url": "libguides.hull.ac.uk/remote/research",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239865033,
+				"id_str": "239865033",
+				"name": "Hull Uni Library",
+				"screen_name": "HullUni_Library",
+				"location": "Hull, East Yorkshire, UK",
+				"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+				"url": "https://t.co/TbBJdYe4pw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TbBJdYe4pw",
+								"expanded_url": "http://www.hull.ac.uk/lib",
+								"display_url": "hull.ac.uk/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6805,
+				"friends_count": 870,
+				"listed_count": 90,
+				"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+				"favourites_count": 2499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8313,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CB812A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+				"profile_link_color": "CB812A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And so our Remote Learning guide continues to grow #loveLD #PhDchat #PhDforum #PhDlife https://t.co/VWnvyTRpsi"
+	},
+	{
 		"created_at": "Fri Apr 10 05:57:19 +0000 2020",
 		"id": 1248146742748602400,
 		"id_str": "1248490221613641733",

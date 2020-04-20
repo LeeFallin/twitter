@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 06:35:04 +0000 2020",
+		"id": 1251405749927862300,
+		"id_str": "1251761212838350848",
+		"full_text": "I wonder what students on 440839 Introduction to The Politics of The World Economy think of this article, following our work on the politics of corporations,and the constitution of the market as a political choice. #rethinkingpoliticaleconomy\nhttps://t.co/rgnsDmhV0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rethinkingpoliticaleconomy",
+					"indices": [
+						215,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rgnsDmhV0R",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/apr/17/amazon-coronavirus-public-utility-workers?CMP=Share_AndroidApp_Tweet",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 264132418,
+			"id_str": "264132418",
+			"name": "Politics at Hull",
+			"screen_name": "HullPoliticsDep",
+			"location": "Yorkshire, UK",
+			"description": "Research, news, achievements and events from the Department of Politics at the University of Hull 🎓 @UniofHull 📚 #PoliticsatHull #LearningCommunity",
+			"url": "https://t.co/T5jbMIpsNY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T5jbMIpsNY",
+							"expanded_url": "http://www.hull.ac.uk/politics",
+							"display_url": "hull.ac.uk/politics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2440,
+			"friends_count": 780,
+			"listed_count": 49,
+			"created_at": "Fri Mar 11 11:35:18 +0000 2011",
+			"favourites_count": 887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202570895937724416/SUa9Fwe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202570895937724416/SUa9Fwe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264132418/1503043499",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder what students on 440839 Introduction to The Politics of The World Economy think of this article, following our work on the politics of corporations,and the constitution of the market as a political choice. #rethinkingpoliticaleconomy\nhttps://t.co/rgnsDmhV0R"
+	},
+	{
 		"created_at": "Wed Apr 15 16:41:18 +0000 2020",
 		"id": 1250464225757147100,
 		"id_str": "1250464225757147136",
@@ -67,7 +181,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

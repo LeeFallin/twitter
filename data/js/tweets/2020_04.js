@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 09:13:42 +0000 2020",
+		"id": 1253786893801717800,
+		"id_str": "1253975459941044224",
+		"full_text": "Well, this wasn’t what I expected to be tweeting today, but here we are https://t.co/gAdyDSxydi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253786885538922500,
+					"id_str": "1253786885538922496",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EWZYh5CXQAACJAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWZYh5CXQAACJAY.jpg",
+					"url": "https://t.co/gAdyDSxydi",
+					"display_url": "pic.twitter.com/gAdyDSxydi",
+					"expanded_url": "https://twitter.com/EricStoller/status/1253786893801717761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253786885538922500,
+					"id_str": "1253786885538922496",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EWZYh5CXQAACJAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWZYh5CXQAACJAY.jpg",
+					"url": "https://t.co/gAdyDSxydi",
+					"display_url": "pic.twitter.com/gAdyDSxydi",
+					"expanded_url": "https://twitter.com/EricStoller/status/1253786893801717761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 693,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1949,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186911,
+			"id_str": "1186911",
+			"name": "Eric Stoller",
+			"screen_name": "EricStoller",
+			"location": "Seminole, FL",
+			"description": "Ready for a new #edtech adventure. DMs are open. 👋 Live: 🇺🇸 Work: 🌍🌎🌏 Married to @GillianSeely. ❤️ Jude's dad. ❤️",
+			"url": "https://t.co/opaYQfewnY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/opaYQfewnY",
+							"expanded_url": "https://www.linkedin.com/in/ericstoller",
+							"display_url": "linkedin.com/in/ericstoller",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24242,
+			"friends_count": 2441,
+			"listed_count": 1469,
+			"created_at": "Wed Mar 14 22:31:16 +0000 2007",
+			"favourites_count": 108262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 62272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C80C7A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175594590969225216/7oE6-Tdl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175594590969225216/7oE6-Tdl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186911/1569118567",
+			"profile_link_color": "B80912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9B9393",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d598cb5ad6f7a09f",
+			"url": "https://api.twitter.com/1.1/geo/id/d598cb5ad6f7a09f.json",
+			"place_type": "city",
+			"name": "Pinellas Park",
+			"full_name": "Pinellas Park, FL",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-82.752428,
+							27.8246325
+						],
+						[
+							-82.663128,
+							27.8246325
+						],
+						[
+							-82.663128,
+							27.897396
+						],
+						[
+							-82.752428,
+							27.897396
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 228,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, this wasn’t what I expected to be tweeting today, but here we are https://t.co/gAdyDSxydi"
+	},
+	{
 		"created_at": "Fri Apr 24 12:51:32 +0000 2020",
 		"id": 1253667892136153000,
 		"id_str": "1253667892136153088",
@@ -39,7 +246,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

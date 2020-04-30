@@ -1,6 +1,1709 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 22:14:52 +0000 2020",
+		"id": 1255269814572142600,
+		"id_str": "1255621601980289028",
+		"full_text": "@Jisc I have definitely witnessed this happening yes, on so many levels, too #complex #DigiTeachHull #UnseenInequality",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "complex",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "UnseenInequality",
+					"indices": [
+						101,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jisc",
+					"name": "Jisc",
+					"id": 18829580,
+					"id_str": "18829580",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255154598089638000,
+		"in_reply_to_status_id_str": "1255154598089637890",
+		"in_reply_to_user_id": 18829580,
+		"in_reply_to_user_id_str": "18829580",
+		"in_reply_to_screen_name": "Jisc",
+		"user": {
+			"id": 2316893655,
+			"id_str": "2316893655",
+			"name": "Lizzie Ette",
+			"screen_name": "busygirlizzie",
+			"location": "Yorkshire",
+			"description": "Yorkshire lass & tea drinker extraordinaire. RN RHV Nurse lecturer & PhDer busy busy busy 🐝",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2227,
+			"friends_count": 4568,
+			"listed_count": 81,
+			"created_at": "Fri Jan 31 21:17:59 +0000 2014",
+			"favourites_count": 19027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867695563801853952/gVR6ypnK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867695563801853952/gVR6ypnK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2316893655/1494084733",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "097da6f0431b04b0",
+			"url": "https://api.twitter.com/1.1/geo/id/097da6f0431b04b0.json",
+			"place_type": "city",
+			"name": "Walkington",
+			"full_name": "Walkington, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.49712,
+							53.816574
+						],
+						[
+							-0.4531362,
+							53.816574
+						],
+						[
+							-0.4531362,
+							53.8290128
+						],
+						[
+							-0.49712,
+							53.8290128
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Jisc I have definitely witnessed this happening yes, on so many levels, too #complex #DigiTeachHull #UnseenInequality"
+	},
+	{
+		"created_at": "Wed Apr 29 22:14:09 +0000 2020",
+		"id": 1255470297572147200,
+		"id_str": "1255621417946791941",
+		"full_text": "Some great feedback from colleagues today around accessibility tools - MS accessibility checker https://t.co/6SGPk1CqU0 &amp; Canvas immersive reader  https://t.co/LnWUwNMEUf Was asked to share more widely 👍🏼#DigiTeachHull @UniOfHull  @FacHealthHull",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						208,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"screen_name": "FacHealthHull",
+					"name": "Hull Health Sciences",
+					"id": 971909150,
+					"id_str": "971909150",
+					"indices": [
+						235,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6SGPk1CqU0",
+					"expanded_url": "https://support.office.com/en-gb/article/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f",
+					"display_url": "support.office.com/en-gb/article/…",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/LnWUwNMEUf",
+					"expanded_url": "https://community.canvaslms.com/docs/DOC-26258-how-do-i-use-the-microsoft-immersive-reader-when-viewing-a-page-as-an-instructor",
+					"display_url": "community.canvaslms.com/docs/DOC-26258…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 285549243,
+			"id_str": "285549243",
+			"name": "Kate Bridgeman",
+			"screen_name": "KateBridgeman1",
+			"location": "Hull ",
+			"description": "Teaching Enhancement Officer at The University of Hull.  All views are my own...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 927,
+			"listed_count": 9,
+			"created_at": "Thu Apr 21 10:49:23 +0000 2011",
+			"favourites_count": 2582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2657860464/6935539ab4a287a487c74e50a5ead114_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2657860464/6935539ab4a287a487c74e50a5ead114_normal.jpeg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some great feedback from colleagues today around accessibility tools - MS accessibility checker https://t.co/6SGPk1CqU0 &amp; Canvas immersive reader  https://t.co/LnWUwNMEUf Was asked to share more widely 👍🏼#DigiTeachHull @UniOfHull  @FacHealthHull"
+	},
+	{
+		"created_at": "Wed Apr 29 22:13:31 +0000 2020",
+		"id": 1255506079431229400,
+		"id_str": "1255621261763514369",
+		"full_text": "@LeeFallin @KiuSum @suebecks @scottturneruon @RacePhil @Christo_HST @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @WarwickLanguage @DebbieHolley1 @debbaff Cost is always a consideration 🙁\n\nalso 'Redundancy'…\nensuring that each teaching point is presented in different ways - every student must have a route to the point that is accessible to her/im, ie video needs voice-over description &amp; good transcript etc\n\n#DigiTeachHull Day 3",
+		"truncated": false,
+		"display_text_range": [
+			189,
+			469
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						449,
+						463
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Chris Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"screen_name": "DrSophieCormack",
+					"name": "Sophie Cormack",
+					"id": 1527274158,
+					"id_str": "1527274158",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						131,
+						147
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"screen_name": "debbaff",
+					"name": "Deb Baff",
+					"id": 231750350,
+					"id_str": "231750350",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1255491834823966700,
+		"in_reply_to_status_id_str": "1255491834823966720",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure… also holder of a #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010,
+			"friends_count": 894,
+			"listed_count": 61,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 3840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin @KiuSum @suebecks @scottturneruon @RacePhil @Christo_HST @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @WarwickLanguage @DebbieHolley1 @debbaff Cost is always a consideration 🙁\n\nalso 'Redundancy'…\nensuring that each teaching point is presented in different ways - every student must have a route to the point that is accessible to her/im, ie video needs voice-over description &amp; good transcript etc\n\n#DigiTeachHull Day 3"
+	},
+	{
+		"created_at": "Wed Apr 29 22:13:21 +0000 2020",
+		"id": 1255516983904395300,
+		"id_str": "1255621216750178304",
+		"full_text": "@LeeFallin @KiuSum @suebecks @simonrae @scottturneruon @RacePhil @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @WarwickLanguage @DebbieHolley1 @debbaff Students don't experience your resources in the same way that you do.\n\nThey will have different abilities, knowledge, contexts etc as an expert you're tuned to picking out the meaning, non-experts aren't. This is the first step for inclusive design #LTHEchat #DigiTeachHull",
+		"truncated": false,
+		"display_text_range": [
+			186,
+			459
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						435,
+						444
+					]
+				},
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						445,
+						459
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "DrSophieCormack",
+					"name": "Sophie Cormack",
+					"id": 1527274158,
+					"id_str": "1527274158",
+					"indices": [
+						95,
+						111
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						112,
+						127
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"screen_name": "debbaff",
+					"name": "Deb Baff",
+					"id": 231750350,
+					"id_str": "231750350",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255491834823966700,
+		"in_reply_to_status_id_str": "1255491834823966720",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 379721853,
+			"id_str": "379721853",
+			"name": "Chris Thompson",
+			"screen_name": "Christo_HST",
+			"location": "Huddersfield, England",
+			"description": "Learning designer @uoldigital & LITE project lead @leedsteaching | Senior Fellow HEA | Scholar of comics, comix & graphic novels | Views my own (he/him)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 746,
+			"friends_count": 869,
+			"listed_count": 11,
+			"created_at": "Sun Sep 25 13:03:39 +0000 2011",
+			"favourites_count": 17349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096339824661942272/IQBfqQbf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096339824661942272/IQBfqQbf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/379721853/1464857652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin @KiuSum @suebecks @simonrae @scottturneruon @RacePhil @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @WarwickLanguage @DebbieHolley1 @debbaff Students don't experience your resources in the same way that you do.\n\nThey will have different abilities, knowledge, contexts etc as an expert you're tuned to picking out the meaning, non-experts aren't. This is the first step for inclusive design #LTHEchat #DigiTeachHull"
+	},
+	{
+		"created_at": "Wed Apr 29 22:13:11 +0000 2020",
+		"id": 1255568094233329700,
+		"id_str": "1255621174861627394",
+		"full_text": "This 👇🏻👇🏻👇🏻 #DigiTeachHull https://t.co/UfuoyCgJsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UfuoyCgJsS",
+					"expanded_url": "https://twitter.com/racephil/status/1255558028675383297",
+					"display_url": "twitter.com/racephil/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1623,
+			"friends_count": 947,
+			"listed_count": 87,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 32322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255558028675383300,
+		"quoted_status_id_str": "1255558028675383297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UfuoyCgJsS",
+			"expanded": "https://twitter.com/racephil/status/1255558028675383297",
+			"display": "twitter.com/racephil/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 29 18:02:15 +0000 2020",
+			"id": 1255558028675383300,
+			"id_str": "1255558028675383297",
+			"full_text": "@Christo_HST @LeeFallin @KiuSum @suebecks @simonrae @scottturneruon @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @WarwickLanguage @DebbieHolley1 @debbaff Once we've learned things and got our heads around them, we all quickly forget the processes leading to our success. Things look so easy when you already know how to do them, and we really need to use feedback from folk who are just learning things to start getting them right.",
+			"truncated": false,
+			"display_text_range": [
+				189,
+				466
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Christo_HST",
+						"name": "Chris Thompson",
+						"id": 379721853,
+						"id_str": "379721853",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							13,
+							23
+						]
+					},
+					{
+						"screen_name": "KiuSum",
+						"name": "Kiu Sum",
+						"id": 246951711,
+						"id_str": "246951711",
+						"indices": [
+							24,
+							31
+						]
+					},
+					{
+						"screen_name": "suebecks",
+						"name": "Sue Beckingham 🎓 💻 💡",
+						"id": 34904126,
+						"id_str": "34904126",
+						"indices": [
+							32,
+							41
+						]
+					},
+					{
+						"screen_name": "simonrae",
+						"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+						"id": 48292696,
+						"id_str": "48292696",
+						"indices": [
+							42,
+							51
+						]
+					},
+					{
+						"screen_name": "scottturneruon",
+						"name": "Dr Scott Turner",
+						"id": 56366858,
+						"id_str": "56366858",
+						"indices": [
+							52,
+							67
+						]
+					},
+					{
+						"screen_name": "kateawright",
+						"name": "Kate Wright",
+						"id": 28408419,
+						"id_str": "28408419",
+						"indices": [
+							68,
+							80
+						]
+					},
+					{
+						"screen_name": "chrissinerantzi",
+						"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+						"id": 34362372,
+						"id_str": "34362372",
+						"indices": [
+							81,
+							97
+						]
+					},
+					{
+						"screen_name": "DrSophieCormack",
+						"name": "Sophie Cormack",
+						"id": 1527274158,
+						"id_str": "1527274158",
+						"indices": [
+							98,
+							114
+						]
+					},
+					{
+						"screen_name": "ProfSallyBrown",
+						"name": "Sally Brown",
+						"id": 1561332966,
+						"id_str": "1561332966",
+						"indices": [
+							115,
+							130
+						]
+					},
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							131,
+							147
+						]
+					},
+					{
+						"screen_name": "WarwickLanguage",
+						"name": "Teresa MacKinnon",
+						"id": 81817497,
+						"id_str": "81817497",
+						"indices": [
+							148,
+							164
+						]
+					},
+					{
+						"screen_name": "DebbieHolley1",
+						"name": "Dr Debbie Holley",
+						"id": 77721089,
+						"id_str": "77721089",
+						"indices": [
+							165,
+							179
+						]
+					},
+					{
+						"screen_name": "debbaff",
+						"name": "Deb Baff",
+						"id": 231750350,
+						"id_str": "231750350",
+						"indices": [
+							180,
+							188
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1255516983904395300,
+			"in_reply_to_status_id_str": "1255516983904395265",
+			"in_reply_to_user_id": 379721853,
+			"in_reply_to_user_id_str": "379721853",
+			"in_reply_to_screen_name": "Christo_HST",
+			"user": {
+				"id": 1350065268,
+				"id_str": "1350065268",
+				"name": "Phil Race",
+				"screen_name": "RacePhil",
+				"location": "Newcastle Upon Tyne, England",
+				"description": "Writer and keynoter on assessment, feedback, teaching and learning in tertiary education, e.g.'Making Learning Happen' & 'Lecturer's Toolkit'. NTF, PFHEA",
+				"url": "https://t.co/4KgQ6vybwe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4KgQ6vybwe",
+								"expanded_url": "http://phil-race.co.uk",
+								"display_url": "phil-race.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8652,
+				"friends_count": 8629,
+				"listed_count": 144,
+				"created_at": "Sat Apr 13 19:50:29 +0000 2013",
+				"favourites_count": 15078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15601,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350065268/1460222436",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This 👇🏻👇🏻👇🏻 #DigiTeachHull https://t.co/UfuoyCgJsS"
+	},
+	{
+		"created_at": "Wed Apr 29 20:56:00 +0000 2020",
+		"id": 1255562046537633800,
+		"id_str": "1255601751618658309",
+		"full_text": "@simonrae @WarwickLanguage @LeeFallin @KiuSum @suebecks @scottturneruon @RacePhil @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @DebbieHolley1 @debbaff An iterative cycle is one option - so is a formal FG to define principles &amp; user acceptance testing. Depends on your context and need for agility.\n\nExercise judgement on what people tell you - don't just do what they say, try to understand why they say it #DigiTeachHull #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			186,
+			470
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						446,
+						460
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						461,
+						470
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						95,
+						111
+					]
+				},
+				{
+					"screen_name": "DrSophieCormack",
+					"name": "Sophie Cormack",
+					"id": 1527274158,
+					"id_str": "1527274158",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						129,
+						144
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						145,
+						161
+					]
+				},
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"screen_name": "debbaff",
+					"name": "Deb Baff",
+					"id": 231750350,
+					"id_str": "231750350",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255557237650731000,
+		"in_reply_to_status_id_str": "1255557237650731009",
+		"in_reply_to_user_id": 48292696,
+		"in_reply_to_user_id_str": "48292696",
+		"in_reply_to_screen_name": "simonrae",
+		"user": {
+			"id": 379721853,
+			"id_str": "379721853",
+			"name": "Chris Thompson",
+			"screen_name": "Christo_HST",
+			"location": "Huddersfield, England",
+			"description": "Learning designer @uoldigital & LITE project lead @leedsteaching | Senior Fellow HEA | Scholar of comics, comix & graphic novels | Views my own (he/him)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 746,
+			"friends_count": 869,
+			"listed_count": 11,
+			"created_at": "Sun Sep 25 13:03:39 +0000 2011",
+			"favourites_count": 17349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096339824661942272/IQBfqQbf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096339824661942272/IQBfqQbf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/379721853/1464857652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@simonrae @WarwickLanguage @LeeFallin @KiuSum @suebecks @scottturneruon @RacePhil @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @DebbieHolley1 @debbaff An iterative cycle is one option - so is a formal FG to define principles &amp; user acceptance testing. Depends on your context and need for agility.\n\nExercise judgement on what people tell you - don't just do what they say, try to understand why they say it #DigiTeachHull #LTHEchat"
+	},
+	{
+		"created_at": "Wed Apr 29 13:45:56 +0000 2020",
+		"id": 1255492516239085600,
+		"id_str": "1255493521173340164",
+		"full_text": "@LeeFallin @KiuSum @suebecks @simonrae @scottturneruon @RacePhil @Christo_HST @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @DebbieHolley1 @debbaff #DigiTeachHull @alistairm is my go to person, a wealth of resources for #accessibility but my first learning point from him was to use the headings/styles when making documents/powerpoints as they help those using screen readers to navigate your texts.",
+		"truncated": false,
+		"display_text_range": [
+			182,
+			434
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						182,
+						196
+					]
+				},
+				{
+					"text": "accessibility",
+					"indices": [
+						254,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "Christo_HST",
+					"name": "Chris Thompson",
+					"id": 379721853,
+					"id_str": "379721853",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"screen_name": "DrSophieCormack",
+					"name": "Sophie Cormack",
+					"id": 1527274158,
+					"id_str": "1527274158",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						125,
+						140
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"screen_name": "debbaff",
+					"name": "Deb Baff",
+					"id": 231750350,
+					"id_str": "231750350",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"screen_name": "alistairm",
+					"name": "alistair mcnaught",
+					"id": 15778067,
+					"id_str": "15778067",
+					"indices": [
+						197,
+						207
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255491834823966700,
+		"in_reply_to_status_id_str": "1255491834823966720",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 81817497,
+			"id_str": "81817497",
+			"name": "Teresa MacKinnon",
+			"screen_name": "WarwickLanguage",
+			"location": "Coventry, UK",
+			"description": "Associate Professor at University of Warwick, Senior Fellow HEA, CMALT Learning Technologist.",
+			"url": "https://t.co/sDZp6LOabl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDZp6LOabl",
+							"expanded_url": "https://about.me/teresamackinnon",
+							"display_url": "about.me/teresamackinnon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6369,
+			"friends_count": 6960,
+			"listed_count": 483,
+			"created_at": "Mon Oct 12 11:11:38 +0000 2009",
+			"favourites_count": 48530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223160780318814209/Q_VeHOnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223160780318814209/Q_VeHOnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81817497/1580630735",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin @KiuSum @suebecks @simonrae @scottturneruon @RacePhil @Christo_HST @kateawright @chrissinerantzi @DrSophieCormack @ProfSallyBrown @NomadWarMachine @DebbieHolley1 @debbaff #DigiTeachHull @alistairm is my go to person, a wealth of resources for #accessibility but my first learning point from him was to use the headings/styles when making documents/powerpoints as they help those using screen readers to navigate your texts."
+	},
+	{
+		"created_at": "Wed Apr 29 13:41:22 +0000 2020",
+		"id": 1255492373255200800,
+		"id_str": "1255492373255200775",
+		"full_text": "Super bias on today's question. Accessible resource consideration? Got to be the Designing for Diverse Learners Poster https://t.co/Qdz59LrNkn #DigiTeachHull",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qdz59LrNkn",
+					"expanded_url": "http://libguides.hull.ac.uk/diverselearners",
+					"display_url": "libguides.hull.ac.uk/diverselearners",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1322,
+			"friends_count": 1139,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super bias on today's question. Accessible resource consideration? Got to be the Designing for Diverse Learners Poster https://t.co/Qdz59LrNkn #DigiTeachHull"
+	},
+	{
 		"created_at": "Tue Apr 28 22:57:22 +0000 2020",
 		"id": 1255269907459125200,
 		"id_str": "1255269907459125250",
@@ -59,7 +1762,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -165,7 +1868,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

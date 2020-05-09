@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 11:10:28 +0000 2020",
+		"id": 1258715887663751200,
+		"id_str": "1258715887663751168",
+		"full_text": "@SE_Lomer @troyheff Hi @troyheff. What ‘bits’ of the project do you need? It is likely it will require manual exports of individual bits. NVivo is REFI-QDA complaint so you could convert the project - the challenge would be navigating the export and it wouldn’t show any coding - just the files.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			295
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SE_Lomer",
+					"name": "Dr Sylvie Lomer",
+					"id": 572896220,
+					"id_str": "572896220",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "troyheff",
+					"name": "Troy Heffernan",
+					"id": 31691187,
+					"id_str": "31691187",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "troyheff",
+					"name": "Troy Heffernan",
+					"id": 31691187,
+					"id_str": "31691187",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1258652487248154600,
+		"in_reply_to_status_id_str": "1258652487248154625",
+		"in_reply_to_user_id": 572896220,
+		"in_reply_to_user_id_str": "572896220",
+		"in_reply_to_screen_name": "SE_Lomer",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1329,
+			"friends_count": 1143,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SE_Lomer @troyheff Hi @troyheff. What ‘bits’ of the project do you need? It is likely it will require manual exports of individual bits. NVivo is REFI-QDA complaint so you could convert the project - the challenge would be navigating the export and it wouldn’t show any coding - just the files."
+	},
+	{
 		"created_at": "Wed May 06 20:34:51 +0000 2020",
 		"id": 1258133145213337600,
 		"id_str": "1258133145213337600",
@@ -59,7 +185,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

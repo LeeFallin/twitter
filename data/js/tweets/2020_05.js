@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 13:07:21 +0000 2020",
+		"id": 1259045053479170000,
+		"id_str": "1259107691886268418",
+		"full_text": "Are you a teacher looking for new ways to grow professionally and engage your students?  Connect with a global educator community, learn new ways to innovate with tech and share best practices!  Become a Microsoft Innovative Educator (MIE) Expert 💜🧡.\n\n👉 https://t.co/ETTGRH6jFV https://t.co/vTqB5z7AC8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ETTGRH6jFV",
+					"expanded_url": "https://aka.ms/MIEExpert",
+					"display_url": "aka.ms/MIEExpert",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259043598533824500,
+					"id_str": "1259043598533824512",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkFe29WkAARflY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkFe29WkAARflY.jpg",
+					"url": "https://t.co/vTqB5z7AC8",
+					"display_url": "pic.twitter.com/vTqB5z7AC8",
+					"expanded_url": "https://twitter.com/ClareRiley100/status/1259045053479170049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259043598533824500,
+					"id_str": "1259043598533824512",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkFe29WkAARflY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkFe29WkAARflY.jpg",
+					"url": "https://t.co/vTqB5z7AC8",
+					"display_url": "pic.twitter.com/vTqB5z7AC8",
+					"expanded_url": "https://twitter.com/ClareRiley100/status/1259045053479170049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 428257653,
+			"id_str": "428257653",
+			"name": "Clare Riley",
+			"screen_name": "ClareRiley100",
+			"location": "",
+			"description": "FE and HE engagement manager for Microsoft in the UK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1467,
+			"friends_count": 230,
+			"listed_count": 15,
+			"created_at": "Sun Dec 04 14:55:33 +0000 2011",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977202405451485185/ul58W5np_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977202405451485185/ul58W5np_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/428257653/1555312501",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you a teacher looking for new ways to grow professionally and engage your students?  Connect with a global educator community, learn new ways to innovate with tech and share best practices!  Become a Microsoft Innovative Educator (MIE) Expert 💜🧡.\n\n👉 https://t.co/ETTGRH6jFV https://t.co/vTqB5z7AC8"
+	},
+	{
 		"created_at": "Fri May 08 11:10:28 +0000 2020",
 		"id": 1258715887663751200,
 		"id_str": "1258715887663751168",
@@ -59,7 +230,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

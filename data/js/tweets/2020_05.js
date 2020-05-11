@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 18:22:27 +0000 2020",
+		"id": 1259446167831752700,
+		"id_str": "1259549378324451328",
+		"full_text": "I made you a Government COVID Slogan generator https://t.co/qfCDRrLfzu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259446136122769400,
+					"id_str": "1259446136122769408",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXpzloVWAAAdrr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXpzloVWAAAdrr3.jpg",
+					"url": "https://t.co/qfCDRrLfzu",
+					"display_url": "pic.twitter.com/qfCDRrLfzu",
+					"expanded_url": "https://twitter.com/OFalafel/status/1259446167831752710/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 822,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259446136122769400,
+					"id_str": "1259446136122769408",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXpzloVWAAAdrr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXpzloVWAAAdrr3.jpg",
+					"url": "https://t.co/qfCDRrLfzu",
+					"display_url": "pic.twitter.com/qfCDRrLfzu",
+					"expanded_url": "https://twitter.com/OFalafel/status/1259446167831752710/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 822,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							400,
+							411
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXpzloVWAAAdrr3.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 781096099,
+			"id_str": "781096099",
+			"name": "Olaf Falafel",
+			"screen_name": "OFalafel",
+			"location": "✏️WATCH ART CLUB HERE:",
+			"description": "Funniest Joke Of The Edinburgh Fringe - Comedian, kids book author, illustrator & CEO of Art Club. “Olaf Falafel is an idiot” Chortle. #LTFC",
+			"url": "https://t.co/rlz7UvAWA8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rlz7UvAWA8",
+							"expanded_url": "https://www.youtube.com/user/OlafFalafel",
+							"display_url": "youtube.com/user/OlafFalaf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42389,
+			"friends_count": 960,
+			"listed_count": 272,
+			"created_at": "Sat Aug 25 21:05:30 +0000 2012",
+			"favourites_count": 16221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142004765540458496/QE94ezSD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142004765540458496/QE94ezSD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/781096099/1585821453",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26311,
+		"favorite_count": 51380,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I made you a Government COVID Slogan generator https://t.co/qfCDRrLfzu"
+	},
+	{
 		"created_at": "Sat May 09 13:07:21 +0000 2020",
 		"id": 1259045053479170000,
 		"id_str": "1259107691886268418",

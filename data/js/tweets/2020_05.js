@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 14:26:53 +0000 2020",
+		"id": 1259749800364384300,
+		"id_str": "1259852484048281608",
+		"full_text": "The problem with this isn't that it's mathematically bad, it's that it's appropriating mathematical ideas (wrongly) to suggest some certainty and science behind it. There's an entire cottage industry of this in newspapers (see Ben Goldacre passim) 1/4 https://t.co/LxONqSnnDf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259748551879528400,
+					"id_str": "1259748551879528448",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EXuGoi0XkAApJqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXuGoi0XkAApJqU.jpg",
+					"url": "https://t.co/LxONqSnnDf",
+					"display_url": "pic.twitter.com/LxONqSnnDf",
+					"expanded_url": "https://twitter.com/DrCDArmstrong/status/1259749800364384257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1102,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1102,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259748551879528400,
+					"id_str": "1259748551879528448",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EXuGoi0XkAApJqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXuGoi0XkAApJqU.jpg",
+					"url": "https://t.co/LxONqSnnDf",
+					"display_url": "pic.twitter.com/LxONqSnnDf",
+					"expanded_url": "https://twitter.com/DrCDArmstrong/status/1259749800364384257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1102,
+							"h": 614,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1102,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941748203652829200,
+			"id_str": "941748203652829184",
+			"name": "Chris Armstrong",
+			"screen_name": "DrCDArmstrong",
+			"location": "Hull, England",
+			"description": "⚛️ Lecturer in Physical Chemistry\n📑 Programme director\n🥼 Lab coordinator\n😵 Endless screaming into the void\n🤷🏻‍♂️ Blame SwiftKey for errors\n\n👨🏻‍🏫He/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 712,
+			"listed_count": 10,
+			"created_at": "Fri Dec 15 19:14:03 +0000 2017",
+			"favourites_count": 23443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255154730378186752/VA7nDO3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255154730378186752/VA7nDO3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941748203652829184/1535627461",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 202,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The problem with this isn't that it's mathematically bad, it's that it's appropriating mathematical ideas (wrongly) to suggest some certainty and science behind it. There's an entire cottage industry of this in newspapers (see Ben Goldacre passim) 1/4 https://t.co/LxONqSnnDf"
+	},
+	{
 		"created_at": "Sun May 10 18:22:27 +0000 2020",
 		"id": 1259446167831752700,
 		"id_str": "1259549378324451328",

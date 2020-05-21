@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 20:54:26 +0000 2020",
+		"id": 1263051777458540500,
+		"id_str": "1263211505622933505",
+		"full_text": "Yes! Students, if you’re revising right now, get drawing! https://t.co/iIPHAm9Qrf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iIPHAm9Qrf",
+					"expanded_url": "https://twitter.com/paulcarneyarts/status/1262807012611588097",
+					"display_url": "twitter.com/paulcarneyarts…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (National Teaching Fellow, CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre. Academic Literacies, study skills.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1978,
+			"friends_count": 1141,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 8741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262807012611588000,
+		"quoted_status_id_str": "1262807012611588097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iIPHAm9Qrf",
+			"expanded": "https://twitter.com/paulcarneyarts/status/1262807012611588097",
+			"display": "twitter.com/paulcarneyarts…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 19 18:07:08 +0000 2020",
+			"id": 1262807012611588000,
+			"id_str": "1262807012611588097",
+			"full_text": "Examination of 80 research papers over 15 years found that students in science learn better WITH visual representations rather than learning FROM visuals. The process of translating &amp; encoding information ourselves helps us learn it better. #drawing  https://t.co/EyqnZtRqKo https://t.co/PdgQbNrzlc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "drawing",
+						"indices": [
+							245,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EyqnZtRqKo",
+						"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/09500693.2016.1158435?src=recsys",
+						"display_url": "tandfonline.com/doi/full/10.10…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1262806935746809900,
+						"id_str": "1262806935746809856",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EYZkN6kWkAAxZUM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYZkN6kWkAAxZUM.jpg",
+						"url": "https://t.co/PdgQbNrzlc",
+						"display_url": "pic.twitter.com/PdgQbNrzlc",
+						"expanded_url": "https://twitter.com/PaulCarneyArts/status/1262807012611588097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1756,
+								"h": 1566,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 606,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1070,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262806935746809900,
+						"id_str": "1262806935746809856",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EYZkN6kWkAAxZUM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYZkN6kWkAAxZUM.jpg",
+						"url": "https://t.co/PdgQbNrzlc",
+						"display_url": "pic.twitter.com/PdgQbNrzlc",
+						"expanded_url": "https://twitter.com/PaulCarneyArts/status/1262807012611588097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1756,
+								"h": 1566,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 606,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1070,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17876828,
+				"id_str": "17876828",
+				"name": "Paul Carney",
+				"screen_name": "PaulCarneyArts",
+				"location": "Newcastle upon Tyne, England",
+				"description": "Art & Design Consultant, Educator #CPD trainer & event organiser. Author of Drawing for Science Invention & Discovery, NSEAD Council. Artist, Writer, Designer",
+				"url": "https://t.co/6Oe1rx1coq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Oe1rx1coq",
+								"expanded_url": "http://www.paulcarneyarts.com",
+								"display_url": "paulcarneyarts.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3886,
+				"friends_count": 2071,
+				"listed_count": 95,
+				"created_at": "Thu Dec 04 20:04:54 +0000 2008",
+				"favourites_count": 22272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16757,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1230992536740618240/0ZCxA8vg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230992536740618240/0ZCxA8vg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17876828/1561894257",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes! Students, if you’re revising right now, get drawing! https://t.co/iIPHAm9Qrf"
+	},
+	{
 		"created_at": "Sun May 17 21:38:27 +0000 2020",
 		"id": 1262135417270386700,
 		"id_str": "1262135417270386688",
@@ -39,7 +343,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 09:38:36 +0000 2020",
+		"id": 1271013871910879200,
+		"id_str": "1271013958590308353",
+		"full_text": "The Digital Researcher: Using online methods for research in the COVID-19 world. This special Digital Researcher event will take place on Tuesday 23rd June and is open to @UniOfHull PGR students &amp; staff. @pgrhub @UoHAcademy https://t.co/1FD8HTxcrc https://t.co/cbGGLJUpoQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"screen_name": "pgrhub",
+					"name": "Doctoral College @ the University of Hull",
+					"id": 741579412295012400,
+					"id_str": "741579412295012352",
+					"indices": [
+						208,
+						215
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						216,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1FD8HTxcrc",
+					"expanded_url": "https://bit.ly/2UxZzjo",
+					"display_url": "bit.ly/2UxZzjo",
+					"indices": [
+						228,
+						251
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271013870295974000,
+					"id_str": "1271013870295973888",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOMYYOWAAAS3eH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOMYYOWAAAS3eH.jpg",
+					"url": "https://t.co/cbGGLJUpoQ",
+					"display_url": "pic.twitter.com/cbGGLJUpoQ",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1271013871910879233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271013870295974000,
+					"id_str": "1271013870295973888",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EaOMYYOWAAAS3eH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaOMYYOWAAAS3eH.jpg",
+					"url": "https://t.co/cbGGLJUpoQ",
+					"display_url": "pic.twitter.com/cbGGLJUpoQ",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1271013871910879233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239865033,
+			"id_str": "239865033",
+			"name": "Hull Uni Library",
+			"screen_name": "HullUni_Library",
+			"location": "Hull, East Yorkshire, UK",
+			"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+			"url": "https://t.co/TbBJdYe4pw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TbBJdYe4pw",
+							"expanded_url": "http://www.hull.ac.uk/lib",
+							"display_url": "hull.ac.uk/lib",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6776,
+			"friends_count": 872,
+			"listed_count": 87,
+			"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+			"favourites_count": 2550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CB812A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+			"profile_link_color": "CB812A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Digital Researcher: Using online methods for research in the COVID-19 world. This special Digital Researcher event will take place on Tuesday 23rd June and is open to @UniOfHull PGR students &amp; staff. @pgrhub @UoHAcademy https://t.co/1FD8HTxcrc https://t.co/cbGGLJUpoQ"
+	},
+	{
 		"created_at": "Wed Jun 10 16:31:41 +0000 2020",
 		"id": 1270741510313697300,
 		"id_str": "1270755526104809474",
@@ -364,7 +579,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

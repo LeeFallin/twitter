@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 17:26:08 +0000 2020",
+		"id": 1279104151415390200,
+		"id_str": "1279104151415390214",
+		"full_text": "@santanuvasant @KiuSum @debbaff @ajcorrigan @LornaMCampbell @sheilmcn @UniStrathLibIT @horrocks_simon @HalehMoravej @HalaMansour @neilwithnell @srowett @LindaKKaye @S_J_Lancaster @cpjobling @ChrisHeadleand @ProfSallyBrown @RacePhil Never heard of it until now! Also hi @KiuSum, it’s been too long!",
+		"truncated": false,
+		"display_text_range": [
+			232,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "debbaff",
+					"name": "Deb Baff 🤗 💖 🦄",
+					"id": 231750350,
+					"id_str": "231750350",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "ajcorrigan",
+					"name": "Amanda Corrigan",
+					"id": 344664377,
+					"id_str": "344664377",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "LornaMCampbell",
+					"name": "Lorna M. Campbell",
+					"id": 4016151,
+					"id_str": "4016151",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"screen_name": "UniStrathLibIT",
+					"name": "University of Strathclyde Library & IT",
+					"id": 409850835,
+					"id_str": "409850835",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"screen_name": "horrocks_simon",
+					"name": "Simon Horrocks",
+					"id": 885257749,
+					"id_str": "885257749",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"screen_name": "HalehMoravej",
+					"name": "Haleh Moravej",
+					"id": 1469609768,
+					"id_str": "1469609768",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"screen_name": "HalaMansour",
+					"name": "Dr Hala Mansour",
+					"id": 95709872,
+					"id_str": "95709872",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"screen_name": "neilwithnell",
+					"name": "Neil Withnell",
+					"id": 249686528,
+					"id_str": "249686528",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"screen_name": "LindaKKaye",
+					"name": "Dr Linda K. Kaye (Not going to the pub on 4 July)",
+					"id": 234744939,
+					"id_str": "234744939",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Dr Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						190,
+						205
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						206,
+						221
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						222,
+						231
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						269,
+						276
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1279095827143721000,
+		"in_reply_to_status_id_str": "1279095827143720960",
+		"in_reply_to_user_id": 23588538,
+		"in_reply_to_user_id_str": "23588538",
+		"in_reply_to_screen_name": "santanuvasant",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1367,
+			"friends_count": 1179,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@santanuvasant @KiuSum @debbaff @ajcorrigan @LornaMCampbell @sheilmcn @UniStrathLibIT @horrocks_simon @HalehMoravej @HalaMansour @neilwithnell @srowett @LindaKKaye @S_J_Lancaster @cpjobling @ChrisHeadleand @ProfSallyBrown @RacePhil Never heard of it until now! Also hi @KiuSum, it’s been too long!"
+	},
+	{
 		"created_at": "Wed Jul 01 16:23:14 +0000 2020",
 		"id": 1278015704122433500,
 		"id_str": "1278363545151963137",

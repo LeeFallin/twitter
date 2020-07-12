@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 21:46:45 +0000 2020",
+		"id": 1281913162967797800,
+		"id_str": "1282068836834058246",
+		"full_text": "@h_fenwick - useful materials to support our own subjec specific guide? https://t.co/Wq9BOjT4sW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "h_fenwick",
+					"name": "Helen Fenwick",
+					"id": 2782183163,
+					"id_str": "2782183163",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wq9BOjT4sW",
+					"expanded_url": "https://twitter.com/iainmacl/status/1281514156160618496",
+					"display_url": "twitter.com/iainmacl/statu…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2782183163,
+		"in_reply_to_user_id_str": "2782183163",
+		"in_reply_to_screen_name": "h_fenwick",
+		"user": {
+			"id": 309595464,
+			"id_str": "309595464",
+			"name": "Alison Price-Moir",
+			"screen_name": "PriceMoir",
+			"location": "Late convert to eLearning.",
+			"description": "Lecturer in the History of Art University of Hull. Proud Beverlonian. Tweeting in a personal capacity.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 187,
+			"listed_count": 9,
+			"created_at": "Thu Jun 02 10:38:12 +0000 2011",
+			"favourites_count": 12000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067757675579142145/LsvSG1-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067757675579142145/LsvSG1-q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309595464/1396945761",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3d8aada45e3c5866",
+			"url": "https://api.twitter.com/1.1/geo/id/3d8aada45e3c5866.json",
+			"place_type": "city",
+			"name": "Beverley",
+			"full_name": "Beverley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.455574,
+							53.820512
+						],
+						[
+							-0.394477,
+							53.820512
+						],
+						[
+							-0.394477,
+							53.8620278
+						],
+						[
+							-0.455574,
+							53.8620278
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281514156160618500,
+		"quoted_status_id_str": "1281514156160618496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wq9BOjT4sW",
+			"expanded": "https://twitter.com/iainmacl/status/1281514156160618496",
+			"display": "twitter.com/iainmacl/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 10 09:02:38 +0000 2020",
+			"id": 1281514156160618500,
+			"id_str": "1281514156160618496",
+			"full_text": "sneak peek at rough draft versions of very simple guide to teaching online, aimed at folk with little prior experience, some anxieties, and, perhaps, a smidgen of technophobia. Don't worry, we're on the case! https://t.co/cyF7QvkkN3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1281514122878779400,
+						"id_str": "1281514122878779393",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EcjaThTWAAErqXx.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcjaThTWAAErqXx.png",
+						"url": "https://t.co/cyF7QvkkN3",
+						"display_url": "pic.twitter.com/cyF7QvkkN3",
+						"expanded_url": "https://twitter.com/iainmacl/status/1281514156160618496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1159,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281514122878779400,
+						"id_str": "1281514122878779393",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EcjaThTWAAErqXx.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcjaThTWAAErqXx.png",
+						"url": "https://t.co/cyF7QvkkN3",
+						"display_url": "pic.twitter.com/cyF7QvkkN3",
+						"expanded_url": "https://twitter.com/iainmacl/status/1281514156160618496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1159,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1281514122883014700,
+						"id_str": "1281514122883014656",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EcjaThUWoAA292P.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcjaThUWoAA292P.png",
+						"url": "https://t.co/cyF7QvkkN3",
+						"display_url": "pic.twitter.com/cyF7QvkkN3",
+						"expanded_url": "https://twitter.com/iainmacl/status/1281514156160618496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1147,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 672,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1281514122887213000,
+						"id_str": "1281514122887213056",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EcjaThVWsAAk7Ea.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcjaThVWsAAk7Ea.png",
+						"url": "https://t.co/cyF7QvkkN3",
+						"display_url": "pic.twitter.com/cyF7QvkkN3",
+						"expanded_url": "https://twitter.com/iainmacl/status/1281514156160618496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1156,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 677,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1281514122878890000,
+						"id_str": "1281514122878889985",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/media/EcjaThTXsAEAKWg.png",
+						"media_url_https": "https://pbs.twimg.com/media/EcjaThTXsAEAKWg.png",
+						"url": "https://t.co/cyF7QvkkN3",
+						"display_url": "pic.twitter.com/cyF7QvkkN3",
+						"expanded_url": "https://twitter.com/iainmacl/status/1281514156160618496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1157,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19109747,
+				"id_str": "19109747",
+				"name": "Iain MacLaren",
+				"screen_name": "iainmacl",
+				"location": "Galway on the Atlantic coast",
+				"description": "Scot in Ireland/astrophysicist/educator/bluffer. Citizenship stolen from me.",
+				"url": "https://t.co/o9cPA5l6Fc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o9cPA5l6Fc",
+								"expanded_url": "https://medium.com/@iainmacl",
+								"display_url": "medium.com/@iainmacl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2778,
+				"friends_count": 1846,
+				"listed_count": 139,
+				"created_at": "Sat Jan 17 13:20:48 +0000 2009",
+				"favourites_count": 51436,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59962,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947553371644362753/l2Zv05oT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947553371644362753/l2Zv05oT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19109747/1461408528",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 340,
+			"favorite_count": 1065,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@h_fenwick - useful materials to support our own subjec specific guide? https://t.co/Wq9BOjT4sW"
+	},
+	{
 		"created_at": "Fri Jul 10 11:00:10 +0000 2020",
 		"id": 1281543731359789000,
 		"id_str": "1281543731359789059",
@@ -47,7 +472,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

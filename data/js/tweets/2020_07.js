@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 06:48:16 +0000 2020",
+		"id": 1286654945412907000,
+		"id_str": "1286916158369800192",
+		"full_text": "Loved seeing this up outside Hull Royal Informary today. Proud to be part of @HullHospitals and the amazing diverse bunch of remarkable people we are.  #remarkablepeople #extraordinaryplace https://t.co/L5ZURqsFQd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "remarkablepeople",
+					"indices": [
+						152,
+						169
+					]
+				},
+				{
+					"text": "extraordinaryplace",
+					"indices": [
+						170,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullHospitals",
+					"name": "Hull University Teaching Hospitals NHS Trust",
+					"id": 465830293,
+					"id_str": "465830293",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286654934197448700,
+					"id_str": "1286654934197448710",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Edsd2H1XsAYAVWS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edsd2H1XsAYAVWS.jpg",
+					"url": "https://t.co/L5ZURqsFQd",
+					"display_url": "pic.twitter.com/L5ZURqsFQd",
+					"expanded_url": "https://twitter.com/leelou218/status/1286654945412907008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286654934197448700,
+					"id_str": "1286654934197448710",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Edsd2H1XsAYAVWS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edsd2H1XsAYAVWS.jpg",
+					"url": "https://t.co/L5ZURqsFQd",
+					"display_url": "pic.twitter.com/L5ZURqsFQd",
+					"expanded_url": "https://twitter.com/leelou218/status/1286654945412907008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1286654934201577500,
+					"id_str": "1286654934201577472",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/Edsd2H2WsAAw5P3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edsd2H2WsAAw5P3.jpg",
+					"url": "https://t.co/L5ZURqsFQd",
+					"display_url": "pic.twitter.com/L5ZURqsFQd",
+					"expanded_url": "https://twitter.com/leelou218/status/1286654945412907008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74569477,
+			"id_str": "74569477",
+			"name": "Lucy Vere",
+			"screen_name": "leelou218",
+			"location": "Cottingham, East Yorkshire",
+			"description": "Passionate about all things NHS. A great day at work should be everyone’s right. @hullnhschoir cofounder. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 430,
+			"listed_count": 7,
+			"created_at": "Tue Sep 15 22:03:27 +0000 2009",
+			"favourites_count": 942,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E80082",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263204466305765378/ImwLXuK4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263204466305765378/ImwLXuK4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74569477/1363553522",
+			"profile_link_color": "AA4883",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7EE3DF",
+			"profile_text_color": "928BAC",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Loved seeing this up outside Hull Royal Informary today. Proud to be part of @HullHospitals and the amazing diverse bunch of remarkable people we are.  #remarkablepeople #extraordinaryplace https://t.co/L5ZURqsFQd"
+	},
+	{
 		"created_at": "Thu Jul 23 13:00:13 +0000 2020",
 		"id": 1286284988330184700,
 		"id_str": "1286284988330184705",
@@ -49,7 +272,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

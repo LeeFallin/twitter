@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 27 19:31:26 +0000 2020",
+		"id": 1287773070577590300,
+		"id_str": "1287832992111562759",
+		"full_text": "@SarahCrabbe1 @JackPDenham Hi @SarahCrabbe1, these posters were the original inspiration behind the version developed by @suewatling &amp; @LeeFallin (https://t.co/igeqUSmbYB), which we then took inspiration from for our own version, available at https://t.co/grYLVZZAjG #Accessibility #Inclusivity",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			298
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Accessibility",
+					"indices": [
+						271,
+						285
+					]
+				},
+				{
+					"text": "Inclusivity",
+					"indices": [
+						286,
+						298
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahCrabbe1",
+					"name": "Dr Sarah Crabbe (the accidental academic)",
+					"id": 1111207574,
+					"id_str": "1111207574",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "JackPDenham",
+					"name": "Jack Denham",
+					"id": 100268564,
+					"id_str": "100268564",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "SarahCrabbe1",
+					"name": "Dr Sarah Crabbe (the accidental academic)",
+					"id": 1111207574,
+					"id_str": "1111207574",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/igeqUSmbYB",
+					"expanded_url": "https://libguides.hull.ac.uk/diverselearners",
+					"display_url": "libguides.hull.ac.uk/diverselearners",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/grYLVZZAjG",
+					"expanded_url": "https://tel.yorksj.ac.uk/inclusivity-accessibility/",
+					"display_url": "tel.yorksj.ac.uk/inclusivity-ac…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1286631302695878700,
+		"in_reply_to_status_id_str": "1286631302695878657",
+		"in_reply_to_user_id": 1111207574,
+		"in_reply_to_user_id_str": "1111207574",
+		"in_reply_to_screen_name": "SarahCrabbe1",
+		"user": {
+			"id": 201692767,
+			"id_str": "201692767",
+			"name": "Phil Vincent",
+			"screen_name": "PhilVincent",
+			"location": "York",
+			"description": "Applications & TEL Manager | Innovation & Technology Services | @YSJTEL @YSJITAlerts | MSc | CMALT | SFHEA",
+			"url": "https://t.co/tNktxgzzFm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNktxgzzFm",
+							"expanded_url": "https://www.linkedin.com/in/philvincent79",
+							"display_url": "linkedin.com/in/philvincent…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 2356,
+			"listed_count": 222,
+			"created_at": "Tue Oct 12 12:21:53 +0000 2010",
+			"favourites_count": 1087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019113317141504000/komZuCe3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019113317141504000/komZuCe3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201692767/1398287225",
+			"profile_link_color": "006633",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SarahCrabbe1 @JackPDenham Hi @SarahCrabbe1, these posters were the original inspiration behind the version developed by @suewatling &amp; @LeeFallin (https://t.co/igeqUSmbYB), which we then took inspiration from for our own version, available at https://t.co/grYLVZZAjG #Accessibility #Inclusivity"
+	},
+	{
 		"created_at": "Sat Jul 25 06:48:16 +0000 2020",
 		"id": 1286654945412907000,
 		"id_str": "1286916158369800192",

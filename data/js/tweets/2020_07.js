@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 11:04:28 +0000 2020",
+		"id": 1288415362858483700,
+		"id_str": "1288430182911664128",
+		"full_text": "Following a very interesting event, \n'Developing Together: Learning Developers &amp; Academic Developers'\nHere's the link to join: https://t.co/ofDQwTBzOX\n\n@David_Baume introducing the core concept of collaborating and developing within \n@EdChatEU @Seda_UK_ @AdvanceHE_chat https://t.co/gbzVhnCoaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "David_Baume",
+					"name": "David Baume",
+					"id": 78412260,
+					"id_str": "78412260",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"screen_name": "EdChatEU",
+					"name": "#EdChatEU 🇪🇺",
+					"id": 4051118260,
+					"id_str": "4051118260",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"screen_name": "Seda_UK_",
+					"name": "SEDA",
+					"id": 335534230,
+					"id_str": "335534230",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						258,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ofDQwTBzOX",
+					"expanded_url": "https://www.eventbrite.co.uk/x/developing-together-learning-developers-academic-developers-tickets-113446890704?utm_campaign=reminder_attendees_event_starting_email&ref=eemaileventremind&utm_medium=email&utm_source=eventbrite&utm_term=eventname",
+					"display_url": "eventbrite.co.uk/x/developing-t…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288415119257546800,
+					"id_str": "1288415119257546753",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFeuYKWsAEpcDS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeFeuYKWsAEpcDS.png",
+					"url": "https://t.co/gbzVhnCoaf",
+					"display_url": "pic.twitter.com/gbzVhnCoaf",
+					"expanded_url": "https://twitter.com/VirnaRossi/status/1288415362858483712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288415119257546800,
+					"id_str": "1288415119257546753",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EeFeuYKWsAEpcDS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EeFeuYKWsAEpcDS.png",
+					"url": "https://t.co/gbzVhnCoaf",
+					"display_url": "pic.twitter.com/gbzVhnCoaf",
+					"expanded_url": "https://twitter.com/VirnaRossi/status/1288415362858483712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227561574635843600,
+			"id_str": "1227561574635843584",
+			"name": "Virna",
+			"screen_name": "VirnaRossi",
+			"location": "London",
+			"description": "Learn to thrive.For life.Educational Developer. Interested in life+my awesome kids+inclusive learning design+creative education+assessment as learning #EdChatEU",
+			"url": "https://t.co/5E10FJIyOW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5E10FJIyOW",
+							"expanded_url": "http://inclusivelearningdesign.com",
+							"display_url": "inclusivelearningdesign.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1306,
+			"friends_count": 1467,
+			"listed_count": 14,
+			"created_at": "Wed Feb 12 11:54:31 +0000 2020",
+			"favourites_count": 12546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262029237030092800/LA_NplN-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262029237030092800/LA_NplN-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227561574635843584/1584151206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Following a very interesting event, \n'Developing Together: Learning Developers &amp; Academic Developers'\nHere's the link to join: https://t.co/ofDQwTBzOX\n\n@David_Baume introducing the core concept of collaborating and developing within \n@EdChatEU @Seda_UK_ @AdvanceHE_chat https://t.co/gbzVhnCoaf"
+	},
+	{
 		"created_at": "Mon Jul 27 19:31:26 +0000 2020",
 		"id": 1287773070577590300,
 		"id_str": "1287832992111562759",

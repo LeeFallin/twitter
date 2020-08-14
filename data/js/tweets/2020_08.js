@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 08:01:29 +0000 2020",
+		"id": 1285242994459848700,
+		"id_str": "1293819954517729281",
+		"full_text": "Everyone sees the glory. \nWe see your whole story.\n\nApply today through Clearing and it could be the moment that makes you. ✨ #MomentsThatMakeUs https://t.co/xodFxY5XFU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MomentsThatMakeUs",
+					"indices": [
+						126,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xodFxY5XFU",
+					"expanded_url": "https://www.youtube.com/watch?v=EyOgQWMT6nY",
+					"display_url": "youtube.com/watch?v=EyOgQW…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59761280,
+			"id_str": "59761280",
+			"name": "University of Hull",
+			"screen_name": "UniOfHull",
+			"location": "Hull, East Yorkshire",
+			"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+			"url": "https://t.co/u5B4DJg2Yc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u5B4DJg2Yc",
+							"expanded_url": "https://www.hull.ac.uk",
+							"display_url": "hull.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43936,
+			"friends_count": 1116,
+			"listed_count": 533,
+			"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+			"favourites_count": 11849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AE2B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213058855627821056/zBR5Y1n6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213058855627821056/zBR5Y1n6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1597307467",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everyone sees the glory. \nWe see your whole story.\n\nApply today through Clearing and it could be the moment that makes you. ✨ #MomentsThatMakeUs https://t.co/xodFxY5XFU"
+	},
+	{
 		"created_at": "Wed Aug 12 08:54:49 +0000 2020",
 		"id": 1293470987468578800,
 		"id_str": "1293470987468578821",
@@ -39,7 +153,7 @@ Grailbird.data.tweets_2020_08 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

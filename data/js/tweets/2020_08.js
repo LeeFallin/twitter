@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 21 06:40:53 +0000 2020",
+		"id": 1231260937677492200,
+		"id_str": "1296698771259232256",
+		"full_text": "Every student should be reading at least 60 minutes/day across content areas! @KellyGToGo #cate2020 https://t.co/kOnqQBD6PA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cate2020",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KellyGToGo",
+					"name": "Kelly Gallagher",
+					"id": 266338284,
+					"id_str": "266338284",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231260931524444200,
+					"id_str": "1231260931524444160",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ERZRSzFUwAAN9i3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERZRSzFUwAAN9i3.jpg",
+					"url": "https://t.co/kOnqQBD6PA",
+					"display_url": "pic.twitter.com/kOnqQBD6PA",
+					"expanded_url": "https://twitter.com/jackie_guy25/status/1231260937677492224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231260931524444200,
+					"id_str": "1231260931524444160",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/ERZRSzFUwAAN9i3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERZRSzFUwAAN9i3.jpg",
+					"url": "https://t.co/kOnqQBD6PA",
+					"display_url": "pic.twitter.com/kOnqQBD6PA",
+					"expanded_url": "https://twitter.com/jackie_guy25/status/1231260937677492224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 709577964589940700,
+			"id_str": "709577964589940736",
+			"name": "Jackie Guy",
+			"screen_name": "jackie_guy25",
+			"location": "",
+			"description": "Coordinator of English Language Arts, IUSD",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 209,
+			"friends_count": 296,
+			"listed_count": 4,
+			"created_at": "Tue Mar 15 03:12:24 +0000 2016",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/710521874040561664/03B3LIch_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/710521874040561664/03B3LIch_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/709577964589940736/1458236590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every student should be reading at least 60 minutes/day across content areas! @KellyGToGo #cate2020 https://t.co/kOnqQBD6PA"
+	},
+	{
 		"created_at": "Mon Aug 17 17:49:41 +0000 2020",
 		"id": 1295413285869813800,
 		"id_str": "1295417531675693056",

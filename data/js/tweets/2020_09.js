@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 06:07:43 +0000 2020",
+		"id": 1304300572611408000,
+		"id_str": "1304300572611407872",
+		"full_text": "😱😱😱 https://t.co/wJaKcpzJYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wJaKcpzJYH",
+					"expanded_url": "https://twitter.com/jeremybarraud/status/1304070810366246912",
+					"display_url": "twitter.com/jeremybarraud/…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1378,
+			"friends_count": 1204,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304070810366247000,
+		"quoted_status_id_str": "1304070810366246912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wJaKcpzJYH",
+			"expanded": "https://twitter.com/jeremybarraud/status/1304070810366246912",
+			"display": "twitter.com/jeremybarraud/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 10 14:54:44 +0000 2020",
+			"id": 1304070810366247000,
+			"id_str": "1304070810366246912",
+			"full_text": "Has the Government just trashed Athena SWAN and the Concordat to Support the Career Development of Researchers? \n\nAnd the Race Equality Charter, Stonewall, etc. in the HE sector? \n\nhttps://t.co/XVgWD15R9L https://t.co/RaPup79PP0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XVgWD15R9L",
+						"expanded_url": "https://www.gov.uk/government/publications/reducing-bureaucratic-burdens-higher-education/reducing-bureaucratic-burdens-on-research-innovation-and-higher-education",
+						"display_url": "gov.uk/government/pub…",
+						"indices": [
+							181,
+							204
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1304070004577652700,
+						"id_str": "1304070004577652738",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/media/Ehj8wokX0AIKBaT.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ehj8wokX0AIKBaT.png",
+						"url": "https://t.co/RaPup79PP0",
+						"display_url": "pic.twitter.com/RaPup79PP0",
+						"expanded_url": "https://twitter.com/JeremyBarraud/status/1304070810366246912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 726,
+								"h": 312,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 726,
+								"h": 312,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 292,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304070004577652700,
+						"id_str": "1304070004577652738",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/media/Ehj8wokX0AIKBaT.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ehj8wokX0AIKBaT.png",
+						"url": "https://t.co/RaPup79PP0",
+						"display_url": "pic.twitter.com/RaPup79PP0",
+						"expanded_url": "https://twitter.com/JeremyBarraud/status/1304070810366246912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 726,
+								"h": 312,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 726,
+								"h": 312,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 292,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2319256399,
+				"id_str": "2319256399",
+				"name": "Jeremy Barraud",
+				"screen_name": "JeremyBarraud",
+				"location": "London",
+				"description": "Director of Research Operations Governance @UCL. Bass with the LSO Community Choir. Own views. Someone else's tunes.",
+				"url": "https://t.co/u26EvieZ9o",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u26EvieZ9o",
+								"expanded_url": "https://linktr.ee/barraud",
+								"display_url": "linktr.ee/barraud",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 492,
+				"friends_count": 579,
+				"listed_count": 48,
+				"created_at": "Thu Jan 30 17:09:57 +0000 2014",
+				"favourites_count": 5459,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2725,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126169931710697474/im9COkF6_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126169931710697474/im9COkF6_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2319256399/1583420657",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😱😱😱 https://t.co/wJaKcpzJYH"
+	},
+	{
 		"created_at": "Sun Sep 06 06:59:44 +0000 2020",
 		"id": 1301552071385034800,
 		"id_str": "1302501720124203014",

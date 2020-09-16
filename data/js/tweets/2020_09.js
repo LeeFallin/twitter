@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 22:47:20 +0000 2020",
+		"id": 1305997838724325400,
+		"id_str": "1306001683017879553",
+		"full_text": "Don't miss all the Microsoft Teams action at #MSIgnite. Check out our digital guide for a rundown of our sessions and our favorite - virtual swag.\nhttps://t.co/FYwuVMswyU https://t.co/Kfn0bEDopk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSIgnite",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FYwuVMswyU",
+					"expanded_url": "https://msft.it/6014TtLTI",
+					"display_url": "msft.it/6014TtLTI",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305997831220727800,
+					"id_str": "1305997831220727812",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh_WG6dXkAQjBRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh_WG6dXkAQjBRj.jpg",
+					"url": "https://t.co/Kfn0bEDopk",
+					"display_url": "pic.twitter.com/Kfn0bEDopk",
+					"expanded_url": "https://twitter.com/MicrosoftTeams/status/1305997838724325377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305997831220727800,
+					"id_str": "1305997831220727812",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh_WG6dXkAQjBRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh_WG6dXkAQjBRj.jpg",
+					"url": "https://t.co/Kfn0bEDopk",
+					"display_url": "pic.twitter.com/Kfn0bEDopk",
+					"expanded_url": "https://twitter.com/MicrosoftTeams/status/1305997838724325377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817461289081409500,
+			"id_str": "817461289081409536",
+			"name": "Microsoft Teams",
+			"screen_name": "MicrosoftTeams",
+			"location": "",
+			"description": "Bring together all of your team’s conversations, files, and tools in a single workspace with Microsoft Teams in Office 365.",
+			"url": "https://t.co/9Yr5Kd5jsy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9Yr5Kd5jsy",
+							"expanded_url": "https://aka.ms/MicrosoftTeamsBio",
+							"display_url": "aka.ms/MicrosoftTeams…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185289,
+			"friends_count": 260,
+			"listed_count": 1520,
+			"created_at": "Fri Jan 06 20:02:13 +0000 2017",
+			"favourites_count": 12463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128330992328921090/nVNqd5QP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128330992328921090/nVNqd5QP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817461289081409536/1496693898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't miss all the Microsoft Teams action at #MSIgnite. Check out our digital guide for a rundown of our sessions and our favorite - virtual swag.\nhttps://t.co/FYwuVMswyU https://t.co/Kfn0bEDopk"
+	},
+	{
 		"created_at": "Mon Sep 14 12:52:50 +0000 2020",
 		"id": 1305489686954225700,
 		"id_str": "1305489686954225664",
@@ -99,7 +291,7 @@ Grailbird.data.tweets_2020_09 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

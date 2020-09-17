@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 21:43:19 +0000 2020",
+		"id": 1304300670556803000,
+		"id_str": "1306347963099340803",
+		"full_text": "Thanks @SarlaGandhi for sending me this link, I love a good #lego build! Lego for creativity and mindfulness works in the F2F or online 'classroom' too https://t.co/5pmPCn78j3 #creativeHE @chrissinerantzi @neilwithnell @5fingerTyler",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lego",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "creativeHE",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarlaGandhi",
+					"name": "Sarla Gandhi",
+					"id": 829283935,
+					"id_str": "829283935",
+					"indices": [
+						7,
+						19
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"screen_name": "neilwithnell",
+					"name": "Neil Withnell",
+					"id": 249686528,
+					"id_str": "249686528",
+					"indices": [
+						205,
+						218
+					]
+				},
+				{
+					"screen_name": "5fingerTyler",
+					"name": "Tyler Warburton 💙",
+					"id": 425042995,
+					"id_str": "425042995",
+					"indices": [
+						219,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5pmPCn78j3",
+					"expanded_url": "https://www.wellandgood.com/adult-lego-sets",
+					"display_url": "wellandgood.com/adult-lego-sets",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92031890,
+			"id_str": "92031890",
+			"name": "Emma Gillaspy",
+			"screen_name": "egillaspy",
+			"location": "Manchester",
+			"description": "Rebel with a cause to transform education #creativeHE #heutagogy #edtech #coachingHE\nSL Digital Learning @UCLanHealth SFHEA & National Teaching Fellow #NTFS20",
+			"url": "https://t.co/lw615k38dD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lw615k38dD",
+							"expanded_url": "http://www.linkedin.com/in/emmagillaspy",
+							"display_url": "linkedin.com/in/emmagillaspy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 1561,
+			"listed_count": 67,
+			"created_at": "Mon Nov 23 14:39:28 +0000 2009",
+			"favourites_count": 3502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884354481642668032/oNgkL6f6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884354481642668032/oNgkL6f6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92031890/1438777514",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @SarlaGandhi for sending me this link, I love a good #lego build! Lego for creativity and mindfulness works in the F2F or online 'classroom' too https://t.co/5pmPCn78j3 #creativeHE @chrissinerantzi @neilwithnell @5fingerTyler"
+	},
+	{
+		"created_at": "Wed Sep 16 18:25:04 +0000 2020",
+		"id": 1306298070993457200,
+		"id_str": "1306298070993457155",
+		"full_text": "Wahoo! My internal examiner signed off on my amendments and the Research Degrees Committee formally approved the award of my doctorate today 😁 https://t.co/01X7LmG54v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306298063460405200,
+					"id_str": "1306298063460405252",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EiDnKutWkAQAyap.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiDnKutWkAQAyap.jpg",
+					"url": "https://t.co/01X7LmG54v",
+					"display_url": "pic.twitter.com/01X7LmG54v",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1306298070993457155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306298063460405200,
+					"id_str": "1306298063460405252",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EiDnKutWkAQAyap.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EiDnKutWkAQAyap.jpg",
+					"url": "https://t.co/01X7LmG54v",
+					"display_url": "pic.twitter.com/01X7LmG54v",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1306298070993457155/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EiDnKutWkAQAyap.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1378,
+			"friends_count": 1205,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 6996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wahoo! My internal examiner signed off on my amendments and the Research Degrees Committee formally approved the award of my doctorate today 😁 https://t.co/01X7LmG54v"
+	},
+	{
 		"created_at": "Tue Sep 15 22:47:20 +0000 2020",
 		"id": 1305997838724325400,
 		"id_str": "1306001683017879553",

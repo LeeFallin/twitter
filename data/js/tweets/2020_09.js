@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 05:48:59 +0000 2020",
+		"id": 1306510734625472500,
+		"id_str": "1306832573109276673",
+		"full_text": "Right time, right space? Developing an online transition course for new undergraduates. A case study by Kim Shahabudin, Sonia Hood and Michelle Reid from University of Reading. https://t.co/T8TJytv73A  #LoveLD #StudyChat https://t.co/IEnK1JCj9M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LoveLD",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "StudyChat",
+					"indices": [
+						210,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T8TJytv73A",
+					"expanded_url": "https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/469",
+					"display_url": "journal.aldinhe.ac.uk/index.php/jldh…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306510732071260200,
+					"id_str": "1306510732071260160",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGolrBX0AARNsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGolrBX0AARNsz.jpg",
+					"url": "https://t.co/IEnK1JCj9M",
+					"display_url": "pic.twitter.com/IEnK1JCj9M",
+					"expanded_url": "https://twitter.com/aldinhe_LH/status/1306510734625472512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306510732071260200,
+					"id_str": "1306510732071260160",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EiGolrBX0AARNsz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiGolrBX0AARNsz.jpg",
+					"url": "https://t.co/IEnK1JCj9M",
+					"display_url": "pic.twitter.com/IEnK1JCj9M",
+					"expanded_url": "https://twitter.com/aldinhe_LH/status/1306510734625472512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119064069,
+			"id_str": "119064069",
+			"name": "ALDinHE",
+			"screen_name": "aldinhe_LH",
+			"location": "",
+			"description": "Association for Learning Development in Higher Education: empowering Learning Developers to empower students in Higher Education. Retweets are not endorsement.",
+			"url": "https://t.co/l7ujX9JW7p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l7ujX9JW7p",
+							"expanded_url": "http://www.aldinhe.ac.uk",
+							"display_url": "aldinhe.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1336,
+			"friends_count": 1026,
+			"listed_count": 29,
+			"created_at": "Tue Mar 02 15:21:07 +0000 2010",
+			"favourites_count": 1015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119064069/1530529040",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Right time, right space? Developing an online transition course for new undergraduates. A case study by Kim Shahabudin, Sonia Hood and Michelle Reid from University of Reading. https://t.co/T8TJytv73A  #LoveLD #StudyChat https://t.co/IEnK1JCj9M"
+	},
+	{
 		"created_at": "Wed Sep 16 21:43:19 +0000 2020",
 		"id": 1304300670556803000,
 		"id_str": "1306347963099340803",
@@ -281,7 +480,7 @@ Grailbird.data.tweets_2020_09 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

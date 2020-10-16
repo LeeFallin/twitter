@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 07:13:41 +0000 2020",
+		"id": 1316338450619084800,
+		"id_str": "1316638361218674689",
+		"full_text": "Information literacy and political censorship in the school curriculum. A statement on the recent DfE guidance and thoughts from many @infolitgroup members myself included - do sign the statement if you support us: https://t.co/3xFXLdldxm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "infolitgroup",
+					"name": "CILIP InfoLit Group",
+					"id": 223880738,
+					"id_str": "223880738",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3xFXLdldxm",
+					"expanded_url": "https://infolit.org.uk/information-literacy-and-political-censorship-in-the-school-curriculum/",
+					"display_url": "infolit.org.uk/information-li…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20975165,
+			"id_str": "20975165",
+			"name": "Dr Jane Secker",
+			"screen_name": "jsecker",
+			"location": "London",
+			"description": "Senior Lecturer in Ed Development. SFHEA. Online learning, information & digital literacy, copyright education. Chair of CILIP Information Literacy Group.",
+			"url": "https://t.co/zjkM1hPT3G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjkM1hPT3G",
+							"expanded_url": "http://janesecker.wordpress.com/",
+							"display_url": "janesecker.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5230,
+			"friends_count": 1816,
+			"listed_count": 279,
+			"created_at": "Mon Feb 16 10:21:36 +0000 2009",
+			"favourites_count": 16203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908824528847036416/9RfPeAFF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20975165/1588597535",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Information literacy and political censorship in the school curriculum. A statement on the recent DfE guidance and thoughts from many @infolitgroup members myself included - do sign the statement if you support us: https://t.co/3xFXLdldxm"
+	},
+	{
 		"created_at": "Wed Oct 14 17:10:49 +0000 2020",
 		"id": 1316426243244523500,
 		"id_str": "1316426243244523524",
@@ -74,7 +191,7 @@ Grailbird.data.tweets_2020_10 =
 				},
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫👩🏻‍💻🌍",
+					"name": "Danielle M Hinton 👩🏻🏫👩🏻💻🌍",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -97,7 +214,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -230,7 +347,7 @@ Grailbird.data.tweets_2020_10 =
 				},
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫👩🏻‍💻🌍",
+					"name": "Danielle M Hinton 👩🏻🏫👩🏻💻🌍",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -253,7 +370,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

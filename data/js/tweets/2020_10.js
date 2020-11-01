@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 20:44:12 +0000 2020",
+		"id": 1322634805637501000,
+		"id_str": "1322640537170644994",
+		"full_text": "@LeeFallin @carolinannwhite @FacHealthHull a useful blog to read prior to our faculty lunchtime session 👍 https://t.co/k6U7Fn0mtQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "carolinannwhite",
+					"name": "Caroline White",
+					"id": 1512932718,
+					"id_str": "1512932718",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "FacHealthHull",
+					"name": "Hull Health Sciences",
+					"id": 971909150,
+					"id_str": "971909150",
+					"indices": [
+						28,
+						42
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k6U7Fn0mtQ",
+					"expanded_url": "https://twitter.com/lseimpactblog/status/1322569138192191492",
+					"display_url": "twitter.com/lseimpactblog/…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray 🎗",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1739,
+			"friends_count": 965,
+			"listed_count": 82,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 34935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322569138192191500,
+		"quoted_status_id_str": "1322569138192191492",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k6U7Fn0mtQ",
+			"expanded": "https://twitter.com/lseimpactblog/status/1322569138192191492",
+			"display": "twitter.com/lseimpactblog/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 31 16:00:29 +0000 2020",
+			"id": 1322569138192191500,
+			"id_str": "1322569138192191492",
+			"full_text": "Carrying out qualitative research under lockdown – Practical and ethical considerations\n#NationalLockdown #AcademicChatter\nhttps://t.co/SSq9YXAJe8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalLockdown",
+						"indices": [
+							88,
+							105
+						]
+					},
+					{
+						"text": "AcademicChatter",
+						"indices": [
+							106,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SSq9YXAJe8",
+						"expanded_url": "https://wp.me/p4m9em-9Vi",
+						"display_url": "wp.me/p4m9em-9Vi",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273935884,
+				"id_str": "273935884",
+				"name": "LSE Impact Blog",
+				"screen_name": "LSEImpactBlog",
+				"location": "London",
+				"description": "A platform for those interested in increasing the impact of academic research. Managing Editor Emily Cousens",
+				"url": "http://t.co/j2QGFYPVRs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j2QGFYPVRs",
+								"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+								"display_url": "blogs.lse.ac.uk/impactofsocial…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56299,
+				"friends_count": 4857,
+				"listed_count": 1708,
+				"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+				"favourites_count": 4908,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278251075456380929/FedAKI5l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278251075456380929/FedAKI5l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+				"profile_link_color": "9C6A5E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LeeFallin @carolinannwhite @FacHealthHull a useful blog to read prior to our faculty lunchtime session 👍 https://t.co/k6U7Fn0mtQ"
+	},
+	{
 		"created_at": "Fri Oct 30 08:15:36 +0000 2020",
 		"id": 1322089761079808000,
 		"id_str": "1322089761079808000",
@@ -59,7 +310,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 09:04:53 +0000 2020",
+		"id": 1324880131547160600,
+		"id_str": "1325001265131237377",
+		"full_text": "Bernie called it. https://t.co/x79oSJ3jUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323851710838628400,
+					"id_str": "1323851710838628353",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323851710838628353/pu/img/e3dluCbT6uMekRbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323851710838628353/pu/img/e3dluCbT6uMekRbZ.jpg",
+					"url": "https://t.co/x79oSJ3jUG",
+					"display_url": "pic.twitter.com/x79oSJ3jUG",
+					"expanded_url": "https://twitter.com/hannahhycho/status/1323851835199811587/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1323851835199811600,
+					"source_status_id_str": "1323851835199811587",
+					"source_user_id": 953121140184006700,
+					"source_user_id_str": "953121140184006656"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323851710838628400,
+					"id_str": "1323851710838628353",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323851710838628353/pu/img/e3dluCbT6uMekRbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323851710838628353/pu/img/e3dluCbT6uMekRbZ.jpg",
+					"url": "https://t.co/x79oSJ3jUG",
+					"display_url": "pic.twitter.com/x79oSJ3jUG",
+					"expanded_url": "https://twitter.com/hannahhycho/status/1323851835199811587/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1323851835199811600,
+					"source_status_id_str": "1323851835199811587",
+					"source_user_id": 953121140184006700,
+					"source_user_id_str": "953121140184006656",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140003,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323851710838628353/pu/vid/1280x720/QDlrhq_guvcKJ0CH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323851710838628353/pu/vid/640x360/X4LHlFlNWmDo--EY.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323851710838628353/pu/vid/480x270/TFC15Jr6kw-Xfd1u.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1323851710838628353/pu/pl/LLTQNH-YgRu33m4-.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 953121140184006700,
+							"id_str": "953121140184006656",
+							"name": "hannah",
+							"screen_name": "hannahhycho",
+							"location": "she/her",
+							"description": "arguing with either side of politics is so tiring, yet we have to follow the dao",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2818,
+							"friends_count": 277,
+							"listed_count": 15,
+							"created_at": "Tue Jan 16 04:26:02 +0000 2018",
+							"favourites_count": 17453,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 48870,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1324588025716776960/tPrbRPnY_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324588025716776960/tPrbRPnY_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/953121140184006656/1601084270",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186911,
+			"id_str": "1186911",
+			"name": "Eric Stoller",
+			"screen_name": "EricStoller",
+			"location": "Seminole, FL",
+			"description": "Higher Education ➡️ Digital Engagement. #EdTech. DMs are open. 👋 Live: 🇺🇸 Work: 🌍🌎🌏 Married to GS. ❤️ J’s dad. ❤️",
+			"url": "https://t.co/opaYQfewnY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/opaYQfewnY",
+							"expanded_url": "https://www.linkedin.com/in/ericstoller",
+							"display_url": "linkedin.com/in/ericstoller",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24384,
+			"friends_count": 2973,
+			"listed_count": 1428,
+			"created_at": "Wed Mar 14 22:31:16 +0000 2007",
+			"favourites_count": 114014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C80C7A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175594590969225216/7oE6-Tdl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175594590969225216/7oE6-Tdl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186911/1569118567",
+			"profile_link_color": "B80912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9B9393",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 465,
+		"favorite_count": 2064,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bernie called it. https://t.co/x79oSJ3jUG"
+	},
+	{
 		"created_at": "Wed Nov 04 08:55:47 +0000 2020",
 		"id": 1323911809498292200,
 		"id_str": "1323911809498292229",
@@ -49,7 +310,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

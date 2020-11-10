@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 18:05:00 +0000 2020",
+		"id": 1325861724361207800,
+		"id_str": "1325861963939913729",
+		"full_text": "Watch the #DreamsWithin and celebrate the UK launch of the #XboxSeriesX https://t.co/qhXUflfDoJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamsWithin",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"text": "XboxSeriesX",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhXUflfDoJ",
+					"expanded_url": "https://twitter.com/i/broadcasts/1lDxLpvbgWYxm",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196618084,
+			"id_str": "196618084",
+			"name": "Xbox UK",
+			"screen_name": "xboxuk",
+			"location": "UK",
+			"description": "The official Xbox UK Twitter account 💚🇬🇧\nTech troubles? Please check in with @XboxSupport",
+			"url": "https://t.co/h0UWjm6zBV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h0UWjm6zBV",
+							"expanded_url": "http://www.xbox.com",
+							"display_url": "xbox.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828623,
+			"friends_count": 1641,
+			"listed_count": 1432,
+			"created_at": "Wed Sep 29 14:45:55 +0000 2010",
+			"favourites_count": 7279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325771077637836803/xreD5hAo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325771077637836803/xreD5hAo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196618084/1604924142",
+			"profile_link_color": "107C10",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "21B830",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2943,
+		"favorite_count": 1504,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watch the #DreamsWithin and celebrate the UK launch of the #XboxSeriesX https://t.co/qhXUflfDoJ"
+	},
+	{
+		"created_at": "Mon Nov 09 16:01:59 +0000 2020",
+		"id": 1325831005274583000,
+		"id_str": "1325831005274583042",
+		"full_text": "Want to know how to get free transcription via Microsoft Word? I made a video for @HullUni_Library on just this! https://t.co/wY2ttEN5V6 #MIEExpert @MicrosoftEDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"screen_name": "MicrosoftEDU",
+					"name": "Microsoft Education",
+					"id": 17826187,
+					"id_str": "17826187",
+					"indices": [
+						148,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wY2ttEN5V6",
+					"expanded_url": "https://www.youtube.com/watch?v=GzRJFOaIBBg",
+					"display_url": "youtube.com/watch?v=GzRJFO…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1385,
+			"friends_count": 1221,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to know how to get free transcription via Microsoft Word? I made a video for @HullUni_Library on just this! https://t.co/wY2ttEN5V6 #MIEExpert @MicrosoftEDU"
+	},
+	{
 		"created_at": "Sat Nov 07 09:04:53 +0000 2020",
 		"id": 1324880131547160600,
 		"id_str": "1325001265131237377",

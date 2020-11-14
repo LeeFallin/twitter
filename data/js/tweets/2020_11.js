@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 07:30:16 +0000 2020",
+		"id": 1326469835308601300,
+		"id_str": "1327151779193253888",
+		"full_text": "Universities trying to follow government guidance https://t.co/RBPaXQb1Ll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1299121104720715800,
+					"id_str": "1299121104720715777",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299121104720715777/pu/img/zc3pYnKrWnR-NXGh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299121104720715777/pu/img/zc3pYnKrWnR-NXGh.jpg",
+					"url": "https://t.co/RBPaXQb1Ll",
+					"display_url": "pic.twitter.com/RBPaXQb1Ll",
+					"expanded_url": "https://twitter.com/yugopnik/status/1299121166418948097/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1299121166418948000,
+					"source_status_id_str": "1299121166418948097",
+					"source_user_id": 1015999862263951400,
+					"source_user_id_str": "1015999862263951360"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299121104720715800,
+					"id_str": "1299121104720715777",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299121104720715777/pu/img/zc3pYnKrWnR-NXGh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299121104720715777/pu/img/zc3pYnKrWnR-NXGh.jpg",
+					"url": "https://t.co/RBPaXQb1Ll",
+					"display_url": "pic.twitter.com/RBPaXQb1Ll",
+					"expanded_url": "https://twitter.com/yugopnik/status/1299121166418948097/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1299121166418948000,
+					"source_status_id_str": "1299121166418948097",
+					"source_user_id": 1015999862263951400,
+					"source_user_id_str": "1015999862263951360",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37004,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1299121104720715777/pu/vid/480x270/X8GBaN9vZtqm-yLV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1299121104720715777/pu/vid/640x360/xTveCPrWGnS2zlZc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1299121104720715777/pu/pl/jM3Lfm3VwR-7CqfN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1299121104720715777/pu/vid/1280x720/Rd1OSrq0RZAtGs6X.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1015999862263951400,
+							"id_str": "1015999862263951360",
+							"name": "Yugopnik",
+							"screen_name": "yugopnik",
+							"location": "Yugoslavia",
+							"description": "Slavic Political Science guy who makes YouTube videos about Socialism and Capitalism. Tovarisch and an alcohol enthusiast. He/Him.",
+							"url": "https://t.co/r39BQUC2Bz",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/r39BQUC2Bz",
+											"expanded_url": "https://www.youtube.com/yugopnik",
+											"display_url": "youtube.com/yugopnik",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4828,
+							"friends_count": 244,
+							"listed_count": 15,
+							"created_at": "Sun Jul 08 16:43:38 +0000 2018",
+							"favourites_count": 9479,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 2937,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1301890452048748550/aCeytnuG_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301890452048748550/aCeytnuG_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015999862263951360/1604970415",
+							"profile_link_color": "FF1A00",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106664169686925300,
+			"id_str": "1106664169686925314",
+			"name": "CheMichael",
+			"screen_name": "CheMichael7",
+			"location": "",
+			"description": "Michael O’Neill, Inorganic Chemistry lecturer @OxfordChemistry and Associate Director for Assessment & Feedback @OxICFM. Education-focused. He/him.",
+			"url": "https://t.co/Ii9GXQgZFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ii9GXQgZFq",
+							"expanded_url": "http://www.michaeloneill.org",
+							"display_url": "michaeloneill.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 841,
+			"friends_count": 2598,
+			"listed_count": 1,
+			"created_at": "Fri Mar 15 21:11:13 +0000 2019",
+			"favourites_count": 6181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106666517360451584/ZYNuIBtq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106666517360451584/ZYNuIBtq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106664169686925314/1559499698",
+			"profile_link_color": "FF6666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 82,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Universities trying to follow government guidance https://t.co/RBPaXQb1Ll"
+	},
+	{
 		"created_at": "Tue Nov 10 18:33:14 +0000 2020",
 		"id": 1326231457363337200,
 		"id_str": "1326231457363337217",
@@ -59,7 +333,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -280,7 +554,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -440,7 +714,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -574,7 +848,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️‍🌈",
+			"description": "SFHEA #LearningDeveloper, #EdD student, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #LDchat & #Hull. All tweets in a personal capacity 🏳️🌈",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 15:46:28 +0000 2020",
+		"id": 1327532089705705500,
+		"id_str": "1327639042859610112",
+		"full_text": "How this Govt works:\n\n-Put lies on side of a bus\n-Treat Parliament with contempt\n-Break rules and charge around country during pandemic\n-Brief against Ministers\n\nNothing happens\n\n-Call PM’s partner ‘Princess Nut Nuts’\n\nYou’re out",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35720019,
+			"id_str": "35720019",
+			"name": "Paul Johnson",
+			"screen_name": "paul__johnson",
+			"location": "London",
+			"description": "Journalist. Former Deputy Editor, The Guardian",
+			"url": "https://t.co/fT23LI1UtP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fT23LI1UtP",
+							"expanded_url": "https://www.theguardian.com/uk",
+							"display_url": "theguardian.com/uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32910,
+			"friends_count": 1521,
+			"listed_count": 471,
+			"created_at": "Mon Apr 27 11:27:53 +0000 2009",
+			"favourites_count": 7768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879796427521740800/snfes5H1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879796427521740800/snfes5H1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35720019/1525811312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1333,
+		"favorite_count": 6889,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How this Govt works:\n\n-Put lies on side of a bus\n-Treat Parliament with contempt\n-Break rules and charge around country during pandemic\n-Brief against Ministers\n\nNothing happens\n\n-Call PM’s partner ‘Princess Nut Nuts’\n\nYou’re out"
+	},
+	{
 		"created_at": "Fri Nov 13 07:30:16 +0000 2020",
 		"id": 1326469835308601300,
 		"id_str": "1327151779193253888",

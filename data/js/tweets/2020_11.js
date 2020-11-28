@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 18:48:04 +0000 2020",
+		"id": 1332339061785325600,
+		"id_str": "1332395785393213440",
+		"full_text": "Thank you to everyone who attending the seminar at lunch time today #EthicsSeminar @FacHealthHull some great questions and we shall have the video and resources available very soon (@LeeFallin tech maestro is on it!). And thanks to @carolinannwhite for facilitating this too. https://t.co/wIzZq2PYK5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EthicsSeminar",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FacHealthHull",
+					"name": "Hull Health Sciences",
+					"id": 971909150,
+					"id_str": "971909150",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						182,
+						192
+					]
+				},
+				{
+					"screen_name": "carolinannwhite",
+					"name": "Caroline White",
+					"id": 1512932718,
+					"id_str": "1512932718",
+					"indices": [
+						232,
+						248
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wIzZq2PYK5",
+					"expanded_url": "https://twitter.com/livinginhope/status/1332244095591477253",
+					"display_url": "twitter.com/livinginhope/s…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22756431,
+			"id_str": "22756431",
+			"name": "Dr Jane Wray 🎗",
+			"screen_name": "livinginhope",
+			"location": "Hull",
+			"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1756,
+			"friends_count": 969,
+			"listed_count": 82,
+			"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+			"favourites_count": 35287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1332244095591477200,
+		"quoted_status_id_str": "1332244095591477253",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wIzZq2PYK5",
+			"expanded": "https://twitter.com/livinginhope/status/1332244095591477253",
+			"display": "twitter.com/livinginhope/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 27 08:45:18 +0000 2020",
+			"id": 1332244095591477200,
+			"id_str": "1332244095591477253",
+			"full_text": "Looking forward to co-delivering this lunchtime seminar later today with @LeeFallin to @UniOfHull colleagues and students @FacHealthHull #EthicsSeminar @belenrebollo__ @ziggibson @carolinannwhite @liz_lizziew @RIFO_UniofHull https://t.co/6UVEG89umG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EthicsSeminar",
+						"indices": [
+							137,
+							151
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeeFallin",
+						"name": "Dr Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							73,
+							83
+						]
+					},
+					{
+						"screen_name": "UniOfHull",
+						"name": "University of Hull",
+						"id": 59761280,
+						"id_str": "59761280",
+						"indices": [
+							87,
+							97
+						]
+					},
+					{
+						"screen_name": "FacHealthHull",
+						"name": "Hull Health Sciences",
+						"id": 971909150,
+						"id_str": "971909150",
+						"indices": [
+							122,
+							136
+						]
+					},
+					{
+						"screen_name": "belenrebollo__",
+						"name": "belen rebollo 🇪🇺",
+						"id": 1516204064,
+						"id_str": "1516204064",
+						"indices": [
+							152,
+							167
+						]
+					},
+					{
+						"screen_name": "ziggibson",
+						"name": "Alan (Zig) St Clair Gibson",
+						"id": 788987190,
+						"id_str": "788987190",
+						"indices": [
+							168,
+							178
+						]
+					},
+					{
+						"screen_name": "carolinannwhite",
+						"name": "Caroline White",
+						"id": 1512932718,
+						"id_str": "1512932718",
+						"indices": [
+							179,
+							195
+						]
+					},
+					{
+						"screen_name": "liz_lizziew",
+						"name": "Liz Walker ⚫️",
+						"id": 715092628,
+						"id_str": "715092628",
+						"indices": [
+							196,
+							208
+						]
+					},
+					{
+						"screen_name": "RIFO_UniofHull",
+						"name": "Research and Innovation Funding Office",
+						"id": 915198599700598800,
+						"id_str": "915198599700598784",
+						"indices": [
+							209,
+							224
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1332241732566716400,
+						"id_str": "1332241732566716416",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/En0SzBiXEAADhpq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/En0SzBiXEAADhpq.jpg",
+						"url": "https://t.co/6UVEG89umG",
+						"display_url": "pic.twitter.com/6UVEG89umG",
+						"expanded_url": "https://twitter.com/livinginhope/status/1332244095591477253/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1332241732566716400,
+						"id_str": "1332241732566716416",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/En0SzBiXEAADhpq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/En0SzBiXEAADhpq.jpg",
+						"url": "https://t.co/6UVEG89umG",
+						"display_url": "pic.twitter.com/6UVEG89umG",
+						"expanded_url": "https://twitter.com/livinginhope/status/1332244095591477253/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22756431,
+				"id_str": "22756431",
+				"name": "Dr Jane Wray 🎗",
+				"screen_name": "livinginhope",
+				"location": "Hull",
+				"description": "Lives / works in Hull. Mum, Nurse, Partner, Director of Research Hull Univ, Hull City Fan (not necessarily in that order) enthusiastic supporter #Hull2017",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1756,
+				"friends_count": 969,
+				"listed_count": 82,
+				"created_at": "Wed Mar 04 10:46:46 +0000 2009",
+				"favourites_count": 35287,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37051,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173330403475828737/d7clMgmt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22756431/1407749591",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you to everyone who attending the seminar at lunch time today #EthicsSeminar @FacHealthHull some great questions and we shall have the video and resources available very soon (@LeeFallin tech maestro is on it!). And thanks to @carolinannwhite for facilitating this too. https://t.co/wIzZq2PYK5"
+	},
+	{
 		"created_at": "Wed Nov 25 07:15:01 +0000 2020",
 		"id": 1331213376349986800,
 		"id_str": "1331496598086578178",

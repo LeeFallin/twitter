@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 22:04:01 +0000 2020",
+		"id": 1333454431657013200,
+		"id_str": "1333532262038638595",
+		"full_text": "Our research into experiences of keeping in touch with family and friends in care homes ends in a few weeks. If you would like to share your experiences of anything that has worked/not worked, we would love to hear from you - survey @ https://t.co/oFC8pN36UN https://t.co/XiWRP5tA5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oFC8pN36UN",
+					"expanded_url": "https://hull.onlinesurveys.ac.uk/caring-from-a-distance-care-home-survey",
+					"display_url": "hull.onlinesurveys.ac.uk/caring-from-a-…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333454390800289800,
+					"id_str": "1333454390800289794",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EoFhtBfWEAIeXCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoFhtBfWEAIeXCa.jpg",
+					"url": "https://t.co/XiWRP5tA5C",
+					"display_url": "pic.twitter.com/XiWRP5tA5C",
+					"expanded_url": "https://twitter.com/dist_care/status/1333454431657013249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333454390800289800,
+					"id_str": "1333454390800289794",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EoFhtBfWEAIeXCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoFhtBfWEAIeXCa.jpg",
+					"url": "https://t.co/XiWRP5tA5C",
+					"display_url": "pic.twitter.com/XiWRP5tA5C",
+					"expanded_url": "https://twitter.com/dist_care/status/1333454431657013249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 846743704299868200,
+			"id_str": "846743704299868161",
+			"name": "Distance Carers",
+			"screen_name": "dist_care",
+			"location": "Hull, England",
+			"description": "Researching distance caring. Current study - 'using new & familiar means of keeping in touch with family and friends in care homes during COVID-19'. @UniofHull",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 752,
+			"friends_count": 1364,
+			"listed_count": 2,
+			"created_at": "Tue Mar 28 15:20:05 +0000 2017",
+			"favourites_count": 2078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846746515116838912/ljHENEC2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846746515116838912/ljHENEC2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/846743704299868161/1593412202",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our research into experiences of keeping in touch with family and friends in care homes ends in a few weeks. If you would like to share your experiences of anything that has worked/not worked, we would love to hear from you - survey @ https://t.co/oFC8pN36UN https://t.co/XiWRP5tA5C"
+	},
+	{
 		"created_at": "Sun Nov 29 09:11:20 +0000 2020",
 		"id": 1332975421420417000,
 		"id_str": "1332975421420417025",
@@ -38,7 +209,7 @@ Grailbird.data.tweets_2020_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

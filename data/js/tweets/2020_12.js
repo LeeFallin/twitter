@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 15:53:13 +0000 2020",
+		"id": 1333803044106956800,
+		"id_str": "1334526108620951554",
+		"full_text": "Calling all academic staff! We want hear about your book publishing history, plans and motivations. \n\nPlease take part in our survey ‘What do you think about publishing open access academic books?’ https://t.co/LpSzTEVKjx \n\n#OpenResearch #Academia #Research https://t.co/mIjnilbnq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenResearch",
+					"indices": [
+						224,
+						237
+					]
+				},
+				{
+					"text": "Academia",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"text": "Research",
+					"indices": [
+						248,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LpSzTEVKjx",
+					"expanded_url": "https://bit.ly/33Bf5jk",
+					"display_url": "bit.ly/33Bf5jk",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333799360123945000,
+					"id_str": "1333799360123944970",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EoKbc4XUwAoLfOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoKbc4XUwAoLfOO.jpg",
+					"url": "https://t.co/mIjnilbnq9",
+					"display_url": "pic.twitter.com/mIjnilbnq9",
+					"expanded_url": "https://twitter.com/JiscOpenAccess/status/1333803044106956802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333799360123945000,
+					"id_str": "1333799360123944970",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EoKbc4XUwAoLfOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoKbc4XUwAoLfOO.jpg",
+					"url": "https://t.co/mIjnilbnq9",
+					"display_url": "pic.twitter.com/mIjnilbnq9",
+					"expanded_url": "https://twitter.com/JiscOpenAccess/status/1333803044106956802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2423592680,
+			"id_str": "2423592680",
+			"name": "Jisc Open Access",
+			"screen_name": "JiscOpenAccess",
+			"location": "",
+			"description": "Tweets from Jisc's OA team about our work in supporting open access. #JiscOA",
+			"url": "https://t.co/rFg9lT2W11",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rFg9lT2W11",
+							"expanded_url": "https://www.jisc.ac.uk/content/open-access",
+							"display_url": "jisc.ac.uk/content/open-a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1471,
+			"friends_count": 416,
+			"listed_count": 50,
+			"created_at": "Wed Apr 02 10:34:54 +0000 2014",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/670200504018800641/iEFwMjY3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/670200504018800641/iEFwMjY3_normal.jpg",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all academic staff! We want hear about your book publishing history, plans and motivations. \n\nPlease take part in our survey ‘What do you think about publishing open access academic books?’ https://t.co/LpSzTEVKjx \n\n#OpenResearch #Academia #Research https://t.co/mIjnilbnq9"
+	},
+	{
 		"created_at": "Wed Dec 02 08:14:51 +0000 2020",
 		"id": 1334038340484690000,
 		"id_str": "1334048368029528065",

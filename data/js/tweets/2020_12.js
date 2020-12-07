@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 09:10:00 +0000 2020",
+		"id": 1335510083430736000,
+		"id_str": "1335511800037699584",
+		"full_text": "😥🤯 https://t.co/gxLMzfcLOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gxLMzfcLOI",
+					"expanded_url": "https://twitter.com/HernaniFMO/status/1334976116357009408",
+					"display_url": "twitter.com/HernaniFMO/sta…",
+					"indices": [
+						3,
+						26
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 267450541,
+			"id_str": "267450541",
+			"name": "Prof. Dan Parsons 🇪🇺 🌏💧🛰🌊⚽️🏏⛳🏈",
+			"screen_name": "bedform",
+			"location": "Beverley, Yorkshire",
+			"description": "Dad to 3 😍. Director of @EEIatHull @UniofHull. Geoscientist: floods, muds, sands, plastics. Sustainable energy & low carbon transition. @EGU_GM President.",
+			"url": "https://t.co/lAvSyig2NJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lAvSyig2NJ",
+							"expanded_url": "http://www.hull.ac.uk/eei",
+							"display_url": "hull.ac.uk/eei",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6338,
+			"friends_count": 6333,
+			"listed_count": 121,
+			"created_at": "Wed Mar 16 23:58:48 +0000 2011",
+			"favourites_count": 62426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176238749350584323/n6NxpkEP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176238749350584323/n6NxpkEP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/267450541/1397665861",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "097da6f0431b04b0",
+			"url": "https://api.twitter.com/1.1/geo/id/097da6f0431b04b0.json",
+			"place_type": "city",
+			"name": "Walkington",
+			"full_name": "Walkington, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.49712,
+							53.816574
+						],
+						[
+							-0.4531362,
+							53.816574
+						],
+						[
+							-0.4531362,
+							53.8290128
+						],
+						[
+							-0.49712,
+							53.8290128
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334976116357009400,
+		"quoted_status_id_str": "1334976116357009408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gxLMzfcLOI",
+			"expanded": "https://twitter.com/HernaniFMO/status/1334976116357009408",
+			"display": "twitter.com/HernaniFMO/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 04 21:41:23 +0000 2020",
+			"id": 1334976116357009400,
+			"id_str": "1334976116357009408",
+			"full_text": "Predicted year when tropical forests around the world will be completely deforested in each country if the current economic growth models keep the same.... #forests #conservation #economicgrowth #rainforests \nhttps://t.co/k0uHDGjJJk https://t.co/At4evy8pOM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				232
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "forests",
+						"indices": [
+							156,
+							164
+						]
+					},
+					{
+						"text": "conservation",
+						"indices": [
+							165,
+							178
+						]
+					},
+					{
+						"text": "economicgrowth",
+						"indices": [
+							179,
+							194
+						]
+					},
+					{
+						"text": "rainforests",
+						"indices": [
+							195,
+							207
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k0uHDGjJJk",
+						"expanded_url": "https://ec.europa.eu/jrc/en/news/2050-business-usual-will-wipe-out-pristine-tropical-moist-forests-size-more-half-eu?fbclid=IwAR0vMeXOadwwvHtz4OjTfisaIUJSYoHxwEa3GBB9QAo-jvrI6QQZEDd-K0k",
+						"display_url": "ec.europa.eu/jrc/en/news/20…",
+						"indices": [
+							209,
+							232
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1334975634385358800,
+						"id_str": "1334975634385358848",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/EobJRDdXUAA9T3S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EobJRDdXUAA9T3S.jpg",
+						"url": "https://t.co/At4evy8pOM",
+						"display_url": "pic.twitter.com/At4evy8pOM",
+						"expanded_url": "https://twitter.com/HernaniFMO/status/1334976116357009408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 283,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1379,
+								"h": 325,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334975634385358800,
+						"id_str": "1334975634385358848",
+						"indices": [
+							233,
+							256
+						],
+						"media_url": "http://pbs.twimg.com/media/EobJRDdXUAA9T3S.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EobJRDdXUAA9T3S.jpg",
+						"url": "https://t.co/At4evy8pOM",
+						"display_url": "pic.twitter.com/At4evy8pOM",
+						"expanded_url": "https://twitter.com/HernaniFMO/status/1334976116357009408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 283,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1379,
+								"h": 325,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 160,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2367314384,
+				"id_str": "2367314384",
+				"name": "Hernani Oliveira",
+				"screen_name": "HernaniFMO",
+				"location": "Brasília - Brazil",
+				"description": "Young Talent Research Fellow (UFPR)\nConservation ecologist interested in education, nature, research, and photography.",
+				"url": "https://t.co/fI3XHdIs9Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fI3XHdIs9Q",
+								"expanded_url": "http://hfmoconservationandscience.weebly.com",
+								"display_url": "hfmoconservationandscience.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1058,
+				"friends_count": 2177,
+				"listed_count": 56,
+				"created_at": "Sat Mar 01 16:46:48 +0000 2014",
+				"favourites_count": 11134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10258,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1196162354897047556/N4Egh6ij_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196162354897047556/N4Egh6ij_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2367314384/1574418695",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 125,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😥🤯 https://t.co/gxLMzfcLOI"
+	},
+	{
 		"created_at": "Fri Dec 04 13:17:45 +0000 2020",
 		"id": 1334849374455787500,
 		"id_str": "1334849374455787522",
@@ -38,7 +396,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

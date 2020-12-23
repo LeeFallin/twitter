@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 06:05:47 +0000 2020",
+		"id": 1340271362162749400,
+		"id_str": "1341263648254275586",
+		"full_text": "Sorry didn’t  get to this sooner @VirnaRossi I really like this flower metaphor, different, so often learning is presented as a cycle. Wondering if ‘learning community would be a good alternative centre, and whether any other preconditions? #lthechat https://t.co/zWUijqQUBw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						241,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340271347067400200,
+					"id_str": "1340271347067400195",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EpmZsGiWMAMLvKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpmZsGiWMAMLvKh.jpg",
+					"url": "https://t.co/zWUijqQUBw",
+					"display_url": "pic.twitter.com/zWUijqQUBw",
+					"expanded_url": "https://twitter.com/Judith_ekn/status/1340271362162749440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340271347067400200,
+					"id_str": "1340271347067400195",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EpmZsGiWMAMLvKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpmZsGiWMAMLvKh.jpg",
+					"url": "https://t.co/zWUijqQUBw",
+					"display_url": "pic.twitter.com/zWUijqQUBw",
+					"expanded_url": "https://twitter.com/Judith_ekn/status/1340271362162749440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2425498854,
+			"id_str": "2425498854",
+			"name": "Dr Judith Enterkin",
+			"screen_name": "Judith_ekn",
+			"location": "",
+			"description": "Passionate about nursing, service improvement, education and developing and supporting other healthcare professionals",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189,
+			"friends_count": 181,
+			"listed_count": 3,
+			"created_at": "Thu Apr 03 11:47:05 +0000 2014",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140724754124554240/FeXgpIoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140724754124554240/FeXgpIoq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2425498854/1524756046",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sorry didn’t  get to this sooner @VirnaRossi I really like this flower metaphor, different, so often learning is presented as a cycle. Wondering if ‘learning community would be a good alternative centre, and whether any other preconditions? #lthechat https://t.co/zWUijqQUBw"
+	},
+	{
 		"created_at": "Thu Dec 17 07:34:00 +0000 2020",
 		"id": 1339473909087912000,
 		"id_str": "1339473909087911936",
@@ -39,7 +219,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

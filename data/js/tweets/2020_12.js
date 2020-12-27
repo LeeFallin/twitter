@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 26 22:52:31 +0000 2020",
+		"id": 1341839218633523200,
+		"id_str": "1342966551843115008",
+		"full_text": "Hello 2020 👋🏼 https://t.co/jItzK9aonV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341839215433281500,
+					"id_str": "1341839215433281536",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep8rqDWW8AAdoi6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep8rqDWW8AAdoi6.jpg",
+					"url": "https://t.co/jItzK9aonV",
+					"display_url": "pic.twitter.com/jItzK9aonV",
+					"expanded_url": "https://twitter.com/Msummerslowe/status/1341839218633523203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341839215433281500,
+					"id_str": "1341839215433281536",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep8rqDWW8AAdoi6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep8rqDWW8AAdoi6.jpg",
+					"url": "https://t.co/jItzK9aonV",
+					"display_url": "pic.twitter.com/jItzK9aonV",
+					"expanded_url": "https://twitter.com/Msummerslowe/status/1341839218633523203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 791771957964312600,
+			"id_str": "791771957964312576",
+			"name": "Miranda Summers Lowe",
+			"screen_name": "Msummerslowe",
+			"location": "Washington, DC",
+			"description": "Congressional fellow @nationalguard & military curator @amhistorymuseum Made by @BrownUniversity @WilliamAndMary @IndianaAcademy. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5582,
+			"friends_count": 3767,
+			"listed_count": 93,
+			"created_at": "Thu Oct 27 22:42:00 +0000 2016",
+			"favourites_count": 23033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326871290532294657/B7B-JIgq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326871290532294657/B7B-JIgq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/791771957964312576/1505571734",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14756,
+		"favorite_count": 57452,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello 2020 👋🏼 https://t.co/jItzK9aonV"
+	},
+	{
 		"created_at": "Wed Dec 23 17:57:03 +0000 2020",
 		"id": 1341805031314645000,
 		"id_str": "1341805031314645000",
@@ -39,7 +200,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

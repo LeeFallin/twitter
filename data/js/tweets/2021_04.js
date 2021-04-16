@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 15 06:39:35 +0000 2021",
+		"id": 1382584368812728300,
+		"id_str": "1382584368812728321",
+		"full_text": "This is brilliant! https://t.co/ndTNbvtqje",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndTNbvtqje",
+					"expanded_url": "https://twitter.com/cruzkayne/status/1382080121528537090",
+					"display_url": "twitter.com/cruzkayne/stat…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1408,
+			"friends_count": 1238,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382080121528537000,
+		"quoted_status_id_str": "1382080121528537090",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ndTNbvtqje",
+			"expanded": "https://twitter.com/cruzkayne/status/1382080121528537090",
+			"display": "twitter.com/cruzkayne/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 13 21:15:53 +0000 2021",
+			"id": 1382080121528537000,
+			"id_str": "1382080121528537090",
+			"full_text": "my kids figured out the password to my wife's computer and have been sending me these texts as if they were from her https://t.co/dmrSZmTSsV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1382079736487231500,
+						"id_str": "1382079736487231489",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey4iMqCWQAEq4A3.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ey4iMqCWQAEq4A3.png",
+						"url": "https://t.co/dmrSZmTSsV",
+						"display_url": "pic.twitter.com/dmrSZmTSsV",
+						"expanded_url": "https://twitter.com/CruzKayne/status/1382080121528537090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 862,
+								"h": 142,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 862,
+								"h": 142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 112,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 142,
+								"h": 142,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1382079736487231500,
+						"id_str": "1382079736487231489",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey4iMqCWQAEq4A3.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ey4iMqCWQAEq4A3.png",
+						"url": "https://t.co/dmrSZmTSsV",
+						"display_url": "pic.twitter.com/dmrSZmTSsV",
+						"expanded_url": "https://twitter.com/CruzKayne/status/1382080121528537090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 862,
+								"h": 142,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 862,
+								"h": 142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 112,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 142,
+								"h": 142,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1382079803096977400,
+						"id_str": "1382079803096977421",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey4iQiLWUA0gIUQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ey4iQiLWUA0gIUQ.png",
+						"url": "https://t.co/dmrSZmTSsV",
+						"display_url": "pic.twitter.com/dmrSZmTSsV",
+						"expanded_url": "https://twitter.com/CruzKayne/status/1382080121528537090/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 860,
+								"h": 198,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 860,
+								"h": 198,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 157,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 228583088,
+				"id_str": "228583088",
+				"name": "michael cruz kayne 🇵🇭",
+				"screen_name": "CruzKayne",
+				"location": "A dermatologist's office",
+				"description": "writer @colbertlateshow + you saw me @latenightseth @hbo @comedycentral @gethardshow @newyorker @buzzfeed eating adobo everywhere\n\nlove you 😘 🇵🇭 🕎",
+				"url": "https://t.co/mDzHmydKuE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mDzHmydKuE",
+								"expanded_url": "http://michaelcruzkayne.com",
+								"display_url": "michaelcruzkayne.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9301,
+				"friends_count": 675,
+				"listed_count": 43,
+				"created_at": "Mon Dec 20 04:01:02 +0000 2010",
+				"favourites_count": 9020,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7091,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1194574571/_-lp__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194574571/_-lp__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/228583088/1356806172",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19789,
+			"favorite_count": 339230,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is brilliant! https://t.co/ndTNbvtqje"
+	},
+	{
 		"created_at": "Wed Apr 14 05:02:55 +0000 2021",
 		"id": 1382197655334482000,
 		"id_str": "1382197655334481921",
@@ -53,7 +410,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

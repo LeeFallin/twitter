@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 18 06:21:14 +0000 2021",
+		"id": 1383431187528437800,
+		"id_str": "1383666914761723904",
+		"full_text": "Yearning for postcards of this statement (attributed to Jonathan Herrera) to send to certain academic publishers who price their books/journals ridiculously &amp; hide work behind paywalls. (Meanwhile, writers get paid nothing &amp; often have copyright assigned to publisher.) https://t.co/RZMbVpVXWi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1383429805870260200,
+					"id_str": "1383429805870260229",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EzLuFCaVoAU6ssn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzLuFCaVoAU6ssn.jpg",
+					"url": "https://t.co/RZMbVpVXWi",
+					"display_url": "pic.twitter.com/RZMbVpVXWi",
+					"expanded_url": "https://twitter.com/finiteeyes/status/1383431187528437778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383429805870260200,
+					"id_str": "1383429805870260229",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EzLuFCaVoAU6ssn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzLuFCaVoAU6ssn.jpg",
+					"url": "https://t.co/RZMbVpVXWi",
+					"display_url": "pic.twitter.com/RZMbVpVXWi",
+					"expanded_url": "https://twitter.com/finiteeyes/status/1383431187528437778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006548407501180900,
+			"id_str": "1006548407501180928",
+			"name": "Matthew Cheney",
+			"screen_name": "finiteeyes",
+			"location": "Plymouth, NH",
+			"description": "Ass't Professor & Director of @PlymouthIDS. All things Interdisciplinary, Open Pedagogy, Open Educational Resources, etc. (More generally, @melikhovo)",
+			"url": "https://t.co/hvWtuos9RE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvWtuos9RE",
+							"expanded_url": "http://finiteeyes.net/",
+							"display_url": "finiteeyes.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 636,
+			"friends_count": 515,
+			"listed_count": 21,
+			"created_at": "Tue Jun 12 14:46:56 +0000 2018",
+			"favourites_count": 2551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006548714704506880/BlpE0Eta_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006548714704506880/BlpE0Eta_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006548407501180928/1533222605",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yearning for postcards of this statement (attributed to Jonathan Herrera) to send to certain academic publishers who price their books/journals ridiculously &amp; hide work behind paywalls. (Meanwhile, writers get paid nothing &amp; often have copyright assigned to publisher.) https://t.co/RZMbVpVXWi"
+	},
+	{
 		"created_at": "Fri Apr 16 20:04:50 +0000 2021",
 		"id": 1383149404715106300,
 		"id_str": "1383149404715106307",
@@ -49,7 +224,7 @@ Grailbird.data.tweets_2021_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

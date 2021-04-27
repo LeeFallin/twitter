@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 26 12:43:36 +0000 2021",
+		"id": 1386659833147973600,
+		"id_str": "1386662242951835650",
+		"full_text": "We've just posted our latest #HE blog!\n\nToday @LeeFallin from @UniOfHull shares practical steps for #accessible content and designing for #diverse learners!\n\nRead the blog here: https://t.co/XRIq4yGnTX\n\n#HigherEd #Inclusive #Accessibility #Technology #DiverseLearners #Education https://t.co/Cwvoo8PdeV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HE",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "accessible",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "diverse",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "Inclusive",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						224,
+						238
+					]
+				},
+				{
+					"text": "Technology",
+					"indices": [
+						239,
+						250
+					]
+				},
+				{
+					"text": "DiverseLearners",
+					"indices": [
+						251,
+						267
+					]
+				},
+				{
+					"text": "Education",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XRIq4yGnTX",
+					"expanded_url": "https://bit.ly/3xqYJXx",
+					"display_url": "bit.ly/3xqYJXx",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1386659830325252000,
+					"id_str": "1386659830325252100",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez5nxNLXEAQqdCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez5nxNLXEAQqdCc.jpg",
+					"url": "https://t.co/Cwvoo8PdeV",
+					"display_url": "pic.twitter.com/Cwvoo8PdeV",
+					"expanded_url": "https://twitter.com/CLA_UK/status/1386659833147973632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386659830325252000,
+					"id_str": "1386659830325252100",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez5nxNLXEAQqdCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez5nxNLXEAQqdCc.jpg",
+					"url": "https://t.co/Cwvoo8PdeV",
+					"display_url": "pic.twitter.com/Cwvoo8PdeV",
+					"expanded_url": "https://twitter.com/CLA_UK/status/1386659833147973632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263703226,
+			"id_str": "263703226",
+			"name": "Copyright Licensing Agency",
+			"screen_name": "CLA_UK",
+			"location": "Hay's Galleria, London",
+			"description": "We license the copying of extracts from digital & print publications on behalf of the #copyright owners - authors, publishers and visual artists.",
+			"url": "http://t.co/ACgjdKqRFx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/ACgjdKqRFx",
+							"expanded_url": "http://www.cla.co.uk",
+							"display_url": "cla.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 1555,
+			"listed_count": 86,
+			"created_at": "Thu Mar 10 15:36:00 +0000 2011",
+			"favourites_count": 1080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C7C5C5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/849587068653195264/uXTLNCm-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/849587068653195264/uXTLNCm-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263703226/1487868505",
+			"profile_link_color": "006778",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've just posted our latest #HE blog!\n\nToday @LeeFallin from @UniOfHull shares practical steps for #accessible content and designing for #diverse learners!\n\nRead the blog here: https://t.co/XRIq4yGnTX\n\n#HigherEd #Inclusive #Accessibility #Technology #DiverseLearners #Education https://t.co/Cwvoo8PdeV"
+	},
+	{
 		"created_at": "Sun Apr 25 21:38:58 +0000 2021",
 		"id": 1386232318243840000,
 		"id_str": "1386434585161084930",

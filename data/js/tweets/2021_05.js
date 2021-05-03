@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 02 21:03:55 +0000 2021",
+		"id": 1388863925559644200,
+		"id_str": "1388962477862490113",
+		"full_text": "Being told to offer \"value for money\" by government when the only reason we're charging obscene amounts of money is because of the government is pretty fucking ghoulish, actually. https://t.co/PTYSTQWF2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PTYSTQWF2C",
+					"expanded_url": "https://twitter.com/julianknight15/status/1180397673414893568",
+					"display_url": "twitter.com/julianknight15…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941748203652829200,
+			"id_str": "941748203652829184",
+			"name": "Chris Constantine-Armstrong",
+			"screen_name": "DrCDArmstrong",
+			"location": "Hull, England",
+			"description": "⚛️ Lecturer in Physical Chemistry\n\n👨🏻‍🏫 He/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1096,
+			"friends_count": 847,
+			"listed_count": 10,
+			"created_at": "Fri Dec 15 19:14:03 +0000 2017",
+			"favourites_count": 34120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378436463864524804/BG1LoGTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378436463864524804/BG1LoGTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941748203652829184/1596702813",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1180397673414893600,
+		"quoted_status_id_str": "1180397673414893568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PTYSTQWF2C",
+			"expanded": "https://twitter.com/julianknight15/status/1180397673414893568",
+			"display": "twitter.com/julianknight15…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 05 08:21:50 +0000 2019",
+			"id": 1180397673414893600,
+			"id_str": "1180397673414893568",
+			"full_text": "Very encouraging, universities have to understand that they have to offer real value for money https://t.co/E0whJ7rv3p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E0whJ7rv3p",
+						"expanded_url": "https://twitter.com/halfon4harlowMP/status/1180384546950455297",
+						"display_url": "twitter.com/halfon4harlowM…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1271714653,
+				"id_str": "1271714653",
+				"name": "Julian Knight MP",
+				"screen_name": "julianknight15",
+				"location": "Solihull",
+				"description": "Three times elected MP for Solihull, chair DCMS select committee,  For casework or any questions please email julian.knight.mp@parliament.uk",
+				"url": "https://t.co/iJ7pN4neXD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iJ7pN4neXD",
+								"expanded_url": "http://www.julianknight.org.uk",
+								"display_url": "julianknight.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11930,
+				"friends_count": 758,
+				"listed_count": 381,
+				"created_at": "Sat Mar 16 07:46:49 +0000 2013",
+				"favourites_count": 20484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17185,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801412483177181184/upFR1u9H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801412483177181184/upFR1u9H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1271714653/1479906548",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1180384546950455300,
+			"quoted_status_id_str": "1180384546950455297",
+			"quoted_status_permalink": {
+				"url": "https://t.co/E0whJ7rv3p",
+				"expanded": "https://twitter.com/halfon4harlowMP/status/1180384546950455297",
+				"display": "twitter.com/halfon4harlowM…"
+			},
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being told to offer \"value for money\" by government when the only reason we're charging obscene amounts of money is because of the government is pretty fucking ghoulish, actually. https://t.co/PTYSTQWF2C"
+	},
+	{
 		"created_at": "Sat May 01 17:26:47 +0000 2021",
 		"id": 1388545447694831600,
 		"id_str": "1388545447694831620",
@@ -59,7 +273,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

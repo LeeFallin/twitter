@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 05 15:55:56 +0000 2021",
+		"id": 1389567084598894600,
+		"id_str": "1389972135205081096",
+		"full_text": "✨📚 Introducing Reading Progress in #MicrosoftTeams 📚✨ \n\nA built-in tool designed to help students build confidence, independence &amp; fluency while saving time, so you can focus on what you do best: teaching. \n\nLearn how to get started: https://t.co/LrJOHxz2nr #MicrosoftEDU https://t.co/MbYldMQWKW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						262,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LrJOHxz2nr",
+					"expanded_url": "https://msft.it/6011Vm2JJ",
+					"display_url": "msft.it/6011Vm2JJ",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1389567029536043000,
+					"id_str": "1389567029536043009",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/E0i75RKWQAgK8BR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0i75RKWQAgK8BR.jpg",
+					"url": "https://t.co/MbYldMQWKW",
+					"display_url": "pic.twitter.com/MbYldMQWKW",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1389567084598894598/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389567029536043000,
+					"id_str": "1389567029536043009",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/E0i75RKWQAgK8BR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0i75RKWQAgK8BR.jpg",
+					"url": "https://t.co/MbYldMQWKW",
+					"display_url": "pic.twitter.com/MbYldMQWKW",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1389567084598894598/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47673,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1389567029536043009/vid/480x270/BaRC54DIZil0m239.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1389567029536043009/vid/1280x720/AJeMKndqLKgSTMBQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1389567029536043009/vid/640x360/3Eb-7Gr5yivBcoDv.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1389567029536043009/pl/wRle5HBAtkCyUZph.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Introducing Reading Progress in Microsoft Teams",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/PstVZHAjVU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PstVZHAjVU",
+							"expanded_url": "https://educationblog.microsoft.com",
+							"display_url": "educationblog.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408508,
+			"friends_count": 4299,
+			"listed_count": 3675,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 32943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 48390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268176956002107392/hXS71f2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268176956002107392/hXS71f2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1610560314",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 465,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨📚 Introducing Reading Progress in #MicrosoftTeams 📚✨ \n\nA built-in tool designed to help students build confidence, independence &amp; fluency while saving time, so you can focus on what you do best: teaching. \n\nLearn how to get started: https://t.co/LrJOHxz2nr #MicrosoftEDU https://t.co/MbYldMQWKW"
+	},
+	{
 		"created_at": "Sun May 02 21:03:55 +0000 2021",
 		"id": 1388863925559644200,
 		"id_str": "1388962477862490113",
@@ -38,7 +271,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Chris Constantine-Armstrong",
 			"screen_name": "DrCDArmstrong",
 			"location": "Hull, England",
-			"description": "⚛️ Lecturer in Physical Chemistry\n\n👨🏻‍🏫 He/him",
+			"description": "⚛️ Lecturer in Physical Chemistry\n\n👨🏻🏫 He/him",
 			"url": null,
 			"entities": {
 				"description": {

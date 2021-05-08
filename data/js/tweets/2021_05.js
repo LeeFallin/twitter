@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 19:19:54 +0000 2021",
+		"id": 1388171159460483000,
+		"id_str": "1390748244100141057",
+		"full_text": "My @CRL_ACRL guest editorial on one-shots (with accompanying CFP for a special issue) is now published! The Contested One-Shot: Deconstructing Power Structures to Imagine New Futures https://t.co/Rxhrhi2QY2 #critlib #infolit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "critlib",
+					"indices": [
+						207,
+						215
+					]
+				},
+				{
+					"text": "infolit",
+					"indices": [
+						216,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CRL_ACRL",
+					"name": "C&RL",
+					"id": 1673147462,
+					"id_str": "1673147462",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rxhrhi2QY2",
+					"expanded_url": "https://crl.acrl.org/index.php/crl/article/view/24912",
+					"display_url": "crl.acrl.org/index.php/crl/…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44224610,
+			"id_str": "44224610",
+			"name": "Nicole Pagowsky",
+			"screen_name": "nope4evr",
+			"location": "Tucson, AZ",
+			"description": "Teaching & liaison librarian. iSchool adjunct faculty for LIS 581 Info Lit Pedagogy. Organizer/committee for https://t.co/R50ouXGOkQ since 2016. #critlib",
+			"url": "https://t.co/aHg2pTPb7k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aHg2pTPb7k",
+							"expanded_url": "https://nicolepagowsky.com",
+							"display_url": "nicolepagowsky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R50ouXGOkQ",
+							"expanded_url": "https://clps.arizona.edu",
+							"display_url": "clps.arizona.edu",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5638,
+			"friends_count": 1512,
+			"listed_count": 357,
+			"created_at": "Tue Jun 02 22:22:26 +0000 2009",
+			"favourites_count": 14990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930850624660373504/UtSShK2X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930850624660373504/UtSShK2X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44224610/1510769130",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 149,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My @CRL_ACRL guest editorial on one-shots (with accompanying CFP for a special issue) is now published! The Contested One-Shot: Deconstructing Power Structures to Imagine New Futures https://t.co/Rxhrhi2QY2 #critlib #infolit"
+	},
+	{
 		"created_at": "Thu May 06 17:43:55 +0000 2021",
 		"id": 1390361699149045800,
 		"id_str": "1390361699149045761",
@@ -46,7 +189,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

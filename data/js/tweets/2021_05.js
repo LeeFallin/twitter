@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 22:54:47 +0000 2021",
+		"id": 1391065806390300700,
+		"id_str": "1391164705872486403",
+		"full_text": "Another blow struck for #DieLearningStylesDie! https://t.co/VUmPbOBiia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DieLearningStylesDie",
+					"indices": [
+						24,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUmPbOBiia",
+					"expanded_url": "https://twitter.com/hippocampus_pod/status/1391043662457577480",
+					"display_url": "twitter.com/hippocampus_po…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (National Teaching Fellow, CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre. Academic Literacies, study skills.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 1313,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 16420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1391043662457577500,
+		"quoted_status_id_str": "1391043662457577480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VUmPbOBiia",
+			"expanded": "https://twitter.com/hippocampus_pod/status/1391043662457577480",
+			"display": "twitter.com/hippocampus_po…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 08 14:53:48 +0000 2021",
+			"id": 1391043662457577500,
+			"id_str": "1391043662457577480",
+			"full_text": "In this week's ep, we chatted to the amazing @Dr_Paul_Penn  about the myth of “learning styles” and the concepts of \"metacognition\" and \"desirable difficulties\" - A must listen! \n\n#medschool #medicine #cognition #psychology #learning #studying #revision #learningstyles #MedEd https://t.co/S0T9BPHQR6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "medschool",
+						"indices": [
+							180,
+							190
+						]
+					},
+					{
+						"text": "medicine",
+						"indices": [
+							191,
+							200
+						]
+					},
+					{
+						"text": "cognition",
+						"indices": [
+							201,
+							211
+						]
+					},
+					{
+						"text": "psychology",
+						"indices": [
+							212,
+							223
+						]
+					},
+					{
+						"text": "learning",
+						"indices": [
+							224,
+							233
+						]
+					},
+					{
+						"text": "studying",
+						"indices": [
+							234,
+							243
+						]
+					},
+					{
+						"text": "revision",
+						"indices": [
+							244,
+							253
+						]
+					},
+					{
+						"text": "learningstyles",
+						"indices": [
+							254,
+							269
+						]
+					},
+					{
+						"text": "MedEd",
+						"indices": [
+							270,
+							276
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dr_Paul_Penn",
+						"name": "Dr Paul Penn 💙",
+						"id": 1126081823191326700,
+						"id_str": "1126081823191326720",
+						"indices": [
+							45,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1391043377756622800,
+						"id_str": "1391043377756622853",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1391043377756622853/pu/img/N-Zb1foX549KE2KN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1391043377756622853/pu/img/N-Zb1foX549KE2KN.jpg",
+						"url": "https://t.co/S0T9BPHQR6",
+						"display_url": "pic.twitter.com/S0T9BPHQR6",
+						"expanded_url": "https://twitter.com/hippocampus_pod/status/1391043662457577480/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1391043377756622800,
+						"id_str": "1391043377756622853",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1391043377756622853/pu/img/N-Zb1foX549KE2KN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1391043377756622853/pu/img/N-Zb1foX549KE2KN.jpg",
+						"url": "https://t.co/S0T9BPHQR6",
+						"display_url": "pic.twitter.com/S0T9BPHQR6",
+						"expanded_url": "https://twitter.com/hippocampus_pod/status/1391043662457577480/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 47000,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1391043377756622853/pu/vid/320x320/ba9sP5xb5uWPneb0.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1391043377756622853/pu/pl/QK-XsMHfh4W-5GUQ.m3u8?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1391043377756622853/pu/vid/720x720/nUDkUGEIv6GCBmlK.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1391043377756622853/pu/vid/540x540/C-tMO2Rqm9Q2pPhX.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1281105090393395200,
+				"id_str": "1281105090393395202",
+				"name": "The HippoCampus Podcast",
+				"screen_name": "hippocampus_pod",
+				"location": "",
+				"description": "A student- staff collaboration discussing how we can optimise our learning at Medical School and in Higher Education. Eps released every 2 weeks on Friday!",
+				"url": "https://t.co/OAUlNEQGM8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OAUlNEQGM8",
+								"expanded_url": "https://linktr.ee/thehippocampuspodcast",
+								"display_url": "linktr.ee/thehippocampus…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 70,
+				"listed_count": 2,
+				"created_at": "Thu Jul 09 05:57:18 +0000 2020",
+				"favourites_count": 118,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 71,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1281105373055852544/ThJjV6t1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281105373055852544/ThJjV6t1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281105090393395202/1615131784",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another blow struck for #DieLearningStylesDie! https://t.co/VUmPbOBiia"
+	},
+	{
 		"created_at": "Fri May 07 19:19:54 +0000 2021",
 		"id": 1388171159460483000,
 		"id_str": "1390748244100141057",

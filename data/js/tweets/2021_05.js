@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 10 13:02:14 +0000 2021",
+		"id": 1391740362587312000,
+		"id_str": "1391740362587312134",
+		"full_text": "@hopkinsmmi @pgrhub @CatherineLill20 @mike_ewen @h_fenwick @PriceMoir @GrahamScott14 @UoHAcademy @HistoryatHull @hull_libraries @TechieTomTom @KateBridgeman1 @HullUniUnion @WarStudiesHull @HullNursing @KEHplantsci In the first instance, it may be worthwhile reaching out to @clawre, University Librarian.",
+		"truncated": false,
+		"display_text_range": [
+			214,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopkinsmmi",
+					"name": "Paul Hopkins 🙋🏽‍♂️",
+					"id": 88457900,
+					"id_str": "88457900",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "pgrhub",
+					"name": "Doctoral College @ the University of Hull",
+					"id": 741579412295012400,
+					"id_str": "741579412295012352",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "CatherineLill20",
+					"name": "Catherine Lillie",
+					"id": 1020242166600355800,
+					"id_str": "1020242166600355841",
+					"indices": [
+						20,
+						36
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "h_fenwick",
+					"name": "Helen Fenwick",
+					"id": 2782183163,
+					"id_str": "2782183163",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "PriceMoir",
+					"name": "Alison Price-Moir",
+					"id": 309595464,
+					"id_str": "309595464",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "HistoryatHull",
+					"name": "History@Hull",
+					"id": 308530453,
+					"id_str": "308530453",
+					"indices": [
+						97,
+						111
+					]
+				},
+				{
+					"screen_name": "hull_libraries",
+					"name": "Hull Libraries",
+					"id": 47659954,
+					"id_str": "47659954",
+					"indices": [
+						112,
+						127
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"screen_name": "HullUniUnion",
+					"name": "Hull Uni Students' Union",
+					"id": 29240147,
+					"id_str": "29240147",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "WarStudiesHull",
+					"name": "War Studies Hull University",
+					"id": 1173856711087726600,
+					"id_str": "1173856711087726592",
+					"indices": [
+						172,
+						187
+					]
+				},
+				{
+					"screen_name": "HullNursing",
+					"name": "Uni of Hull Nursing",
+					"id": 2644622095,
+					"id_str": "2644622095",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"screen_name": "KEHplantsci",
+					"name": "Dr Katharine Hubbard",
+					"id": 2427419792,
+					"id_str": "2427419792",
+					"indices": [
+						201,
+						213
+					]
+				},
+				{
+					"screen_name": "clawre",
+					"name": "Chris Awre",
+					"id": 14298167,
+					"id_str": "14298167",
+					"indices": [
+						274,
+						281
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391726036874899500,
+		"in_reply_to_status_id_str": "1391726036874899457",
+		"in_reply_to_user_id": 88457900,
+		"in_reply_to_user_id_str": "88457900",
+		"in_reply_to_screen_name": "hopkinsmmi",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1415,
+			"friends_count": 1249,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hopkinsmmi @pgrhub @CatherineLill20 @mike_ewen @h_fenwick @PriceMoir @GrahamScott14 @UoHAcademy @HistoryatHull @hull_libraries @TechieTomTom @KateBridgeman1 @HullUniUnion @WarStudiesHull @HullNursing @KEHplantsci In the first instance, it may be worthwhile reaching out to @clawre, University Librarian."
+	},
+	{
 		"created_at": "Sat May 08 22:54:47 +0000 2021",
 		"id": 1391065806390300700,
 		"id_str": "1391164705872486403",

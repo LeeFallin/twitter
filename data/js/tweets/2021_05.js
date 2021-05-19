@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 14:58:32 +0000 2021",
+		"id": 1394668735563280400,
+		"id_str": "1394668735563280388",
+		"full_text": "Thanks to the Inter-Library Loans service @HullUni_Library, I was able to get a digital copy of an article we didn't have access to within 24 hours. Pretty impressive https://t.co/o9KZTJ5GrJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						42,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394668728864882700,
+					"id_str": "1394668728864882690",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1rb0dNWQAIx5DF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1rb0dNWQAIx5DF.jpg",
+					"url": "https://t.co/o9KZTJ5GrJ",
+					"display_url": "pic.twitter.com/o9KZTJ5GrJ",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1394668735563280388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394668728864882700,
+					"id_str": "1394668728864882690",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1rb0dNWQAIx5DF.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1rb0dNWQAIx5DF.jpg",
+					"url": "https://t.co/o9KZTJ5GrJ",
+					"display_url": "pic.twitter.com/o9KZTJ5GrJ",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1394668735563280388/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 342,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							57
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E1rb0dNWQAIx5DF.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1416,
+			"friends_count": 1250,
+			"listed_count": 60,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to the Inter-Library Loans service @HullUni_Library, I was able to get a digital copy of an article we didn't have access to within 24 hours. Pretty impressive https://t.co/o9KZTJ5GrJ"
+	},
+	{
 		"created_at": "Mon May 17 06:10:10 +0000 2021",
 		"id": 1394173379813462000,
 		"id_str": "1394173379813462016",
@@ -39,7 +238,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

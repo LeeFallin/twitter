@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 08:24:23 +0000 2021",
+		"id": 1397102431847293000,
+		"id_str": "1397106259095134209",
+		"full_text": "There is still time to check out our #ebookSOS thread. \n\n\"#Academic #publishing practices are making #ebooks unaffordable, unsustainable and inaccessible to #university #libraries. We call for urgent regulation of the market\"\n\nPlease sign the open letter: https://t.co/MoDaZI7VJ9 https://t.co/WbB9dfDCfI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ebookSOS",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "Academic",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "publishing",
+					"indices": [
+						68,
+						79
+					]
+				},
+				{
+					"text": "ebooks",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "university",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "libraries",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MoDaZI7VJ9",
+					"expanded_url": "https://academicebookinvestigation.org/",
+					"display_url": "academicebookinvestigation.org",
+					"indices": [
+						256,
+						279
+					]
+				},
+				{
+					"url": "https://t.co/WbB9dfDCfI",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1391715848855900160",
+					"display_url": "twitter.com/HullUni_Librar…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239865033,
+			"id_str": "239865033",
+			"name": "Hull Uni Library",
+			"screen_name": "HullUni_Library",
+			"location": "Hull, East Yorkshire, UK",
+			"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+			"url": "https://t.co/TbBJdYe4pw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TbBJdYe4pw",
+							"expanded_url": "http://www.hull.ac.uk/lib",
+							"display_url": "hull.ac.uk/lib",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6878,
+			"friends_count": 903,
+			"listed_count": 85,
+			"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+			"favourites_count": 3272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CB812A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+			"profile_link_color": "CB812A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1391715848855900200,
+		"quoted_status_id_str": "1391715848855900160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WbB9dfDCfI",
+			"expanded": "https://twitter.com/HullUni_Library/status/1391715848855900160",
+			"display": "twitter.com/HullUni_Librar…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 10 11:24:49 +0000 2021",
+			"id": 1391715848855900200,
+			"id_str": "1391715848855900160",
+			"full_text": "Why can’t we always buy what you need? How much do eBooks cost? How do we work with you? Sit tight – we’re going to answer a lot of questions and share some shocking figures about how much resources cost! https://t.co/IUX290U893",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1391715841369067500,
+						"id_str": "1391715841369067534",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1BeLyEWUA4AH2n.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1BeLyEWUA4AH2n.jpg",
+						"url": "https://t.co/IUX290U893",
+						"display_url": "pic.twitter.com/IUX290U893",
+						"expanded_url": "https://twitter.com/HullUni_Library/status/1391715848855900160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1391715841369067500,
+						"id_str": "1391715841369067534",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1BeLyEWUA4AH2n.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1BeLyEWUA4AH2n.jpg",
+						"url": "https://t.co/IUX290U893",
+						"display_url": "pic.twitter.com/IUX290U893",
+						"expanded_url": "https://twitter.com/HullUni_Library/status/1391715848855900160/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 278,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								139
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/E1BeLyEWUA4AH2n.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239865033,
+				"id_str": "239865033",
+				"name": "Hull Uni Library",
+				"screen_name": "HullUni_Library",
+				"location": "Hull, East Yorkshire, UK",
+				"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+				"url": "https://t.co/TbBJdYe4pw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TbBJdYe4pw",
+								"expanded_url": "http://www.hull.ac.uk/lib",
+								"display_url": "hull.ac.uk/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6878,
+				"friends_count": 903,
+				"listed_count": 85,
+				"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+				"favourites_count": 3272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9403,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CB812A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+				"profile_link_color": "CB812A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is still time to check out our #ebookSOS thread. \n\n\"#Academic #publishing practices are making #ebooks unaffordable, unsustainable and inaccessible to #university #libraries. We call for urgent regulation of the market\"\n\nPlease sign the open letter: https://t.co/MoDaZI7VJ9 https://t.co/WbB9dfDCfI"
+	},
+	{
 		"created_at": "Fri May 21 17:32:45 +0000 2021",
 		"id": 1395794706676830200,
 		"id_str": "1395794706676830210",
@@ -49,7 +402,7 @@ Grailbird.data.tweets_2021_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

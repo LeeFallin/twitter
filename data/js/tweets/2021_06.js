@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 15:19:18 +0000 2021",
+		"id": 1403607492651856000,
+		"id_str": "1404096046549057537",
+		"full_text": "Brilliant, powerful thread. Think politics and decolonisation has nothing to do with science? Think again… https://t.co/zBBz7iTzS2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBBz7iTzS2",
+					"expanded_url": "https://twitter.com/professor_dave/status/1403370746479529985",
+					"display_url": "twitter.com/professor_dave…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (National Teaching Fellow, CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre. Academic Literacies, study skills.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2344,
+			"friends_count": 1312,
+			"listed_count": 79,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 16609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403370746479530000,
+		"quoted_status_id_str": "1403370746479529985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zBBz7iTzS2",
+			"expanded": "https://twitter.com/professor_dave/status/1403370746479529985",
+			"display": "twitter.com/professor_dave…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 15:17:13 +0000 2021",
+			"id": 1403370746479530000,
+			"id_str": "1403370746479529985",
+			"full_text": "This paper argues against 'politicisation of science'. It's a seductive idea that science has been apolitical and things like decolonisation contaminate it, but it's wrong. Science has always been political - with significant impact on outcomes &amp; culture.\nhttps://t.co/3OPqyUBgUQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				283
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3OPqyUBgUQ",
+						"expanded_url": "https://pubs.acs.org/doi/10.1021/acs.jpclett.1c01475",
+						"display_url": "pubs.acs.org/doi/10.1021/ac…",
+						"indices": [
+							260,
+							283
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 173968705,
+				"id_str": "173968705",
+				"name": "David K Smith",
+				"screen_name": "professor_dave",
+				"location": "York",
+				"description": "York academic, chemist, gay widower, and (now) single adoptive Dad. Science, education, politics, life. Views personal. Author of tw-eat. (He/his) 🏳️‍🌈",
+				"url": "https://t.co/J32LxLbUQR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J32LxLbUQR",
+								"expanded_url": "https://www.amazon.co.uk/tw-eat-little-feelings-short-recipes/dp/B08P3JTPZH/ref=tmm_pap_swatch_0?_en",
+								"display_url": "amazon.co.uk/tw-eat-little-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22846,
+				"friends_count": 1633,
+				"listed_count": 278,
+				"created_at": "Mon Aug 02 20:10:37 +0000 2010",
+				"favourites_count": 42534,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60560,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1310198514291560449/VsGr6Zxk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310198514291560449/VsGr6Zxk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/173968705/1615812618",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 126,
+			"favorite_count": 448,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant, powerful thread. Think politics and decolonisation has nothing to do with science? Think again… https://t.co/zBBz7iTzS2"
+	},
+	{
 		"created_at": "Fri Jun 04 05:39:34 +0000 2021",
 		"id": 1400397527451644000,
 		"id_str": "1400688660048191489",

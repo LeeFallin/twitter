@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 06:06:52 +0000 2021",
+		"id": 1413945935005106200,
+		"id_str": "1414103878757408768",
+		"full_text": "Never thought I’d wear this shirt but from standing for racial equality to feeding school kids, this squad have made clear that they represent ME.\n\nFor anyone who ever used these lions to scare us, take a good look.\n\nTHIS is England.\n\nAnd if you don’t like it, YOU go home. https://t.co/68KyRCYuJD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413945930261442600,
+					"id_str": "1413945930261442561",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E59YVQjXsAEJJyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E59YVQjXsAEJJyX.jpg",
+					"url": "https://t.co/68KyRCYuJD",
+					"display_url": "pic.twitter.com/68KyRCYuJD",
+					"expanded_url": "https://twitter.com/therimaahmed/status/1413945935005106187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 889,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413945930261442600,
+					"id_str": "1413945930261442561",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E59YVQjXsAEJJyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E59YVQjXsAEJJyX.jpg",
+					"url": "https://t.co/68KyRCYuJD",
+					"display_url": "pic.twitter.com/68KyRCYuJD",
+					"expanded_url": "https://twitter.com/therimaahmed/status/1413945935005106187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 889,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2580700791,
+			"id_str": "2580700791",
+			"name": "Rima",
+			"screen_name": "therimaahmed",
+			"location": "",
+			"description": "@BBC Radio Lass | Broadcaster | Comedy Writer | For business enquiries, please contact my nan on the house phone.",
+			"url": "https://t.co/iZCpwWg1mo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iZCpwWg1mo",
+							"expanded_url": "https://www.bbc.co.uk/sounds/brand/p09fb4bp",
+							"display_url": "bbc.co.uk/sounds/brand/p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10608,
+			"friends_count": 1819,
+			"listed_count": 17,
+			"created_at": "Tue Jun 03 15:56:51 +0000 2014",
+			"favourites_count": 10791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229856117506924545/ZUuZiOLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229856117506924545/ZUuZiOLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2580700791/1578274079",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18310,
+		"favorite_count": 169644,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never thought I’d wear this shirt but from standing for racial equality to feeding school kids, this squad have made clear that they represent ME.\n\nFor anyone who ever used these lions to scare us, take a good look.\n\nTHIS is England.\n\nAnd if you don’t like it, YOU go home. https://t.co/68KyRCYuJD"
+	},
+	{
 		"created_at": "Sat Jul 10 08:01:19 +0000 2021",
 		"id": 1413770295257702400,
 		"id_str": "1413770295257702406",
@@ -47,7 +222,7 @@ Grailbird.data.tweets_2021_07 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

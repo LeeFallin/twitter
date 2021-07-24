@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 03:46:57 +0000 2021",
+		"id": 1418283968328306700,
+		"id_str": "1418417321731923972",
+		"full_text": "This is a great blog looking at the impact of colour choices and accessibility. Also suggests a great tool to help you choose accessible colour pallettes! #DigiTeachHull https://t.co/ulbu7mNJF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiTeachHull",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ulbu7mNJF1",
+					"expanded_url": "https://twitter.com/UCLanCCL/status/1418201663899381765",
+					"display_url": "twitter.com/UCLanCCL/statu…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914481006,
+			"id_str": "914481006",
+			"name": "Teaching Excellence Academy",
+			"screen_name": "UoHAcademy",
+			"location": "The University of Hull, UK",
+			"description": "Latest news from the team as we look to celebrate, develop and promote excellent teaching at @UniofHull.",
+			"url": "https://t.co/jpQpljYSrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpQpljYSrP",
+							"expanded_url": "http://hull.ac.uk/academy",
+							"display_url": "hull.ac.uk/academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1084,
+			"friends_count": 769,
+			"listed_count": 19,
+			"created_at": "Tue Oct 30 12:02:43 +0000 2012",
+			"favourites_count": 1554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914481006/1533221368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418201663899381800,
+		"quoted_status_id_str": "1418201663899381765",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ulbu7mNJF1",
+			"expanded": "https://twitter.com/UCLanCCL/status/1418201663899381765",
+			"display": "twitter.com/UCLanCCL/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 22 13:30:00 +0000 2021",
+			"id": 1418201663899381800,
+			"id_str": "1418201663899381765",
+			"full_text": "📢 NEW BLOG POST! 📢\n🥳 \"Using colour for accessibility because we are all hue-man!\"\n\n📝 @LRidingsUCLan eLearning Developer @UCLanCCL \n \n👉 https://t.co/4kPVBZfc9X\n\n#education #edtech #HE #UCLanDigiLearn #DigiLearnSector https://t.co/hYpMir4e3N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "education",
+						"indices": [
+							160,
+							170
+						]
+					},
+					{
+						"text": "edtech",
+						"indices": [
+							171,
+							178
+						]
+					},
+					{
+						"text": "HE",
+						"indices": [
+							179,
+							182
+						]
+					},
+					{
+						"text": "UCLanDigiLearn",
+						"indices": [
+							183,
+							198
+						]
+					},
+					{
+						"text": "DigiLearnSector",
+						"indices": [
+							199,
+							215
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LRidingsUCLan",
+						"name": "Laura Ridings",
+						"id": 1052954837590179800,
+						"id_str": "1052954837590179840",
+						"indices": [
+							85,
+							99
+						]
+					},
+					{
+						"screen_name": "UCLanCCL",
+						"name": "UCLan Centre for Collaborative Learning",
+						"id": 873102803949953000,
+						"id_str": "873102803949953024",
+						"indices": [
+							120,
+							129
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4kPVBZfc9X",
+						"expanded_url": "https://bit.ly/3rqS9Ol",
+						"display_url": "bit.ly/3rqS9Ol",
+						"indices": [
+							135,
+							158
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1418198180336914400,
+						"id_str": "1418198180336914439",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/E65zuygWUAcSzIr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E65zuygWUAcSzIr.jpg",
+						"url": "https://t.co/hYpMir4e3N",
+						"display_url": "pic.twitter.com/hYpMir4e3N",
+						"expanded_url": "https://twitter.com/UCLanCCL/status/1418201663899381765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 445,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1418198180336914400,
+						"id_str": "1418198180336914439",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/media/E65zuygWUAcSzIr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E65zuygWUAcSzIr.jpg",
+						"url": "https://t.co/hYpMir4e3N",
+						"display_url": "pic.twitter.com/hYpMir4e3N",
+						"expanded_url": "https://twitter.com/UCLanCCL/status/1418201663899381765/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 445,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 445,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 873102803949953000,
+				"id_str": "873102803949953024",
+				"name": "UCLan Centre for Collaborative Learning",
+				"screen_name": "UCLanCCL",
+				"location": "Preston, England",
+				"description": "We are the Centre for Collaborative Learning @UCLan 💻 Innovating curriculum design and enabling learning opportunities💡#DigiLearnSector",
+				"url": "https://t.co/EvFWNQxRud",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EvFWNQxRud",
+								"expanded_url": "https://teltblog.uclan.ac.uk/",
+								"display_url": "teltblog.uclan.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1085,
+				"friends_count": 934,
+				"listed_count": 7,
+				"created_at": "Fri Jun 09 09:01:44 +0000 2017",
+				"favourites_count": 5770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1978,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319217123294588928/-OuHWf3C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319217123294588928/-OuHWf3C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/873102803949953024/1502972498",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a great blog looking at the impact of colour choices and accessibility. Also suggests a great tool to help you choose accessible colour pallettes! #DigiTeachHull https://t.co/ulbu7mNJF1"
+	},
+	{
 		"created_at": "Wed Jul 21 06:23:33 +0000 2021",
 		"id": 1417532027528679400,
 		"id_str": "1417731959434919938",

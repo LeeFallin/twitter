@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 07:30:10 +0000 2021",
+		"id": 1425859117957197800,
+		"id_str": "1426083643529867264",
+		"full_text": "Reassuringly, if there was ever an emergency, Thunderbird 2 could land on campus and help out. \n\nhttps://t.co/eqKErshbCt https://t.co/IzLAbTraio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqKErshbCt",
+					"expanded_url": "https://parkmyspaceship.com/#/#CoCwrgdgJgpgTgIwJZygAgEwB8CMAGHAOgwFYsBiPKrEgZkIHYGMBOFkgDgYBY9a+WWALR5CtAGwMOGPCRI4546VNzigA",
+					"display_url": "parkmyspaceship.com/#/#CoCwrgdgJgp…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425859115360915500,
+					"id_str": "1425859115360915461",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mrT5bXEAUhL4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mrT5bXEAUhL4k.jpg",
+					"url": "https://t.co/IzLAbTraio",
+					"display_url": "pic.twitter.com/IzLAbTraio",
+					"expanded_url": "https://twitter.com/DrCDArmstrong/status/1425859117957197831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425859115360915500,
+					"id_str": "1425859115360915461",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E8mrT5bXEAUhL4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8mrT5bXEAUhL4k.jpg",
+					"url": "https://t.co/IzLAbTraio",
+					"display_url": "pic.twitter.com/IzLAbTraio",
+					"expanded_url": "https://twitter.com/DrCDArmstrong/status/1425859117957197831/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941748203652829200,
+			"id_str": "941748203652829184",
+			"name": "Chris Armstrong",
+			"screen_name": "DrCDArmstrong",
+			"location": "Hull, England",
+			"description": "⚛️ Lecturer in Physical Chemistry\n🎓 Teaching, scholarship, ChemEd\n\n🐗 May or may not be 30-50 feral hogs in a trench coat\n☣️ Chaotic neutral\n\n👨🏻‍🏫 He/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1149,
+			"friends_count": 878,
+			"listed_count": 12,
+			"created_at": "Fri Dec 15 19:14:03 +0000 2017",
+			"favourites_count": 38107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425938483152146435/849bSI6i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425938483152146435/849bSI6i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941748203652829184/1596702813",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reassuringly, if there was ever an emergency, Thunderbird 2 could land on campus and help out. \n\nhttps://t.co/eqKErshbCt https://t.co/IzLAbTraio"
+	},
+	{
 		"created_at": "Wed Aug 11 23:33:48 +0000 2021",
 		"id": 1425601373698248700,
 		"id_str": "1425601373698248709",
@@ -59,7 +231,7 @@ Grailbird.data.tweets_2021_08 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -292,7 +464,7 @@ Grailbird.data.tweets_2021_08 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+				"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 				"url": "https://t.co/UWrodKaQLd",
 				"entities": {
 					"url": {

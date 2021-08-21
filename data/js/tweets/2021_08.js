@@ -1,6 +1,680 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 08:29:59 +0000 2021",
+		"id": 1428635412411691000,
+		"id_str": "1428635412411691014",
+		"full_text": "@ClarkGroupChem @DrCDArmstrong It starts with removing the focus on assessment. Students only see value in what is graded - removing value from learning and development outside assessment. \n\nThen there needs to be wrap-around learning development support to develop academic literacies in the curriculum.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClarkGroupChem",
+					"name": "Ewan Clark",
+					"id": 952872786191704000,
+					"id_str": "952872786191704065",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DrCDArmstrong",
+					"name": "Chris Armstrong",
+					"id": 941748203652829200,
+					"id_str": "941748203652829184",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428615347419107300,
+		"in_reply_to_status_id_str": "1428615347419107328",
+		"in_reply_to_user_id": 952872786191704000,
+		"in_reply_to_user_id_str": "952872786191704065",
+		"in_reply_to_screen_name": "ClarkGroupChem",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 1256,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClarkGroupChem @DrCDArmstrong It starts with removing the focus on assessment. Students only see value in what is graded - removing value from learning and development outside assessment. \n\nThen there needs to be wrap-around learning development support to develop academic literacies in the curriculum."
+	},
+	{
+		"created_at": "Fri Aug 20 05:56:09 +0000 2021",
+		"id": 1428596699497439200,
+		"id_str": "1428596699497439235",
+		"full_text": "@BarbaraGuinn1 @Ta_Lon Toast",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BarbaraGuinn1",
+					"name": "TheChattyScientist",
+					"id": 317000991,
+					"id_str": "317000991",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Ta_Lon",
+					"name": "Frank Earl Binning",
+					"id": 345131626,
+					"id_str": "345131626",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428556720373211100,
+		"in_reply_to_status_id_str": "1428556720373211138",
+		"in_reply_to_user_id": 317000991,
+		"in_reply_to_user_id_str": "317000991",
+		"in_reply_to_screen_name": "BarbaraGuinn1",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 1256,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "et",
+		"text": "@BarbaraGuinn1 @Ta_Lon Toast"
+	},
+	{
+		"created_at": "Fri Aug 20 01:20:55 +0000 2021",
+		"id": 1428527432638898200,
+		"id_str": "1428527432638898181",
+		"full_text": "@DrCDArmstrong Kingsley. I remember the opportunity to reinvent myself well 🤣\n\nAnd we so had a JP in our social group",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrCDArmstrong",
+					"name": "Chris Armstrong",
+					"id": 941748203652829200,
+					"id_str": "941748203652829184",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1427736301516828700,
+		"in_reply_to_status_id_str": "1427736301516828680",
+		"in_reply_to_user_id": 941748203652829200,
+		"in_reply_to_user_id_str": "941748203652829184",
+		"in_reply_to_screen_name": "DrCDArmstrong",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 1256,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrCDArmstrong Kingsley. I remember the opportunity to reinvent myself well 🤣\n\nAnd we so had a JP in our social group"
+	},
+	{
+		"created_at": "Fri Aug 20 01:19:26 +0000 2021",
+		"id": 1428527061996552200,
+		"id_str": "1428527061996552193",
+		"full_text": "@ClarkGroupChem @DrCDArmstrong ++ They should be using proper sources… Google has its place, but it should be a gateway to an answer you later check in an academic source.",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClarkGroupChem",
+					"name": "Ewan Clark",
+					"id": 952872786191704000,
+					"id_str": "952872786191704065",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DrCDArmstrong",
+					"name": "Chris Armstrong",
+					"id": 941748203652829200,
+					"id_str": "941748203652829184",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428526462798340000,
+		"in_reply_to_status_id_str": "1428526462798340108",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 1256,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClarkGroupChem @DrCDArmstrong ++ They should be using proper sources… Google has its place, but it should be a gateway to an answer you later check in an academic source."
+	},
+	{
+		"created_at": "Fri Aug 20 01:17:04 +0000 2021",
+		"id": 1428526462798340000,
+		"id_str": "1428526462798340108",
+		"full_text": "@ClarkGroupChem @DrCDArmstrong This may get them through an assignment, but it doesn’t build a proper understanding is what they’re dealing with. It also doesn’t help them start committing things to long-term memory (with notes helping spaced repetition and also the development of links to prior learning)",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			306
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClarkGroupChem",
+					"name": "Ewan Clark",
+					"id": 952872786191704000,
+					"id_str": "952872786191704065",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DrCDArmstrong",
+					"name": "Chris Armstrong",
+					"id": 941748203652829200,
+					"id_str": "941748203652829184",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428525941861535700,
+		"in_reply_to_status_id_str": "1428525941861535749",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1437,
+			"friends_count": 1256,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClarkGroupChem @DrCDArmstrong This may get them through an assignment, but it doesn’t build a proper understanding is what they’re dealing with. It also doesn’t help them start committing things to long-term memory (with notes helping spaced repetition and also the development of links to prior learning)"
+	},
+	{
 		"created_at": "Fri Aug 13 07:30:10 +0000 2021",
 		"id": 1425859117957197800,
 		"id_str": "1426083643529867264",
@@ -116,7 +790,7 @@ Grailbird.data.tweets_2021_08 =
 			"name": "Chris Armstrong",
 			"screen_name": "DrCDArmstrong",
 			"location": "Hull, England",
-			"description": "⚛️ Lecturer in Physical Chemistry\n🎓 Teaching, scholarship, ChemEd\n\n🐗 May or may not be 30-50 feral hogs in a trench coat\n☣️ Chaotic neutral\n\n👨🏻‍🏫 He/him",
+			"description": "⚛️ Lecturer in Physical Chemistry\n🎓 Teaching, scholarship, ChemEd\n\n🐗 May or may not be 30-50 feral hogs in a trench coat\n☣️ Chaotic neutral\n\n👨🏻🏫 He/him",
 			"url": null,
 			"entities": {
 				"description": {

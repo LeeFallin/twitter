@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 22:07:16 +0000 2021",
+		"id": 1421002119474262000,
+		"id_str": "1437538397619372034",
+		"full_text": "I wish it was more apparent to students that we find academic reading hard too- and that it’s often the writing, not you who’s being dense! https://t.co/F9x9dWRE2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F9x9dWRE2t",
+					"expanded_url": "https://twitter.com/JeffGreeneLearn/status/1420387592416149504",
+					"display_url": "twitter.com/JeffGreeneLear…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "University of Newcastle, UK",
+			"description": "Learning Developer (National Teaching Fellow, CeLP, SFHEA) and head of Newcastle University’s Writing Development Centre. Academic Literacies, study skills.",
+			"url": "https://t.co/eoyoPKvnXK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eoyoPKvnXK",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2374,
+			"friends_count": 1328,
+			"listed_count": 0,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 17065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1420387592416149500,
+		"quoted_status_id_str": "1420387592416149504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/F9x9dWRE2t",
+			"expanded": "https://twitter.com/JeffGreeneLearn/status/1420387592416149504",
+			"display": "twitter.com/JeffGreeneLear…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 28 14:16:06 +0000 2021",
+			"id": 1420387592416149500,
+			"id_str": "1420387592416149504",
+			"full_text": "You know how some internet articles have an estimate for how long they will take to read (e.g., \"8 minute read\")? I need something similar for academic articles: \"Jeff, this article will require that you read it 17 times, for a total of 1,961 minutes, before you fully get it.\" https://t.co/ZvFvuGbpuz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1420387585961173000,
+						"id_str": "1420387585961172996",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E7Y6--CXIAQ7Hs5.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E7Y6--CXIAQ7Hs5.jpg",
+						"url": "https://t.co/ZvFvuGbpuz",
+						"display_url": "pic.twitter.com/ZvFvuGbpuz",
+						"expanded_url": "https://twitter.com/JeffGreeneLearn/status/1420387592416149504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 268,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 268,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 268,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1420387585961173000,
+						"id_str": "1420387585961172996",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E7Y6--CXIAQ7Hs5.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E7Y6--CXIAQ7Hs5.jpg",
+						"url": "https://t.co/ZvFvuGbpuz",
+						"display_url": "pic.twitter.com/ZvFvuGbpuz",
+						"expanded_url": "https://twitter.com/JeffGreeneLearn/status/1420387592416149504/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 268,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 268,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 268,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								134
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/E7Y6--CXIAQ7Hs5.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1225704307,
+				"id_str": "1225704307",
+				"name": "Jeff Greene",
+				"screen_name": "JeffGreeneLearn",
+				"location": "University of North Carolina",
+				"description": "McMichael Distinguished Professor of Educational Psychology and the Learning Sciences at @UNCSchoolofEd. Statements, opinions, etc. are my own.",
+				"url": "https://t.co/cUjbAp8T4q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cUjbAp8T4q",
+								"expanded_url": "https://ed.unc.edu/people/jeffrey-a-greene/",
+								"display_url": "ed.unc.edu/people/jeffrey…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2448,
+				"friends_count": 1376,
+				"listed_count": 29,
+				"created_at": "Wed Feb 27 17:52:13 +0000 2013",
+				"favourites_count": 20552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/934487516559880192/m2x0dmH0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/934487516559880192/m2x0dmH0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1225704307/1511634144",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 19,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wish it was more apparent to students that we find academic reading hard too- and that it’s often the writing, not you who’s being dense! https://t.co/F9x9dWRE2t"
+	},
+	{
 		"created_at": "Fri Sep 10 14:47:17 +0000 2021",
 		"id": 1436340505214869500,
 		"id_str": "1436340505214869522",
@@ -140,7 +441,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -273,7 +574,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

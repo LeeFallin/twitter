@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 21:11:53 +0000 2021",
+		"id": 1437417103544492000,
+		"id_str": "1437886845157773315",
+		"full_text": "💫 We've risen 19 places in the @guardian 2022 University Rankings.💫\n\nWe're proud to have climbed from 72nd to 53rd in the table, with four courses in the top 10 nationally.\n\n 🇺🇸 American Studies\n🌌Physics\n🌎Earth &amp; Marine Science\n👨‍🎓 Education\n\nWhat a great start to the week! ⭐️ https://t.co/iK9UhsOLEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437414145163419600,
+					"id_str": "1437414145163419650",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/E_K4jJ2WYAIGjOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_K4jJ2WYAIGjOE.jpg",
+					"url": "https://t.co/iK9UhsOLEO",
+					"display_url": "pic.twitter.com/iK9UhsOLEO",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1437417103544492035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437414145163419600,
+					"id_str": "1437414145163419650",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/E_K4jJ2WYAIGjOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_K4jJ2WYAIGjOE.jpg",
+					"url": "https://t.co/iK9UhsOLEO",
+					"display_url": "pic.twitter.com/iK9UhsOLEO",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1437417103544492035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59761280,
+			"id_str": "59761280",
+			"name": "University of Hull",
+			"screen_name": "UniOfHull",
+			"location": "Hull, East Yorkshire",
+			"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+			"url": "https://t.co/u5B4DJg2Yc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u5B4DJg2Yc",
+							"expanded_url": "https://www.hull.ac.uk",
+							"display_url": "hull.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45325,
+			"friends_count": 1124,
+			"listed_count": 531,
+			"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+			"favourites_count": 12004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AE2B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1626949173",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 107,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💫 We've risen 19 places in the @guardian 2022 University Rankings.💫\n\nWe're proud to have climbed from 72nd to 53rd in the table, with four courses in the top 10 nationally.\n\n 🇺🇸 American Studies\n🌌Physics\n🌎Earth &amp; Marine Science\n👨‍🎓 Education\n\nWhat a great start to the week! ⭐️ https://t.co/iK9UhsOLEO"
+	},
+	{
 		"created_at": "Mon Sep 13 22:07:16 +0000 2021",
 		"id": 1421002119474262000,
 		"id_str": "1437538397619372034",

@@ -1,10 +1,697 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 22:06:00 +0000 2021",
+		"id": 1438262852935168000,
+		"id_str": "1438262852935168004",
+		"full_text": "Some reflections from my first #PCAP reading: The development of university teachers vs. the learning developer. \n\nhttps://t.co/1X2HiwHeEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PCAP",
+					"indices": [
+						31,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1X2HiwHeEC",
+					"expanded_url": "https://leefallin.co.uk/2021/09/the-development-of-university-teachers-vs-the-learning-developer/",
+					"display_url": "leefallin.co.uk/2021/09/the-de…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 1262,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some reflections from my first #PCAP reading: The development of university teachers vs. the learning developer. \n\nhttps://t.co/1X2HiwHeEC"
+	},
+	{
+		"created_at": "Wed Sep 15 22:02:39 +0000 2021",
+		"id": 1438262008449798100,
+		"id_str": "1438262008449798156",
+		"full_text": "The development of university teachers vs. the learning developer https://t.co/1X2HiwHeEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1X2HiwHeEC",
+					"expanded_url": "https://leefallin.co.uk/2021/09/the-development-of-university-teachers-vs-the-learning-developer/",
+					"display_url": "leefallin.co.uk/2021/09/the-de…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 1262,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The development of university teachers vs. the learning developer https://t.co/1X2HiwHeEC"
+	},
+	{
+		"created_at": "Wed Sep 15 21:05:38 +0000 2021",
+		"id": 1438124484494495700,
+		"id_str": "1438247662948687886",
+		"full_text": "I want to meet @macmillancancer's social media manager and shake them firmly by the hand, because the utterly insane addition of both Weetabix and Madeleines to this new \"*biscuit* rating\" chart is causing the sort of kerfuffle most social managers envy. \n\nClever. Very clever. https://t.co/BDYfaCljyL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmillancancer",
+					"name": "Macmillan Cancer Support",
+					"id": 17487733,
+					"id_str": "17487733",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BDYfaCljyL",
+					"expanded_url": "https://twitter.com/macmillancancer/status/1438042420894121986",
+					"display_url": "twitter.com/macmillancance…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 420468181,
+			"id_str": "420468181",
+			"name": "Owen Williams 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ",
+			"screen_name": "OwsWills",
+			"location": "Republic of Wales",
+			"description": "professionally welsh",
+			"url": "https://t.co/gX8G0wbJm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gX8G0wbJm2",
+							"expanded_url": "http://linkedin.com/in/owswills",
+							"display_url": "linkedin.com/in/owswills",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23467,
+			"friends_count": 4033,
+			"listed_count": 163,
+			"created_at": "Thu Nov 24 17:27:03 +0000 2011",
+			"favourites_count": 45495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 88190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397207264067522567/Jlnzwk86_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397207264067522567/Jlnzwk86_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/420468181/1626630715",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438042420894122000,
+		"quoted_status_id_str": "1438042420894121986",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BDYfaCljyL",
+			"expanded": "https://twitter.com/macmillancancer/status/1438042420894121986",
+			"display": "twitter.com/macmillancance…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 07:30:05 +0000 2021",
+			"id": 1438042420894122000,
+			"id_str": "1438042420894121986",
+			"full_text": "We've rated the nation's most loved biscuits, so you don't have to... 🍪\n\n#MacmillanCoffeeMorning https://t.co/EVGcXkrGKY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MacmillanCoffeeMorning",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438042412941721600,
+						"id_str": "1438042412941721607",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/E_Tz9JtWQAcmMLv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_Tz9JtWQAcmMLv.jpg",
+						"url": "https://t.co/EVGcXkrGKY",
+						"display_url": "pic.twitter.com/EVGcXkrGKY",
+						"expanded_url": "https://twitter.com/macmillancancer/status/1438042420894121986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438042412941721600,
+						"id_str": "1438042412941721607",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/E_Tz9JtWQAcmMLv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_Tz9JtWQAcmMLv.jpg",
+						"url": "https://t.co/EVGcXkrGKY",
+						"display_url": "pic.twitter.com/EVGcXkrGKY",
+						"expanded_url": "https://twitter.com/macmillancancer/status/1438042420894121986/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17487733,
+				"id_str": "17487733",
+				"name": "Macmillan Cancer Support",
+				"screen_name": "macmillancancer",
+				"location": "",
+				"description": "Sign up for Coffee Morning https://t.co/4xx7M8csyM 💚 We do whatever it takes to support people with cancer; emotionally, physically, financially.",
+				"url": "https://t.co/VMLZCW8NL8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VMLZCW8NL8",
+								"expanded_url": "http://www.macmillan.org.uk",
+								"display_url": "macmillan.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4xx7M8csyM",
+								"expanded_url": "http://coffee.macmillan.org.uk",
+								"display_url": "coffee.macmillan.org.uk",
+								"indices": [
+									27,
+									50
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 665365,
+				"friends_count": 1870,
+				"listed_count": 1873,
+				"created_at": "Wed Nov 19 15:23:15 +0000 2008",
+				"favourites_count": 117366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63314,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F9F9F9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003536534237270016/yE11d0zi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003536534237270016/yE11d0zi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17487733/1610097158",
+				"profile_link_color": "008A26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 393,
+			"favorite_count": 2598,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 87,
+		"favorite_count": 752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want to meet @macmillancancer's social media manager and shake them firmly by the hand, because the utterly insane addition of both Weetabix and Madeleines to this new \"*biscuit* rating\" chart is causing the sort of kerfuffle most social managers envy. \n\nClever. Very clever. https://t.co/BDYfaCljyL"
+	},
+	{
+		"created_at": "Wed Sep 15 17:46:06 +0000 2021",
+		"id": 1438197446765654000,
+		"id_str": "1438197446765654019",
+		"full_text": "Without a doubt @mtholfsen’s updates are the best bit about being an #MIEExpert.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MIEExpert",
+					"indices": [
+						69,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mtholfsen",
+					"name": "Mike Tholfsen",
+					"id": 27673327,
+					"id_str": "27673327",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1452,
+			"friends_count": 1262,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Without a doubt @mtholfsen’s updates are the best bit about being an #MIEExpert."
+	},
+	{
 		"created_at": "Tue Sep 14 21:11:53 +0000 2021",
 		"id": 1437417103544492000,
 		"id_str": "1437886845157773315",
-		"full_text": "💫 We've risen 19 places in the @guardian 2022 University Rankings.💫\n\nWe're proud to have climbed from 72nd to 53rd in the table, with four courses in the top 10 nationally.\n\n 🇺🇸 American Studies\n🌌Physics\n🌎Earth &amp; Marine Science\n👨‍🎓 Education\n\nWhat a great start to the week! ⭐️ https://t.co/iK9UhsOLEO",
+		"full_text": "💫 We've risen 19 places in the @guardian 2022 University Rankings.💫\n\nWe're proud to have climbed from 72nd to 53rd in the table, with four courses in the top 10 nationally.\n\n 🇺🇸 American Studies\n🌌Physics\n🌎Earth &amp; Marine Science\n👨🎓 Education\n\nWhat a great start to the week! ⭐️ https://t.co/iK9UhsOLEO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -184,7 +871,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "💫 We've risen 19 places in the @guardian 2022 University Rankings.💫\n\nWe're proud to have climbed from 72nd to 53rd in the table, with four courses in the top 10 nationally.\n\n 🇺🇸 American Studies\n🌌Physics\n🌎Earth &amp; Marine Science\n👨‍🎓 Education\n\nWhat a great start to the week! ⭐️ https://t.co/iK9UhsOLEO"
+		"text": "💫 We've risen 19 places in the @guardian 2022 University Rankings.💫\n\nWe're proud to have climbed from 72nd to 53rd in the table, with four courses in the top 10 nationally.\n\n 🇺🇸 American Studies\n🌌Physics\n🌎Earth &amp; Marine Science\n👨🎓 Education\n\nWhat a great start to the week! ⭐️ https://t.co/iK9UhsOLEO"
 	},
 	{
 		"created_at": "Mon Sep 13 22:07:16 +0000 2021",

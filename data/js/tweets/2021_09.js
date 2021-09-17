@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 16:41:38 +0000 2021",
+		"id": 1438477583600033800,
+		"id_str": "1438543611998654464",
+		"full_text": "Great to have @UniOfHull's @UoHHedgehogs on board and fighting the good fight!\n\nGive them a follow and a big welcome 🙌 https://t.co/DJTzrPfiP6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "UoHHedgehogs",
+					"name": "Hedgehog Friendly University of Hull",
+					"id": 1430514822395973600,
+					"id_str": "1430514822395973636",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DJTzrPfiP6",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1438476426257346568",
+					"display_url": "twitter.com/UniOfHull/stat…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1006559794986213400,
+			"id_str": "1006559794986213376",
+			"name": "Hedgehog Friendly Campus",
+			"screen_name": "HogFriendly",
+			"location": "",
+			"description": "National Campaign Account. Help hedgehogs thrive at your university, school or college. Email info@hedgehogfriendlycampus.co.uk. @hedgehogsociety funded",
+			"url": "https://t.co/QbbcSj09Kt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QbbcSj09Kt",
+							"expanded_url": "http://hedgehogfriendlycampus.co.uk",
+							"display_url": "hedgehogfriendlycampus.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2508,
+			"friends_count": 4408,
+			"listed_count": 9,
+			"created_at": "Tue Jun 12 15:32:10 +0000 2018",
+			"favourites_count": 11264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364615170589421570/hdAW-3X6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364615170589421570/hdAW-3X6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1006559794986213376/1631721355",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438476426257346600,
+		"quoted_status_id_str": "1438476426257346568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DJTzrPfiP6",
+			"expanded": "https://twitter.com/UniOfHull/status/1438476426257346568",
+			"display": "twitter.com/UniOfHull/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 16 12:14:40 +0000 2021",
+			"id": 1438476426257346600,
+			"id_str": "1438476426257346568",
+			"full_text": "We're making our campus more hedgehog friendly! 🦔\n\nThe University has signed up to the Hedgehog Friendly Campus campaign, led by @hedgehogsociety.\n\nOur team of ‘Hedgehog Champions’ - @UoHHedgehogs - are working hard to make campus a safe place for these animals. 🍃🌿\n\nMore 👇 https://t.co/ZY76egkGSu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hedgehogsociety",
+						"name": "Hedgehog Society",
+						"id": 85818687,
+						"id_str": "85818687",
+						"indices": [
+							129,
+							145
+						]
+					},
+					{
+						"screen_name": "UoHHedgehogs",
+						"name": "Hedgehog Friendly University of Hull",
+						"id": 1430514822395973600,
+						"id_str": "1430514822395973636",
+						"indices": [
+							183,
+							196
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438474739203416000,
+						"id_str": "1438474739203416074",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/E_Z9J2iXoAoP1-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_Z9J2iXoAoP1-_.jpg",
+						"url": "https://t.co/ZY76egkGSu",
+						"display_url": "pic.twitter.com/ZY76egkGSu",
+						"expanded_url": "https://twitter.com/UniOfHull/status/1438476426257346568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438474739203416000,
+						"id_str": "1438474739203416074",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/E_Z9J2iXoAoP1-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_Z9J2iXoAoP1-_.jpg",
+						"url": "https://t.co/ZY76egkGSu",
+						"display_url": "pic.twitter.com/ZY76egkGSu",
+						"expanded_url": "https://twitter.com/UniOfHull/status/1438476426257346568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1438474754550378500,
+						"id_str": "1438474754550378502",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/E_Z9KvtXsAYi24b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_Z9KvtXsAYi24b.jpg",
+						"url": "https://t.co/ZY76egkGSu",
+						"display_url": "pic.twitter.com/ZY76egkGSu",
+						"expanded_url": "https://twitter.com/UniOfHull/status/1438476426257346568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1328,
+								"h": 1328,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59761280,
+				"id_str": "59761280",
+				"name": "University of Hull",
+				"screen_name": "UniOfHull",
+				"location": "Hull, East Yorkshire",
+				"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+				"url": "https://t.co/u5B4DJg2Yc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u5B4DJg2Yc",
+								"expanded_url": "https://www.hull.ac.uk",
+								"display_url": "hull.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45330,
+				"friends_count": 1125,
+				"listed_count": 531,
+				"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+				"favourites_count": 12021,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22781,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "AE2B2F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1626949173",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to have @UniOfHull's @UoHHedgehogs on board and fighting the good fight!\n\nGive them a follow and a big welcome 🙌 https://t.co/DJTzrPfiP6"
+	},
+	{
+		"created_at": "Thu Sep 16 16:41:32 +0000 2021",
+		"id": 1438478149940093000,
+		"id_str": "1438543586916773892",
+		"full_text": "The @UniOfHull has pledged to create a hedgehog friendly campus by signing up to a national scheme.\n\nThe Hedgehog Friendly Campus initiative encourages universities, schools and colleges to make improvements to campus grounds, creating safe spaces for hedgehogs to live.\n\nMore 👇 https://t.co/lZSUNQGsoI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						4,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438476717979472000,
+					"id_str": "1438476717979471877",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z-9CDWEAUwTW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z-9CDWEAUwTW6.jpg",
+					"url": "https://t.co/lZSUNQGsoI",
+					"display_url": "pic.twitter.com/lZSUNQGsoI",
+					"expanded_url": "https://twitter.com/PhilWinterUoH/status/1438478149940092935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438476717979472000,
+					"id_str": "1438476717979471877",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z-9CDWEAUwTW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z-9CDWEAUwTW6.jpg",
+					"url": "https://t.co/lZSUNQGsoI",
+					"display_url": "pic.twitter.com/lZSUNQGsoI",
+					"expanded_url": "https://twitter.com/PhilWinterUoH/status/1438478149940092935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438476738296782800,
+					"id_str": "1438476738296782850",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Z--NvXoAIVKyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Z--NvXoAIVKyY.jpg",
+					"url": "https://t.co/lZSUNQGsoI",
+					"display_url": "pic.twitter.com/lZSUNQGsoI",
+					"expanded_url": "https://twitter.com/PhilWinterUoH/status/1438478149940092935/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1328,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1057248741994979300,
+			"id_str": "1057248741994979328",
+			"name": "Phil Winter",
+			"screen_name": "PhilWinterUoH",
+			"location": "Hull, England",
+			"description": "Press Officer @UniOfHull. Steering Group @YTNHumber. Ex-Business Editor at Hull Daily Mail. Email: p.j.winter@hull.ac.uk. Tel: 01482 465268. Views my own!",
+			"url": "https://t.co/hvxpvfj8Fx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hvxpvfj8Fx",
+							"expanded_url": "https://www.linkedin.com/in/phil-winter-a33375b8/",
+							"display_url": "linkedin.com/in/phil-winter…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1426,
+			"friends_count": 1394,
+			"listed_count": 7,
+			"created_at": "Tue Oct 30 12:31:57 +0000 2018",
+			"favourites_count": 3785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193620345426731009/CutmTpVM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193620345426731009/CutmTpVM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057248741994979328/1581944518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @UniOfHull has pledged to create a hedgehog friendly campus by signing up to a national scheme.\n\nThe Hedgehog Friendly Campus initiative encourages universities, schools and colleges to make improvements to campus grounds, creating safe spaces for hedgehogs to live.\n\nMore 👇 https://t.co/lZSUNQGsoI"
+	},
+	{
 		"created_at": "Wed Sep 15 22:06:00 +0000 2021",
 		"id": 1438262852935168000,
 		"id_str": "1438262852935168004",
@@ -46,7 +634,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -153,7 +741,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -586,7 +1174,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

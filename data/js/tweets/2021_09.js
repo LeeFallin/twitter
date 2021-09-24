@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 23 19:22:19 +0000 2021",
+		"id": 1440612110371676200,
+		"id_str": "1441120765693235203",
+		"full_text": "A brilliant blog post from one of our fantastic conference presenters from @HullUni_Library so pleased you had such a great experience 👏👏👏#ALN21 https://t.co/DbdySpucji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALN21",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						75,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DbdySpucji",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1440340798218797068",
+					"display_url": "twitter.com/HullUni_Librar…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377194288971456500,
+			"id_str": "1377194288971456512",
+			"name": "Academic Libraries North",
+			"screen_name": "AcadLibsNorth",
+			"location": "",
+			"description": "Academic Libraries North is a professional network of HE libraries in the north of England and a subgroup of SCONUL.",
+			"url": "https://t.co/yOxVPINllD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOxVPINllD",
+							"expanded_url": "https://www.academiclibrariesnorth.ac.uk/",
+							"display_url": "academiclibrariesnorth.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429,
+			"friends_count": 526,
+			"listed_count": 6,
+			"created_at": "Wed Mar 31 09:41:54 +0000 2021",
+			"favourites_count": 170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387718504627965957/LzhHDnCg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387718504627965957/LzhHDnCg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377194288971456512/1619692849",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440340798218797000,
+		"quoted_status_id_str": "1440340798218797068",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DbdySpucji",
+			"expanded": "https://twitter.com/HullUni_Library/status/1440340798218797068",
+			"display": "twitter.com/HullUni_Librar…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 21 15:43:01 +0000 2021",
+			"id": 1440340798218797000,
+			"id_str": "1440340798218797068",
+			"full_text": "Our colleagues really enjoyed presenting at @AcadLibsNorth's Conference a couple of weeks ago. \n\nConor has reflected on the process of presenting at a conference for the first time - and has shared his slides in our latest Library Blog article #ALN21 https://t.co/X14eWFrL0a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALN21",
+						"indices": [
+							244,
+							250
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AcadLibsNorth",
+						"name": "Academic Libraries North",
+						"id": 1377194288971456500,
+						"id_str": "1377194288971456512",
+						"indices": [
+							44,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X14eWFrL0a",
+						"expanded_url": "https://libraryblog.wordpress.hull.ac.uk/2021/09/21/aln-conference-2021-review-development-of-pass-at-the-university-of-hull/",
+						"display_url": "libraryblog.wordpress.hull.ac.uk/2021/09/21/aln…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239865033,
+				"id_str": "239865033",
+				"name": "Hull Uni Library",
+				"screen_name": "HullUni_Library",
+				"location": "Hull, East Yorkshire, UK",
+				"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+				"url": "https://t.co/TbBJdYe4pw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TbBJdYe4pw",
+								"expanded_url": "http://www.hull.ac.uk/lib",
+								"display_url": "hull.ac.uk/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6923,
+				"friends_count": 905,
+				"listed_count": 85,
+				"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+				"favourites_count": 3573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CB812A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+				"profile_link_color": "CB812A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A brilliant blog post from one of our fantastic conference presenters from @HullUni_Library so pleased you had such a great experience 👏👏👏#ALN21 https://t.co/DbdySpucji"
+	},
+	{
 		"created_at": "Tue Sep 21 19:52:27 +0000 2021",
 		"id": 1440340798218797000,
 		"id_str": "1440403569866207242",
@@ -175,7 +433,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

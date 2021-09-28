@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 16:51:26 +0000 2021",
+		"id": 1442465388101607400,
+		"id_str": "1442532344468934658",
+		"full_text": "Ooooooooh la la!!!! https://t.co/9igItCB5mH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9igItCB5mH",
+					"expanded_url": "https://twitter.com/EdBurritoPod/status/1442443902061977600",
+					"display_url": "twitter.com/EdBurritoPod/s…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 987423597324103700,
+			"id_str": "987423597324103680",
+			"name": "Baaanedict",
+			"screen_name": "baaanedict",
+			"location": "\"Baaa-ing\" 🐑 ",
+			"description": "🐑Sheep |🔬Got myself a real job-ish for next few years | 📸Instagram @Baaanedict | 🐦#BaaanedictOnTour | 🗓 20.04.2018",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 273,
+			"listed_count": 1,
+			"created_at": "Fri Apr 20 20:11:45 +0000 2018",
+			"favourites_count": 1472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987430781655109632/8RyhQqng_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987430781655109632/8RyhQqng_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/987423597324103680/1528061353",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442443902061977600,
+		"quoted_status_id_str": "1442443902061977600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9igItCB5mH",
+			"expanded": "https://twitter.com/EdBurritoPod/status/1442443902061977600",
+			"display": "twitter.com/EdBurritoPod/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 27 11:00:00 +0000 2021",
+			"id": 1442443902061977600,
+			"id_str": "1442443902061977600",
+			"full_text": "1st October.\n\nSeason 2 of @EdBurritoPod is COMING!\n\n#podcast #TheEducationBurrito #studentengagement #highereducation #highered #lthechat https://t.co/O6gehTK14B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "podcast",
+						"indices": [
+							52,
+							60
+						]
+					},
+					{
+						"text": "TheEducationBurrito",
+						"indices": [
+							61,
+							81
+						]
+					},
+					{
+						"text": "studentengagement",
+						"indices": [
+							82,
+							100
+						]
+					},
+					{
+						"text": "highereducation",
+						"indices": [
+							101,
+							117
+						]
+					},
+					{
+						"text": "highered",
+						"indices": [
+							118,
+							127
+						]
+					},
+					{
+						"text": "lthechat",
+						"indices": [
+							128,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EdBurritoPod",
+						"name": "The Education Burrito",
+						"id": 1301944632901873700,
+						"id_str": "1301944632901873665",
+						"indices": [
+							26,
+							39
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1441767605694390300,
+						"id_str": "1441767605694390274",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1441767605694390274/pu/img/eBye6flP2VT5vc-7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1441767605694390274/pu/img/eBye6flP2VT5vc-7.jpg",
+						"url": "https://t.co/O6gehTK14B",
+						"display_url": "pic.twitter.com/O6gehTK14B",
+						"expanded_url": "https://twitter.com/EdBurritoPod/status/1442443902061977600/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1441767605694390300,
+						"id_str": "1441767605694390274",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1441767605694390274/pu/img/eBye6flP2VT5vc-7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1441767605694390274/pu/img/eBye6flP2VT5vc-7.jpg",
+						"url": "https://t.co/O6gehTK14B",
+						"display_url": "pic.twitter.com/O6gehTK14B",
+						"expanded_url": "https://twitter.com/EdBurritoPod/status/1442443902061977600/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 5400,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1441767605694390274/pu/vid/540x540/wh1bjnTP2dRD9uNJ.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1441767605694390274/pu/pl/M6EOvOBJ-1tNmZZF.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1441767605694390274/pu/vid/720x720/PQOkdDFfIkTtVJrO.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1441767605694390274/pu/vid/320x320/HbItd4Qoni7cGq9L.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1301944632901873700,
+				"id_str": "1301944632901873665",
+				"name": "The Education Burrito",
+				"screen_name": "EdBurritoPod",
+				"location": "",
+				"description": "Podcast hosted by @KiuSum, unwrapping the highs & lows of student engagement & learning & teaching in HE. Buy us a 🌯 https://t.co/xTOxlJ7ybb",
+				"url": "https://t.co/eLJjm1roW8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eLJjm1roW8",
+								"expanded_url": "https://theeducationburrito.podbean.com",
+								"display_url": "theeducationburrito.podbean.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xTOxlJ7ybb",
+								"expanded_url": "https://www.buymeacoffee.com/EduBurrito",
+								"display_url": "buymeacoffee.com/EduBurrito",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 254,
+				"friends_count": 319,
+				"listed_count": 2,
+				"created_at": "Fri Sep 04 18:06:27 +0000 2020",
+				"favourites_count": 326,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 403,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1309880796405272576/ZQKq8yVU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309880796405272576/ZQKq8yVU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1301944632901873665/1599244770",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "Ooooooooh la la!!!! https://t.co/9igItCB5mH"
+	},
+	{
 		"created_at": "Sun Sep 26 22:43:03 +0000 2021",
 		"id": 1442258443595702300,
 		"id_str": "1442258443595702272",
@@ -57,7 +427,7 @@ Grailbird.data.tweets_2021_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 19:23:02 +0000 2021",
+		"id": 1444744823542534100,
+		"id_str": "1444744823542534149",
+		"full_text": "Buying LEGO for teaching and/or research use? My latest blog article reflects on the budget-friendly sets I used to build my LEGO Serious Play kit. \n\n#LEGOSeriousPlay #LEGOeducation #LEGO #loveLD #LTHEchat #CreativeHE #HigherEd #teaching #learning \n\nhttps://t.co/DmKDr1b7Gs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEGOSeriousPlay",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "LEGOeducation",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"text": "LEGO",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "CreativeHE",
+					"indices": [
+						206,
+						217
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						218,
+						227
+					]
+				},
+				{
+					"text": "teaching",
+					"indices": [
+						228,
+						237
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DmKDr1b7Gs",
+					"expanded_url": "https://leefallin.co.uk/2021/10/lego-serious-play-starter-kit-for-research-teaching/",
+					"display_url": "leefallin.co.uk/2021/10/lego-s…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1461,
+			"friends_count": 1260,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Buying LEGO for teaching and/or research use? My latest blog article reflects on the budget-friendly sets I used to build my LEGO Serious Play kit. \n\n#LEGOSeriousPlay #LEGOeducation #LEGO #loveLD #LTHEchat #CreativeHE #HigherEd #teaching #learning \n\nhttps://t.co/DmKDr1b7Gs"
+	},
+	{
 		"created_at": "Sat Oct 02 08:49:39 +0000 2021",
 		"id": 1444223037738475500,
 		"id_str": "1444223037738475522",
@@ -92,7 +263,7 @@ Grailbird.data.tweets_2021_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

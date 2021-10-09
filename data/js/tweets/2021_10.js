@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 21:42:06 +0000 2021",
+		"id": 1446591759987904500,
+		"id_str": "1446591759987904515",
+		"full_text": "❤️❤️❤️ https://t.co/IDjrrdDA5B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IDjrrdDA5B",
+					"expanded_url": "https://twitter.com/mstcommunity/status/1446564863392817157",
+					"display_url": "twitter.com/mstcommunity/s…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1465,
+			"friends_count": 1264,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1446564863392817200,
+		"quoted_status_id_str": "1446564863392817157",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IDjrrdDA5B",
+			"expanded": "https://twitter.com/mstcommunity/status/1446564863392817157",
+			"display": "twitter.com/mstcommunity/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 08 19:55:13 +0000 2021",
+			"id": 1446564863392817200,
+			"id_str": "1446564863392817157",
+			"full_text": "Smooth Scrolling comes to Microsoft #Excel for Windows! Read all about it. https://t.co/EFCYLLG1hK https://t.co/QPQNg1wVKS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Excel",
+						"indices": [
+							36,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EFCYLLG1hK",
+						"expanded_url": "https://msft.it/6015Xqp63",
+						"display_url": "msft.it/6015Xqp63",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1446564860616192000,
+						"id_str": "1446564860616192005",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FBM7E5WXMAUKADn.png",
+						"media_url_https": "https://pbs.twimg.com/media/FBM7E5WXMAUKADn.png",
+						"url": "https://t.co/QPQNg1wVKS",
+						"display_url": "pic.twitter.com/QPQNg1wVKS",
+						"expanded_url": "https://twitter.com/MSTCommunity/status/1446564863392817157/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 778,
+								"h": 426,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 778,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1446564860616192000,
+						"id_str": "1446564860616192005",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/FBM7E5WXMAUKADn.png",
+						"media_url_https": "https://pbs.twimg.com/media/FBM7E5WXMAUKADn.png",
+						"url": "https://t.co/QPQNg1wVKS",
+						"display_url": "pic.twitter.com/QPQNg1wVKS",
+						"expanded_url": "https://twitter.com/MSTCommunity/status/1446564863392817157/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 778,
+								"h": 426,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 778,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768553501395857400,
+				"id_str": "768553501395857408",
+				"name": "Tech Community",
+				"screen_name": "MSTCommunity",
+				"location": "Redmond, WA",
+				"description": "The Official Tech Community for conversations about Microsoft products with experts",
+				"url": "https://t.co/kCgjhephI8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kCgjhephI8",
+								"expanded_url": "https://techcommunity.microsoft.com/",
+								"display_url": "techcommunity.microsoft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38726,
+				"friends_count": 540,
+				"listed_count": 284,
+				"created_at": "Wed Aug 24 21:00:08 +0000 2016",
+				"favourites_count": 1810,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15327,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268213726336782336/fk7CAAO-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268213726336782336/fk7CAAO-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768553501395857408/1508438095",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "❤️❤️❤️ https://t.co/IDjrrdDA5B"
+	},
+	{
 		"created_at": "Thu Oct 07 01:56:27 +0000 2021",
 		"id": 1445930992175353900,
 		"id_str": "1445930992175353860",
@@ -28,7 +367,7 @@ Grailbird.data.tweets_2021_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

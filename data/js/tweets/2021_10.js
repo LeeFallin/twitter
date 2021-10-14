@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 22:31:42 +0000 2021",
+		"id": 1448416180188946400,
+		"id_str": "1448416180188946435",
+		"full_text": "I've been thinking about models of reflective practice and have finally got round to sharing some of my thinking:\n\nWhy I don't like Gibbs' Reflective Cycle in reflective practice\n\n#loveLD #reflection #reflectivepractice #Gibbs #ReflectiveCycle https://t.co/WLYuBttgbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "reflection",
+					"indices": [
+						188,
+						199
+					]
+				},
+				{
+					"text": "reflectivepractice",
+					"indices": [
+						200,
+						219
+					]
+				},
+				{
+					"text": "Gibbs",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "ReflectiveCycle",
+					"indices": [
+						227,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WLYuBttgbJ",
+					"expanded_url": "https://leefallin.co.uk/2021/10/why-i-dont-like-gibbs-reflective-cycle-in-reflective-practice/",
+					"display_url": "leefallin.co.uk/2021/10/why-i-…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1465,
+			"friends_count": 1267,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've been thinking about models of reflective practice and have finally got round to sharing some of my thinking:\n\nWhy I don't like Gibbs' Reflective Cycle in reflective practice\n\n#loveLD #reflection #reflectivepractice #Gibbs #ReflectiveCycle https://t.co/WLYuBttgbJ"
+	},
+	{
+		"created_at": "Wed Oct 13 10:57:58 +0000 2021",
+		"id": 1448241596483391500,
+		"id_str": "1448241596483391494",
+		"full_text": "HUGE congratulations to Joanna Rawnsley on completing the first version of our Public Communication SkillsGuide. \n\nJoanna has written, coded &amp; illustrated this entire guide as part of her internship with the Skills Team.\n\nFantastic work 👏\n\n@HullUniCareers @HullEnglish @clawre https://t.co/Wvr9WsLU2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUniCareers",
+					"name": "Hull Uni Student Futures",
+					"id": 579814838,
+					"id_str": "579814838",
+					"indices": [
+						244,
+						259
+					]
+				},
+				{
+					"screen_name": "HullEnglish",
+					"name": "HullEnglish",
+					"id": 919383764,
+					"id_str": "919383764",
+					"indices": [
+						260,
+						272
+					]
+				},
+				{
+					"screen_name": "clawre",
+					"name": "Chris Awre",
+					"id": 14298167,
+					"id_str": "14298167",
+					"indices": [
+						273,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wvr9WsLU2V",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1448211909631688706",
+					"display_url": "twitter.com/HullUni_Librar…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1465,
+			"friends_count": 1267,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 7815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448211909631688700,
+		"quoted_status_id_str": "1448211909631688706",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wvr9WsLU2V",
+			"expanded": "https://twitter.com/HullUni_Library/status/1448211909631688706",
+			"display": "twitter.com/HullUni_Librar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 13 09:00:00 +0000 2021",
+			"id": 1448211909631688700,
+			"id_str": "1448211909631688706",
+			"full_text": "It's finally here 🎉\n\nOur new Public communication SkillsGuide covers how to write academic: \n🟣 Blog articles\n🟣 Letters to the editor\n🟣 Magazine articles\n🟣 Opinion pieces\n🟣 Wiki pages\n\n#LoveLD @UoHAcademy #blog #wiki #writing\n\nhttps://t.co/hMmhznPoPy https://t.co/Gh0eYOrSri",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LoveLD",
+						"indices": [
+							184,
+							191
+						]
+					},
+					{
+						"text": "blog",
+						"indices": [
+							204,
+							209
+						]
+					},
+					{
+						"text": "wiki",
+						"indices": [
+							210,
+							215
+						]
+					},
+					{
+						"text": "writing",
+						"indices": [
+							216,
+							224
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UoHAcademy",
+						"name": "Teaching Excellence Academy",
+						"id": 914481006,
+						"id_str": "914481006",
+						"indices": [
+							192,
+							203
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hMmhznPoPy",
+						"expanded_url": "https://libguides.hull.ac.uk/public-comm/home",
+						"display_url": "libguides.hull.ac.uk/public-comm/ho…",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1448211897879236600,
+						"id_str": "1448211897879236612",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/FBkVDFSWEAQHpxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBkVDFSWEAQHpxn.jpg",
+						"url": "https://t.co/Gh0eYOrSri",
+						"display_url": "pic.twitter.com/Gh0eYOrSri",
+						"expanded_url": "https://twitter.com/HullUni_Library/status/1448211909631688706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1198,
+								"h": 808,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 808,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1448211897879236600,
+						"id_str": "1448211897879236612",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/FBkVDFSWEAQHpxn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBkVDFSWEAQHpxn.jpg",
+						"url": "https://t.co/Gh0eYOrSri",
+						"display_url": "pic.twitter.com/Gh0eYOrSri",
+						"expanded_url": "https://twitter.com/HullUni_Library/status/1448211909631688706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1198,
+								"h": 808,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 459,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 808,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239865033,
+				"id_str": "239865033",
+				"name": "Hull Uni Library",
+				"screen_name": "HullUni_Library",
+				"location": "Hull, East Yorkshire, UK",
+				"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+				"url": "https://t.co/TbBJdYe4pw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TbBJdYe4pw",
+								"expanded_url": "http://www.hull.ac.uk/lib",
+								"display_url": "hull.ac.uk/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6969,
+				"friends_count": 906,
+				"listed_count": 85,
+				"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+				"favourites_count": 3614,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9851,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CB812A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+				"profile_link_color": "CB812A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HUGE congratulations to Joanna Rawnsley on completing the first version of our Public Communication SkillsGuide. \n\nJoanna has written, coded &amp; illustrated this entire guide as part of her internship with the Skills Team.\n\nFantastic work 👏\n\n@HullUniCareers @HullEnglish @clawre https://t.co/Wvr9WsLU2V"
+	},
+	{
 		"created_at": "Mon Oct 11 22:17:19 +0000 2021",
 		"id": 1447687787512307700,
 		"id_str": "1447687787512307720",
@@ -99,7 +611,7 @@ Grailbird.data.tweets_2021_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -276,7 +788,7 @@ Grailbird.data.tweets_2021_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 22:32:58 +0000 2021",
+		"id": 1453106169887830000,
+		"id_str": "1453127544199421954",
+		"full_text": "@belld17 @LeeFallin 939 Views and 103 downloads in less than a week !! Must be one of the most read pieces in its inaugural week on the @NTRepository - Well done @LeeFallin - Great Work https://t.co/xzJLPbxy0o",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "belld17",
+					"name": "Dawne",
+					"id": 1274404952,
+					"id_str": "1274404952",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "NTRepository",
+					"name": "The National Teaching Repository",
+					"id": 1269949194292297700,
+					"id_str": "1269949194292297728",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						162,
+						172
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453105687521812500,
+					"id_str": "1453105687521812484",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FCp37IXWYAQ-aRn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCp37IXWYAQ-aRn.png",
+					"url": "https://t.co/xzJLPbxy0o",
+					"display_url": "pic.twitter.com/xzJLPbxy0o",
+					"expanded_url": "https://twitter.com/DavidWooff/status/1453106169887830024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 893,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453105687521812500,
+					"id_str": "1453105687521812484",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FCp37IXWYAQ-aRn.png",
+					"media_url_https": "https://pbs.twimg.com/media/FCp37IXWYAQ-aRn.png",
+					"url": "https://t.co/xzJLPbxy0o",
+					"display_url": "pic.twitter.com/xzJLPbxy0o",
+					"expanded_url": "https://twitter.com/DavidWooff/status/1453106169887830024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 893,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 893,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 297,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1451144635766673400,
+		"in_reply_to_status_id_str": "1451144635766673411",
+		"in_reply_to_user_id": 1274404952,
+		"in_reply_to_user_id_str": "1274404952",
+		"in_reply_to_screen_name": "belld17",
+		"user": {
+			"id": 1146146844,
+			"id_str": "1146146844",
+			"name": "David Wooff",
+			"screen_name": "DavidWooff",
+			"location": "North West England",
+			"description": "Principal Lecturer at BPP University; Fellow of @theRSAorg; Senior Fellow of @AdvanceHE; Trustee @FFEduTrust; Curator of @NTRepository;  All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2042,
+			"friends_count": 3797,
+			"listed_count": 40,
+			"created_at": "Sun Feb 03 20:32:10 +0000 2013",
+			"favourites_count": 6306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551160650940956672/IBRXlASR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551160650940956672/IBRXlASR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146146844/1420242277",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@belld17 @LeeFallin 939 Views and 103 downloads in less than a week !! Must be one of the most read pieces in its inaugural week on the @NTRepository - Well done @LeeFallin - Great Work https://t.co/xzJLPbxy0o"
+	},
+	{
 		"created_at": "Mon Oct 25 17:49:01 +0000 2021",
 		"id": 1452693694058991600,
 		"id_str": "1452693694058991618",
@@ -39,7 +242,7 @@ Grailbird.data.tweets_2021_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -199,7 +402,7 @@ Grailbird.data.tweets_2021_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 18:59:18 +0000 2021",
+		"id": 1457666592955842600,
+		"id_str": "1457784813583097872",
+		"full_text": "Weekly Roundup feat resources by @PhilAnthony4 #DigiEduWebinars @A_L_T @CarlessDavid @LeeFallin @MrZachG @jldhe1 @HERDJournal @OU_LD_Team @teacherhead @ThinkUDL @digisim @johntraxler and more! Note that I've included links to some YouTube channels. #AberPGCTHE https://t.co/INPQpA8tkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigiEduWebinars",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"text": "AberPGCTHE",
+					"indices": [
+						249,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"screen_name": "CarlessDavid",
+					"name": "David Carless",
+					"id": 2891517966,
+					"id_str": "2891517966",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "MrZachG",
+					"name": "Zach Groshell (he/him)",
+					"id": 882972194,
+					"id_str": "882972194",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"screen_name": "jldhe1",
+					"name": "JLDHE",
+					"id": 984873624938143700,
+					"id_str": "984873624938143751",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"screen_name": "HERDJournal",
+					"name": "Higher Education Research and Development",
+					"id": 1562117365,
+					"id_str": "1562117365",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"screen_name": "OU_LD_Team",
+					"name": "Learning Design",
+					"id": 715475873013440500,
+					"id_str": "715475873013440512",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"screen_name": "teacherhead",
+					"name": "Tom Sherrington",
+					"id": 317405206,
+					"id_str": "317405206",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"screen_name": "ThinkUDL",
+					"name": "ThinkUDL",
+					"id": 1025077766969020400,
+					"id_str": "1025077766969020416",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"screen_name": "digisim",
+					"name": "Simon Thomson",
+					"id": 294516600,
+					"id_str": "294516600",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"screen_name": "johntraxler",
+					"name": "John Traxler",
+					"id": 16601578,
+					"id_str": "16601578",
+					"indices": [
+						170,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/INPQpA8tkT",
+					"expanded_url": "https://twitter.com/MaryJacobTEL1/status/1457664591161352194",
+					"display_url": "twitter.com/MaryJacobTEL1/…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 798515073257979900,
+			"id_str": "798515073257979904",
+			"name": "Mary Jacob L&T",
+			"screen_name": "MaryJacobTEL1",
+			"location": "Aberystwyth, Wales",
+			"description": "Passionate about pedagogy\nAberystwyth University L&T Enhancement Unit\nPGCTHE Coordinator, Lecturer in L&T",
+			"url": "https://t.co/w2Ahf8AGfD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w2Ahf8AGfD",
+							"expanded_url": "https://wordpress.aber.ac.uk/e-learning/category/weekly-resource-roundup/",
+							"display_url": "wordpress.aber.ac.uk/e-learning/cat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 775,
+			"listed_count": 10,
+			"created_at": "Tue Nov 15 13:16:43 +0000 2016",
+			"favourites_count": 3041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414516700070957056/RyKz53jo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414516700070957056/RyKz53jo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/798515073257979904/1634568954",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457664591161352200,
+		"quoted_status_id_str": "1457664591161352194",
+		"quoted_status_permalink": {
+			"url": "https://t.co/INPQpA8tkT",
+			"expanded": "https://twitter.com/MaryJacobTEL1/status/1457664591161352194",
+			"display": "twitter.com/MaryJacobTEL1/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 08 11:01:35 +0000 2021",
+			"id": 1457664591161352200,
+			"id_str": "1457664591161352194",
+			"full_text": "Rounded up resources and online events for HE practitioners https://t.co/zrggIaVY8Q #AberPGCTHE feat events by #CreativeHE @TILEnetwork @MediaLearning @AdvanceHE @Jisc @Seda_UK_ https://t.co/pmp1vu8ub6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AberPGCTHE",
+						"indices": [
+							84,
+							95
+						]
+					},
+					{
+						"text": "CreativeHE",
+						"indices": [
+							111,
+							122
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TILEnetwork",
+						"name": "TILE Network",
+						"id": 885872177710583800,
+						"id_str": "885872177710583813",
+						"indices": [
+							123,
+							135
+						]
+					},
+					{
+						"screen_name": "MediaLearning",
+						"name": "Media&Learning",
+						"id": 191832122,
+						"id_str": "191832122",
+						"indices": [
+							136,
+							150
+						]
+					},
+					{
+						"screen_name": "AdvanceHE",
+						"name": "Advance HE",
+						"id": 941587234465177600,
+						"id_str": "941587234465177600",
+						"indices": [
+							151,
+							161
+						]
+					},
+					{
+						"screen_name": "Jisc",
+						"name": "Jisc",
+						"id": 18829580,
+						"id_str": "18829580",
+						"indices": [
+							162,
+							167
+						]
+					},
+					{
+						"screen_name": "Seda_UK_",
+						"name": "SEDA",
+						"id": 335534230,
+						"id_str": "335534230",
+						"indices": [
+							168,
+							177
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zrggIaVY8Q",
+						"expanded_url": "https://wordpress.aber.ac.uk/e-learning/2021/11/08/weekly-resource-roundup-8-11-2021/",
+						"display_url": "wordpress.aber.ac.uk/e-learning/202…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1457664221227925500,
+						"id_str": "1457664221227925505",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/FDqp4twWQAEm5HR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDqp4twWQAEm5HR.jpg",
+						"url": "https://t.co/pmp1vu8ub6",
+						"display_url": "pic.twitter.com/pmp1vu8ub6",
+						"expanded_url": "https://twitter.com/MaryJacobTEL1/status/1457664591161352194/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 194,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1499,
+								"h": 428,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 343,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1457664221227925500,
+						"id_str": "1457664221227925505",
+						"indices": [
+							178,
+							201
+						],
+						"media_url": "http://pbs.twimg.com/media/FDqp4twWQAEm5HR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDqp4twWQAEm5HR.jpg",
+						"url": "https://t.co/pmp1vu8ub6",
+						"display_url": "pic.twitter.com/pmp1vu8ub6",
+						"expanded_url": "https://twitter.com/MaryJacobTEL1/status/1457664591161352194/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 194,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1499,
+								"h": 428,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 343,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798515073257979900,
+				"id_str": "798515073257979904",
+				"name": "Mary Jacob L&T",
+				"screen_name": "MaryJacobTEL1",
+				"location": "Aberystwyth, Wales",
+				"description": "Passionate about pedagogy\nAberystwyth University L&T Enhancement Unit\nPGCTHE Coordinator, Lecturer in L&T",
+				"url": "https://t.co/w2Ahf8AGfD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w2Ahf8AGfD",
+								"expanded_url": "https://wordpress.aber.ac.uk/e-learning/category/weekly-resource-roundup/",
+								"display_url": "wordpress.aber.ac.uk/e-learning/cat…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 712,
+				"friends_count": 775,
+				"listed_count": 10,
+				"created_at": "Tue Nov 15 13:16:43 +0000 2016",
+				"favourites_count": 3041,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2760,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1414516700070957056/RyKz53jo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414516700070957056/RyKz53jo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798515073257979904/1634568954",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Weekly Roundup feat resources by @PhilAnthony4 #DigiEduWebinars @A_L_T @CarlessDavid @LeeFallin @MrZachG @jldhe1 @HERDJournal @OU_LD_Team @teacherhead @ThinkUDL @digisim @johntraxler and more! Note that I've included links to some YouTube channels. #AberPGCTHE https://t.co/INPQpA8tkT"
+	},
+	{
 		"created_at": "Thu Nov 04 11:49:04 +0000 2021",
 		"id": 1456226990269374500,
 		"id_str": "1456226990269374465",
@@ -39,7 +539,7 @@ Grailbird.data.tweets_2021_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

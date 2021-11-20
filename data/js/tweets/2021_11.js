@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 22:53:57 +0000 2021",
+		"id": 1461793132086022100,
+		"id_str": "1461830130343493638",
+		"full_text": "Having attended, and been inspired by, a lecture by @LeeFallin yesterday I thought I would reboot by systems blog.\n\nHere is the first blog of the new era, a blog about systems thinking, the concept of holistic thinking and volunteering - https://t.co/Hy6hZK6JRA #SystemsThinking https://t.co/LjoqU87mhL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SystemsThinking",
+					"indices": [
+						262,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hy6hZK6JRA",
+					"expanded_url": "https://bit.ly/3oHNzdv",
+					"display_url": "bit.ly/3oHNzdv",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461793126675325000,
+					"id_str": "1461793126675324936",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FElVGpKXIAgGuIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FElVGpKXIAgGuIA.jpg",
+					"url": "https://t.co/LjoqU87mhL",
+					"display_url": "pic.twitter.com/LjoqU87mhL",
+					"expanded_url": "https://twitter.com/MattLloyd_UK/status/1461793132086022147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461793126675325000,
+					"id_str": "1461793126675324936",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FElVGpKXIAgGuIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FElVGpKXIAgGuIA.jpg",
+					"url": "https://t.co/LjoqU87mhL",
+					"display_url": "pic.twitter.com/LjoqU87mhL",
+					"expanded_url": "https://twitter.com/MattLloyd_UK/status/1461793132086022147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125403962,
+			"id_str": "1125403962",
+			"name": "Matt Lloyd",
+			"screen_name": "MattLloyd_UK",
+			"location": "Liverpool, Birmingham, N Lincs",
+			"description": "Husband. Geek. Maverick. Failed rock star. Knows a bit about ice hockey. Paralympian. Aspiring academic. Member of boards. Views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 737,
+			"friends_count": 361,
+			"listed_count": 30,
+			"created_at": "Sun Jan 27 15:49:53 +0000 2013",
+			"favourites_count": 7882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437524866530430979/_f05FgvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437524866530430979/_f05FgvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125403962/1621548104",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Having attended, and been inspired by, a lecture by @LeeFallin yesterday I thought I would reboot by systems blog.\n\nHere is the first blog of the new era, a blog about systems thinking, the concept of holistic thinking and volunteering - https://t.co/Hy6hZK6JRA #SystemsThinking https://t.co/LjoqU87mhL"
+	},
+	{
 		"created_at": "Thu Nov 18 16:35:37 +0000 2021",
 		"id": 1461372530854346800,
 		"id_str": "1461372530854346758",
@@ -59,7 +250,7 @@ Grailbird.data.tweets_2021_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

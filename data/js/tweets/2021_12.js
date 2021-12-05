@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 15:49:39 +0000 2021",
+		"id": 1466738325713305600,
+		"id_str": "1467159172823363599",
+		"full_text": "This is the best thing I've seen on Twitter for a long time. 🤣 https://t.co/6moWtKZ85p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6moWtKZ85p",
+					"expanded_url": "https://twitter.com/lucas42/status/1466560532144693254",
+					"display_url": "twitter.com/lucas42/status…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 217005773,
+			"id_str": "217005773",
+			"name": "Dr Rebecca Williams",
+			"screen_name": "Volcanologist",
+			"location": "University of Hull",
+			"description": "Volcanologist in @GeologyHull Associate Dean for Student Experience @HullUniScience. Waffle about volcanology, HE & tea. SFHEA & STEM ambassador. She/her.",
+			"url": "https://t.co/3qsCkvqU79",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3qsCkvqU79",
+							"expanded_url": "https://rwvolcanologist.wordpress.com",
+							"display_url": "rwvolcanologist.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8951,
+			"friends_count": 1640,
+			"listed_count": 270,
+			"created_at": "Thu Nov 18 09:42:17 +0000 2010",
+			"favourites_count": 22786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CBD6DB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251239055024689156/vmskSid__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251239055024689156/vmskSid__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217005773/1398336040",
+			"profile_link_color": "A784BF",
+			"profile_sidebar_border_color": "A35D47",
+			"profile_sidebar_fill_color": "5E442A",
+			"profile_text_color": "745A47",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1466560532144693200,
+		"quoted_status_id_str": "1466560532144693254",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6moWtKZ85p",
+			"expanded": "https://twitter.com/lucas42/status/1466560532144693254",
+			"display": "twitter.com/lucas42/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 03 00:10:52 +0000 2021",
+			"id": 1466560532144693200,
+			"id_str": "1466560532144693254",
+			"full_text": "@andevers @oldenoughtosay Might have got slightly carried away 🙈 https://t.co/FfpbnxEWDp",
+			"truncated": false,
+			"display_text_range": [
+				26,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "andevers",
+						"name": "Allison in Brexitland",
+						"id": 21427953,
+						"id_str": "21427953",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "oldenoughtosay",
+						"name": "❄️mari lwyd❄️ odent",
+						"id": 1146793748,
+						"id_str": "1146793748",
+						"indices": [
+							10,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1466560404478480400,
+						"id_str": "1466560404478480391",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/FFpE6u6X0AcH7ZP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFpE6u6X0AcH7ZP.jpg",
+						"url": "https://t.co/FfpbnxEWDp",
+						"display_url": "pic.twitter.com/FfpbnxEWDp",
+						"expanded_url": "https://twitter.com/lucas42/status/1466560532144693254/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 961,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 319,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 563,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1466560404478480400,
+						"id_str": "1466560404478480391",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/FFpE6u6X0AcH7ZP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFpE6u6X0AcH7ZP.jpg",
+						"url": "https://t.co/FfpbnxEWDp",
+						"display_url": "pic.twitter.com/FfpbnxEWDp",
+						"expanded_url": "https://twitter.com/lucas42/status/1466560532144693254/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 961,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 319,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 563,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1466530870924234800,
+			"in_reply_to_status_id_str": "1466530870924234757",
+			"in_reply_to_user_id": 21427953,
+			"in_reply_to_user_id_str": "21427953",
+			"in_reply_to_screen_name": "andevers",
+			"user": {
+				"id": 17844917,
+				"id_str": "17844917",
+				"name": "Luke Blaney",
+				"screen_name": "lucas42",
+				"location": "London",
+				"description": "This bio is out-of-date.  Please contact me for more recent biographical data.",
+				"url": "https://t.co/asHTdyJcVU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/asHTdyJcVU",
+								"expanded_url": "http://lukeblaney.co.uk/#me",
+								"display_url": "lukeblaney.co.uk/#me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 447,
+				"friends_count": 638,
+				"listed_count": 22,
+				"created_at": "Wed Dec 03 19:03:22 +0000 2008",
+				"favourites_count": 6075,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/769334267096825856/aP5uOmNB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/769334267096825856/aP5uOmNB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17844917/1472258658",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 140,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the best thing I've seen on Twitter for a long time. 🤣 https://t.co/6moWtKZ85p"
+	},
+	{
+		"created_at": "Sat Dec 04 04:14:25 +0000 2021",
+		"id": 1466984209512374300,
+		"id_str": "1466984209512374273",
+		"full_text": "@SFaulknerPandO @BradshacClaire Not sure if this is useful too? My video workshop on critical thinking. Skip the first couple. https://t.co/WUNT3IY7IZ",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner 👻📱🛴",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "BradshacClaire",
+					"name": "Claire Bradshaw",
+					"id": 3025383681,
+					"id_str": "3025383681",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WUNT3IY7IZ",
+					"expanded_url": "https://libguides.hull.ac.uk/workshops/video-critical",
+					"display_url": "libguides.hull.ac.uk/workshops/vide…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1466722966436208600,
+		"in_reply_to_status_id_str": "1466722966436208648",
+		"in_reply_to_user_id": 859771153321259000,
+		"in_reply_to_user_id_str": "859771153321259009",
+		"in_reply_to_screen_name": "SFaulknerPandO",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1515,
+			"friends_count": 1301,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SFaulknerPandO @BradshacClaire Not sure if this is useful too? My video workshop on critical thinking. Skip the first couple. https://t.co/WUNT3IY7IZ"
+	},
+	{
 		"created_at": "Thu Dec 02 23:15:55 +0000 2021",
 		"id": 1466518979518730200,
 		"id_str": "1466546700563136513",
@@ -163,7 +600,7 @@ Grailbird.data.tweets_2021_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -303,7 +740,7 @@ Grailbird.data.tweets_2021_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

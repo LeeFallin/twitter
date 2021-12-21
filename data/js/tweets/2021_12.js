@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 07:30:28 +0000 2021",
+		"id": 1472613650783522800,
+		"id_str": "1472831754381631489",
+		"full_text": "Turns out past grant drafts also work well as wrapping paper ♻️ @OpenAcademics #AcademicTwitter https://t.co/Nv91IUQtxS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						79,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenAcademics",
+					"name": "OpenAcademics",
+					"id": 1202683638308950000,
+					"id_str": "1202683638308950017",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472613644966023200,
+					"id_str": "1472613644966023188",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FG_GTs-X0BQ88X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG_GTs-X0BQ88X0.jpg",
+					"url": "https://t.co/Nv91IUQtxS",
+					"display_url": "pic.twitter.com/Nv91IUQtxS",
+					"expanded_url": "https://twitter.com/BennionKelsey/status/1472613650783522817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472613644966023200,
+					"id_str": "1472613644966023188",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FG_GTs-X0BQ88X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG_GTs-X0BQ88X0.jpg",
+					"url": "https://t.co/Nv91IUQtxS",
+					"display_url": "pic.twitter.com/Nv91IUQtxS",
+					"expanded_url": "https://twitter.com/BennionKelsey/status/1472613650783522817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162357139303739400,
+			"id_str": "1162357139303739392",
+			"name": "Kelsey Bennion",
+			"screen_name": "BennionKelsey",
+			"location": "Atlanta, GA",
+			"description": "PhD candidate @emoryuniversity, cancer immunologist in the @ford_lab, a big fan of 🎹 and fine 🧀 #steminist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 324,
+			"friends_count": 548,
+			"listed_count": 1,
+			"created_at": "Fri Aug 16 13:35:19 +0000 2019",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457858224640626689/0YrKKArO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457858224640626689/0YrKKArO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162357139303739392/1572820298",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 1598,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Turns out past grant drafts also work well as wrapping paper ♻️ @OpenAcademics #AcademicTwitter https://t.co/Nv91IUQtxS"
+	},
+	{
 		"created_at": "Fri Dec 17 18:41:42 +0000 2021",
 		"id": 1471906795824337000,
 		"id_str": "1471913509424357377",

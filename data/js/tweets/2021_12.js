@@ -1,6 +1,783 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 21 18:45:39 +0000 2021",
+		"id": 1473364055322681300,
+		"id_str": "1473364055322681349",
+		"full_text": "@ChrisHeadleand … our kids are obsessed. They call it “Christmas movie with the girl on fire”. Hopefully that’s a normal thing to pick up on. 😬 They find it hilarious!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Prof. Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473344917414023200,
+		"in_reply_to_status_id_str": "1473344917414023173",
+		"in_reply_to_user_id": 405910853,
+		"in_reply_to_user_id_str": "405910853",
+		"in_reply_to_screen_name": "ChrisHeadleand",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1523,
+			"friends_count": 1305,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisHeadleand … our kids are obsessed. They call it “Christmas movie with the girl on fire”. Hopefully that’s a normal thing to pick up on. 😬 They find it hilarious!"
+	},
+	{
+		"created_at": "Tue Dec 21 18:43:59 +0000 2021",
+		"id": 1473216809033678800,
+		"id_str": "1473363634957033473",
+		"full_text": "Check out the Leisure collection in the Library Reading Room on the Mezzanine floor. Which is your favourite book for the winter break?\n#bookbuilds #bookchristmastree #bookstyling https://t.co/nctuyGDvce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookbuilds",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"text": "bookchristmastree",
+					"indices": [
+						148,
+						166
+					]
+				},
+				{
+					"text": "bookstyling",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473216804256374800,
+					"id_str": "1473216804256374791",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FHHq4MbWYAco9iT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHHq4MbWYAco9iT.jpg",
+					"url": "https://t.co/nctuyGDvce",
+					"display_url": "pic.twitter.com/nctuyGDvce",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1473216809033678848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473216804256374800,
+					"id_str": "1473216804256374791",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FHHq4MbWYAco9iT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHHq4MbWYAco9iT.jpg",
+					"url": "https://t.co/nctuyGDvce",
+					"display_url": "pic.twitter.com/nctuyGDvce",
+					"expanded_url": "https://twitter.com/HullUni_Library/status/1473216809033678848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1060,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239865033,
+			"id_str": "239865033",
+			"name": "Hull Uni Library",
+			"screen_name": "HullUni_Library",
+			"location": "Hull, East Yorkshire, UK",
+			"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+			"url": "https://t.co/TbBJdYe4pw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TbBJdYe4pw",
+							"expanded_url": "http://www.hull.ac.uk/lib",
+							"display_url": "hull.ac.uk/lib",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7033,
+			"friends_count": 905,
+			"listed_count": 85,
+			"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+			"favourites_count": 3757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CB812A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+			"profile_link_color": "CB812A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out the Leisure collection in the Library Reading Room on the Mezzanine floor. Which is your favourite book for the winter break?\n#bookbuilds #bookchristmastree #bookstyling https://t.co/nctuyGDvce"
+	},
+	{
+		"created_at": "Tue Dec 21 18:43:38 +0000 2021",
+		"id": 1473363548348821500,
+		"id_str": "1473363548348821514",
+		"full_text": "@MichaelONeill89 As a man with three children. Oh how I envy thee!\n\nSecondly. You alright?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelONeill89",
+					"name": "10% of michael’s brain",
+					"id": 902222919245418500,
+					"id_str": "902222919245418497",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473318901421387800,
+		"in_reply_to_status_id_str": "1473318901421387779",
+		"in_reply_to_user_id": 902222919245418500,
+		"in_reply_to_user_id_str": "902222919245418497",
+		"in_reply_to_screen_name": "MichaelONeill89",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1523,
+			"friends_count": 1305,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MichaelONeill89 As a man with three children. Oh how I envy thee!\n\nSecondly. You alright?"
+	},
+	{
+		"created_at": "Tue Dec 21 18:42:31 +0000 2021",
+		"id": 1472918464457318400,
+		"id_str": "1473363267426955265",
+		"full_text": "When I can’t remember the paper to cite \n\n@OpenAcademics @AcademicChatter #academictwitter https://t.co/BZPeB94jwZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academictwitter",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenAcademics",
+					"name": "OpenAcademics",
+					"id": 1202683638308950000,
+					"id_str": "1202683638308950017",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "AcademicChatter",
+					"name": "Academic Chatter",
+					"id": 885953601067208700,
+					"id_str": "885953601067208705",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472918461017952300,
+					"id_str": "1472918461017952257",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FHDbiVQXEAEpNVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHDbiVQXEAEpNVz.jpg",
+					"url": "https://t.co/BZPeB94jwZ",
+					"display_url": "pic.twitter.com/BZPeB94jwZ",
+					"expanded_url": "https://twitter.com/Dr_Meming/status/1472918464457318407/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 211,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 211,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472918461017952300,
+					"id_str": "1472918461017952257",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FHDbiVQXEAEpNVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHDbiVQXEAEpNVz.jpg",
+					"url": "https://t.co/BZPeB94jwZ",
+					"display_url": "pic.twitter.com/BZPeB94jwZ",
+					"expanded_url": "https://twitter.com/Dr_Meming/status/1472918464457318407/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 192,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 211,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 211,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1332065318332756000,
+			"id_str": "1332065318332755969",
+			"name": "Dr Meming",
+			"screen_name": "Dr_Meming",
+			"location": "",
+			"description": "I spend more time making memes than doing research. Some would say it’s procrastination I would say it’s outreach. @Dr_Meming for RTs",
+			"url": "https://t.co/fkPDtgMsE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fkPDtgMsE9",
+							"expanded_url": "https://www.facebook.com/DrMeming/",
+							"display_url": "facebook.com/DrMeming/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17075,
+			"friends_count": 1637,
+			"listed_count": 38,
+			"created_at": "Thu Nov 26 20:55:03 +0000 2020",
+			"favourites_count": 12963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337436353055879171/NWMNG9LN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337436353055879171/NWMNG9LN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1332065318332755969/1610961515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 675,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I can’t remember the paper to cite \n\n@OpenAcademics @AcademicChatter #academictwitter https://t.co/BZPeB94jwZ"
+	},
+	{
+		"created_at": "Tue Dec 21 18:42:14 +0000 2021",
+		"id": 1473363198552256500,
+		"id_str": "1473363198552256519",
+		"full_text": "Jabbed. Jabbed again. Boosted 💪\n\n… and bloody lucky. Huge world inequalities in access to jabs - I almost feel guilty. 😖",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1523,
+			"friends_count": 1305,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Jabbed. Jabbed again. Boosted 💪\n\n… and bloody lucky. Huge world inequalities in access to jabs - I almost feel guilty. 😖"
+	},
+	{
 		"created_at": "Mon Dec 20 07:30:28 +0000 2021",
 		"id": 1472613650783522800,
 		"id_str": "1472831754381631489",

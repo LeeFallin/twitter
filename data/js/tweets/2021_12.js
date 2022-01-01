@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 14:57:55 +0000 2021",
+		"id": 1476591990800359400,
+		"id_str": "1476930624430690306",
+		"full_text": "Meet the subject of my planned next YouTube video: the learning pyramid. This will be the first vid in a new playlist on myths and misconceptions about learning. Unfortunately, since it will be delivered in audio visual format, you'll only remember 20% of it. ;-) https://t.co/cPCggMhpBs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476591989068112000,
+					"id_str": "1476591989068111872",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FH3olzqXoAASZ7R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH3olzqXoAASZ7R.jpg",
+					"url": "https://t.co/cPCggMhpBs",
+					"display_url": "pic.twitter.com/cPCggMhpBs",
+					"expanded_url": "https://twitter.com/Dr_Paul_Penn/status/1476591990800359431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 658,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476591989068112000,
+					"id_str": "1476591989068111872",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FH3olzqXoAASZ7R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH3olzqXoAASZ7R.jpg",
+					"url": "https://t.co/cPCggMhpBs",
+					"display_url": "pic.twitter.com/cPCggMhpBs",
+					"expanded_url": "https://twitter.com/Dr_Paul_Penn/status/1476591990800359431/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 658,
+							"h": 552,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 658,
+							"h": 552,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126081823191326700,
+			"id_str": "1126081823191326720",
+			"name": "Dr. Paul Penn 💙",
+			"screen_name": "Dr_Paul_Penn",
+			"location": "London, England",
+			"description": "Psychology Teacher of The Year 2021 & Author of 'The Psychology of Effective Studying'. YouTube channel: https://t.co/U4mMOXjjrR…",
+			"url": "https://t.co/eSjUBI1ijT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSjUBI1ijT",
+							"expanded_url": "https://www.drpaulpenn.com/",
+							"display_url": "drpaulpenn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U4mMOXjjrR",
+							"expanded_url": "http://youtube.com/psychologyofef",
+							"display_url": "youtube.com/psychologyofef",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1812,
+			"friends_count": 2183,
+			"listed_count": 20,
+			"created_at": "Wed May 08 11:10:03 +0000 2019",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476907462250962950/0EZVIl9k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476907462250962950/0EZVIl9k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126081823191326720/1567508029",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 247,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet the subject of my planned next YouTube video: the learning pyramid. This will be the first vid in a new playlist on myths and misconceptions about learning. Unfortunately, since it will be delivered in audio visual format, you'll only remember 20% of it. ;-) https://t.co/cPCggMhpBs"
+	},
+	{
+		"created_at": "Fri Dec 31 12:19:15 +0000 2021",
+		"id": 1476869355581358000,
+		"id_str": "1476890695709376555",
+		"full_text": "#LTHEchat via NodeXL https://t.co/a8dbFbxeN7\n@fieryred1\n@hintondm\n@lthechat\n@leefallin\n@sfaulknerpando\n@scottturneruon\n@naerjournal\n@virnarossi\n@alejandroa\n@this0499154500\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#highered\n#flexiblelearning\n#altc\n#edchateu\n#creativehe /",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "advancehe_chat",
+					"indices": [
+						197,
+						212
+					]
+				},
+				{
+					"text": "highered",
+					"indices": [
+						213,
+						222
+					]
+				},
+				{
+					"text": "flexiblelearning",
+					"indices": [
+						223,
+						240
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "edchateu",
+					"indices": [
+						247,
+						256
+					]
+				},
+				{
+					"text": "creativehe",
+					"indices": [
+						257,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FieryRed1",
+					"name": "Fiery Red",
+					"id": 39770645,
+					"id_str": "39770645",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "hintondm",
+					"name": "Danielle M Hinton (SFHEA) 🇦🇺🇬🇧🇹🇿",
+					"id": 36370231,
+					"id_str": "36370231",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"screen_name": "SFaulknerPandO",
+					"name": "Suzanne Faulkner 👻📱🛴",
+					"id": 859771153321259000,
+					"id_str": "859771153321259009",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"screen_name": "NAERJournal",
+					"name": "Journal NAER",
+					"id": 636791240,
+					"id_str": "636791240",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"screen_name": "alejandroa",
+					"name": "Alejandro Armellini",
+					"id": 17308664,
+					"id_str": "17308664",
+					"indices": [
+						144,
+						155
+					]
+				},
+				{
+					"screen_name": "this0499154500",
+					"name": "Tree Wise Monkey",
+					"id": 1443840264213311500,
+					"id_str": "1443840264213311536",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a8dbFbxeN7",
+					"expanded_url": "https://bit.ly/32w8auw",
+					"display_url": "bit.ly/32w8auw",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1443840264213311500,
+			"id_str": "1443840264213311536",
+			"name": "Tree Wise Monkey",
+			"screen_name": "this0499154500",
+			"location": "rooftop ",
+			"description": "#nft #data #business #social #Moneymatters5\n#13thingsalien this is a myself to help you find the best",
+			"url": "https://t.co/yW1s5MlEkl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yW1s5MlEkl",
+							"expanded_url": "http://0499154500.eu",
+							"display_url": "0499154500.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 193,
+			"listed_count": 7,
+			"created_at": "Fri Oct 01 07:29:12 +0000 2021",
+			"favourites_count": 4126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443845612445839401/cczEDG9W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443845612445839401/cczEDG9W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1443840264213311536/1633074659",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat via NodeXL https://t.co/a8dbFbxeN7\n@fieryred1\n@hintondm\n@lthechat\n@leefallin\n@sfaulknerpando\n@scottturneruon\n@naerjournal\n@virnarossi\n@alejandroa\n@this0499154500\n\nTop hashtags:\n#lthechat\n#advancehe_chat\n#highered\n#flexiblelearning\n#altc\n#edchateu\n#creativehe /"
+	},
+	{
+		"created_at": "Fri Dec 31 10:32:46 +0000 2021",
+		"id": 1476863895776206800,
+		"id_str": "1476863895776206916",
+		"full_text": "I don’t normally share products - but last year we got our Ninja Foodie items in the Black Friday sale. They’ve been used more over the last year than our oven. \n\nWorked great for extra oven space this Christmas too 🤗\n\nOn sale today @ Amazon. https://t.co/PwJmTU9FM7 https://t.co/fbQFV1vviF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PwJmTU9FM7",
+					"expanded_url": "https://amzn.to/3pEBRlK",
+					"display_url": "amzn.to/3pEBRlK",
+					"indices": [
+						243,
+						266
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476863892060053500,
+					"id_str": "1476863892060053536",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7f4pPXICARLyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7f4pPXICARLyc.jpg",
+					"url": "https://t.co/fbQFV1vviF",
+					"display_url": "pic.twitter.com/fbQFV1vviF",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1476863895776206916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476863892060053500,
+					"id_str": "1476863892060053536",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7f4pPXICARLyc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7f4pPXICARLyc.jpg",
+					"url": "https://t.co/fbQFV1vviF",
+					"display_url": "pic.twitter.com/fbQFV1vviF",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1476863895776206916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1218,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1522,
+			"friends_count": 1307,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t normally share products - but last year we got our Ninja Foodie items in the Black Friday sale. They’ve been used more over the last year than our oven. \n\nWorked great for extra oven space this Christmas too 🤗\n\nOn sale today @ Amazon. https://t.co/PwJmTU9FM7 https://t.co/fbQFV1vviF"
+	},
+	{
+		"created_at": "Fri Dec 31 10:18:32 +0000 2021",
+		"id": 1476580189316563000,
+		"id_str": "1476860315866382337",
+		"full_text": "I love finding the perfect images when designing my PowerPoint slides.\nHere are 12 platforms for finding FREE visuals (icons, stock photos) for your presentations, lectures, and websites! I'll let you know my favorites 👇\n@AcademicChatter #AcademicTwitter @OpenAcademics #PhDchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						238,
+						254
+					]
+				},
+				{
+					"text": "PhDchat",
+					"indices": [
+						270,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AcademicChatter",
+					"name": "Academic Chatter",
+					"id": 885953601067208700,
+					"id_str": "885953601067208705",
+					"indices": [
+						221,
+						237
+					]
+				},
+				{
+					"screen_name": "OpenAcademics",
+					"name": "OpenAcademics",
+					"id": 1202683638308950000,
+					"id_str": "1202683638308950017",
+					"indices": [
+						255,
+						269
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1165013842574753800,
+			"id_str": "1165013842574753792",
+			"name": "Jessica Rodrigues",
+			"screen_name": "rodriguesjm6",
+			"location": "University of Missouri",
+			"description": "Assistant Professor “JRod” @SPEDMizzou Exploring strategies for sharing research & for supporting all students' fractions & math success @MathLabatMizzou",
+			"url": "https://t.co/VFEDauCo4I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VFEDauCo4I",
+							"expanded_url": "https://jmrodrigues210.wixsite.com/jrod",
+							"display_url": "jmrodrigues210.wixsite.com/jrod",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3563,
+			"friends_count": 2324,
+			"listed_count": 131,
+			"created_at": "Fri Aug 23 21:32:10 +0000 2019",
+			"favourites_count": 3056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165678018842349568/8JZwqMdH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165678018842349568/8JZwqMdH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1165013842574753792/1631756808",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1572,
+		"favorite_count": 7129,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I love finding the perfect images when designing my PowerPoint slides.\nHere are 12 platforms for finding FREE visuals (icons, stock photos) for your presentations, lectures, and websites! I'll let you know my favorites 👇\n@AcademicChatter #AcademicTwitter @OpenAcademics #PhDchat"
+	},
+	{
 		"created_at": "Wed Dec 29 13:41:06 +0000 2021",
 		"id": 1476186517227937800,
 		"id_str": "1476186517227937797",
@@ -39,7 +839,7 @@ Grailbird.data.tweets_2021_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 19:38:11 +0000 2022",
+		"id": 1480642307212861400,
+		"id_str": "1480987424008323074",
+		"full_text": "As promised: the learning pyramid debunked.\n\nhttps://t.co/cVxhqZodiJ\n\n@DrNanboury @doc_mcd @KatlLangley @gabs_finn @IdreesRasouli @LeeFallin @dlhampton @MissAPsychology @mindfulmiss1 @_mark_ord_ @GrahamHarperEng @LizPyne @VOCarro11 @instructlady @KeisOhtsuka @MissLapere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrNanboury",
+					"name": "Nancy M Boury",
+					"id": 1292829685,
+					"id_str": "1292829685",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "doc_mcd",
+					"name": "Sylvia McDonald",
+					"id": 1210667617,
+					"id_str": "1210667617",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"screen_name": "KatlLangley",
+					"name": "Katherine Langley",
+					"id": 2966769057,
+					"id_str": "2966769057",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"screen_name": "IdreesRasouli",
+					"name": "Idrees Rasouli",
+					"id": 2228175109,
+					"id_str": "2228175109",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"screen_name": "MissAPsychology",
+					"name": "Miss A 🧠",
+					"id": 1297954350594130000,
+					"id_str": "1297954350594129926",
+					"indices": [
+						152,
+						168
+					]
+				},
+				{
+					"screen_name": "mindfulmiss1",
+					"name": "Samira 🧠",
+					"id": 4230314116,
+					"id_str": "4230314116",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "_mark_ord_",
+					"name": "Dr Mark Ord",
+					"id": 20857844,
+					"id_str": "20857844",
+					"indices": [
+						183,
+						194
+					]
+				},
+				{
+					"screen_name": "GrahamHarperEng",
+					"name": "Graham Higginson",
+					"id": 810196121276600300,
+					"id_str": "810196121276600321",
+					"indices": [
+						195,
+						211
+					]
+				},
+				{
+					"screen_name": "LizPyne",
+					"name": "Dr Liz Pyne",
+					"id": 1536370116,
+					"id_str": "1536370116",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"screen_name": "VOCarro11",
+					"name": "Dr Veronica O'Carroll",
+					"id": 2249035592,
+					"id_str": "2249035592",
+					"indices": [
+						221,
+						231
+					]
+				},
+				{
+					"screen_name": "instructlady",
+					"name": "Instructional Design Lady",
+					"id": 1031544569429733400,
+					"id_str": "1031544569429733378",
+					"indices": [
+						232,
+						245
+					]
+				},
+				{
+					"screen_name": "KeisOhtsuka",
+					"name": "Dr Keis Ohtsuka كايس اوتسوكا 大塚啓輔 (he/him)💉x3",
+					"id": 32382158,
+					"id_str": "32382158",
+					"indices": [
+						246,
+						258
+					]
+				},
+				{
+					"screen_name": "MissLapere",
+					"name": "Linda Lapere",
+					"id": 48139707,
+					"id_str": "48139707",
+					"indices": [
+						259,
+						270
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cVxhqZodiJ",
+					"expanded_url": "https://www.youtube.com/watch?v=Y7JGUZznCRE&t=86s",
+					"display_url": "youtube.com/watch?v=Y7JGUZ…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126081823191326700,
+			"id_str": "1126081823191326720",
+			"name": "Dr. Paul Penn 💙",
+			"screen_name": "Dr_Paul_Penn",
+			"location": "London, England",
+			"description": "Psychology Teacher of The Year 2021 & Author of 'The Psychology of Effective Studying'. YouTube channel: https://t.co/U4mMOXjjrR…",
+			"url": "https://t.co/eSjUBI1ijT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSjUBI1ijT",
+							"expanded_url": "https://www.drpaulpenn.com/",
+							"display_url": "drpaulpenn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U4mMOXjjrR",
+							"expanded_url": "http://youtube.com/psychologyofef",
+							"display_url": "youtube.com/psychologyofef",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1866,
+			"friends_count": 2264,
+			"listed_count": 21,
+			"created_at": "Wed May 08 11:10:03 +0000 2019",
+			"favourites_count": 1915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126081823191326720/1567508029",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As promised: the learning pyramid debunked.\n\nhttps://t.co/cVxhqZodiJ\n\n@DrNanboury @doc_mcd @KatlLangley @gabs_finn @IdreesRasouli @LeeFallin @dlhampton @MissAPsychology @mindfulmiss1 @_mark_ord_ @GrahamHarperEng @LizPyne @VOCarro11 @instructlady @KeisOhtsuka @MissLapere"
+	},
+	{
 		"created_at": "Mon Jan 10 14:16:53 +0000 2022",
 		"id": 1480544175032615000,
 		"id_str": "1480544175032614918",
@@ -127,7 +405,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

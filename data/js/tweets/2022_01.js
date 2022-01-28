@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 23:02:33 +0000 2022",
+		"id": 1485575633329692700,
+		"id_str": "1486837056626114561",
+		"full_text": "On #EducationDay, retweet if you\n really\n   really\n     really\n       really\n       really\n     really\n  really\nreally\n  really\n   really\n     really\n       really\n       really\n     really\n   really\nwant #Education recognized as a global public good!\n\n📚https://t.co/JPXfabARCo https://t.co/SlTlzgXsX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EducationDay",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"text": "Education",
+					"indices": [
+						205,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JPXfabARCo",
+					"expanded_url": "http://on.unesco.org/2QJRWlq",
+					"display_url": "on.unesco.org/2QJRWlq",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485575631924572200,
+					"id_str": "1485575631924572162",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3TKpPXMAIBohC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3TKpPXMAIBohC.png",
+					"url": "https://t.co/SlTlzgXsX3",
+					"display_url": "pic.twitter.com/SlTlzgXsX3",
+					"expanded_url": "https://twitter.com/UNESCO/status/1485575633329692681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485575631924572200,
+					"id_str": "1485575631924572162",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3TKpPXMAIBohC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3TKpPXMAIBohC.png",
+					"url": "https://t.co/SlTlzgXsX3",
+					"display_url": "pic.twitter.com/SlTlzgXsX3",
+					"expanded_url": "https://twitter.com/UNESCO/status/1485575633329692681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20646711,
+			"id_str": "20646711",
+			"name": "UNESCO 🏛️ #Education #Sciences #Culture 🇺🇳😷",
+			"screen_name": "UNESCO",
+			"location": "",
+			"description": "Building peace where it starts - in the minds of men & women.\nOfficial Twitter account of UNESCO.\n\n#Education #Sciences #Culture #Communication #Information",
+			"url": "https://t.co/tqZKDX906K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tqZKDX906K",
+							"expanded_url": "https://en.unesco.org",
+							"display_url": "en.unesco.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3537383,
+			"friends_count": 2271,
+			"listed_count": 9980,
+			"created_at": "Thu Feb 12 01:46:13 +0000 2009",
+			"favourites_count": 25258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193577087308828678/qyDyCXQP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193577087308828678/qyDyCXQP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20646711/1636455945",
+			"profile_link_color": "0077D4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 564,
+		"favorite_count": 906,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On #EducationDay, retweet if you\n really\n   really\n     really\n       really\n       really\n     really\n  really\nreally\n  really\n   really\n     really\n       really\n       really\n     really\n   really\nwant #Education recognized as a global public good!\n\n📚https://t.co/JPXfabARCo https://t.co/SlTlzgXsX3"
+	},
+	{
 		"created_at": "Sat Jan 22 07:16:44 +0000 2022",
 		"id": 1484787097437446100,
 		"id_str": "1484787097437446147",
@@ -158,7 +358,7 @@ Grailbird.data.tweets_2022_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

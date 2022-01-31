@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 30 18:31:54 +0000 2022",
+		"id": 1486792388391669800,
+		"id_str": "1487856111139106820",
+		"full_text": "To enter a prize draw to win a copy of 'The Psychology Of Effective Studying' R/T by 04/02/22\n\nhttps://t.co/BupWw5WAEN\n\n@doc_mcd @KatlLangley @gabs_finn @LeeFallin @dlhampton @MissAPsychology @_mark_ord_ @GrahamHarperEng @LizPyne @VOCarro11 @instructlady @KeisOhtsuka\n @MissLapere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doc_mcd",
+					"name": "Sylvia McDonald",
+					"id": 1210667617,
+					"id_str": "1210667617",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"screen_name": "KatlLangley",
+					"name": "Katherine Langley",
+					"id": 2966769057,
+					"id_str": "2966769057",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "MissAPsychology",
+					"name": "Miss A 🧠",
+					"id": 1297954350594130000,
+					"id_str": "1297954350594129926",
+					"indices": [
+						175,
+						191
+					]
+				},
+				{
+					"screen_name": "_mark_ord_",
+					"name": "Dr Mark Ord",
+					"id": 20857844,
+					"id_str": "20857844",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"screen_name": "GrahamHarperEng",
+					"name": "Graham Higginson",
+					"id": 810196121276600300,
+					"id_str": "810196121276600321",
+					"indices": [
+						204,
+						220
+					]
+				},
+				{
+					"screen_name": "LizPyne",
+					"name": "Dr Liz Pyne",
+					"id": 1536370116,
+					"id_str": "1536370116",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"screen_name": "VOCarro11",
+					"name": "Dr Veronica O'Carroll",
+					"id": 2249035592,
+					"id_str": "2249035592",
+					"indices": [
+						230,
+						240
+					]
+				},
+				{
+					"screen_name": "instructlady",
+					"name": "Instructional Design Lady",
+					"id": 1031544569429733400,
+					"id_str": "1031544569429733378",
+					"indices": [
+						241,
+						254
+					]
+				},
+				{
+					"screen_name": "KeisOhtsuka",
+					"name": "Dr Keis Ohtsuka كايس اوتسوكا 大塚啓輔 (he/him)💉x3",
+					"id": 32382158,
+					"id_str": "32382158",
+					"indices": [
+						255,
+						267
+					]
+				},
+				{
+					"screen_name": "MissLapere",
+					"name": "Linda Lapere",
+					"id": 48139707,
+					"id_str": "48139707",
+					"indices": [
+						269,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BupWw5WAEN",
+					"expanded_url": "https://www.youtube.com/channel/UC2A0ShD0Ed_p-dgMorby97w",
+					"display_url": "youtube.com/channel/UC2A0S…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126081823191326700,
+			"id_str": "1126081823191326720",
+			"name": "Dr. Paul Penn 💙",
+			"screen_name": "Dr_Paul_Penn",
+			"location": "London, England",
+			"description": "Psychology Teacher of The Year 2021 & Author of 'The Psychology of Effective Studying'. YouTube channel: https://t.co/U4mMOXjjrR…",
+			"url": "https://t.co/eSjUBI1ijT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSjUBI1ijT",
+							"expanded_url": "https://www.drpaulpenn.com/",
+							"display_url": "drpaulpenn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U4mMOXjjrR",
+							"expanded_url": "http://youtube.com/psychologyofef",
+							"display_url": "youtube.com/psychologyofef",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1907,
+			"friends_count": 2299,
+			"listed_count": 21,
+			"created_at": "Wed May 08 11:10:03 +0000 2019",
+			"favourites_count": 1940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126081823191326720/1567508029",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To enter a prize draw to win a copy of 'The Psychology Of Effective Studying' R/T by 04/02/22\n\nhttps://t.co/BupWw5WAEN\n\n@doc_mcd @KatlLangley @gabs_finn @LeeFallin @dlhampton @MissAPsychology @_mark_ord_ @GrahamHarperEng @LizPyne @VOCarro11 @instructlady @KeisOhtsuka\n @MissLapere"
+	},
+	{
 		"created_at": "Thu Jan 27 23:02:33 +0000 2022",
 		"id": 1485575633329692700,
 		"id_str": "1486837056626114561",

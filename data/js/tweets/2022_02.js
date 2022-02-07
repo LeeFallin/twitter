@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 06 15:22:56 +0000 2022",
+		"id": 1490049119674638300,
+		"id_str": "1490345269728272387",
+		"full_text": "Many doctoral curricula aim to produce narrowly focused researchers rather than critical thinkers. That can and must change, says Gundula Bosch.\n\n@PhDVoice #phdlife #CriticalThinking https://t.co/uPuddErolj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "phdlife",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "CriticalThinking",
+					"indices": [
+						165,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhDVoice",
+					"name": "The PhD Voice",
+					"id": 1168227245338628000,
+					"id_str": "1168227245338628096",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490047840810422300,
+					"id_str": "1490047840810422277",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FK22ndnX0AUi8iz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK22ndnX0AUi8iz.jpg",
+					"url": "https://t.co/uPuddErolj",
+					"display_url": "pic.twitter.com/uPuddErolj",
+					"expanded_url": "https://twitter.com/Jadson_Jall/status/1490049119674638337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1113,
+							"h": 1470,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490047840810422300,
+					"id_str": "1490047840810422277",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FK22ndnX0AUi8iz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK22ndnX0AUi8iz.jpg",
+					"url": "https://t.co/uPuddErolj",
+					"display_url": "pic.twitter.com/uPuddErolj",
+					"expanded_url": "https://twitter.com/Jadson_Jall/status/1490049119674638337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1113,
+							"h": 1470,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2948102601,
+			"id_str": "2948102601",
+			"name": "Jadson C. Santos",
+			"screen_name": "Jadson_Jall",
+			"location": "Brasil",
+			"description": "Ph.D. Candidate | Biologist | Professional Coach | Founder and Mentor of SSK Mentoring | Member of @ICFHQ, @InstofCoaching, @PMInstitute, @aaas, and @INSciTS",
+			"url": "https://t.co/g82mmY2NLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g82mmY2NLu",
+							"expanded_url": "http://www.linkedin.com/company/sskmentoring",
+							"display_url": "linkedin.com/company/sskmen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2774,
+			"friends_count": 3198,
+			"listed_count": 52,
+			"created_at": "Mon Dec 29 03:00:09 +0000 2014",
+			"favourites_count": 8687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1488234889099022342/tt1LXuNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488234889099022342/tt1LXuNc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2948102601/1631205060",
+			"profile_link_color": "2200BB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 141,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many doctoral curricula aim to produce narrowly focused researchers rather than critical thinkers. That can and must change, says Gundula Bosch.\n\n@PhDVoice #phdlife #CriticalThinking https://t.co/uPuddErolj"
+	},
+	{
 		"created_at": "Tue Feb 01 21:50:00 +0000 2022",
 		"id": 1488630741877547000,
 		"id_str": "1488630741877547011",
@@ -38,7 +239,7 @@ Grailbird.data.tweets_2022_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -278,7 +479,7 @@ Grailbird.data.tweets_2022_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -452,7 +653,7 @@ Grailbird.data.tweets_2022_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

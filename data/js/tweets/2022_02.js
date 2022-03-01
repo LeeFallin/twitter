@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 13:36:20 +0000 2022",
+		"id": 1498247459826548700,
+		"id_str": "1498290978087653376",
+		"full_text": "This week the fantastic @jaxbartram will be delivering a workshop for us on design theory and creating engaging slides to use within your teaching\n\n▶️ Weds 2nd March\n▶️ 14:00 - 15:00\n\nhttps://t.co/MXsUsnwwi3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MXsUsnwwi3",
+					"expanded_url": "https://libcal.hull.ac.uk/event/3827600",
+					"display_url": "libcal.hull.ac.uk/event/3827600",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914481006,
+			"id_str": "914481006",
+			"name": "Teaching Excellence Academy",
+			"screen_name": "UoHAcademy",
+			"location": "The University of Hull, UK",
+			"description": "Latest news from the team as we look to celebrate, develop and promote excellent teaching at @UniofHull.",
+			"url": "https://t.co/jpQpljYSrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpQpljYSrP",
+							"expanded_url": "http://hull.ac.uk/academy",
+							"display_url": "hull.ac.uk/academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1123,
+			"friends_count": 768,
+			"listed_count": 20,
+			"created_at": "Tue Oct 30 12:02:43 +0000 2012",
+			"favourites_count": 1590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142066391329230850/5iDA3Txv_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914481006/1533221368",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This week the fantastic @jaxbartram will be delivering a workshop for us on design theory and creating engaging slides to use within your teaching\n\n▶️ Weds 2nd March\n▶️ 14:00 - 15:00\n\nhttps://t.co/MXsUsnwwi3"
+	},
+	{
 		"created_at": "Fri Feb 18 19:44:46 +0000 2022",
 		"id": 1494572867400441900,
 		"id_str": "1494759818304708611",

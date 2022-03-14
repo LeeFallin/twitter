@@ -1,10 +1,127 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 13 01:55:20 +0000 2022",
+		"id": 1502825607339651000,
+		"id_str": "1502825607339651079",
+		"full_text": "@shaunreeves @ChrisHeadleand Last time I over thought cartoons, I went into a rant about Paw Patrol and it’s propagation of neoliberal ideals… \n\nsometimes it is best to let things slide 🤣",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shaunreeves",
+					"name": "Shaun Reeves",
+					"id": 28086931,
+					"id_str": "28086931",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Prof. Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1502586794285617200,
+		"in_reply_to_status_id_str": "1502586794285617153",
+		"in_reply_to_user_id": 28086931,
+		"in_reply_to_user_id_str": "28086931",
+		"in_reply_to_screen_name": "shaunreeves",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1537,
+			"friends_count": 1311,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shaunreeves @ChrisHeadleand Last time I over thought cartoons, I went into a rant about Paw Patrol and it’s propagation of neoliberal ideals… \n\nsometimes it is best to let things slide 🤣"
+	},
+	{
 		"created_at": "Sat Mar 12 09:08:47 +0000 2022",
 		"id": 1490321314120355800,
 		"id_str": "1502572298833993731",
-		"full_text": "Submitted my SSC Project ✅\n\nChoosing this as my topic was important to me.\nI was closeted when I started this essay, I am now fully out. It also introduced me to @GLADDUK’s Med Schools Charter which I’m now lobbying for my school to sign.\n\nNo matter what score I get, I’m proud🏳️‍🌈 https://t.co/KXs89yNvQY",
+		"full_text": "Submitted my SSC Project ✅\n\nChoosing this as my topic was important to me.\nI was closeted when I started this essay, I am now fully out. It also introduced me to @GLADDUK’s Med Schools Charter which I’m now lobbying for my school to sign.\n\nNo matter what score I get, I’m proud🏳️🌈 https://t.co/KXs89yNvQY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -117,7 +234,7 @@ Grailbird.data.tweets_2022_03 =
 			"name": "Paddy Doherty",
 			"screen_name": "_PaddyDoherty_",
 			"location": "Belfast, Northern Ireland",
-			"description": "QUB Medical Student | 🏳️‍🌈| Content Creator & Writer | LGBTQ+ & Disability Advocate | He/Him | All views my own 🇺🇦💪",
+			"description": "QUB Medical Student | 🏳️🌈| Content Creator & Writer | LGBTQ+ & Disability Advocate | He/Him | All views my own 🇺🇦💪",
 			"url": "https://t.co/tfAoW63hIB",
 			"entities": {
 				"url": {
@@ -184,7 +301,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Submitted my SSC Project ✅\n\nChoosing this as my topic was important to me.\nI was closeted when I started this essay, I am now fully out. It also introduced me to @GLADDUK’s Med Schools Charter which I’m now lobbying for my school to sign.\n\nNo matter what score I get, I’m proud🏳️‍🌈 https://t.co/KXs89yNvQY"
+		"text": "Submitted my SSC Project ✅\n\nChoosing this as my topic was important to me.\nI was closeted when I started this essay, I am now fully out. It also introduced me to @GLADDUK’s Med Schools Charter which I’m now lobbying for my school to sign.\n\nNo matter what score I get, I’m proud🏳️🌈 https://t.co/KXs89yNvQY"
 	},
 	{
 		"created_at": "Wed Mar 09 10:38:27 +0000 2022",

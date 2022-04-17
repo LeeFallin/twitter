@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 16 18:18:30 +0000 2022",
+		"id": 1515301192716402700,
+		"id_str": "1515394217132048393",
+		"full_text": "Here's a little story from when I was a teacher. Bear with me awhile; it's relevant, and explains what I feel about Partygate.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131223120,
+			"id_str": "131223120",
+			"name": "Joanne Harris",
+			"screen_name": "Joannechocolat",
+			"location": "The Shed",
+			"description": "There's no sense crying over every mistake.\nYou just keep on trying till you run out of cake.\nViews, model’s own. She/they https://t.co/NugrOpcQyR",
+			"url": "https://t.co/GZRMRckhDq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GZRMRckhDq",
+							"expanded_url": "http://joanne-harris.co.uk",
+							"display_url": "joanne-harris.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NugrOpcQyR",
+							"expanded_url": "http://ko-fi.com/story",
+							"display_url": "ko-fi.com/story",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95909,
+			"friends_count": 996,
+			"listed_count": 1152,
+			"created_at": "Fri Apr 09 16:56:36 +0000 2010",
+			"favourites_count": 49230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 164413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513529910047956992/PHhC55QQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513529910047956992/PHhC55QQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131223120/1628012483",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "122066",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4437,
+		"favorite_count": 14276,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Here's a little story from when I was a teacher. Bear with me awhile; it's relevant, and explains what I feel about Partygate."
+	},
+	{
 		"created_at": "Thu Apr 14 15:01:55 +0000 2022",
 		"id": 1514619969262129200,
 		"id_str": "1514619969262129153",
@@ -38,7 +144,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

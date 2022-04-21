@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 20:56:48 +0000 2022",
+		"id": 1516883604336480300,
+		"id_str": "1516883604336480256",
+		"full_text": "New levels of procrastination tonight. I’ve filed my 2021-22 Self-Assessment Taxes 🤣😂🤣",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1538,
+			"friends_count": 1316,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "New levels of procrastination tonight. I’ve filed my 2021-22 Self-Assessment Taxes 🤣😂🤣"
+	},
+	{
+		"created_at": "Wed Apr 20 13:33:01 +0000 2022",
+		"id": 1516771924365430800,
+		"id_str": "1516771924365430789",
+		"full_text": "This is shaping up to be an excellent video series 😁\n\nThanks @Dr_Paul_Penn https://t.co/cRY73ExhjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						61,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cRY73ExhjG",
+					"expanded_url": "https://twitter.com/Dr_Paul_Penn/status/1516740974441021447",
+					"display_url": "twitter.com/Dr_Paul_Penn/s…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1538,
+			"friends_count": 1316,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516740974441021400,
+		"quoted_status_id_str": "1516740974441021447",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cRY73ExhjG",
+			"expanded": "https://twitter.com/Dr_Paul_Penn/status/1516740974441021447",
+			"display": "twitter.com/Dr_Paul_Penn/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 20 11:30:02 +0000 2022",
+			"id": 1516740974441021400,
+			"id_str": "1516740974441021447",
+			"full_text": "New YouTube video: Laptop vs Longhand note-taking. \nhttps://t.co/zmHGsheSYG\nOf interest?\n\n@IdreesRasouli @dlhampton @LeeFallin\n@gabs_finn @MargyMacLibrary @MHmattersSOS\n@MikeTylerSport @LauraJks2015 @__TweetinChar__\n@DrLeeCoutts @SChewPsych @ZorynaODonnell\n@drlwhelen",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IdreesRasouli",
+						"name": "Idrees Rasouli",
+						"id": 2228175109,
+						"id_str": "2228175109",
+						"indices": [
+							90,
+							104
+						]
+					},
+					{
+						"screen_name": "dlhampton",
+						"name": "Debbie Hampton",
+						"id": 16275858,
+						"id_str": "16275858",
+						"indices": [
+							105,
+							115
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Dr Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							116,
+							126
+						]
+					},
+					{
+						"screen_name": "gabs_finn",
+						"name": "Prof Gabrielle Finn",
+						"id": 2248968164,
+						"id_str": "2248968164",
+						"indices": [
+							127,
+							137
+						]
+					},
+					{
+						"screen_name": "MargyMacLibrary",
+						"name": "margy maclibrary",
+						"id": 381743098,
+						"id_str": "381743098",
+						"indices": [
+							138,
+							154
+						]
+					},
+					{
+						"screen_name": "MHmattersSOS",
+						"name": "Mental Health Matters",
+						"id": 240193193,
+						"id_str": "240193193",
+						"indices": [
+							155,
+							168
+						]
+					},
+					{
+						"screen_name": "MikeTylerSport",
+						"name": "Mike Tyler ن",
+						"id": 339031743,
+						"id_str": "339031743",
+						"indices": [
+							169,
+							184
+						]
+					},
+					{
+						"screen_name": "LauraJks2015",
+						"name": "Dr Laura Jenkins",
+						"id": 2411332987,
+						"id_str": "2411332987",
+						"indices": [
+							185,
+							198
+						]
+					},
+					{
+						"screen_name": "__TweetinChar__",
+						"name": ".CharlotteS.NaN.🇺🇦",
+						"id": 2919723412,
+						"id_str": "2919723412",
+						"indices": [
+							199,
+							215
+						]
+					},
+					{
+						"screen_name": "DrLeeCoutts",
+						"name": "Dr Lee Coutts",
+						"id": 783659789008199700,
+						"id_str": "783659789008199682",
+						"indices": [
+							216,
+							228
+						]
+					},
+					{
+						"screen_name": "SChewPsych",
+						"name": "Stephen Chew",
+						"id": 2273990546,
+						"id_str": "2273990546",
+						"indices": [
+							229,
+							240
+						]
+					},
+					{
+						"screen_name": "ZorynaODonnell",
+						"name": "Zoryna O'Donnell",
+						"id": 788057632535896000,
+						"id_str": "788057632535896064",
+						"indices": [
+							241,
+							256
+						]
+					},
+					{
+						"screen_name": "drlwhelen",
+						"name": "Dr Liz Whelen",
+						"id": 2229274389,
+						"id_str": "2229274389",
+						"indices": [
+							257,
+							267
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zmHGsheSYG",
+						"expanded_url": "https://www.youtube.com/watch?v=TXLHxf__poE",
+						"display_url": "youtube.com/watch?v=TXLHxf…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1126081823191326700,
+				"id_str": "1126081823191326720",
+				"name": "Dr. Paul Penn 💙",
+				"screen_name": "Dr_Paul_Penn",
+				"location": "London, England",
+				"description": "Psychology Teacher of The Year 2021 & Author of 'The Psychology of Effective Studying'. YouTube channel: https://t.co/U4mMOXjjrR…",
+				"url": "https://t.co/eSjUBI1ijT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSjUBI1ijT",
+								"expanded_url": "https://www.drpaulpenn.com/",
+								"display_url": "drpaulpenn.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/U4mMOXjjrR",
+								"expanded_url": "http://youtube.com/psychologyofef",
+								"display_url": "youtube.com/psychologyofef",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1976,
+				"friends_count": 2384,
+				"listed_count": 25,
+				"created_at": "Wed May 08 11:10:03 +0000 2019",
+				"favourites_count": 2031,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2478,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126081823191326720/1567508029",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is shaping up to be an excellent video series 😁\n\nThanks @Dr_Paul_Penn https://t.co/cRY73ExhjG"
+	},
+	{
 		"created_at": "Sat Apr 16 18:18:30 +0000 2022",
 		"id": 1515301192716402700,
 		"id_str": "1515394217132048393",

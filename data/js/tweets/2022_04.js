@@ -1,6 +1,1141 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 20:06:20 +0000 2022",
+		"id": 1517233291576983600,
+		"id_str": "1517233291576983553",
+		"full_text": "@Dr_Paul_Penn @drlwhelen @__TweetinChar__ @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell A degree is — and should be hard work. Somewhere along the line. That sometimes gets forgotten. \n\nI don’t mean this in an elitist and excluding way. Students should have support to be successful — but hard work and time is an important part of that.",
+		"truncated": false,
+		"display_text_range": [
+			181,
+			430
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "drlwhelen",
+					"name": "Dr Liz Whelen",
+					"id": 2229274389,
+					"id_str": "2229274389",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "__TweetinChar__",
+					"name": ".CharlotteS.NaN.🇺🇦",
+					"id": 2919723412,
+					"id_str": "2919723412",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "MHmattersSOS",
+					"name": "Mental Health Matters",
+					"id": 240193193,
+					"id_str": "240193193",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "IdreesRasouli",
+					"name": "Idrees Rasouli",
+					"id": 2228175109,
+					"id_str": "2228175109",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						82,
+						92
+					]
+				},
+				{
+					"screen_name": "MargyMacLibrary",
+					"name": "margy maclibrary",
+					"id": 381743098,
+					"id_str": "381743098",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"screen_name": "MikeTylerSport",
+					"name": "Mike Tyler ن",
+					"id": 339031743,
+					"id_str": "339031743",
+					"indices": [
+						110,
+						125
+					]
+				},
+				{
+					"screen_name": "LauraJks2015",
+					"name": "Dr Laura Jenkins",
+					"id": 2411332987,
+					"id_str": "2411332987",
+					"indices": [
+						126,
+						139
+					]
+				},
+				{
+					"screen_name": "DrLeeCoutts",
+					"name": "Dr Lee Coutts",
+					"id": 783659789008199700,
+					"id_str": "783659789008199682",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"screen_name": "SChewPsych",
+					"name": "Stephen Chew",
+					"id": 2273990546,
+					"id_str": "2273990546",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"screen_name": "ZorynaODonnell",
+					"name": "Zoryna O'Donnell",
+					"id": 788057632535896000,
+					"id_str": "788057632535896064",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517166309619998700,
+		"in_reply_to_status_id_str": "1517166309619998721",
+		"in_reply_to_user_id": 1126081823191326700,
+		"in_reply_to_user_id_str": "1126081823191326720",
+		"in_reply_to_screen_name": "Dr_Paul_Penn",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1318,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dr_Paul_Penn @drlwhelen @__TweetinChar__ @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell A degree is — and should be hard work. Somewhere along the line. That sometimes gets forgotten. \n\nI don’t mean this in an elitist and excluding way. Students should have support to be successful — but hard work and time is an important part of that."
+	},
+	{
+		"created_at": "Thu Apr 21 20:04:26 +0000 2022",
+		"id": 1517232813833171000,
+		"id_str": "1517232813833170945",
+		"full_text": "@__TweetinChar__ @Dr_Paul_Penn @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen …and if they focused on learning - and building understanding. They’d be well on the way to that success!\n\n(Including a need to develop their broader academic literacies - all the hidden curriculum stuff that enables them to articulate their learning)",
+		"truncated": false,
+		"display_text_range": [
+			181,
+			432
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "__TweetinChar__",
+					"name": ".CharlotteS.NaN.🇺🇦",
+					"id": 2919723412,
+					"id_str": "2919723412",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "MHmattersSOS",
+					"name": "Mental Health Matters",
+					"id": 240193193,
+					"id_str": "240193193",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "IdreesRasouli",
+					"name": "Idrees Rasouli",
+					"id": 2228175109,
+					"id_str": "2228175109",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "MargyMacLibrary",
+					"name": "margy maclibrary",
+					"id": 381743098,
+					"id_str": "381743098",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"screen_name": "MikeTylerSport",
+					"name": "Mike Tyler ن",
+					"id": 339031743,
+					"id_str": "339031743",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "LauraJks2015",
+					"name": "Dr Laura Jenkins",
+					"id": 2411332987,
+					"id_str": "2411332987",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "DrLeeCoutts",
+					"name": "Dr Lee Coutts",
+					"id": 783659789008199700,
+					"id_str": "783659789008199682",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "SChewPsych",
+					"name": "Stephen Chew",
+					"id": 2273990546,
+					"id_str": "2273990546",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"screen_name": "ZorynaODonnell",
+					"name": "Zoryna O'Donnell",
+					"id": 788057632535896000,
+					"id_str": "788057632535896064",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "drlwhelen",
+					"name": "Dr Liz Whelen",
+					"id": 2229274389,
+					"id_str": "2229274389",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517232447745888300,
+		"in_reply_to_status_id_str": "1517232447745888261",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1318,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@__TweetinChar__ @Dr_Paul_Penn @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen …and if they focused on learning - and building understanding. They’d be well on the way to that success!\n\n(Including a need to develop their broader academic literacies - all the hidden curriculum stuff that enables them to articulate their learning)"
+	},
+	{
+		"created_at": "Thu Apr 21 20:02:59 +0000 2022",
+		"id": 1517232447745888300,
+		"id_str": "1517232447745888261",
+		"full_text": "@__TweetinChar__ @Dr_Paul_Penn @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen At this point I blame assessment. Students are taught to pass assessments at school and they expect the same in HE. So they try to game assessments. A lot of them time the broader goal of learning is lost to a desire to pass the next assessment.",
+		"truncated": false,
+		"display_text_range": [
+			181,
+			426
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "__TweetinChar__",
+					"name": ".CharlotteS.NaN.🇺🇦",
+					"id": 2919723412,
+					"id_str": "2919723412",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "MHmattersSOS",
+					"name": "Mental Health Matters",
+					"id": 240193193,
+					"id_str": "240193193",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "IdreesRasouli",
+					"name": "Idrees Rasouli",
+					"id": 2228175109,
+					"id_str": "2228175109",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "MargyMacLibrary",
+					"name": "margy maclibrary",
+					"id": 381743098,
+					"id_str": "381743098",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"screen_name": "MikeTylerSport",
+					"name": "Mike Tyler ن",
+					"id": 339031743,
+					"id_str": "339031743",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "LauraJks2015",
+					"name": "Dr Laura Jenkins",
+					"id": 2411332987,
+					"id_str": "2411332987",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "DrLeeCoutts",
+					"name": "Dr Lee Coutts",
+					"id": 783659789008199700,
+					"id_str": "783659789008199682",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "SChewPsych",
+					"name": "Stephen Chew",
+					"id": 2273990546,
+					"id_str": "2273990546",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"screen_name": "ZorynaODonnell",
+					"name": "Zoryna O'Donnell",
+					"id": 788057632535896000,
+					"id_str": "788057632535896064",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "drlwhelen",
+					"name": "Dr Liz Whelen",
+					"id": 2229274389,
+					"id_str": "2229274389",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517231451317620700,
+		"in_reply_to_status_id_str": "1517231451317620737",
+		"in_reply_to_user_id": 2919723412,
+		"in_reply_to_user_id_str": "2919723412",
+		"in_reply_to_screen_name": "__TweetinChar__",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1318,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@__TweetinChar__ @Dr_Paul_Penn @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen At this point I blame assessment. Students are taught to pass assessments at school and they expect the same in HE. So they try to game assessments. A lot of them time the broader goal of learning is lost to a desire to pass the next assessment."
+	},
+	{
+		"created_at": "Thu Apr 21 20:01:24 +0000 2022",
+		"id": 1517232050998284300,
+		"id_str": "1517232050998284288",
+		"full_text": "@Dr_Paul_Penn @__TweetinChar__ @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen I find this quite troublesome. A lot of books, literature and even universities pitch the lecture as an opportunity to ‘hear from an expert’. NOT ‘be broadly introduced to a topic to a sufficient level  that you can undertake independent learning to build your understanding’ etc",
+		"truncated": false,
+		"display_text_range": [
+			181,
+			460
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "__TweetinChar__",
+					"name": ".CharlotteS.NaN.🇺🇦",
+					"id": 2919723412,
+					"id_str": "2919723412",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "MHmattersSOS",
+					"name": "Mental Health Matters",
+					"id": 240193193,
+					"id_str": "240193193",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "IdreesRasouli",
+					"name": "Idrees Rasouli",
+					"id": 2228175109,
+					"id_str": "2228175109",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "MargyMacLibrary",
+					"name": "margy maclibrary",
+					"id": 381743098,
+					"id_str": "381743098",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"screen_name": "MikeTylerSport",
+					"name": "Mike Tyler ن",
+					"id": 339031743,
+					"id_str": "339031743",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "LauraJks2015",
+					"name": "Dr Laura Jenkins",
+					"id": 2411332987,
+					"id_str": "2411332987",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "DrLeeCoutts",
+					"name": "Dr Lee Coutts",
+					"id": 783659789008199700,
+					"id_str": "783659789008199682",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "SChewPsych",
+					"name": "Stephen Chew",
+					"id": 2273990546,
+					"id_str": "2273990546",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"screen_name": "ZorynaODonnell",
+					"name": "Zoryna O'Donnell",
+					"id": 788057632535896000,
+					"id_str": "788057632535896064",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "drlwhelen",
+					"name": "Dr Liz Whelen",
+					"id": 2229274389,
+					"id_str": "2229274389",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517143293762564000,
+		"in_reply_to_status_id_str": "1517143293762564096",
+		"in_reply_to_user_id": 1126081823191326700,
+		"in_reply_to_user_id_str": "1126081823191326720",
+		"in_reply_to_screen_name": "Dr_Paul_Penn",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1318,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dr_Paul_Penn @__TweetinChar__ @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen I find this quite troublesome. A lot of books, literature and even universities pitch the lecture as an opportunity to ‘hear from an expert’. NOT ‘be broadly introduced to a topic to a sufficient level  that you can undertake independent learning to build your understanding’ etc"
+	},
+	{
+		"created_at": "Thu Apr 21 19:58:03 +0000 2022",
+		"id": 1517231207658004500,
+		"id_str": "1517231207658004480",
+		"full_text": "@__TweetinChar__ @Dr_Paul_Penn @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen That - or it changes their approach entirely. \n\nWhy take notes when I can just re-watch this? It can produce attitudes they are less favourable to learning. \n\nI know that isn’t all students, and research shows it’s a minority. But I think I encourages some to try and ‘cram’",
+		"truncated": false,
+		"display_text_range": [
+			181,
+			455
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "__TweetinChar__",
+					"name": ".CharlotteS.NaN.🇺🇦",
+					"id": 2919723412,
+					"id_str": "2919723412",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "MHmattersSOS",
+					"name": "Mental Health Matters",
+					"id": 240193193,
+					"id_str": "240193193",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "IdreesRasouli",
+					"name": "Idrees Rasouli",
+					"id": 2228175109,
+					"id_str": "2228175109",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "dlhampton",
+					"name": "Debbie Hampton",
+					"id": 16275858,
+					"id_str": "16275858",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "gabs_finn",
+					"name": "Prof Gabrielle Finn",
+					"id": 2248968164,
+					"id_str": "2248968164",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "MargyMacLibrary",
+					"name": "margy maclibrary",
+					"id": 381743098,
+					"id_str": "381743098",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"screen_name": "MikeTylerSport",
+					"name": "Mike Tyler ن",
+					"id": 339031743,
+					"id_str": "339031743",
+					"indices": [
+						99,
+						114
+					]
+				},
+				{
+					"screen_name": "LauraJks2015",
+					"name": "Dr Laura Jenkins",
+					"id": 2411332987,
+					"id_str": "2411332987",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"screen_name": "DrLeeCoutts",
+					"name": "Dr Lee Coutts",
+					"id": 783659789008199700,
+					"id_str": "783659789008199682",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "SChewPsych",
+					"name": "Stephen Chew",
+					"id": 2273990546,
+					"id_str": "2273990546",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"screen_name": "ZorynaODonnell",
+					"name": "Zoryna O'Donnell",
+					"id": 788057632535896000,
+					"id_str": "788057632535896064",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "drlwhelen",
+					"name": "Dr Liz Whelen",
+					"id": 2229274389,
+					"id_str": "2229274389",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517141990453833700,
+		"in_reply_to_status_id_str": "1517141990453833730",
+		"in_reply_to_user_id": 2919723412,
+		"in_reply_to_user_id_str": "2919723412",
+		"in_reply_to_screen_name": "__TweetinChar__",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 1318,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@__TweetinChar__ @Dr_Paul_Penn @MHmattersSOS @IdreesRasouli @dlhampton @gabs_finn @MargyMacLibrary @MikeTylerSport @LauraJks2015 @DrLeeCoutts @SChewPsych @ZorynaODonnell @drlwhelen That - or it changes their approach entirely. \n\nWhy take notes when I can just re-watch this? It can produce attitudes they are less favourable to learning. \n\nI know that isn’t all students, and research shows it’s a minority. But I think I encourages some to try and ‘cram’"
+	},
+	{
 		"created_at": "Wed Apr 20 20:56:48 +0000 2022",
 		"id": 1516883604336480300,
 		"id_str": "1516883604336480256",
@@ -28,7 +1163,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -145,7 +1280,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

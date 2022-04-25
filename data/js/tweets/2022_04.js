@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 07:17:16 +0000 2022",
+		"id": 1517542892323156000,
+		"id_str": "1518126913906266112",
+		"full_text": "I was in shift at the library and a mum came in with her two little girls (maybe ~6 &amp; 4).\n\"I'm looking for Georgia\"\n\"Yes that's me\"\n\"I heard you can mend things\"\n\"Yes sometimes\"\n\"My daughter can't sleep without her bunny but he's so holey, can you help?\"\n\n1 hour later: https://t.co/kl8rUoWKVr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517542881699012600,
+					"id_str": "1517542881699012608",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9lNesXoAAGPBx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9lNesXoAAGPBx.jpg",
+					"url": "https://t.co/kl8rUoWKVr",
+					"display_url": "pic.twitter.com/kl8rUoWKVr",
+					"expanded_url": "https://twitter.com/sniphist/status/1517542892323155968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 664,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517542881699012600,
+					"id_str": "1517542881699012608",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9lNesXoAAGPBx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9lNesXoAAGPBx.jpg",
+					"url": "https://t.co/kl8rUoWKVr",
+					"display_url": "pic.twitter.com/kl8rUoWKVr",
+					"expanded_url": "https://twitter.com/sniphist/status/1517542892323155968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 664,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1517542886987997200,
+					"id_str": "1517542886987997184",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9lNyZXIAAu2lR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9lNyZXIAAu2lR.jpg",
+					"url": "https://t.co/kl8rUoWKVr",
+					"display_url": "pic.twitter.com/kl8rUoWKVr",
+					"expanded_url": "https://twitter.com/sniphist/status/1517542892323155968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 789,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 789,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 422819108,
+			"id_str": "422819108",
+			"name": "Georgia Grainger",
+			"screen_name": "sniphist",
+			"location": "Dundee, Scotland",
+			"description": "PhD @cshhh_glasgow researching the History of Vasectomy in the UK 🍒✂️ Tutor in History, #histmed and Gender Hist. Irish in Dundee  🌈 She/her, sí/í 💖",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3253,
+			"friends_count": 950,
+			"listed_count": 54,
+			"created_at": "Sun Nov 27 18:42:29 +0000 2011",
+			"favourites_count": 42224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201414503574851584/fY0L9kCl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201414503574851584/fY0L9kCl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/422819108/1434239403",
+			"profile_link_color": "2E8527",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 618,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was in shift at the library and a mum came in with her two little girls (maybe ~6 &amp; 4).\n\"I'm looking for Georgia\"\n\"Yes that's me\"\n\"I heard you can mend things\"\n\"Yes sometimes\"\n\"My daughter can't sleep without her bunny but he's so holey, can you help?\"\n\n1 hour later: https://t.co/kl8rUoWKVr"
+	},
+	{
 		"created_at": "Sat Apr 23 07:47:43 +0000 2022",
 		"id": 1517772187993882600,
 		"id_str": "1517772187993882624",
@@ -106,7 +304,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

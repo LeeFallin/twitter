@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 09:06:44 +0000 2022",
+		"id": 1520328791641706500,
+		"id_str": "1520328791641706497",
+		"full_text": "Available now 👇👇👇 https://t.co/h0SpT6T93s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h0SpT6T93s",
+					"expanded_url": "https://twitter.com/hulluni_library/status/1520032944680751107",
+					"display_url": "twitter.com/hulluni_librar…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1543,
+			"friends_count": 1317,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520032944680751000,
+		"quoted_status_id_str": "1520032944680751107",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h0SpT6T93s",
+			"expanded": "https://twitter.com/hulluni_library/status/1520032944680751107",
+			"display": "twitter.com/hulluni_librar…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 29 13:31:09 +0000 2022",
+			"id": 1520032944680751000,
+			"id_str": "1520032944680751107",
+			"full_text": "Our brand new @FutureLearn #MOOC is available to enrol:\n\nBeing a Digital Researcher: Digital Skills for Effective Research.\n\n@pgrhub @HullUniCareers #phdchat #phdlife #research @Vitae_news #HigherEd #LTHEchat\n\nhttps://t.co/pbHar2zlde",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MOOC",
+						"indices": [
+							27,
+							32
+						]
+					},
+					{
+						"text": "phdchat",
+						"indices": [
+							149,
+							157
+						]
+					},
+					{
+						"text": "phdlife",
+						"indices": [
+							158,
+							166
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							167,
+							176
+						]
+					},
+					{
+						"text": "HigherEd",
+						"indices": [
+							189,
+							198
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							199,
+							208
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FutureLearn",
+						"name": "FutureLearn",
+						"id": 999095640,
+						"id_str": "999095640",
+						"indices": [
+							14,
+							26
+						]
+					},
+					{
+						"screen_name": "pgrhub",
+						"name": "Doctoral College @ the University of Hull",
+						"id": 741579412295012400,
+						"id_str": "741579412295012352",
+						"indices": [
+							125,
+							132
+						]
+					},
+					{
+						"screen_name": "HullUniCareers",
+						"name": "Hull Uni Student Futures",
+						"id": 579814838,
+						"id_str": "579814838",
+						"indices": [
+							133,
+							148
+						]
+					},
+					{
+						"screen_name": "Vitae_news",
+						"name": "Vitae",
+						"id": 47305063,
+						"id_str": "47305063",
+						"indices": [
+							177,
+							188
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pbHar2zlde",
+						"expanded_url": "https://www.futurelearn.com/courses/being-a-digital-researcher-digital-skills-for-effective-research?utm_campaign=hull_bau&utm_medium=organic_social&utm_source=twitter",
+						"display_url": "futurelearn.com/courses/being-…",
+						"indices": [
+							210,
+							233
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239865033,
+				"id_str": "239865033",
+				"name": "Hull Uni Library",
+				"screen_name": "HullUni_Library",
+				"location": "Hull, East Yorkshire, UK",
+				"description": "News, events, training, information, new resources and alerts from the Brynmor Jones Library, at The University of Hull.",
+				"url": "https://t.co/TbBJdYe4pw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TbBJdYe4pw",
+								"expanded_url": "http://www.hull.ac.uk/lib",
+								"display_url": "hull.ac.uk/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7161,
+				"friends_count": 1327,
+				"listed_count": 84,
+				"created_at": "Tue Jan 18 16:18:18 +0000 2011",
+				"favourites_count": 3971,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CB812A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894580794018209794/VVaF0eRS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239865033/1469185125",
+				"profile_link_color": "CB812A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Available now 👇👇👇 https://t.co/h0SpT6T93s"
+	},
+	{
 		"created_at": "Fri Apr 29 13:33:33 +0000 2022",
 		"id": 1520032944680751000,
 		"id_str": "1520033546991284224",

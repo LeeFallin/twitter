@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 07 06:22:45 +0000 2022",
+		"id": 1522549674426749000,
+		"id_str": "1522824238327025664",
+		"full_text": "Written in that time before the pandemic and finally published. Proving the impact of learning development on our students. #DontCallMeKathryn\n@aldinhe_LH it might be useful for our member and friends https://t.co/zdKM5nKPlT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DontCallMeKathryn",
+					"indices": [
+						124,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE and LearnHigher",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522549663668347000,
+					"id_str": "1522549663668346887",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FSEu2i_XoAcDDHj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSEu2i_XoAcDDHj.jpg",
+					"url": "https://t.co/zdKM5nKPlT",
+					"display_url": "pic.twitter.com/zdKM5nKPlT",
+					"expanded_url": "https://twitter.com/k8tecoulson/status/1522549674426748928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1138,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522549663668347000,
+					"id_str": "1522549663668346887",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FSEu2i_XoAcDDHj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSEu2i_XoAcDDHj.jpg",
+					"url": "https://t.co/zdKM5nKPlT",
+					"display_url": "pic.twitter.com/zdKM5nKPlT",
+					"expanded_url": "https://twitter.com/k8tecoulson/status/1522549674426748928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 667,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1138,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044961696266297300,
+			"id_str": "1044961696266297345",
+			"name": "Kate Coulson",
+			"screen_name": "k8tecoulson",
+			"location": "Northamptonshire, UK",
+			"description": "Head of Learning & Teaching Enhancement   University of Northampton",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 405,
+			"friends_count": 429,
+			"listed_count": 2,
+			"created_at": "Wed Sep 26 14:47:37 +0000 2018",
+			"favourites_count": 2938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515225395477585921/Yb-Az7F-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515225395477585921/Yb-Az7F-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044961696266297345/1650092995",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Written in that time before the pandemic and finally published. Proving the impact of learning development on our students. #DontCallMeKathryn\n@aldinhe_LH it might be useful for our member and friends https://t.co/zdKM5nKPlT"
+	},
+	{
 		"created_at": "Fri May 06 16:19:19 +0000 2022",
 		"id": 1522611978186940400,
 		"id_str": "1522611978186940417",
@@ -39,7 +220,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

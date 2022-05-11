@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 21:50:16 +0000 2022",
+		"id": 1524124702674927600,
+		"id_str": "1524144819702013954",
+		"full_text": "You shouldn’t have to stay up all night to have a scholarly career.\n\nHere’s how to write more and faster, without sacrificing sleep:\n\n@openacademics @phd_genie #PhDLife",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhDLife",
+					"indices": [
+						160,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenAcademics",
+					"name": "OpenAcademics",
+					"id": 1202683638308950000,
+					"id_str": "1202683638308950017",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"screen_name": "PhD_Genie",
+					"name": "PhD_Genie",
+					"id": 1356891741195030500,
+					"id_str": "1356891741195030528",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230504455235391500,
+			"id_str": "1230504455235391488",
+			"name": "Betty S. Lai, PhD",
+			"screen_name": "BettySLai",
+			"location": "Download my Grant Tip Sheet ➡️",
+			"description": "Assoc Prof @bostoncollege. Tweets on how to navigate academia & get support for incredible ideas. Grant writing advice: https://t.co/TKTYZ0RUFW. #PhDLife",
+			"url": "https://t.co/0BaSnzErLI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0BaSnzErLI",
+							"expanded_url": "http://bettylai.com",
+							"display_url": "bettylai.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TKTYZ0RUFW",
+							"expanded_url": "http://bettylai.com/newsletter",
+							"display_url": "bettylai.com/newsletter",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8579,
+			"friends_count": 1444,
+			"listed_count": 62,
+			"created_at": "Thu Feb 20 14:48:26 +0000 2020",
+			"favourites_count": 46132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515023116870717440/t2EMpm64_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515023116870717440/t2EMpm64_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1230504455235391488/1608414579",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 846,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "You shouldn’t have to stay up all night to have a scholarly career.\n\nHere’s how to write more and faster, without sacrificing sleep:\n\n@openacademics @phd_genie #PhDLife"
+	},
+	{
 		"created_at": "Sat May 07 06:22:45 +0000 2022",
 		"id": 1522549674426749000,
 		"id_str": "1522824238327025664",

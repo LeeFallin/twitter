@@ -1,6 +1,2504 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 19:57:05 +0000 2022",
+		"id": 1527015435371221000,
+		"id_str": "1527015435371220993",
+		"full_text": "Q6: I struggle to tell if it is fee change or society change on some of the developments. Some changes are related directly. There is an expectation that paying = achievement. The bigger impact has been financial. More students are struggling, working and juggling.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Q6: I struggle to tell if it is fee change or society change on some of the developments. Some changes are related directly. There is an expectation that paying = achievement. The bigger impact has been financial. More students are struggling, working and juggling.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:48:35 +0000 2022",
+		"id": 1527013299338064000,
+		"id_str": "1527013299338063873",
+		"full_text": "For this reason. All universities should value, fund and support their unions. Unions should be able to (reasonably) challenge without consequence to that support. #LTHEchat https://t.co/KydRBOecao",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KydRBOecao",
+					"expanded_url": "https://twitter.com/leefallin/status/1527012918553985025",
+					"display_url": "twitter.com/leefallin/stat…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527012918553985000,
+		"quoted_status_id_str": "1527012918553985025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KydRBOecao",
+			"expanded": "https://twitter.com/leefallin/status/1527012918553985025",
+			"display": "twitter.com/leefallin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 19:47:04 +0000 2022",
+			"id": 1527012918553985000,
+			"id_str": "1527012918553985025",
+			"full_text": "They should be EVERYTHING representation and decision making. \n\nHowever, some are not all as representative as they should be. Some are not as funded as needed. Others are only effective at the whim of the elected officers - varying year on year. #LTHEchat https://t.co/vxoZtcoYBg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							247,
+							256
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vxoZtcoYBg",
+						"expanded_url": "https://twitter.com/lthechat/status/1527011137593692170",
+						"display_url": "twitter.com/lthechat/statu…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55448837,
+				"id_str": "55448837",
+				"name": "Dr Lee Fallin",
+				"screen_name": "LeeFallin",
+				"location": "United Kingdom",
+				"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+				"url": "https://t.co/UWrodKaQLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UWrodKaQLd",
+								"expanded_url": "http://www.leefallin.co.uk",
+								"display_url": "leefallin.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1552,
+				"friends_count": 1320,
+				"listed_count": 63,
+				"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+				"favourites_count": 8399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11185,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1527011137593692200,
+			"quoted_status_id_str": "1527011137593692170",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vxoZtcoYBg",
+				"expanded": "https://twitter.com/lthechat/status/1527011137593692170",
+				"display": "twitter.com/lthechat/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For this reason. All universities should value, fund and support their unions. Unions should be able to (reasonably) challenge without consequence to that support. #LTHEchat https://t.co/KydRBOecao"
+	},
+	{
+		"created_at": "Wed May 18 19:47:32 +0000 2022",
+		"id": 1527013034648129500,
+		"id_str": "1527013034648129537",
+		"full_text": "@rl_dunn @foundationyear1 I so agree! #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rl_dunn",
+					"name": "Rachel Dunn",
+					"id": 63501590,
+					"id_str": "63501590",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "foundationyear1",
+					"name": "Foundation Year Network",
+					"id": 1012615229195374600,
+					"id_str": "1012615229195374593",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527012571970162700,
+		"in_reply_to_status_id_str": "1527012571970162689",
+		"in_reply_to_user_id": 63501590,
+		"in_reply_to_user_id_str": "63501590",
+		"in_reply_to_screen_name": "rl_dunn",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rl_dunn @foundationyear1 I so agree! #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:47:04 +0000 2022",
+		"id": 1527012918553985000,
+		"id_str": "1527012918553985025",
+		"full_text": "They should be EVERYTHING representation and decision making. \n\nHowever, some are not all as representative as they should be. Some are not as funded as needed. Others are only effective at the whim of the elected officers - varying year on year. #LTHEchat https://t.co/vxoZtcoYBg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vxoZtcoYBg",
+					"expanded_url": "https://twitter.com/lthechat/status/1527011137593692170",
+					"display_url": "twitter.com/lthechat/statu…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527011137593692200,
+		"quoted_status_id_str": "1527011137593692170",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vxoZtcoYBg",
+			"expanded": "https://twitter.com/lthechat/status/1527011137593692170",
+			"display": "twitter.com/lthechat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 19:40:00 +0000 2022",
+			"id": 1527011137593692200,
+			"id_str": "1527011137593692170",
+			"full_text": "Q5 How important are Student Unions for representing students in decision making?\nReply with A5 #LTHEchat and your response",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							96,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/hZv8XbCh7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZv8XbCh7U",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9381,
+				"friends_count": 3474,
+				"listed_count": 164,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 4570,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10306,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1634740763",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "They should be EVERYTHING representation and decision making. \n\nHowever, some are not all as representative as they should be. Some are not as funded as needed. Others are only effective at the whim of the elected officers - varying year on year. #LTHEchat https://t.co/vxoZtcoYBg"
+	},
+	{
+		"created_at": "Wed May 18 19:39:05 +0000 2022",
+		"id": 1527010906630135800,
+		"id_str": "1527010906630135814",
+		"full_text": "A4: Then again - being a member of a university should be enough for students to have a voice. They are a scholar in that community too. Curriculum design, university structures and estates should be built around that community - all members of it and their voices #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A4: Then again - being a member of a university should be enough for students to have a voice. They are a scholar in that community too. Curriculum design, university structures and estates should be built around that community - all members of it and their voices #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:36:42 +0000 2022",
+		"id": 1527010309772300300,
+		"id_str": "1527010309772300288",
+		"full_text": "A4: My go-to answer: student unions and associations. They bring independent representation - and should facilitate student voice. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A4: My go-to answer: student unions and associations. They bring independent representation - and should facilitate student voice. #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:33:35 +0000 2022",
+		"id": 1527009522690281500,
+		"id_str": "1527009522690281472",
+		"full_text": "@Danceswithcloud A wasted opportunity indeed. In some institutions - set up to fail too. Social mobility goes beyond entry. \n\nI’m proud my university has a good record in this area and recruits and supports students from all POLAR quantiles. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						242,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527009156569366500,
+		"in_reply_to_status_id_str": "1527009156569366532",
+		"in_reply_to_user_id": 236802458,
+		"in_reply_to_user_id_str": "236802458",
+		"in_reply_to_screen_name": "Danceswithcloud",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Danceswithcloud A wasted opportunity indeed. In some institutions - set up to fail too. Social mobility goes beyond entry. \n\nI’m proud my university has a good record in this area and recruits and supports students from all POLAR quantiles. #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:29:32 +0000 2022",
+		"id": 1527008505877741600,
+		"id_str": "1527008505877741571",
+		"full_text": "A3: Tried to think of something positive. Maybe access agreements and the morphing into broader widening participation. That changed student experiences as courses are more diverse. That’s an important of the education I think. Exposure to different people &amp; backgrounds #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						275,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: Tried to think of something positive. Maybe access agreements and the morphing into broader widening participation. That changed student experiences as courses are more diverse. That’s an important of the education I think. Exposure to different people &amp; backgrounds #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:27:05 +0000 2022",
+		"id": 1527007886878064600,
+		"id_str": "1527007886878064642",
+		"full_text": "A3: Not just policy but discourse too. The horrific language used to frame some disciplines as useful &amp; others as not - the so called ‘Mickey Mouse’ degrees. That’s harmful to the people studying such courses - but also to society as it usually attacks arts &amp; humanities #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						279,
+						288
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: Not just policy but discourse too. The horrific language used to frame some disciplines as useful &amp; others as not - the so called ‘Mickey Mouse’ degrees. That’s harmful to the people studying such courses - but also to society as it usually attacks arts &amp; humanities #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:22:47 +0000 2022",
+		"id": 1527006806463111200,
+		"id_str": "1527006806463111169",
+		"full_text": "A3: FEES - or at least their increase. It’s a VERY different experience being a consumer or customer as opposed to a student. Nothing really changed - but the increased fees really changed student expectations, attitudes and mindset.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						235,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: FEES - or at least their increase. It’s a VERY different experience being a consumer or customer as opposed to a student. Nothing really changed - but the increased fees really changed student expectations, attitudes and mindset.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:21:47 +0000 2022",
+		"id": 1527006555312373800,
+		"id_str": "1527006555312373761",
+		"full_text": "A3: Removing bursaries form student nurses. Pretty shoddy experience when you have to work for the NHS for free via placements and then have a part-time job to eat. Glad that one U turned. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: Removing bursaries form student nurses. Pretty shoddy experience when you have to work for the NHS for free via placements and then have a part-time job to eat. Glad that one U turned. #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:19:43 +0000 2022",
+		"id": 1527006035105431600,
+		"id_str": "1527006035105431558",
+		"full_text": "@NomadWarMachine @FiDaisyG @LTHEchat It’s sometimes worrying how volume can win in so many contexts across the sector and government… #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						134,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "FiDaisyG",
+					"name": "Fi Daisy G 🌼 🌱 💙 🐰",
+					"id": 382593488,
+					"id_str": "382593488",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527005811276398600,
+		"in_reply_to_status_id_str": "1527005811276398601",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NomadWarMachine @FiDaisyG @LTHEchat It’s sometimes worrying how volume can win in so many contexts across the sector and government… #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:18:32 +0000 2022",
+		"id": 1527005734654947300,
+		"id_str": "1527005734654947328",
+		"full_text": "@ProfSallyBrown @AdvanceHE Doesn’t take that much rattling to be fair #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527005456920617000,
+		"in_reply_to_status_id_str": "1527005456920616962",
+		"in_reply_to_user_id": 1561332966,
+		"in_reply_to_user_id_str": "1561332966",
+		"in_reply_to_screen_name": "ProfSallyBrown",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfSallyBrown @AdvanceHE Doesn’t take that much rattling to be fair #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:15:27 +0000 2022",
+		"id": 1527004959463690200,
+		"id_str": "1527004959463690249",
+		"full_text": "A2: I say that with the caveat that emancipatory research and theory may purposefully focus on one (under represented) voice. That IS important. It’s not about one voice other another, it’s about giving a voice to those that have none. #LTHEchat https://t.co/xlSlwksLwG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						236,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xlSlwksLwG",
+					"expanded_url": "https://twitter.com/leefallin/status/1527004651257843714",
+					"display_url": "twitter.com/leefallin/stat…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527004651257843700,
+		"quoted_status_id_str": "1527004651257843714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xlSlwksLwG",
+			"expanded": "https://twitter.com/leefallin/status/1527004651257843714",
+			"display": "twitter.com/leefallin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 19:14:13 +0000 2022",
+			"id": 1527004651257843700,
+			"id_str": "1527004651257843714",
+			"full_text": "A2: I refused to choose a single voice above others. Too much research &amp; theory privileges one voice over the other. Staff. Students. Business. Government. Stakeholders. Community. The included and the excluded. All should have a part and voice in the university.  #LTHEchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							269,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55448837,
+				"id_str": "55448837",
+				"name": "Dr Lee Fallin",
+				"screen_name": "LeeFallin",
+				"location": "United Kingdom",
+				"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+				"url": "https://t.co/UWrodKaQLd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UWrodKaQLd",
+								"expanded_url": "http://www.leefallin.co.uk",
+								"display_url": "leefallin.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1552,
+				"friends_count": 1320,
+				"listed_count": 63,
+				"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+				"favourites_count": 8399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11185,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A2: I say that with the caveat that emancipatory research and theory may purposefully focus on one (under represented) voice. That IS important. It’s not about one voice other another, it’s about giving a voice to those that have none. #LTHEchat https://t.co/xlSlwksLwG"
+	},
+	{
+		"created_at": "Wed May 18 19:14:13 +0000 2022",
+		"id": 1527004651257843700,
+		"id_str": "1527004651257843714",
+		"full_text": "A2: I refused to choose a single voice above others. Too much research &amp; theory privileges one voice over the other. Staff. Students. Business. Government. Stakeholders. Community. The included and the excluded. All should have a part and voice in the university.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: I refused to choose a single voice above others. Too much research &amp; theory privileges one voice over the other. Staff. Students. Business. Government. Stakeholders. Community. The included and the excluded. All should have a part and voice in the university.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:09:54 +0000 2022",
+		"id": 1527003564798890000,
+		"id_str": "1527003564798889985",
+		"full_text": "@Danceswithcloud … and in the process, the university is downgraded to mere ‘service provider’ - as opposed to something bigger, broader and a general social good. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527003045053202400,
+		"in_reply_to_status_id_str": "1527003045053202432",
+		"in_reply_to_user_id": 236802458,
+		"in_reply_to_user_id_str": "236802458",
+		"in_reply_to_screen_name": "Danceswithcloud",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Danceswithcloud … and in the process, the university is downgraded to mere ‘service provider’ - as opposed to something bigger, broader and a general social good. #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:08:32 +0000 2022",
+		"id": 1527003218865266700,
+		"id_str": "1527003218865266690",
+		"full_text": "@Judith_ekn Having worked in student unions - I’ve fought for that position. Students are ever much as part of the institution as everyone else. I think we sometimes loose that in modern higher education, but universities were a deeper community that students joined &amp; gained ranks #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			295
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						286,
+						295
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Judith_ekn",
+					"name": "Dr Judith Enterkin",
+					"id": 2425498854,
+					"id_str": "2425498854",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527002622489772000,
+		"in_reply_to_status_id_str": "1527002622489772038",
+		"in_reply_to_user_id": 2425498854,
+		"in_reply_to_user_id_str": "2425498854",
+		"in_reply_to_screen_name": "Judith_ekn",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Judith_ekn Having worked in student unions - I’ve fought for that position. Students are ever much as part of the institution as everyone else. I think we sometimes loose that in modern higher education, but universities were a deeper community that students joined &amp; gained ranks #LTHEchat"
+	},
+	{
+		"created_at": "Wed May 18 19:06:41 +0000 2022",
+		"id": 1527002752622141400,
+		"id_str": "1527002752622141440",
+		"full_text": "I sometimes worry it’s a worse model still. Working to sell knowledge and education as a commodity. I would always fight against that frame. #LTHEchat https://t.co/gFRcSgDKNv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFRcSgDKNv",
+					"expanded_url": "https://twitter.com/danceswithcloud/status/1527002345888002048",
+					"display_url": "twitter.com/danceswithclou…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1320,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527002345888002000,
+		"quoted_status_id_str": "1527002345888002048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gFRcSgDKNv",
+			"expanded": "https://twitter.com/danceswithcloud/status/1527002345888002048",
+			"display": "twitter.com/danceswithclou…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 19:05:04 +0000 2022",
+			"id": 1527002345888002000,
+			"id_str": "1527002345888002048",
+			"full_text": "#LTHEChat A1 Worst model, uni works for the reproduction of privilege - and works for that. Next worst - a factory producing work fodder. At best something more ineffable, elusive, owned by staff &amp; students? https://t.co/2hAuha88af",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEChat",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2hAuha88af",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1527001323236909058",
+						"display_url": "twitter.com/LTHEchat/statu…",
+						"indices": [
+							212,
+							235
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 236802458,
+				"id_str": "236802458",
+				"name": "Sandra Sinfield",
+				"screen_name": "Danceswithcloud",
+				"location": "London, Essex, Kent",
+				"description": "Education Developer tweets #studychat & #loveLD. For creativity as emancipatory practice, drawing & animation for learning & SecondLife as learning space.",
+				"url": "https://t.co/2btCkpjrSi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2btCkpjrSi",
+								"expanded_url": "https://becomingeducational.wordpress.com/",
+								"display_url": "becomingeducational.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1645,
+				"friends_count": 2013,
+				"listed_count": 68,
+				"created_at": "Tue Jan 11 12:06:17 +0000 2011",
+				"favourites_count": 16741,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/236802458/1355492798",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1527001323236909000,
+			"quoted_status_id_str": "1527001323236909058",
+			"quoted_status_permalink": {
+				"url": "https://t.co/2hAuha88af",
+				"expanded": "https://twitter.com/LTHEchat/status/1527001323236909058",
+				"display": "twitter.com/LTHEchat/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I sometimes worry it’s a worse model still. Working to sell knowledge and education as a commodity. I would always fight against that frame. #LTHEchat https://t.co/gFRcSgDKNv"
+	},
+	{
 		"created_at": "Wed May 11 23:10:13 +0000 2022",
 		"id": 1524527324942721000,
 		"id_str": "1524527324942721026",
@@ -38,7 +2536,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -184,7 +2682,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -299,7 +2797,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -426,7 +2924,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -540,7 +3038,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -754,7 +3252,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1123,7 +3621,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -1237,7 +3735,7 @@ Grailbird.data.tweets_2022_05 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+				"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 				"url": "https://t.co/UWrodKaQLd",
 				"entities": {
 					"url": {
@@ -1359,7 +3857,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

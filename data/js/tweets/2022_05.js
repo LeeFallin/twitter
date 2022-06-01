@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 31 22:19:32 +0000 2022",
+		"id": 1531762329863454700,
+		"id_str": "1531762329863454721",
+		"full_text": "@SubhashishB19 @PhDVoice @PhD_Genie @thoughtsofaphd For me… nothing. I regret nothing. I made mistakes, I went around in circles and hit many dead ends. But each and every bump was a learning opportunity. I’d take none of it back. \n\nIf I had a magic wand? Maybe finish up two months earlier to avoid finishing write-up in lockdown.",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			331
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SubhashishB19",
+					"name": "Subhashish Barik",
+					"id": 850906138094731300,
+					"id_str": "850906138094731265",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "PhDVoice",
+					"name": "The PhD Voice",
+					"id": 1168227245338628000,
+					"id_str": "1168227245338628096",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "PhD_Genie",
+					"name": "PhD_Genie",
+					"id": 1356891741195030500,
+					"id_str": "1356891741195030528",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "thoughtsofaphd",
+					"name": "thoughtsofaphd",
+					"id": 1072308240891801600,
+					"id_str": "1072308240891801601",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1531469149385289700,
+		"in_reply_to_status_id_str": "1531469149385289731",
+		"in_reply_to_user_id": 850906138094731300,
+		"in_reply_to_user_id_str": "850906138094731265",
+		"in_reply_to_screen_name": "SubhashishB19",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 1326,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SubhashishB19 @PhDVoice @PhD_Genie @thoughtsofaphd For me… nothing. I regret nothing. I made mistakes, I went around in circles and hit many dead ends. But each and every bump was a learning opportunity. I’d take none of it back. \n\nIf I had a magic wand? Maybe finish up two months earlier to avoid finishing write-up in lockdown."
+	},
+	{
 		"created_at": "Sun May 29 10:22:01 +0000 2022",
 		"id": 1530856983687053300,
 		"id_str": "1530856983687053312",
@@ -69,7 +206,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

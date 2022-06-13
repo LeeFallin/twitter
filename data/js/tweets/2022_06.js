@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 20:29:53 +0000 2022",
+		"id": 1536083388972548000,
+		"id_str": "1536083388972548098",
+		"full_text": "An enjoyable read! https://t.co/6fLgGGpiG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6fLgGGpiG7",
+					"expanded_url": "https://twitter.com/culturaltutor/status/1535733456197623813",
+					"display_url": "twitter.com/culturaltutor/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 1336,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535733456197623800,
+		"quoted_status_id_str": "1535733456197623813",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6fLgGGpiG7",
+			"expanded": "https://twitter.com/culturaltutor/status/1535733456197623813",
+			"display": "twitter.com/culturaltutor/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 11 21:19:23 +0000 2022",
+			"id": 1535733456197623800,
+			"id_str": "1535733456197623813",
+			"full_text": "The problem with modern architecture.\n\n(It isn't what you think)\n\nA short thread... https://t.co/jvzJ1lqeTc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1535728077132730400,
+						"id_str": "1535728077132730369",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/FVAAjK0XEAERBYn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVAAjK0XEAERBYn.jpg",
+						"url": "https://t.co/jvzJ1lqeTc",
+						"display_url": "pic.twitter.com/jvzJ1lqeTc",
+						"expanded_url": "https://twitter.com/culturaltutor/status/1535733456197623813/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1535728077132730400,
+						"id_str": "1535728077132730369",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/FVAAjK0XEAERBYn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVAAjK0XEAERBYn.jpg",
+						"url": "https://t.co/jvzJ1lqeTc",
+						"display_url": "pic.twitter.com/jvzJ1lqeTc",
+						"expanded_url": "https://twitter.com/culturaltutor/status/1535733456197623813/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1524407286910931000,
+				"id_str": "1524407286910930944",
+				"name": "The Cultural Tutor",
+				"screen_name": "culturaltutor",
+				"location": "Browse my Library of Threads →",
+				"description": "A beautiful education.\n\nEvery Friday I share 7 short lessons in my newsletter Areopagus: https://t.co/c5O1G3rDQr",
+				"url": "https://t.co/C0Uy3gVVp7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C0Uy3gVVp7",
+								"expanded_url": "https://sheehanquirke.com/the-library",
+								"display_url": "sheehanquirke.com/the-library",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/c5O1G3rDQr",
+								"expanded_url": "https://www.getrevue.co/profile/culturaltutor?via=twitter-profile",
+								"display_url": "getrevue.co/profile/cultur…",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10156,
+				"friends_count": 226,
+				"listed_count": 58,
+				"created_at": "Wed May 11 15:13:42 +0000 2022",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1352,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524409613558464513/GeaYexsJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524407286910930944/1652284733",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1667,
+			"favorite_count": 7086,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An enjoyable read! https://t.co/6fLgGGpiG7"
+	},
+	{
 		"created_at": "Sat Jun 11 20:10:17 +0000 2022",
 		"id": 1535716069066809300,
 		"id_str": "1535716069066809347",
@@ -39,7 +337,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

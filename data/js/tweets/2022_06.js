@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 07:48:04 +0000 2022",
+		"id": 1537781147459063800,
+		"id_str": "1538065996619075584",
+		"full_text": "The @UoHAcademy inclusive education framework is on tour again - today we are in @DerbyUni with @DocWithTheSocs and having great discussions around inclusive practice https://t.co/ot1kvbeFb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"screen_name": "DerbyUni",
+					"name": "University of Derby",
+					"id": 39975307,
+					"id_str": "39975307",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"screen_name": "DocWithTheSocs",
+					"name": "Prof. Ian Turner 🇺🇦 🏳️‍🌈🏳️‍⚧️",
+					"id": 36704148,
+					"id_str": "36704148",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537781141352112000,
+					"id_str": "1537781141352112130",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdLzPCWYAIu8YN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdLzPCWYAIu8YN.jpg",
+					"url": "https://t.co/ot1kvbeFb9",
+					"display_url": "pic.twitter.com/ot1kvbeFb9",
+					"expanded_url": "https://twitter.com/KEHplantsci/status/1537781147459063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537781141352112000,
+					"id_str": "1537781141352112130",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdLzPCWYAIu8YN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdLzPCWYAIu8YN.jpg",
+					"url": "https://t.co/ot1kvbeFb9",
+					"display_url": "pic.twitter.com/ot1kvbeFb9",
+					"expanded_url": "https://twitter.com/KEHplantsci/status/1537781147459063809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2427419792,
+			"id_str": "2427419792",
+			"name": "Dr Katharine Hubbard",
+			"screen_name": "KEHplantsci",
+			"location": "Hull, UK",
+			"description": "(She/her) Reader in Biology Education at the Uni of Hull. National Teaching Fellow, RSB HE Bioscience Teacher of Year 2016, SFHEA. Opinions my own.",
+			"url": "https://t.co/umgQ592A3b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/umgQ592A3b",
+							"expanded_url": "https://katharinehubbard.wordpress.com/",
+							"display_url": "katharinehubbard.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1580,
+			"friends_count": 1060,
+			"listed_count": 44,
+			"created_at": "Fri Apr 04 15:03:38 +0000 2014",
+			"favourites_count": 9617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685469888186548224/yfjZ36zo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685469888186548224/yfjZ36zo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2427419792/1428959032",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @UoHAcademy inclusive education framework is on tour again - today we are in @DerbyUni with @DocWithTheSocs and having great discussions around inclusive practice https://t.co/ot1kvbeFb9"
+	},
+	{
 		"created_at": "Fri Jun 17 06:54:51 +0000 2022",
 		"id": 1537690218928738300,
 		"id_str": "1537690218928738304",
@@ -39,7 +245,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

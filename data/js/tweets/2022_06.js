@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 24 12:49:40 +0000 2022",
+		"id": 1540316226970439700,
+		"id_str": "1540316226970439681",
+		"full_text": "@CLTatEHU This is largely thanks to the skill and creativity of @TechieTomTom who has joined and transformed the team! 👏 🥇",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CLTatEHU",
+					"name": "CLT at EHU",
+					"id": 3086279907,
+					"id_str": "3086279907",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1540281510040928300,
+		"in_reply_to_status_id_str": "1540281510040928256",
+		"in_reply_to_user_id": 3086279907,
+		"in_reply_to_user_id_str": "3086279907",
+		"in_reply_to_screen_name": "CLTatEHU",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"url": "https://t.co/UWrodKaQLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UWrodKaQLd",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1592,
+			"friends_count": 1347,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CLTatEHU This is largely thanks to the skill and creativity of @TechieTomTom who has joined and transformed the team! 👏 🥇"
+	},
+	{
 		"created_at": "Thu Jun 23 16:44:05 +0000 2022",
 		"id": 1539907877468606500,
 		"id_str": "1540012828676980736",
@@ -241,7 +358,7 @@ Grailbird.data.tweets_2022_06 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+				"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 				"url": "https://t.co/UWrodKaQLd",
 				"entities": {
 					"url": {

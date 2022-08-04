@@ -1,10 +1,185 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 19:38:59 +0000 2022",
+		"id": 1552652691783839700,
+		"id_str": "1554914749690830850",
+		"full_text": "Energy company energy https://t.co/gHaOIGVE7c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552652684804558800,
+					"id_str": "1552652684804558849",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FYwhY_lVEAEWomV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYwhY_lVEAEWomV.jpg",
+					"url": "https://t.co/gHaOIGVE7c",
+					"display_url": "pic.twitter.com/gHaOIGVE7c",
+					"expanded_url": "https://twitter.com/twisteddoodles/status/1552652691783839754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1274,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552652684804558800,
+					"id_str": "1552652684804558849",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FYwhY_lVEAEWomV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYwhY_lVEAEWomV.jpg",
+					"url": "https://t.co/gHaOIGVE7c",
+					"display_url": "pic.twitter.com/gHaOIGVE7c",
+					"expanded_url": "https://twitter.com/twisteddoodles/status/1552652691783839754/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1274,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 487584390,
+			"id_str": "487584390",
+			"name": "TwistedDoodles",
+			"screen_name": "twisteddoodles",
+			"location": "Dublin",
+			"description": "Cartoonist, scientist, parent and author. I wrote an ace book called ‘The Newborn Identity’ and I draw cartoons for @newscientist",
+			"url": "https://t.co/gzogYebPkj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gzogYebPkj",
+							"expanded_url": "http://www.twisteddoodles.com",
+							"display_url": "twisteddoodles.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65640,
+			"friends_count": 574,
+			"listed_count": 723,
+			"created_at": "Thu Feb 09 14:34:17 +0000 2012",
+			"favourites_count": 45888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2923852396/20613163743438c5ee92899367284184_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2923852396/20613163743438c5ee92899367284184_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/487584390/1476102740",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3617,
+		"favorite_count": 10450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Energy company energy https://t.co/gHaOIGVE7c"
+	},
+	{
 		"created_at": "Tue Aug 02 18:58:35 +0000 2022",
 		"id": 1554535211651711000,
 		"id_str": "1554542193628651522",
-		"full_text": "Found this in my conference album — third spaces at #ALDcon22 with ⁦@EvilDoctorB⁩ ⁦@LeeFallin⁩ ⁦@AlistairMorey and⁩ ⁦@Cheneehey⁩ https://t.co/u6oQLHHB2t",
+		"full_text": "Found this in my conference album — third spaces at #ALDcon22 with @EvilDoctorB @LeeFallin @AlistairMorey and @Cheneehey https://t.co/u6oQLHHB2t",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -209,7 +384,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Found this in my conference album — third spaces at #ALDcon22 with ⁦@EvilDoctorB⁩ ⁦@LeeFallin⁩ ⁦@AlistairMorey and⁩ ⁦@Cheneehey⁩ https://t.co/u6oQLHHB2t"
+		"text": "Found this in my conference album — third spaces at #ALDcon22 with @EvilDoctorB @LeeFallin @AlistairMorey and @Cheneehey https://t.co/u6oQLHHB2t"
 	},
 	{
 		"created_at": "Tue Aug 02 16:49:29 +0000 2022",
@@ -260,7 +435,7 @@ Grailbird.data.tweets_2022_08 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

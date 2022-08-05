@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 15:15:27 +0000 2022",
+		"id": 1555094474254164000,
+		"id_str": "1555210816693100544",
+		"full_text": "Beyond delighted to see that my amazing colleague and friend @k8tecoulson is a new NTF! She’s incredible and I’m so proud of her! @NTF_Tweet https://t.co/xoKAHiHCeu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						61,
+						73
+					]
+				},
+				{
+					"screen_name": "NTF_Tweet",
+					"name": "NTF Tweet",
+					"id": 2315738930,
+					"id_str": "2315738930",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xoKAHiHCeu",
+					"expanded_url": "https://www.advance-he.ac.uk/ntfs/kate-coulson",
+					"display_url": "advance-he.ac.uk/ntfs/kate-coul…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 395277106,
+			"id_str": "395277106",
+			"name": "Dr Helen Webster 📚🐀",
+			"screen_name": "scholastic_rat",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "AdvanceHE Senior Adviser for Student Success. Academic Literacies and Learning Development, wellbeing and social justice in HE (NTF, CeLP, SFHEA) Views own",
+			"url": "https://t.co/R1BsDA3Aab",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R1BsDA3Aab",
+							"expanded_url": "https://rattusscholasticus.wordpress.com/",
+							"display_url": "rattusscholasticus.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2606,
+			"friends_count": 1397,
+			"listed_count": 82,
+			"created_at": "Fri Oct 21 12:25:28 +0000 2011",
+			"favourites_count": 18750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/502149725437833216/Tsu9iOGP_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/395277106/1363797872",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond delighted to see that my amazing colleague and friend @k8tecoulson is a new NTF! She’s incredible and I’m so proud of her! @NTF_Tweet https://t.co/xoKAHiHCeu"
+	},
+	{
 		"created_at": "Wed Aug 03 19:38:59 +0000 2022",
 		"id": 1552652691783839700,
 		"id_str": "1554914749690830850",

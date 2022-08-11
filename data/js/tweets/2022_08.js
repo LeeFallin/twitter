@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 13:40:55 +0000 2022",
+		"id": 1556928238596792300,
+		"id_str": "1557361352360034306",
+		"full_text": "For the latest @HullUni_Library post for #Larkin100, I explore Larkin’s involvement in the library’s 1960s redevelopment, including his presence within the library today (with some exciting photos of our librarian’s office and archival items!) @PLSoc https://t.co/q5qJs7H9Ku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Larkin100",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HullUni_Library",
+					"name": "Hull Uni Library",
+					"id": 239865033,
+					"id_str": "239865033",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "PLSoc",
+					"name": "PhilipLarkinSociety",
+					"id": 2695008048,
+					"id_str": "2695008048",
+					"indices": [
+						244,
+						250
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q5qJs7H9Ku",
+					"expanded_url": "https://libraryblog.wordpress.hull.ac.uk/2022/08/09/a-lifted-study-storehouse-philip-larkin-and-the-brynmor-jones-library/",
+					"display_url": "libraryblog.wordpress.hull.ac.uk/2022/08/09/a-l…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1345378590972645400,
+			"id_str": "1345378590972645376",
+			"name": "Anna Stevenson",
+			"screen_name": "a_stevensonn",
+			"location": "",
+			"description": "PhD English student at UofHull writing on Ted Hughes // BJL library assistant // AFHEA 📚 @tedhughesart a visual project",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59,
+			"friends_count": 158,
+			"listed_count": 0,
+			"created_at": "Sat Jan 02 14:37:17 +0000 2021",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549456486073524224/LmQH3rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549456486073524224/LmQH3rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1345378590972645376/1609598981",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For the latest @HullUni_Library post for #Larkin100, I explore Larkin’s involvement in the library’s 1960s redevelopment, including his presence within the library today (with some exciting photos of our librarian’s office and archival items!) @PLSoc https://t.co/q5qJs7H9Ku"
+	},
+	{
 		"created_at": "Mon Aug 08 18:00:46 +0000 2022",
 		"id": 1556701970865455000,
 		"id_str": "1556701970865455109",
@@ -49,7 +172,7 @@ Grailbird.data.tweets_2022_08 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {

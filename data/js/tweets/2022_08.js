@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 12:52:21 +0000 2022",
+		"id": 1559936913817145300,
+		"id_str": "1560248232676057088",
+		"full_text": "Today we welcomed @tomheapmedia and @SkyNews to the AIC, as they filmed a special edition of #TheClimateShow. 🙌\n\nThis feature will focus on the #Humber's role in fighting #climatechange. 🌎\n\nMake sure to keep an out for it on #SkyNews this Saturday! https://t.co/H5yxhPpOJL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheClimateShow",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"text": "Humber",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "climatechange",
+					"indices": [
+						171,
+						185
+					]
+				},
+				{
+					"text": "SkyNews",
+					"indices": [
+						225,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomheapmedia",
+					"name": "Tom Heap",
+					"id": 247401577,
+					"id_str": "247401577",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "SkyNews",
+					"name": "Sky News",
+					"id": 7587032,
+					"id_str": "7587032",
+					"indices": [
+						36,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559936532978466800,
+					"id_str": "1559936532978466819",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYCAwhWAAMZaJg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYCAwhWAAMZaJg.jpg",
+					"url": "https://t.co/H5yxhPpOJL",
+					"display_url": "pic.twitter.com/H5yxhPpOJL",
+					"expanded_url": "https://twitter.com/_aurainnovation/status/1559936913817145344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559936532978466800,
+					"id_str": "1559936532978466819",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYCAwhWAAMZaJg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYCAwhWAAMZaJg.jpg",
+					"url": "https://t.co/H5yxhPpOJL",
+					"display_url": "pic.twitter.com/H5yxhPpOJL",
+					"expanded_url": "https://twitter.com/_aurainnovation/status/1559936913817145344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559936594836062200,
+					"id_str": "1559936594836062220",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYCEW9WAAwQvH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYCEW9WAAwQvH8.jpg",
+					"url": "https://t.co/H5yxhPpOJL",
+					"display_url": "pic.twitter.com/H5yxhPpOJL",
+					"expanded_url": "https://twitter.com/_aurainnovation/status/1559936913817145344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559936594941022200,
+					"id_str": "1559936594941022208",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FaYCEXWXkAAITvH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaYCEXWXkAAITvH.jpg",
+					"url": "https://t.co/H5yxhPpOJL",
+					"display_url": "pic.twitter.com/H5yxhPpOJL",
+					"expanded_url": "https://twitter.com/_aurainnovation/status/1559936913817145344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1063027776406597600,
+			"id_str": "1063027776406597632",
+			"name": "Aura",
+			"screen_name": "_aurainnovation",
+			"location": "Hull, England",
+			"description": "A powerful consortium pioneering low-carbon innovation and offshore wind energy.",
+			"url": "https://t.co/sMVvye3WvU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sMVvye3WvU",
+							"expanded_url": "http://www.aura-innovation.co.uk",
+							"display_url": "aura-innovation.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1150,
+			"friends_count": 597,
+			"listed_count": 18,
+			"created_at": "Thu Nov 15 11:15:46 +0000 2018",
+			"favourites_count": 2931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063457385900060672/YjXkARnV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063457385900060672/YjXkARnV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1063027776406597632/1647249929",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we welcomed @tomheapmedia and @SkyNews to the AIC, as they filmed a special edition of #TheClimateShow. 🙌\n\nThis feature will focus on the #Humber's role in fighting #climatechange. 🌎\n\nMake sure to keep an out for it on #SkyNews this Saturday! https://t.co/H5yxhPpOJL"
+	},
+	{
+		"created_at": "Thu Aug 18 08:06:44 +0000 2022",
+		"id": 1559934078148829200,
+		"id_str": "1560176355190390785",
+		"full_text": "Choose Hull during #Clearing and join a university that's on the UP...\n\n⬆️ 8 places in The Times Good University Guide\n⬆️ 12 places in the Complete University Guide\n⬆️ 17 places in the Research Excellence Framework\n⬆️ 19 places in The Guardian University Rankings https://t.co/183ZjvkDwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Clearing",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559934075963572200,
+					"id_str": "1559934075963572227",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FaX_xvbWAAMMzyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaX_xvbWAAMMzyz.jpg",
+					"url": "https://t.co/183ZjvkDwC",
+					"display_url": "pic.twitter.com/183ZjvkDwC",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1559934078148829184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559934075963572200,
+					"id_str": "1559934075963572227",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FaX_xvbWAAMMzyz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaX_xvbWAAMMzyz.jpg",
+					"url": "https://t.co/183ZjvkDwC",
+					"display_url": "pic.twitter.com/183ZjvkDwC",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1559934078148829184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59761280,
+			"id_str": "59761280",
+			"name": "University of Hull",
+			"screen_name": "UniOfHull",
+			"location": "Hull, East Yorkshire",
+			"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+			"url": "https://t.co/6pY8H0o2cW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6pY8H0o2cW",
+							"expanded_url": "https://www.hull.ac.uk",
+							"display_url": "hull.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48392,
+			"friends_count": 1147,
+			"listed_count": 534,
+			"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+			"favourites_count": 12558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AE2B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1658500829",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Choose Hull during #Clearing and join a university that's on the UP...\n\n⬆️ 8 places in The Times Good University Guide\n⬆️ 12 places in the Complete University Guide\n⬆️ 17 places in the Research Excellence Framework\n⬆️ 19 places in The Guardian University Rankings https://t.co/183ZjvkDwC"
+	},
+	{
+		"created_at": "Thu Aug 18 08:06:34 +0000 2022",
+		"id": 1560148301273497600,
+		"id_str": "1560176312744116225",
+		"full_text": "🤞 It's #ResultsDay and we're wishing everybody good luck!\n\nTo those of you who will be confirming your places at the University of Hull today, we can't wait to welcome you! \n\nAnd to anybody looking to join us through Clearing, our Call Centre is ready and waiting from 8am! https://t.co/p6bgTb6XtU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ResultsDay",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560148300187197400,
+					"id_str": "1560148300187197440",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FabCnO2WYAAYyeH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FabCnO2WYAAYyeH.jpg",
+					"url": "https://t.co/p6bgTb6XtU",
+					"display_url": "pic.twitter.com/p6bgTb6XtU",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1560148301273497601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560148300187197400,
+					"id_str": "1560148300187197440",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FabCnO2WYAAYyeH.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FabCnO2WYAAYyeH.jpg",
+					"url": "https://t.co/p6bgTb6XtU",
+					"display_url": "pic.twitter.com/p6bgTb6XtU",
+					"expanded_url": "https://twitter.com/UniOfHull/status/1560148301273497601/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FabCnO2WYAAYyeH.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59761280,
+			"id_str": "59761280",
+			"name": "University of Hull",
+			"screen_name": "UniOfHull",
+			"location": "Hull, East Yorkshire",
+			"description": "Our official Twitter feed featuring the latest news and events from the University of Hull. Typically online from 8am-6pm.",
+			"url": "https://t.co/6pY8H0o2cW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6pY8H0o2cW",
+							"expanded_url": "https://www.hull.ac.uk",
+							"display_url": "hull.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48392,
+			"friends_count": 1147,
+			"listed_count": 534,
+			"created_at": "Fri Jul 24 11:50:29 +0000 2009",
+			"favourites_count": 12558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "AE2B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346405836533456896/Mc7bs_KW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59761280/1658500829",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🤞 It's #ResultsDay and we're wishing everybody good luck!\n\nTo those of you who will be confirming your places at the University of Hull today, we can't wait to welcome you! \n\nAnd to anybody looking to join us through Clearing, our Call Centre is ready and waiting from 8am! https://t.co/p6bgTb6XtU"
+	},
+	{
 		"created_at": "Wed Aug 10 13:40:55 +0000 2022",
 		"id": 1556928238596792300,
 		"id_str": "1557361352360034306",

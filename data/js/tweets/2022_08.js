@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 10:12:01 +0000 2022",
+		"id": 1562375092264370200,
+		"id_str": "1562382210593873920",
+		"full_text": "Another #ViCEPHEC22 poster, this time looking at what happened why we tried to get more information out of students about their at-home exam environment from 2020-2022.\n\n1/10 🧵 https://t.co/JInrQWvrEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ViCEPHEC22",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1562375089236197400,
+					"id_str": "1562375089236197376",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa6r3afXwAAHY1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa6r3afXwAAHY1k.jpg",
+					"url": "https://t.co/JInrQWvrEJ",
+					"display_url": "pic.twitter.com/JInrQWvrEJ",
+					"expanded_url": "https://twitter.com/DrCDArmstrong/status/1562375092264370176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1079,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 566,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1562375089236197400,
+					"id_str": "1562375089236197376",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa6r3afXwAAHY1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa6r3afXwAAHY1k.jpg",
+					"url": "https://t.co/JInrQWvrEJ",
+					"display_url": "pic.twitter.com/JInrQWvrEJ",
+					"expanded_url": "https://twitter.com/DrCDArmstrong/status/1562375092264370176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1079,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 566,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941748203652829200,
+			"id_str": "941748203652829184",
+			"name": "Chris Armstrong",
+			"screen_name": "DrCDArmstrong",
+			"location": "",
+			"description": "🧪 Lecturer in Physical Chemistry\n🐧 Chaotic neutral\n\n🧑 he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1527,
+			"friends_count": 1158,
+			"listed_count": 15,
+			"created_at": "Fri Dec 15 19:14:03 +0000 2017",
+			"favourites_count": 47825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1557769806526517251/59FDZ5AN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557769806526517251/59FDZ5AN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941748203652829184/1635342487",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another #ViCEPHEC22 poster, this time looking at what happened why we tried to get more information out of students about their at-home exam environment from 2020-2022.\n\n1/10 🧵 https://t.co/JInrQWvrEJ"
+	},
+	{
 		"created_at": "Sun Aug 21 09:11:27 +0000 2022",
 		"id": 1561279804531417000,
 		"id_str": "1561279804531417091",
@@ -74,7 +244,7 @@ Grailbird.data.tweets_2022_08 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+			"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 			"url": "https://t.co/UWrodKaQLd",
 			"entities": {
 				"url": {
@@ -180,7 +350,7 @@ Grailbird.data.tweets_2022_08 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "SFHEA EdD FRGS 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
+				"description": "SFHEA EdD FRGS 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets in a personal capacity",
 				"url": "https://t.co/UWrodKaQLd",
 				"entities": {
 					"url": {

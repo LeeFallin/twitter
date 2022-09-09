@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 20:25:36 +0000 2022",
+		"id": 1567883620001398800,
+		"id_str": "1567972443150774272",
+		"full_text": "We are delighted to announce that the Social Media for Learning in Higher Education Conference #SocMedHE22 will take place in person at @UniNorthants on 20th December 2022 led by @HalaMansour. Call for papers to follow!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocMedHE22",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniNorthants",
+					"name": "UniofNorthampton",
+					"id": 20668046,
+					"id_str": "20668046",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"screen_name": "HalaMansour",
+					"name": "Dr Hala Mansour care@he",
+					"id": 95709872,
+					"id_str": "95709872",
+					"indices": [
+						179,
+						191
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3346395670,
+			"id_str": "3346395670",
+			"name": "Social Media for Learning in Higher Education",
+			"screen_name": "SocMedHE",
+			"location": "Northampton",
+			"description": "We were delighted to welcome you to #SocMedHE22, 20th December 2022, hosted by the University of Northampton!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2036,
+			"friends_count": 1833,
+			"listed_count": 70,
+			"created_at": "Fri Jun 26 08:20:41 +0000 2015",
+			"favourites_count": 3482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314651238844243975/eUXY1EPw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314651238844243975/eUXY1EPw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346395670/1578135233",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are delighted to announce that the Social Media for Learning in Higher Education Conference #SocMedHE22 will take place in person at @UniNorthants on 20th December 2022 led by @HalaMansour. Call for papers to follow!"
+	},
+	{
 		"created_at": "Fri Sep 02 10:52:33 +0000 2022",
 		"id": 1565653901499666400,
 		"id_str": "1565653901499666435",
@@ -67,7 +179,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

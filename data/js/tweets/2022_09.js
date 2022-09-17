@@ -1,10 +1,340 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 06:42:37 +0000 2022",
+		"id": 1570664433416020000,
+		"id_str": "1570664433416019969",
+		"full_text": "@livia_scott_ @_dxrxthy_ I was speechless. How could I contribute to such a conversation. That was a regular thing. \n\nBut! I learned a lot through it. \n\nStill so surreal. I was studying in the £3k a/year regime. It was a lot of money for me. My friends? A bargain. They all paid more per term for school🤯",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			304
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livia_scott_",
+					"name": "Livia Scott",
+					"id": 1455924167866560500,
+					"id_str": "1455924167866560514",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "_dxrxthy_",
+					"name": "doz",
+					"id": 1464687228,
+					"id_str": "1464687228",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570663543934161000,
+		"in_reply_to_status_id_str": "1570663543934160897",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1622,
+			"friends_count": 1363,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@livia_scott_ @_dxrxthy_ I was speechless. How could I contribute to such a conversation. That was a regular thing. \n\nBut! I learned a lot through it. \n\nStill so surreal. I was studying in the £3k a/year regime. It was a lot of money for me. My friends? A bargain. They all paid more per term for school🤯"
+	},
+	{
+		"created_at": "Fri Sep 16 06:39:05 +0000 2022",
+		"id": 1570663543934161000,
+		"id_str": "1570663543934160897",
+		"full_text": "@livia_scott_ @_dxrxthy_ Great 🧵!\n\nI had a similar experience - didn’t go to the Russel Group but was 1 of 2 people in my friendship group that had gone to state school. The conversations they had 😱 — I remember a debate over who had the nicest pool at home. It was J - his was indoors, tiled &amp; recessed",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			307
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livia_scott_",
+					"name": "Livia Scott",
+					"id": 1455924167866560500,
+					"id_str": "1455924167866560514",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "_dxrxthy_",
+					"name": "doz",
+					"id": 1464687228,
+					"id_str": "1464687228",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1570374198736081000,
+		"in_reply_to_status_id_str": "1570374198736080900",
+		"in_reply_to_user_id": 1455924167866560500,
+		"in_reply_to_user_id_str": "1455924167866560514",
+		"in_reply_to_screen_name": "livia_scott_",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1622,
+			"friends_count": 1363,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@livia_scott_ @_dxrxthy_ Great 🧵!\n\nI had a similar experience - didn’t go to the Russel Group but was 1 of 2 people in my friendship group that had gone to state school. The conversations they had 😱 — I remember a debate over who had the nicest pool at home. It was J - his was indoors, tiled &amp; recessed"
+	},
+	{
+		"created_at": "Fri Sep 16 06:36:20 +0000 2022",
+		"id": 1570367501925781500,
+		"id_str": "1570662855648907268",
+		"full_text": "One thing I don't think anyone talks seriously enough about is the absolute culture shock of coming to university. Particularly, as a student from a more working-class background.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1455924167866560500,
+			"id_str": "1455924167866560514",
+			"name": "Livia Scott",
+			"screen_name": "livia_scott_",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "SUs Community and Policy Officer @Wonkhe. Former Education Officer @ NCL. Loud, opinionated northern gal 💚 views my own, (she/her)",
+			"url": "https://t.co/gKsvT0lo4Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gKsvT0lo4Z",
+							"expanded_url": "http://wonkhe.com/sus",
+							"display_url": "wonkhe.com/sus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 800,
+			"friends_count": 550,
+			"listed_count": 0,
+			"created_at": "Wed Nov 03 15:45:56 +0000 2021",
+			"favourites_count": 3016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1455926709149122560/txR2Lp1w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455926709149122560/txR2Lp1w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1455924167866560514/1657803961",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 851,
+		"favorite_count": 9568,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One thing I don't think anyone talks seriously enough about is the absolute culture shock of coming to university. Particularly, as a student from a more working-class background."
+	},
+	{
 		"created_at": "Thu Sep 15 17:52:11 +0000 2022",
 		"id": 1570470548316225500,
 		"id_str": "1570470548316225539",
-		"full_text": "Wrapping up the day with the first @MSEducationUK call of the academic year. Nice to see a large cohort of other Microsoft Innovative Educator Experts. #MIEExpert. \n\n...I just need to remember to change tenancy next time so I can comment! 🤦‍♂️",
+		"full_text": "Wrapping up the day with the first @MSEducationUK call of the academic year. Nice to see a large cohort of other Microsoft Innovative Educator Experts. #MIEExpert. \n\n...I just need to remember to change tenancy next time so I can comment! 🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -47,7 +377,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -113,7 +443,7 @@ Grailbird.data.tweets_2022_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "Wrapping up the day with the first @MSEducationUK call of the academic year. Nice to see a large cohort of other Microsoft Innovative Educator Experts. #MIEExpert. \n\n...I just need to remember to change tenancy next time so I can comment! 🤦‍♂️"
+		"text": "Wrapping up the day with the first @MSEducationUK call of the academic year. Nice to see a large cohort of other Microsoft Innovative Educator Experts. #MIEExpert. \n\n...I just need to remember to change tenancy next time so I can comment! 🤦♂️"
 	},
 	{
 		"created_at": "Thu Sep 15 17:45:17 +0000 2022",
@@ -154,7 +484,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -261,7 +591,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -482,7 +812,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

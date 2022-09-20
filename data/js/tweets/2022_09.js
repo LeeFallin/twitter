@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 07:02:55 +0000 2022",
+		"id": 1571756706257846300,
+		"id_str": "1571756706257846272",
+		"full_text": "@ProfSallyBrown The problem with Google is that when the service first started - it didn’t have these huge organisational structures. It was so early in development. Easy to see how lots of people fell short. Google should have emailed all users impacted to warn them their admin has not actioned",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571756375625048000,
+		"in_reply_to_status_id_str": "1571756375625048068",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1623,
+			"friends_count": 1363,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfSallyBrown The problem with Google is that when the service first started - it didn’t have these huge organisational structures. It was so early in development. Easy to see how lots of people fell short. Google should have emailed all users impacted to warn them their admin has not actioned"
+	},
+	{
+		"created_at": "Mon Sep 19 07:01:36 +0000 2022",
+		"id": 1571756375625048000,
+		"id_str": "1571756375625048068",
+		"full_text": "@ProfSallyBrown If you both shared the .com or whatever the domain was, only system admins would get the email. They’re in charge of the organisation so it wouldn’t go to users. In the same way you don’t get system updates for your Uni email - they go to IT.\n\nHowever…",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571755957222314000,
+		"in_reply_to_status_id_str": "1571755957222313989",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1623,
+			"friends_count": 1363,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfSallyBrown If you both shared the .com or whatever the domain was, only system admins would get the email. They’re in charge of the organisation so it wouldn’t go to users. In the same way you don’t get system updates for your Uni email - they go to IT.\n\nHowever…"
+	},
+	{
 		"created_at": "Sat Sep 17 19:00:35 +0000 2022",
 		"id": 1571212538020302800,
 		"id_str": "1571212538020302850",
@@ -39,7 +253,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -145,7 +359,7 @@ Grailbird.data.tweets_2022_09 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "SFHEA EdD FRGS FRSA 🏳️‍🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
+			"description": "SFHEA EdD FRGS FRSA 🏳️🌈 #LearningDeveloper, #MCE & #MIEExpert @UniofHull. I tweet #HigherEd, #EdTech, #Lego, #loveLD & #Hull. All tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

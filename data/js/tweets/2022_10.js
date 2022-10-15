@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 13:15:04 +0000 2022",
+		"id": 1580910060355453000,
+		"id_str": "1580910060355452928",
+		"full_text": "@heysciencesam Science is the most powerful force of the human race and the only way we will be affected by the consequences is through our actions in our own lives. 🤣",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heysciencesam",
+					"name": "🔬Samantha Yammine, PhD",
+					"id": 847921285065842700,
+					"id_str": "847921285065842690",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1580586077559013400,
+		"in_reply_to_status_id_str": "1580586077559013377",
+		"in_reply_to_user_id": 847921285065842700,
+		"in_reply_to_user_id_str": "847921285065842690",
+		"in_reply_to_screen_name": "heysciencesam",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1630,
+			"friends_count": 1365,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heysciencesam Science is the most powerful force of the human race and the only way we will be affected by the consequences is through our actions in our own lives. 🤣"
+	},
+	{
 		"created_at": "Mon Oct 10 22:13:22 +0000 2022",
 		"id": 1579595974543958000,
 		"id_str": "1579595974543958016",
@@ -38,7 +145,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

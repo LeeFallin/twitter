@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 19:08:55 +0000 2022",
+		"id": 1581906884373909500,
+		"id_str": "1582448658486013953",
+		"full_text": "This Weds, 19th Oct. I'm giving a lecture entitled: The Psychology Of Effective Studying. You can watch  online for free by registering at the following URL. \nhttps://t.co/6nnTQ3Kkj1\nPls share.\n@BPSStudent @wearepsychreg @learningandtheb @effortfuleduktr @aeonmag @ProfSallyBrown https://t.co/mjbOLvdNvg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BPSStudent",
+					"name": "BPS Student Members",
+					"id": 745621094095294500,
+					"id_str": "745621094095294464",
+					"indices": [
+						194,
+						205
+					]
+				},
+				{
+					"screen_name": "wearepsychreg",
+					"name": "Psychreg",
+					"id": 2390878020,
+					"id_str": "2390878020",
+					"indices": [
+						206,
+						220
+					]
+				},
+				{
+					"screen_name": "learningandtheb",
+					"name": "Learning & the Brain",
+					"id": 246493500,
+					"id_str": "246493500",
+					"indices": [
+						221,
+						237
+					]
+				},
+				{
+					"screen_name": "effortfuleduktr",
+					"name": "Blake Harvard",
+					"id": 792782630467108900,
+					"id_str": "792782630467108866",
+					"indices": [
+						238,
+						254
+					]
+				},
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon+Psyche",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						255,
+						263
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6nnTQ3Kkj1",
+					"expanded_url": "http://tinyurl.com/RadfordLecture2",
+					"display_url": "tinyurl.com/RadfordLecture2",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581906880531669000,
+					"id_str": "1581906880531668993",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQP7THWIAEEjSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQP7THWIAEEjSF.jpg",
+					"url": "https://t.co/mjbOLvdNvg",
+					"display_url": "pic.twitter.com/mjbOLvdNvg",
+					"expanded_url": "https://twitter.com/Dr_Paul_Penn/status/1581906884373909504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581906880531669000,
+					"id_str": "1581906880531668993",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FfQP7THWIAEEjSF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfQP7THWIAEEjSF.jpg",
+					"url": "https://t.co/mjbOLvdNvg",
+					"display_url": "pic.twitter.com/mjbOLvdNvg",
+					"expanded_url": "https://twitter.com/Dr_Paul_Penn/status/1581906884373909504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1126081823191326700,
+			"id_str": "1126081823191326720",
+			"name": "Dr. Paul Penn 💙",
+			"screen_name": "Dr_Paul_Penn",
+			"location": "London, England",
+			"description": "Psychology Teacher of The Year 2021 & Author of 'The Psychology of Effective Studying'. YouTube channel: https://t.co/U4mMOXjjrR…",
+			"url": "https://t.co/eSjUBI1ijT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSjUBI1ijT",
+							"expanded_url": "https://www.drpaulpenn.com/",
+							"display_url": "drpaulpenn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/U4mMOXjjrR",
+							"expanded_url": "http://youtube.com/psychologyofef",
+							"display_url": "youtube.com/psychologyofef",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3035,
+			"friends_count": 3255,
+			"listed_count": 36,
+			"created_at": "Wed May 08 11:10:03 +0000 2019",
+			"favourites_count": 2500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477651716443095040/marFC6rp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1126081823191326720/1567508029",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 69,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Weds, 19th Oct. I'm giving a lecture entitled: The Psychology Of Effective Studying. You can watch  online for free by registering at the following URL. \nhttps://t.co/6nnTQ3Kkj1\nPls share.\n@BPSStudent @wearepsychreg @learningandtheb @effortfuleduktr @aeonmag @ProfSallyBrown https://t.co/mjbOLvdNvg"
+	},
+	{
 		"created_at": "Mon Oct 17 19:17:58 +0000 2022",
 		"id": 1582088547770593300,
 		"id_str": "1582088547770593280",
@@ -38,7 +294,7 @@ Grailbird.data.tweets_2022_10 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

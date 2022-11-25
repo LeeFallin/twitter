@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 07:15:47 +0000 2022",
+		"id": 1595677544778530800,
+		"id_str": "1595677544778530816",
+		"full_text": "@heroicendeavour (But obviously - defend away in the health context or where it is a literature review in disguise)\n\nI know your original post was without any context! And you may not have meant it in that context — but I just wanted to share my thoughts.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heroicendeavour",
+					"name": "Caroline Ball 🐀 🌈🇪🇺🇺🇦",
+					"id": 456554343,
+					"id_str": "456554343",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595676996113399800,
+		"in_reply_to_status_id_str": "1595676996113399809",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 1372,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heroicendeavour (But obviously - defend away in the health context or where it is a literature review in disguise)\n\nI know your original post was without any context! And you may not have meant it in that context — but I just wanted to share my thoughts."
+	},
+	{
+		"created_at": "Thu Nov 24 07:13:36 +0000 2022",
+		"id": 1595676996113399800,
+		"id_str": "1595676996113399809",
+		"full_text": "@heroicendeavour … obviously. If it doesn’t have that systematic approach and review of materials. It isn’t a systematic review. \n\nBut I think health should be happy to see it’s influence on research analysis here as opposed to so defensive.context",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heroicendeavour",
+					"name": "Caroline Ball 🐀 🌈🇪🇺🇺🇦",
+					"id": 456554343,
+					"id_str": "456554343",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595676347912839200,
+		"in_reply_to_status_id_str": "1595676347912839168",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 1372,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heroicendeavour … obviously. If it doesn’t have that systematic approach and review of materials. It isn’t a systematic review. \n\nBut I think health should be happy to see it’s influence on research analysis here as opposed to so defensive.context"
+	},
+	{
+		"created_at": "Thu Nov 24 07:11:02 +0000 2022",
+		"id": 1595676347912839200,
+		"id_str": "1595676347912839168",
+		"full_text": "@heroicendeavour … it can still answer a specific question, use a refined BOOLEAN search thread across multiple databases, use inclusion and exclusion criteria to refine — but might not be of the scope and scale of what we traditionally call a systematic review…",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "heroicendeavour",
+					"name": "Caroline Ball 🐀 🌈🇪🇺🇺🇦",
+					"id": 456554343,
+					"id_str": "456554343",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1595675880633897000,
+		"in_reply_to_status_id_str": "1595675880633896963",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 1372,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@heroicendeavour … it can still answer a specific question, use a refined BOOLEAN search thread across multiple databases, use inclusion and exclusion criteria to refine — but might not be of the scope and scale of what we traditionally call a systematic review…"
+	},
+	{
 		"created_at": "Wed Nov 23 21:02:14 +0000 2022",
 		"id": 1595523139156459500,
 		"id_str": "1595523139156459522",
@@ -39,7 +426,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -143,7 +530,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -301,7 +688,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -438,7 +825,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -586,7 +973,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -723,7 +1110,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -860,7 +1247,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -997,7 +1384,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -1144,7 +1531,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -1413,7 +1800,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -1550,7 +1937,7 @@ Grailbird.data.tweets_2022_11 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+				"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 				"url": "https://t.co/k3nlfWJNJO",
 				"entities": {
 					"url": {
@@ -1694,7 +2081,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -1859,7 +2246,7 @@ Grailbird.data.tweets_2022_11 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

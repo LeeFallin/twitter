@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 10:48:22 +0000 2022",
+		"id": 1599354922365227000,
+		"id_str": "1599354922365227009",
+		"full_text": "@k8tecoulson The Mulled Wine Stall of DOWNFALL! #whammageddon was over very quickly for me this year. 🤦‍♂️ https://t.co/90Nybk9YxY",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "whammageddon",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599354915826065400,
+					"id_str": "1599354915826065408",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FjIM0nuWYAAfwny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjIM0nuWYAAfwny.jpg",
+					"url": "https://t.co/90Nybk9YxY",
+					"display_url": "pic.twitter.com/90Nybk9YxY",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1599354922365227009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599354915826065400,
+					"id_str": "1599354915826065408",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FjIM0nuWYAAfwny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjIM0nuWYAAfwny.jpg",
+					"url": "https://t.co/90Nybk9YxY",
+					"display_url": "pic.twitter.com/90Nybk9YxY",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1599354922365227009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1599323821567189000,
+		"in_reply_to_status_id_str": "1599323821567188992",
+		"in_reply_to_user_id": 1044961696266297300,
+		"in_reply_to_user_id_str": "1044961696266297345",
+		"in_reply_to_screen_name": "k8tecoulson",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1648,
+			"friends_count": 1382,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@k8tecoulson The Mulled Wine Stall of DOWNFALL! #whammageddon was over very quickly for me this year. 🤦‍♂️ https://t.co/90Nybk9YxY"
+	},
+	{
 		"created_at": "Sat Dec 03 15:20:24 +0000 2022",
 		"id": 1599060994982293500,
 		"id_str": "1599060994982293504",
@@ -59,7 +286,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

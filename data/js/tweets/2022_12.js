@@ -1,10 +1,360 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 18:25:12 +0000 2022",
+		"id": 1599832274991607800,
+		"id_str": "1599832274991607808",
+		"full_text": "Often colleagues downplay the sophistication of #AI &amp; specifically #AIwriting #AIwriter. I know this is more of a ‘creative writing’ piece, but this technology is moving so quickly, it can easily produce convincing descriptive work. How far off is the academic argument? #loveLD https://t.co/TyAN7ayrlk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "AIwriting",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "AIwriter",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						275,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TyAN7ayrlk",
+					"expanded_url": "https://twitter.com/tqbf/status/1598513757805858820",
+					"display_url": "twitter.com/tqbf/status/15…",
+					"indices": [
+						283,
+						306
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1648,
+			"friends_count": 1385,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1598513757805858800,
+		"quoted_status_id_str": "1598513757805858820",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TyAN7ayrlk",
+			"expanded": "https://twitter.com/tqbf/status/1598513757805858820",
+			"display": "twitter.com/tqbf/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 02 03:05:53 +0000 2022",
+			"id": 1598513757805858800,
+			"id_str": "1598513757805858820",
+			"full_text": "I’m sorry, I simply cannot be cynical about a technology that can accomplish this. https://t.co/yjlY72eZ0m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1598513753028452400,
+						"id_str": "1598513753028452357",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Fi8PygHWYAUV8jU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fi8PygHWYAUV8jU.jpg",
+						"url": "https://t.co/yjlY72eZ0m",
+						"display_url": "pic.twitter.com/yjlY72eZ0m",
+						"expanded_url": "https://twitter.com/tqbf/status/1598513757805858820/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1656,
+								"h": 1402,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1016,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1598513753028452400,
+						"id_str": "1598513753028452357",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Fi8PygHWYAUV8jU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fi8PygHWYAUV8jU.jpg",
+						"url": "https://t.co/yjlY72eZ0m",
+						"display_url": "pic.twitter.com/yjlY72eZ0m",
+						"expanded_url": "https://twitter.com/tqbf/status/1598513757805858820/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1656,
+								"h": 1402,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1016,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9395312,
+				"id_str": "9395312",
+				"name": "Thomas H. Ptacek",
+				"screen_name": "tqbf",
+				"location": "✶ ✶ ✶ ✶",
+				"description": "Full of passionate intensity. @tqbf@infosec.exchange",
+				"url": "https://t.co/ytdvKC91VN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ytdvKC91VN",
+								"expanded_url": "http://sockpuppet.org/me",
+								"display_url": "sockpuppet.org/me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31154,
+				"friends_count": 658,
+				"listed_count": 1004,
+				"created_at": "Fri Oct 12 03:32:18 +0000 2007",
+				"favourites_count": 5164,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 91936,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440053758084272132/dF6N7UBk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440053758084272132/dF6N7UBk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9395312/1412959140",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10792,
+			"favorite_count": 74762,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Often colleagues downplay the sophistication of #AI &amp; specifically #AIwriting #AIwriter. I know this is more of a ‘creative writing’ piece, but this technology is moving so quickly, it can easily produce convincing descriptive work. How far off is the academic argument? #loveLD https://t.co/TyAN7ayrlk"
+	},
+	{
 		"created_at": "Sun Dec 04 10:48:22 +0000 2022",
 		"id": 1599354922365227000,
 		"id_str": "1599354922365227009",
-		"full_text": "@k8tecoulson The Mulled Wine Stall of DOWNFALL! #whammageddon was over very quickly for me this year. 🤦‍♂️ https://t.co/90Nybk9YxY",
+		"full_text": "@k8tecoulson The Mulled Wine Stall of DOWNFALL! #whammageddon was over very quickly for me this year. 🤦♂️ https://t.co/90Nybk9YxY",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -125,7 +475,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -225,7 +575,7 @@ Grailbird.data.tweets_2022_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "@k8tecoulson The Mulled Wine Stall of DOWNFALL! #whammageddon was over very quickly for me this year. 🤦‍♂️ https://t.co/90Nybk9YxY"
+		"text": "@k8tecoulson The Mulled Wine Stall of DOWNFALL! #whammageddon was over very quickly for me this year. 🤦♂️ https://t.co/90Nybk9YxY"
 	},
 	{
 		"created_at": "Sat Dec 03 15:20:24 +0000 2022",

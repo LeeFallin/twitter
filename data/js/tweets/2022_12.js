@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Wed Dec 14 07:49:03 +0000 2022",
+		"id": 1602933673229451300,
+		"id_str": "1602933673229451264",
+		"full_text": "@wsi2016 @DrNomyn https://t.co/Cbm4riyxoK",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "Dr S.E. MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "DrNomyn",
+					"name": "Naomi Barnes",
+					"id": 1171329719087665200,
+					"id_str": "1171329719087665153",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1602933665620803600,
+					"id_str": "1602933665620803584",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fj7DrRnXwAAPdHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fj7DrRnXwAAPdHh.jpg",
+					"url": "https://t.co/Cbm4riyxoK",
+					"display_url": "pic.twitter.com/Cbm4riyxoK",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1602933673229451264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602933665620803600,
+					"id_str": "1602933665620803584",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Fj7DrRnXwAAPdHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fj7DrRnXwAAPdHh.jpg",
+					"url": "https://t.co/Cbm4riyxoK",
+					"display_url": "pic.twitter.com/Cbm4riyxoK",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1602933673229451264/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Fj7DrRnXwAAPdHh.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1602933338439827500,
+		"in_reply_to_status_id_str": "1602933338439827456",
+		"in_reply_to_user_id": 803320348792025100,
+		"in_reply_to_user_id_str": "803320348792025097",
+		"in_reply_to_screen_name": "wsi2016",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1651,
+			"friends_count": 1389,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@wsi2016 @DrNomyn https://t.co/Cbm4riyxoK"
+	},
+	{
+		"created_at": "Wed Dec 14 07:44:24 +0000 2022",
+		"id": 1602932504054624300,
+		"id_str": "1602932504054624258",
+		"full_text": "@wsi2016 @DrNomyn Only go if he lets you wear a blue shirt.",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wsi2016",
+					"name": "Dr S.E. MacRae",
+					"id": 803320348792025100,
+					"id_str": "803320348792025097",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "DrNomyn",
+					"name": "Naomi Barnes",
+					"id": 1171329719087665200,
+					"id_str": "1171329719087665153",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1602783842120654800,
+		"in_reply_to_status_id_str": "1602783842120654848",
+		"in_reply_to_user_id": 803320348792025100,
+		"in_reply_to_user_id_str": "803320348792025097",
+		"in_reply_to_screen_name": "wsi2016",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1651,
+			"friends_count": 1389,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wsi2016 @DrNomyn Only go if he lets you wear a blue shirt."
+	},
+	{
 		"created_at": "Fri Dec 09 13:22:41 +0000 2022",
 		"id": 1601205695705387000,
 		"id_str": "1601205695705387009",
@@ -59,7 +385,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -196,7 +522,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -324,7 +650,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

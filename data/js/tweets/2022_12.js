@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 22 08:04:34 +0000 2022",
+		"id": 1605836682229686300,
+		"id_str": "1605836682229686273",
+		"full_text": "Oh no! 🤦‍♂️ Missed this!\nFailed assumption last week was the last 😭 https://t.co/gzx5fYX3qH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gzx5fYX3qH",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1605647225731698690",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1650,
+			"friends_count": 1389,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1605647225731698700,
+		"quoted_status_id_str": "1605647225731698690",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gzx5fYX3qH",
+			"expanded": "https://twitter.com/LTHEchat/status/1605647225731698690",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 21 19:31:44 +0000 2022",
+			"id": 1605647225731698700,
+			"id_str": "1605647225731698690",
+			"full_text": "Believe it or not, there remains a mere 29 minutes until our final #lthechat of the year.\n\nThis is a good time to prepare snacks. Will mince pies and mulled wine be the order of the day? How about a slice of stollen and cup of cocoa? https://t.co/QwIUEzrJ71",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lthechat",
+						"indices": [
+							67,
+							76
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1605647217372631000,
+						"id_str": "1605647217372631061",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FkhnoxoXEBUIoDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FkhnoxoXEBUIoDn.jpg",
+						"url": "https://t.co/QwIUEzrJ71",
+						"display_url": "pic.twitter.com/QwIUEzrJ71",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1605647225731698690/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 266,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 266,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1605647217372631000,
+						"id_str": "1605647217372631061",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FkhnoxoXEBUIoDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FkhnoxoXEBUIoDn.jpg",
+						"url": "https://t.co/QwIUEzrJ71",
+						"display_url": "pic.twitter.com/QwIUEzrJ71",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1605647225731698690/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 498,
+								"h": 266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 266,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 498,
+								"h": 266,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								133
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FkhnoxoXEBUIoDn.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/hZv8XbCh7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZv8XbCh7U",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9564,
+				"friends_count": 3413,
+				"listed_count": 168,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 4946,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10741,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1634740763",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh no! 🤦‍♂️ Missed this!\nFailed assumption last week was the last 😭 https://t.co/gzx5fYX3qH"
+	},
+	{
 		"created_at": "Tue Dec 20 11:58:12 +0000 2022",
 		"id": 1605170700213518300,
 		"id_str": "1605170700213518349",
@@ -85,7 +427,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

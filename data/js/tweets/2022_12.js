@@ -1,10 +1,106 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 29 08:53:19 +0000 2022",
+		"id": 1607553929453125600,
+		"id_str": "1608385665384976385",
+		"full_text": "1/ I want to try and explain why the current ‘living with Covid’ is not really the best way to be living with it. \n\n🔵nearly everyone I know who went to Xmas meals or parties is sick. The pay off for meeting people&amp;doing nice things is being sick. \n🔵 This is not freedom…read on",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1513942742715584500,
+			"id_str": "1513942742715584520",
+			"name": "Dr Claire Taylor",
+			"screen_name": "drclairetaylor",
+			"location": "United Kingdom",
+			"description": "Doctor|Special interest in Long Covid,POTS,ME/CFS&MCAS| neuroscientist🧠Long Covid kids champion|WHN expert advisor|long Covid clinic🏴󠁧󠁢󠁳󠁣󠁴󠁿Views my own",
+			"url": "https://t.co/6LRtFowqZs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6LRtFowqZs",
+							"expanded_url": "https://www.drclairetaylor.com",
+							"display_url": "drclairetaylor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47178,
+			"friends_count": 1295,
+			"listed_count": 689,
+			"created_at": "Tue Apr 12 18:11:01 +0000 2022",
+			"favourites_count": 20531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517961288504254466/s5yHQ3fQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517961288504254466/s5yHQ3fQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1513942742715584520/1650025390",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3883,
+		"favorite_count": 13477,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "1/ I want to try and explain why the current ‘living with Covid’ is not really the best way to be living with it. \n\n🔵nearly everyone I know who went to Xmas meals or parties is sick. The pay off for meeting people&amp;doing nice things is being sick. \n🔵 This is not freedom…read on"
+	},
+	{
 		"created_at": "Thu Dec 22 08:04:34 +0000 2022",
 		"id": 1605836682229686300,
 		"id_str": "1605836682229686273",
-		"full_text": "Oh no! 🤦‍♂️ Missed this!\nFailed assumption last week was the last 😭 https://t.co/gzx5fYX3qH",
+		"full_text": "Oh no! 🤦♂️ Missed this!\nFailed assumption last week was the last 😭 https://t.co/gzx5fYX3qH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -38,7 +134,7 @@ Grailbird.data.tweets_2022_12 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -340,7 +436,7 @@ Grailbird.data.tweets_2022_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Oh no! 🤦‍♂️ Missed this!\nFailed assumption last week was the last 😭 https://t.co/gzx5fYX3qH"
+		"text": "Oh no! 🤦♂️ Missed this!\nFailed assumption last week was the last 😭 https://t.co/gzx5fYX3qH"
 	},
 	{
 		"created_at": "Tue Dec 20 11:58:12 +0000 2022",

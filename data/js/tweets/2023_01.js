@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 10 17:58:44 +0000 2023",
+		"id": 1612871578353651700,
+		"id_str": "1612871578353651714",
+		"full_text": "Imagine this integrated into ChatGPT 🤯. https://t.co/KaLpNa5SEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KaLpNa5SEt",
+					"expanded_url": "https://twitter.com/steventey/status/1612586978201018368",
+					"display_url": "twitter.com/steventey/stat…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1656,
+			"friends_count": 1391,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1612586978201018400,
+		"quoted_status_id_str": "1612586978201018368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KaLpNa5SEt",
+			"expanded": "https://twitter.com/steventey/status/1612586978201018368",
+			"display": "twitter.com/steventey/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 09 23:07:50 +0000 2023",
+			"id": 1612586978201018400,
+			"id_str": "1612586978201018368",
+			"full_text": "Surprised there isn't more chatter around VALL-E\n\nThis new model by @Microsoft can generate speech in any voice after only hearing a 3s sample of that voice 🤯\n\nDemo → https://t.co/GgFO6kWKha https://t.co/JY88vf4lYc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Microsoft",
+						"name": "Microsoft",
+						"id": 74286565,
+						"id_str": "74286565",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/GgFO6kWKha",
+						"expanded_url": "http://valle-demo.github.io",
+						"display_url": "valle-demo.github.io",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1612586599581114400,
+						"id_str": "1612586599581114368",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1612586599581114368/pu/img/yzR4GZeAGteQR6z-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1612586599581114368/pu/img/yzR4GZeAGteQR6z-.jpg",
+						"url": "https://t.co/JY88vf4lYc",
+						"display_url": "pic.twitter.com/JY88vf4lYc",
+						"expanded_url": "https://twitter.com/steventey/status/1612586978201018368/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 908,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1396,
+								"h": 1056,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1612586599581114400,
+						"id_str": "1612586599581114368",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1612586599581114368/pu/img/yzR4GZeAGteQR6z-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1612586599581114368/pu/img/yzR4GZeAGteQR6z-.jpg",
+						"url": "https://t.co/JY88vf4lYc",
+						"display_url": "pic.twitter.com/JY88vf4lYc",
+						"expanded_url": "https://twitter.com/steventey/status/1612586978201018368/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 908,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 514,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1396,
+								"h": 1056,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								349,
+								264
+							],
+							"duration_millis": 19366,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1612586599581114368/pu/vid/950x720/fwsK52R7U_Qp6DEw.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1612586599581114368/pu/vid/356x270/ubDR8ioU8av3x7SN.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1612586599581114368/pu/vid/474x360/8p9QgtVPbWFyytnF.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1612586599581114368/pu/pl/eDO1ngsYihyaZxdJ.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 334173439,
+				"id_str": "334173439",
+				"name": "Steven Tey",
+				"screen_name": "steventey",
+				"location": "Find startup names →",
+				"description": "building the future of the web ▲ @vercel | @dubdotsh",
+				"url": "https://t.co/ijLSdWtwMo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ijLSdWtwMo",
+								"expanded_url": "https://owd.li/twitter",
+								"display_url": "owd.li/twitter",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11666,
+				"friends_count": 794,
+				"listed_count": 224,
+				"created_at": "Tue Jul 12 17:51:55 +0000 2011",
+				"favourites_count": 36551,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9030,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1506792347840888834/dS-r50Je_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506792347840888834/dS-r50Je_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/334173439/1637011006",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 530,
+			"favorite_count": 2963,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Imagine this integrated into ChatGPT 🤯. https://t.co/KaLpNa5SEt"
+	},
+	{
 		"created_at": "Mon Jan 09 12:51:53 +0000 2023",
 		"id": 1611314958855184400,
 		"id_str": "1612431969555456001",

@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 19:55:50 +0000 2023",
+		"id": 1613988211105337300,
+		"id_str": "1613988211105337346",
+		"full_text": "What an amazing couple of days!\n\nMy train ride home has been a lovely opportunity to start reflecting on my journey as an editor so far: https://t.co/wG6bTsiSEp\n\n— and to thank @GitaSedghi for her dedicated mentorship &amp; ability to answer all my questions 😂 https://t.co/0cJzoAFHn3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GitaSedghi",
+					"name": "Gita Sedghi",
+					"id": 222912521,
+					"id_str": "222912521",
+					"indices": [
+						177,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wG6bTsiSEp",
+					"expanded_url": "https://leefallin.co.uk/2023/01/journey-into-being-a-journal-editor/",
+					"display_url": "leefallin.co.uk/2023/01/journe…",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/0cJzoAFHn3",
+					"expanded_url": "https://twitter.com/jldhe1/status/1613945751159345154",
+					"display_url": "twitter.com/jldhe1/status/…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"url": "https://t.co/k3nlfWJNJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJNJO",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1657,
+			"friends_count": 1392,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1613945751159345200,
+		"quoted_status_id_str": "1613945751159345154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0cJzoAFHn3",
+			"expanded": "https://twitter.com/jldhe1/status/1613945751159345154",
+			"display": "twitter.com/jldhe1/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 13 17:07:07 +0000 2023",
+			"id": 1613945751159345200,
+			"id_str": "1613945751159345154",
+			"full_text": "This is how the Editorial Board rolls!!! @DrCraigMorley @CathyM_Ed_LT @NicolaGrayson @EvilDoctorB @GitaSedghi @LeeFallin @TomLowe_ and @AlicjaSyska planning the new exciting year in the Journal. Watch this space!\n@aldinhe_LH https://t.co/LJBLtbQbIm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrCraigMorley",
+						"name": "Craig Morley",
+						"id": 771737078325448700,
+						"id_str": "771737078325448706",
+						"indices": [
+							41,
+							55
+						]
+					},
+					{
+						"screen_name": "CathyM_Ed_LT",
+						"name": "Cathy Malone",
+						"id": 1334103589158051800,
+						"id_str": "1334103589158051841",
+						"indices": [
+							56,
+							69
+						]
+					},
+					{
+						"screen_name": "NicolaGrayson",
+						"name": "Dr Nicola Grayson",
+						"id": 1683428413,
+						"id_str": "1683428413",
+						"indices": [
+							70,
+							84
+						]
+					},
+					{
+						"screen_name": "EvilDoctorB",
+						"name": "Dr Carina Buckley",
+						"id": 576962461,
+						"id_str": "576962461",
+						"indices": [
+							85,
+							97
+						]
+					},
+					{
+						"screen_name": "GitaSedghi",
+						"name": "Gita Sedghi",
+						"id": 222912521,
+						"id_str": "222912521",
+						"indices": [
+							98,
+							109
+						]
+					},
+					{
+						"screen_name": "LeeFallin",
+						"name": "Dr Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							110,
+							120
+						]
+					},
+					{
+						"screen_name": "TomLowe_",
+						"name": "Tom Lowe",
+						"id": 349588997,
+						"id_str": "349588997",
+						"indices": [
+							121,
+							130
+						]
+					},
+					{
+						"screen_name": "AlicjaSyska",
+						"name": "Dr Alicja Syska",
+						"id": 826917535,
+						"id_str": "826917535",
+						"indices": [
+							135,
+							147
+						]
+					},
+					{
+						"screen_name": "aldinhe_LH",
+						"name": "ALDinHE and LearnHigher",
+						"id": 119064069,
+						"id_str": "119064069",
+						"indices": [
+							213,
+							224
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1613945689976742000,
+						"id_str": "1613945689976741888",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/FmXjDdHWIAAs5Hg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmXjDdHWIAAs5Hg.jpg",
+						"url": "https://t.co/LJBLtbQbIm",
+						"display_url": "pic.twitter.com/LJBLtbQbIm",
+						"expanded_url": "https://twitter.com/jldhe1/status/1613945751159345154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1613945689976742000,
+						"id_str": "1613945689976741888",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/FmXjDdHWIAAs5Hg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmXjDdHWIAAs5Hg.jpg",
+						"url": "https://t.co/LJBLtbQbIm",
+						"display_url": "pic.twitter.com/LJBLtbQbIm",
+						"expanded_url": "https://twitter.com/jldhe1/status/1613945751159345154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1613945689960059000,
+						"id_str": "1613945689960058904",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/FmXjDdDXkBgzjFT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmXjDdDXkBgzjFT.jpg",
+						"url": "https://t.co/LJBLtbQbIm",
+						"display_url": "pic.twitter.com/LJBLtbQbIm",
+						"expanded_url": "https://twitter.com/jldhe1/status/1613945751159345154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1613945689964253200,
+						"id_str": "1613945689964253212",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/FmXjDdEXkBwLB3O.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmXjDdEXkBwLB3O.jpg",
+						"url": "https://t.co/LJBLtbQbIm",
+						"display_url": "pic.twitter.com/LJBLtbQbIm",
+						"expanded_url": "https://twitter.com/jldhe1/status/1613945751159345154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1613945689985130500,
+						"id_str": "1613945689985130496",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/FmXjDdJWIAAq_UE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FmXjDdJWIAAq_UE.jpg",
+						"url": "https://t.co/LJBLtbQbIm",
+						"display_url": "pic.twitter.com/LJBLtbQbIm",
+						"expanded_url": "https://twitter.com/jldhe1/status/1613945751159345154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 984873624938143700,
+				"id_str": "984873624938143751",
+				"name": "JLDHE",
+				"screen_name": "jldhe1",
+				"location": "",
+				"description": "JLDHE is aimed at those interested in all aspects of how learning is facilitated, and how it is experienced and achieved by students in higher education.",
+				"url": "https://t.co/HFhBHDF4ex",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HFhBHDF4ex",
+								"expanded_url": "http://journal.aldinhe.ac.uk/",
+								"display_url": "journal.aldinhe.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 437,
+				"friends_count": 15,
+				"listed_count": 8,
+				"created_at": "Fri Apr 13 19:19:05 +0000 2018",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 167,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984877217674137604/I8kIzZ9H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984877217674137604/I8kIzZ9H_normal.jpg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What an amazing couple of days!\n\nMy train ride home has been a lovely opportunity to start reflecting on my journey as an editor so far: https://t.co/wG6bTsiSEp\n\n— and to thank @GitaSedghi for her dedicated mentorship &amp; ability to answer all my questions 😂 https://t.co/0cJzoAFHn3"
+	},
+	{
 		"created_at": "Fri Jan 13 00:00:00 +0000 2023",
 		"id": 1613687270191546400,
 		"id_str": "1613687270191546370",
@@ -36,7 +542,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -178,7 +684,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -251,7 +757,7 @@ Grailbird.data.tweets_2023_01 =
 		"created_at": "Thu Jan 12 13:38:22 +0000 2023",
 		"id": 1613530830898446300,
 		"id_str": "1613530830898446336",
-		"full_text": "@DrMJBunting @simon_on_energy 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️",
+		"full_text": "@DrMJBunting @simon_on_energy 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️",
 		"truncated": false,
 		"display_text_range": [
 			30,
@@ -296,7 +802,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -362,7 +868,7 @@ Grailbird.data.tweets_2023_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@DrMJBunting @simon_on_energy 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️ 🤦‍♂️"
+		"text": "@DrMJBunting @simon_on_energy 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️ 🤦♂️"
 	},
 	{
 		"created_at": "Thu Jan 12 13:33:19 +0000 2023",
@@ -403,7 +909,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -510,7 +1016,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -617,7 +1123,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -746,7 +1252,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {
@@ -842,7 +1348,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull.\n❤️ #HigherEd, #EdTech, #Lego, #loveLD & #Hull.\nAll tweets = personal capacity",
 			"url": "https://t.co/k3nlfWJNJO",
 			"entities": {
 				"url": {

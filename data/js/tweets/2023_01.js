@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 21:24:56 +0000 2023",
+		"id": 1620171226324041700,
+		"id_str": "1620171226324041729",
+		"full_text": "@Charlesknight Great question… I imagine someone is on it. 🤞 Would be interested to find out!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Charlesknight",
+					"name": "Charles",
+					"id": 14210626,
+					"id_str": "14210626",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1620155942896832500,
+		"in_reply_to_status_id_str": "1620155942896832512",
+		"in_reply_to_user_id": 14210626,
+		"in_reply_to_user_id_str": "14210626",
+		"in_reply_to_screen_name": "Charlesknight",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1794,
+			"friends_count": 1842,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Charlesknight Great question… I imagine someone is on it. 🤞 Would be interested to find out!"
+	},
+	{
+		"created_at": "Mon Jan 30 16:53:51 +0000 2023",
+		"id": 1620103008020471800,
+		"id_str": "1620103008020471809",
+		"full_text": "Also... does this mean I can tick the following off my #BucketList:\n✅ Be on the cover of a magazine\n#loveLD 🤣😂🤣 https://t.co/NbwFK9GJka",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BucketList",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1620102988999102500,
+					"id_str": "1620102988999102490",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FnvDFbbXEBoJaLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnvDFbbXEBoJaLC.jpg",
+					"url": "https://t.co/NbwFK9GJka",
+					"display_url": "pic.twitter.com/NbwFK9GJka",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1620103008020471809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1664,
+							"h": 977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1620102988999102500,
+					"id_str": "1620102988999102490",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FnvDFbbXEBoJaLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FnvDFbbXEBoJaLC.jpg",
+					"url": "https://t.co/NbwFK9GJka",
+					"display_url": "pic.twitter.com/NbwFK9GJka",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1620103008020471809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1664,
+							"h": 977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1620103003364790300,
+		"in_reply_to_status_id_str": "1620103003364790272",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1794,
+			"friends_count": 1842,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Also... does this mean I can tick the following off my #BucketList:\n✅ Be on the cover of a magazine\n#loveLD 🤣😂🤣 https://t.co/NbwFK9GJka"
+	},
+	{
+		"created_at": "Mon Jan 30 16:53:50 +0000 2023",
+		"id": 1620103003364790300,
+		"id_str": "1620103003364790272",
+		"full_text": "I'm already in love with LoveLD Magazine (Learning Development Magazine). It looks absolutely fantastic @aldinhe_LH.\n\nCan't believe issue 1 is 60 pages long. Immense work 👏\n\n#loveLD #HigherEd #LTHEchat #AcademicChatter #Teaching #Learning #University\n\nhttps://t.co/F3lZlgunsd https://t.co/x2tVWg3P3C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "AcademicChatter",
+					"indices": [
+						202,
+						218
+					]
+				},
+				{
+					"text": "Teaching",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "Learning",
+					"indices": [
+						229,
+						238
+					]
+				},
+				{
+					"text": "University",
+					"indices": [
+						239,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE and LearnHigher",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F3lZlgunsd",
+					"expanded_url": "https://online.fliphtml5.com/lwhvl/vdvx/#p=1",
+					"display_url": "online.fliphtml5.com/lwhvl/vdvx/#p=1",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1620100828802519000,
+					"id_str": "1620100828802519051",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FnvBHsEXEAsZZuL.png",
+					"media_url_https": "https://pbs.twimg.com/media/FnvBHsEXEAsZZuL.png",
+					"url": "https://t.co/x2tVWg3P3C",
+					"display_url": "pic.twitter.com/x2tVWg3P3C",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1620103003364790272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 626,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 626,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1620100828802519000,
+					"id_str": "1620100828802519051",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FnvBHsEXEAsZZuL.png",
+					"media_url_https": "https://pbs.twimg.com/media/FnvBHsEXEAsZZuL.png",
+					"url": "https://t.co/x2tVWg3P3C",
+					"display_url": "pic.twitter.com/x2tVWg3P3C",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1620103003364790272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 626,
+							"h": 888,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 626,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1794,
+			"friends_count": 1842,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm already in love with LoveLD Magazine (Learning Development Magazine). It looks absolutely fantastic @aldinhe_LH.\n\nCan't believe issue 1 is 60 pages long. Immense work 👏\n\n#loveLD #HigherEd #LTHEchat #AcademicChatter #Teaching #Learning #University\n\nhttps://t.co/F3lZlgunsd https://t.co/x2tVWg3P3C"
+	},
+	{
 		"created_at": "Fri Jan 27 16:12:36 +0000 2023",
 		"id": 1618943139590606800,
 		"id_str": "1619005461285732352",

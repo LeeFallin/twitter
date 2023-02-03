@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Fri Feb 03 00:20:07 +0000 2023",
+		"id": 1621302474979033000,
+		"id_str": "1621302474979033088",
+		"full_text": "@kegill @beilinglaoshi @leohavemann I wouldn’t feel too bad about not noticing it @beilinglaoshi. I think it was kind of intentional. The services crept in. Wasn’t exactly printed on the box (though people did consent to use cloud-powered services).",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kegill",
+					"name": "🇺🇦Kathy E Gill | mastodon.social/@kegill",
+					"id": 3370001,
+					"id_str": "3370001",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1621302078994882600,
+		"in_reply_to_status_id_str": "1621302078994882561",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1811,
+			"friends_count": 1845,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kegill @beilinglaoshi @leohavemann I wouldn’t feel too bad about not noticing it @beilinglaoshi. I think it was kind of intentional. The services crept in. Wasn’t exactly printed on the box (though people did consent to use cloud-powered services)."
+	},
+	{
+		"created_at": "Fri Feb 03 00:18:32 +0000 2023",
+		"id": 1621302078994882600,
+		"id_str": "1621302078994882561",
+		"full_text": "@kegill @beilinglaoshi @leohavemann That’s an important distinction @kegill. They’re AI’s in the technical/IT sense/ definition - but not really/philosophically. That is, these are computer applications that demonstrate human-like processes. But in this case, not a true independent ‘intelligence’. An algorithm.",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kegill",
+					"name": "🇺🇦Kathy E Gill | mastodon.social/@kegill",
+					"id": 3370001,
+					"id_str": "3370001",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						8,
+						22
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "kegill",
+					"name": "🇺🇦Kathy E Gill | mastodon.social/@kegill",
+					"id": 3370001,
+					"id_str": "3370001",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1621285439075385300,
+		"in_reply_to_status_id_str": "1621285439075385345",
+		"in_reply_to_user_id": 3370001,
+		"in_reply_to_user_id_str": "3370001",
+		"in_reply_to_screen_name": "kegill",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1811,
+			"friends_count": 1845,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kegill @beilinglaoshi @leohavemann That’s an important distinction @kegill. They’re AI’s in the technical/IT sense/ definition - but not really/philosophically. That is, these are computer applications that demonstrate human-like processes. But in this case, not a true independent ‘intelligence’. An algorithm."
+	},
+	{
+		"created_at": "Thu Feb 02 15:49:41 +0000 2023",
+		"id": 1621174022733189000,
+		"id_str": "1621174022733189121",
+		"full_text": "#loveLD @aldinhe_LH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE and LearnHigher",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1621173902855512000,
+		"in_reply_to_status_id_str": "1621173902855512066",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1811,
+			"friends_count": 1845,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "qme",
+		"text": "#loveLD @aldinhe_LH"
+	},
+	{
 		"created_at": "Wed Feb 01 21:01:08 +0000 2023",
 		"id": 1620890012987584500,
 		"id_str": "1620890012987584513",
@@ -77,7 +532,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -224,7 +679,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -392,7 +847,7 @@ Grailbird.data.tweets_2023_02 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+				"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 				"url": "https://t.co/k3nlfWJfUg",
 				"entities": {
 					"url": {
@@ -567,7 +1022,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -735,7 +1190,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -893,7 +1348,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -1028,7 +1483,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -1172,7 +1627,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -1340,7 +1795,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -1475,7 +1930,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -1622,7 +2077,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -1780,7 +2235,7 @@ Grailbird.data.tweets_2023_02 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+				"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 				"url": "https://t.co/k3nlfWJfUg",
 				"entities": {
 					"url": {
@@ -1912,7 +2367,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -2026,7 +2481,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -2204,7 +2659,7 @@ Grailbird.data.tweets_2023_02 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+				"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 				"url": "https://t.co/k3nlfWJfUg",
 				"entities": {
 					"url": {
@@ -2356,7 +2811,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -2460,7 +2915,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -2597,7 +3052,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -2734,7 +3189,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -2881,7 +3336,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -3127,7 +3582,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -3271,7 +3726,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

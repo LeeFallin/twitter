@@ -1,6 +1,4776 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 00:15:14 +0000 2023",
+		"id": 1623475576299221000,
+		"id_str": "1623475576299220993",
+		"full_text": "@diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi @emilymbender But there were lots of steps between those phones. Symbian developed as a rudimentary mobile OS as did BlackBerry and other proprietary systems. Then Android and Apple swept them all over.",
+		"truncated": false,
+		"display_text_range": [
+			247,
+			435
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "diervilla",
+					"name": "Dr Pam Birtill",
+					"id": 20036756,
+					"id_str": "20036756",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "KellyGalvin74",
+					"name": "Kelly Galvin",
+					"id": 1348057335814475800,
+					"id_str": "1348057335814475776",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						155,
+						168
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						206,
+						220
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"screen_name": "emilymbender",
+					"name": "@emilymbender@dair-community.social on Mastodon",
+					"id": 172179385,
+					"id_str": "172179385",
+					"indices": [
+						233,
+						246
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623434996584439800,
+		"in_reply_to_status_id_str": "1623434996584439809",
+		"in_reply_to_user_id": 20036756,
+		"in_reply_to_user_id_str": "20036756",
+		"in_reply_to_screen_name": "diervilla",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi @emilymbender But there were lots of steps between those phones. Symbian developed as a rudimentary mobile OS as did BlackBerry and other proprietary systems. Then Android and Apple swept them all over."
+	},
+	{
+		"created_at": "Wed Feb 08 21:22:53 +0000 2023",
+		"id": 1623432201953071000,
+		"id_str": "1623432201953071109",
+		"full_text": "@Bali_Maha @diervilla @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi @emilymbender It really doesn’t feel incremental. \n\nSpeech to text sucked for about 20 years before it started to work reliably in consumer facing products. \n\nAI ‘writers’ and chatbots went from formulaic to fantastic quite rapidly. GPT-2 to GPT-3 is without comparison. Cosmic change.",
+		"truncated": false,
+		"display_text_range": [
+			247,
+			518
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "diervilla",
+					"name": "Dr Pam Birtill",
+					"id": 20036756,
+					"id_str": "20036756",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "KellyGalvin74",
+					"name": "Kelly Galvin",
+					"id": 1348057335814475800,
+					"id_str": "1348057335814475776",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						143,
+						154
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						155,
+						168
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						198,
+						205
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						206,
+						220
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"screen_name": "emilymbender",
+					"name": "@emilymbender@dair-community.social on Mastodon",
+					"id": 172179385,
+					"id_str": "172179385",
+					"indices": [
+						233,
+						246
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623431088298430500,
+		"in_reply_to_status_id_str": "1623431088298430465",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bali_Maha @diervilla @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi @emilymbender It really doesn’t feel incremental. \n\nSpeech to text sucked for about 20 years before it started to work reliably in consumer facing products. \n\nAI ‘writers’ and chatbots went from formulaic to fantastic quite rapidly. GPT-2 to GPT-3 is without comparison. Cosmic change."
+	},
+	{
+		"created_at": "Wed Feb 08 21:20:20 +0000 2023",
+		"id": 1623431559243088000,
+		"id_str": "1623431559243087873",
+		"full_text": "@Bali_Maha @leohavemann @EnglishOER @timbocop @mart_compton @KellyGalvin74 @davecormier @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi @emilymbender I suspect we’ll see GPT-4 powering Microsoft Word features before long…",
+		"truncated": false,
+		"display_text_range": [
+			236,
+			307
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"screen_name": "KellyGalvin74",
+					"name": "Kelly Galvin",
+					"id": 1348057335814475800,
+					"id_str": "1348057335814475776",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						144,
+						157
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						173,
+						186
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						195,
+						209
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"screen_name": "emilymbender",
+					"name": "@emilymbender@dair-community.social on Mastodon",
+					"id": 172179385,
+					"id_str": "172179385",
+					"indices": [
+						222,
+						235
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623431359963320300,
+		"in_reply_to_status_id_str": "1623431359963320323",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bali_Maha @leohavemann @EnglishOER @timbocop @mart_compton @KellyGalvin74 @davecormier @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi @emilymbender I suspect we’ll see GPT-4 powering Microsoft Word features before long…"
+	},
+	{
+		"created_at": "Wed Feb 08 21:14:13 +0000 2023",
+		"id": 1623430021720289300,
+		"id_str": "1623430021720289285",
+		"full_text": "@beilinglaoshi @diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @VirnaRossi @emilymbender It’s also scary how good ChatGPT / GPT-3 is at being as chaotic  (random) as us humans haha. https://t.co/UkpPWX2uKA",
+		"truncated": false,
+		"display_text_range": [
+			247,
+			363
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "diervilla",
+					"name": "Dr Pam Birtill",
+					"id": 20036756,
+					"id_str": "20036756",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "KellyGalvin74",
+					"name": "Kelly Galvin",
+					"id": 1348057335814475800,
+					"id_str": "1348057335814475776",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"screen_name": "emilymbender",
+					"name": "@emilymbender@dair-community.social on Mastodon",
+					"id": 172179385,
+					"id_str": "172179385",
+					"indices": [
+						233,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UkpPWX2uKA",
+					"expanded_url": "https://leefallin.co.uk/2023/02/can-a-blog-post-written-by-an-ai-trick-an-ai/",
+					"display_url": "leefallin.co.uk/2023/02/can-a-…",
+					"indices": [
+						340,
+						363
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623428845939441700,
+		"in_reply_to_status_id_str": "1623428845939441664",
+		"in_reply_to_user_id": 2266231764,
+		"in_reply_to_user_id_str": "2266231764",
+		"in_reply_to_screen_name": "beilinglaoshi",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beilinglaoshi @diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @VirnaRossi @emilymbender It’s also scary how good ChatGPT / GPT-3 is at being as chaotic  (random) as us humans haha. https://t.co/UkpPWX2uKA"
+	},
+	{
+		"created_at": "Wed Feb 08 21:08:36 +0000 2023",
+		"id": 1623428609229611000,
+		"id_str": "1623428609229611015",
+		"full_text": "@beilinglaoshi @diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @VirnaRossi @emilymbender * I think this makes the predictive workings of the ChatGPT model more concrete.",
+		"truncated": false,
+		"display_text_range": [
+			247,
+			327
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "diervilla",
+					"name": "Dr Pam Birtill",
+					"id": 20036756,
+					"id_str": "20036756",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "KellyGalvin74",
+					"name": "Kelly Galvin",
+					"id": 1348057335814475800,
+					"id_str": "1348057335814475776",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"screen_name": "emilymbender",
+					"name": "@emilymbender@dair-community.social on Mastodon",
+					"id": 172179385,
+					"id_str": "172179385",
+					"indices": [
+						233,
+						246
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623428245482791000,
+		"in_reply_to_status_id_str": "1623428245482790912",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@beilinglaoshi @diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @VirnaRossi @emilymbender * I think this makes the predictive workings of the ChatGPT model more concrete."
+	},
+	{
+		"created_at": "Wed Feb 08 21:07:10 +0000 2023",
+		"id": 1623428245482791000,
+		"id_str": "1623428245482790912",
+		"full_text": "@beilinglaoshi @diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @VirnaRossi @emilymbender This is one reason I love Giant Language model Test Room (GLTR). You can see the likelihood of the next word: https://t.co/h2oQcoK1Q8",
+		"truncated": false,
+		"display_text_range": [
+			247,
+			356
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "diervilla",
+					"name": "Dr Pam Birtill",
+					"id": 20036756,
+					"id_str": "20036756",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						37,
+						50
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "KellyGalvin74",
+					"name": "Kelly Galvin",
+					"id": 1348057335814475800,
+					"id_str": "1348057335814475776",
+					"indices": [
+						63,
+						77
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						170,
+						183
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						199,
+						212
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						221,
+						232
+					]
+				},
+				{
+					"screen_name": "emilymbender",
+					"name": "@emilymbender@dair-community.social on Mastodon",
+					"id": 172179385,
+					"id_str": "172179385",
+					"indices": [
+						233,
+						246
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623428241187807200,
+					"id_str": "1623428241187807234",
+					"indices": [
+						357,
+						380
+					],
+					"media_url": "http://pbs.twimg.com/media/FoeTYlJWIAIm3dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoeTYlJWIAIm3dh.jpg",
+					"url": "https://t.co/h2oQcoK1Q8",
+					"display_url": "pic.twitter.com/h2oQcoK1Q8",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1623428245482790912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 502,
+							"h": 169,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 169,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 169,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623428241187807200,
+					"id_str": "1623428241187807234",
+					"indices": [
+						357,
+						380
+					],
+					"media_url": "http://pbs.twimg.com/media/FoeTYlJWIAIm3dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoeTYlJWIAIm3dh.jpg",
+					"url": "https://t.co/h2oQcoK1Q8",
+					"display_url": "pic.twitter.com/h2oQcoK1Q8",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1623428245482790912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 502,
+							"h": 169,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 169,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 169,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623427689104253000,
+		"in_reply_to_status_id_str": "1623427689104252931",
+		"in_reply_to_user_id": 2266231764,
+		"in_reply_to_user_id_str": "2266231764",
+		"in_reply_to_screen_name": "beilinglaoshi",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beilinglaoshi @diervilla @Bali_Maha @mart_compton @EnglishOER @KellyGalvin74 @davecormier @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @VirnaRossi @emilymbender This is one reason I love Giant Language model Test Room (GLTR). You can see the likelihood of the next word: https://t.co/h2oQcoK1Q8"
+	},
+	{
+		"created_at": "Wed Feb 08 20:03:24 +0000 2023",
+		"id": 1623412199115874300,
+		"id_str": "1623412199115874305",
+		"full_text": "@LTHEchat @TalkingHEpod A1: Snap! I always do #LTHEchat while the hubby watches TV",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TalkingHEpod",
+					"name": "Talking Higher Education Podcast",
+					"id": 1331330787820626000,
+					"id_str": "1331330787820625923",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623411594624438300,
+		"in_reply_to_status_id_str": "1623411594624438272",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @TalkingHEpod A1: Snap! I always do #LTHEchat while the hubby watches TV"
+	},
+	{
+		"created_at": "Wed Feb 08 19:51:12 +0000 2023",
+		"id": 1623401405791838200,
+		"id_str": "1623409127342108672",
+		"full_text": "Are you getting ready for the #LTHEchat tonight?  have time to read the blog by @santanuvasant? Check it out here: potential of podcasting practice as a learning space in higher education\nhttps://t.co/P67wk3M7UR https://t.co/4ueHpaksMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant PFHEA",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						80,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P67wk3M7UR",
+					"expanded_url": "https://lthechat.com/",
+					"display_url": "lthechat.com",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1623401380353388500,
+					"id_str": "1623401380353388545",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Fod69EvXsAEiqUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fod69EvXsAEiqUZ.jpg",
+					"url": "https://t.co/4ueHpaksMb",
+					"display_url": "pic.twitter.com/4ueHpaksMb",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1623401405791838210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623401380353388500,
+					"id_str": "1623401380353388545",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/Fod69EvXsAEiqUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fod69EvXsAEiqUZ.jpg",
+					"url": "https://t.co/4ueHpaksMb",
+					"display_url": "pic.twitter.com/4ueHpaksMb",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1623401405791838210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/hZv8XbCh7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hZv8XbCh7U",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9605,
+			"friends_count": 3398,
+			"listed_count": 169,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 5000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1634740763",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you getting ready for the #LTHEchat tonight?  have time to read the blog by @santanuvasant? Check it out here: potential of podcasting practice as a learning space in higher education\nhttps://t.co/P67wk3M7UR https://t.co/4ueHpaksMb"
+	},
+	{
+		"created_at": "Wed Feb 08 13:53:53 +0000 2023",
+		"id": 1623319206174380000,
+		"id_str": "1623319206174380036",
+		"full_text": "@mart_compton @thisaeshaw @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi There is a potential for some catastrophic consequences",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623318974174732300,
+		"in_reply_to_status_id_str": "1623318974174732292",
+		"in_reply_to_user_id": 467463085,
+		"in_reply_to_user_id_str": "467463085",
+		"in_reply_to_screen_name": "mart_compton",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mart_compton @thisaeshaw @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi There is a potential for some catastrophic consequences"
+	},
+	{
+		"created_at": "Wed Feb 08 13:52:21 +0000 2023",
+		"id": 1623318821590147000,
+		"id_str": "1623318821590147074",
+		"full_text": "@thisaeshaw @mart_compton @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi We waited two decades to get good speech-to-text. GPT-2 went from, 'oh this is interesting' to GTP-3 being 'OH MY!!! THIS CHANGES EVERYTHING'. That happened in a year.",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			385
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623318624072081400,
+		"in_reply_to_status_id_str": "1623318624072081409",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thisaeshaw @mart_compton @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi We waited two decades to get good speech-to-text. GPT-2 went from, 'oh this is interesting' to GTP-3 being 'OH MY!!! THIS CHANGES EVERYTHING'. That happened in a year."
+	},
+	{
+		"created_at": "Wed Feb 08 13:51:34 +0000 2023",
+		"id": 1623318624072081400,
+		"id_str": "1623318624072081409",
+		"full_text": "@thisaeshaw @mart_compton @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi I've never seen something develop so rapidly. It's thanks to cheap cloud computing, BIG/free/open datasets and liberal ethics that this is all possible. The leaps are outstanding.",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			397
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						39,
+						49
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						50,
+						62
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1623318018817159200,
+		"in_reply_to_status_id_str": "1623318018817159169",
+		"in_reply_to_user_id": 16747926,
+		"in_reply_to_user_id_str": "16747926",
+		"in_reply_to_screen_name": "thisaeshaw",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thisaeshaw @mart_compton @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi I've never seen something develop so rapidly. It's thanks to cheap cloud computing, BIG/free/open datasets and liberal ethics that this is all possible. The leaps are outstanding."
+	},
+	{
+		"created_at": "Wed Feb 08 13:47:26 +0000 2023",
+		"id": 1623317582529892400,
+		"id_str": "1623317582529892355",
+		"full_text": "@mart_compton @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi I think we need to unpack AI - turn that lens away from just the BIG impact items like ChatGPT and look -hard- at all AI algorithms. \n\nUltimately. That all needs teaching within AI literacy.",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			408
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623316975827968000,
+		"in_reply_to_status_id_str": "1623316975827968002",
+		"in_reply_to_user_id": 467463085,
+		"in_reply_to_user_id_str": "467463085",
+		"in_reply_to_screen_name": "mart_compton",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mart_compton @leohavemann @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi I think we need to unpack AI - turn that lens away from just the BIG impact items like ChatGPT and look -hard- at all AI algorithms. \n\nUltimately. That all needs teaching within AI literacy."
+	},
+	{
+		"created_at": "Wed Feb 08 13:46:22 +0000 2023",
+		"id": 1623317315423969300,
+		"id_str": "1623317315423969283",
+		"full_text": "@mike_ewen @mart_compton @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi … I worry there will be a dominance of very few models. Because of the API, ChatGPT is already powering hundreds of tools. The market is not as diverse as it must be for competitive and non-monopolistic development.",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			433
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623314655954215000,
+		"in_reply_to_status_id_str": "1623314655954214913",
+		"in_reply_to_user_id": 20668436,
+		"in_reply_to_user_id_str": "20668436",
+		"in_reply_to_screen_name": "mike_ewen",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mike_ewen @mart_compton @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @leohavemann @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi … I worry there will be a dominance of very few models. Because of the API, ChatGPT is already powering hundreds of tools. The market is not as diverse as it must be for competitive and non-monopolistic development."
+	},
+	{
+		"created_at": "Wed Feb 08 13:45:07 +0000 2023",
+		"id": 1623316999051911200,
+		"id_str": "1623316999051911169",
+		"full_text": "@leohavemann @mart_compton @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi So from a (critical) AI literacy perspective we need to approach everything with a new level of caution - which includes a lot of the stuff that has already become everyday.",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			391
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623316794625650700,
+		"in_reply_to_status_id_str": "1623316794625650689",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@leohavemann @mart_compton @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi So from a (critical) AI literacy perspective we need to approach everything with a new level of caution - which includes a lot of the stuff that has already become everyday."
+	},
+	{
+		"created_at": "Wed Feb 08 13:44:18 +0000 2023",
+		"id": 1623316794625650700,
+		"id_str": "1623316794625650689",
+		"full_text": "@leohavemann @mart_compton @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi …now. Things like OCR and dictation seem almost everyday! But we can never forget they are replacing human functions AND trained on ML models that privileged some over others (I.e. Speech and voice AI is still best developed on the white, male, western voice)!",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			478
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623316500848251000,
+		"in_reply_to_status_id_str": "1623316500848250881",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@leohavemann @mart_compton @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi …now. Things like OCR and dictation seem almost everyday! But we can never forget they are replacing human functions AND trained on ML models that privileged some over others (I.e. Speech and voice AI is still best developed on the white, male, western voice)!"
+	},
+	{
+		"created_at": "Wed Feb 08 13:43:08 +0000 2023",
+		"id": 1623316500848251000,
+		"id_str": "1623316500848250881",
+		"full_text": "@leohavemann @mart_compton @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi I generally think of it in the purest, technical sense. Those algorithms that are replicating (?) human-like intelligence - usually built via ML. This does include things like OCR and dictation as well as bigger paradigm shifts like ChatGPT’s generative NLP model.",
+		"truncated": false,
+		"display_text_range": [
+			218,
+			482
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leohavemann",
+					"name": "Leo Havemann",
+					"id": 14788950,
+					"id_str": "14788950",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mart_compton",
+					"name": "MartinCompton",
+					"id": 467463085,
+					"id_str": "467463085",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "davecormier",
+					"name": "dave cormier",
+					"id": 789991,
+					"id_str": "789991",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "Bali_Maha",
+					"name": "Maha Bali, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "Puiyin",
+					"name": "Puiyin Wong 🇭🇰😸",
+					"id": 21680138,
+					"id_str": "21680138",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "thisaeshaw",
+					"name": "Abbi",
+					"id": 16747926,
+					"id_str": "16747926",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"screen_name": "PhilAnthony4",
+					"name": "PhilAnthony",
+					"id": 808450224,
+					"id_str": "808450224",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "MaryJacobTEL1",
+					"name": "Mary Jacob L&T",
+					"id": 798515073257979900,
+					"id_str": "798515073257979904",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"screen_name": "michaeldwebb",
+					"name": "Michael Webb",
+					"id": 1538855663060897800,
+					"id_str": "1538855663060897794",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						206,
+						217
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1623315649467498500,
+		"in_reply_to_status_id_str": "1623315649467498496",
+		"in_reply_to_user_id": 14788950,
+		"in_reply_to_user_id_str": "14788950",
+		"in_reply_to_screen_name": "leohavemann",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1834,
+			"friends_count": 1886,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@leohavemann @mart_compton @mike_ewen @davecormier @Bali_Maha @EnglishOER @timbocop @suebecks @SmithySusanA @Puiyin @thisaeshaw @EmmaKEdDev @PhilAnthony4 @MaryJacobTEL1 @michaeldwebb @Emmadw @beilinglaoshi @VirnaRossi I generally think of it in the purest, technical sense. Those algorithms that are replicating (?) human-like intelligence - usually built via ML. This does include things like OCR and dictation as well as bigger paradigm shifts like ChatGPT’s generative NLP model."
+	},
+	{
 		"created_at": "Tue Feb 07 18:25:46 +0000 2023",
 		"id": 1623025241483010000,
 		"id_str": "1623025241483010049",
@@ -109,7 +4879,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert 💼 Lecturer in Education Studies @UniofHull. ❤️ #HigherEd, #EdTech, #loveLD & #Inclusion. @JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

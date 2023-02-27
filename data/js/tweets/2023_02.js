@@ -1,10 +1,298 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 21:11:48 +0000 2023",
+		"id": 1629742410384253000,
+		"id_str": "1629952394124468224",
+		"full_text": "A new version of PSF Wheels of Fellowship is now available. An interactive tool to aid Fellowship literacy. Contact me directly for a copy @NTF_Tweet @aldinhe_LH @LTHEchat @AcademicChatter https://t.co/1PUJtR0JwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NTF_Tweet",
+					"name": "NTF Tweet",
+					"id": 2315738930,
+					"id_str": "2315738930",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE and LearnHigher",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"screen_name": "AcademicChatter",
+					"name": "Academic Chatter™",
+					"id": 885953601067208700,
+					"id_str": "885953601067208705",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1629742403228770300,
+					"id_str": "1629742403228770305",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp4CFLvXoAEuaei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp4CFLvXoAEuaei.jpg",
+					"url": "https://t.co/1PUJtR0JwO",
+					"display_url": "pic.twitter.com/1PUJtR0JwO",
+					"expanded_url": "https://twitter.com/CleggDr/status/1629742410384252928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1717,
+							"h": 967,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1629742403228770300,
+					"id_str": "1629742403228770305",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp4CFLvXoAEuaei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp4CFLvXoAEuaei.jpg",
+					"url": "https://t.co/1PUJtR0JwO",
+					"display_url": "pic.twitter.com/1PUJtR0JwO",
+					"expanded_url": "https://twitter.com/CleggDr/status/1629742410384252928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1717,
+							"h": 967,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629742403224580000,
+					"id_str": "1629742403224580096",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp4CFLuXsAAe2H-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp4CFLuXsAAe2H-.jpg",
+					"url": "https://t.co/1PUJtR0JwO",
+					"display_url": "pic.twitter.com/1PUJtR0JwO",
+					"expanded_url": "https://twitter.com/CleggDr/status/1629742410384252928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1721,
+							"h": 966,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1629742403241365500,
+					"id_str": "1629742403241365504",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Fp4CFLyX0AASIzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fp4CFLyX0AASIzT.jpg",
+					"url": "https://t.co/1PUJtR0JwO",
+					"display_url": "pic.twitter.com/1PUJtR0JwO",
+					"expanded_url": "https://twitter.com/CleggDr/status/1629742410384252928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1719,
+							"h": 966,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126327973,
+			"id_str": "126327973",
+			"name": "Dr Andy Clegg, SFHEA, NTF, IFNTF",
+			"screen_name": "CleggDr",
+			"location": "University of Portsmouth",
+			"description": "Creative & innovative change agent committed to pedagogic enhancement across learning, teaching & assessment. NTF 2021 and CATE 2022 award holder.",
+			"url": "https://t.co/0R3iVknPXy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0R3iVknPXy",
+							"expanded_url": "http://linkedin.com/in/drandyclegg",
+							"display_url": "linkedin.com/in/drandyclegg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377,
+			"friends_count": 324,
+			"listed_count": 5,
+			"created_at": "Thu Mar 25 14:12:34 +0000 2010",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540784829138173952/F4aSk36R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540784829138173952/F4aSk36R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126327973/1563015402",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new version of PSF Wheels of Fellowship is now available. An interactive tool to aid Fellowship literacy. Contact me directly for a copy @NTF_Tweet @aldinhe_LH @LTHEchat @AcademicChatter https://t.co/1PUJtR0JwO"
+	},
+	{
 		"created_at": "Sat Feb 25 02:34:14 +0000 2023",
 		"id": 1629308759724925000,
 		"id_str": "1629308759724924931",
-		"full_text": "@SarahLambertOz It’s also seems you might need a Microsoft account for it to work (but not subscriptions at this point). But the direction of travel suggests it might be part of Bing more broadly. But again - maybe you’ll need to log in. 🤷‍♂️\nThe answer may be public on that. I’ve just not seen it",
+		"full_text": "@SarahLambertOz It’s also seems you might need a Microsoft account for it to work (but not subscriptions at this point). But the direction of travel suggests it might be part of Bing more broadly. But again - maybe you’ll need to log in. 🤷♂️\nThe answer may be public on that. I’ve just not seen it",
 		"truncated": false,
 		"display_text_range": [
 			16,
@@ -39,7 +327,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -105,7 +393,7 @@ Grailbird.data.tweets_2023_02 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@SarahLambertOz It’s also seems you might need a Microsoft account for it to work (but not subscriptions at this point). But the direction of travel suggests it might be part of Bing more broadly. But again - maybe you’ll need to log in. 🤷‍♂️\nThe answer may be public on that. I’ve just not seen it"
+		"text": "@SarahLambertOz It’s also seems you might need a Microsoft account for it to work (but not subscriptions at this point). But the direction of travel suggests it might be part of Bing more broadly. But again - maybe you’ll need to log in. 🤷♂️\nThe answer may be public on that. I’ve just not seen it"
 	},
 	{
 		"created_at": "Fri Feb 24 07:11:52 +0000 2023",

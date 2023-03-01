@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 28 20:11:18 +0000 2023",
+		"id": 1630604372244680700,
+		"id_str": "1630661945568141321",
+		"full_text": "When you get to do a job you love ❤️ encouraging university students to look after themselves and each other @pgrhub @UoHEducation @UniOfHull @FACEHubUoH @UoHAcademy @ThePhDPlace @PhD_Genie @thephdstory #Wellbeing #MentalHealthAwareness #TuesdayMotivaton #university https://t.co/8bD5vVCJfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wellbeing",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"text": "MentalHealthAwareness",
+					"indices": [
+						214,
+						236
+					]
+				},
+				{
+					"text": "TuesdayMotivaton",
+					"indices": [
+						237,
+						254
+					]
+				},
+				{
+					"text": "university",
+					"indices": [
+						255,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pgrhub",
+					"name": "Doctoral College @ the University of Hull",
+					"id": 741579412295012400,
+					"id_str": "741579412295012352",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"screen_name": "UoHEducation",
+					"name": "University of Hull, School Of Education",
+					"id": 1224258056021778400,
+					"id_str": "1224258056021778433",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"screen_name": "UniOfHull",
+					"name": "University of Hull",
+					"id": 59761280,
+					"id_str": "59761280",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"screen_name": "FACEHubUoH",
+					"name": "FACEHubUoH",
+					"id": 1556916482747105300,
+					"id_str": "1556916482747105284",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"screen_name": "ThePhDPlace",
+					"name": "The PhD Place",
+					"id": 1479172159696257000,
+					"id_str": "1479172159696257024",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"screen_name": "PhD_Genie",
+					"name": "PhD_Genie",
+					"id": 1356891741195030500,
+					"id_str": "1356891741195030528",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"screen_name": "thephdstory",
+					"name": "The PhD Story",
+					"id": 2689586348,
+					"id_str": "2689586348",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1630604363776376800,
+					"id_str": "1630604363776376835",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FqESB5AXwAMPaKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqESB5AXwAMPaKM.jpg",
+					"url": "https://t.co/8bD5vVCJfo",
+					"display_url": "pic.twitter.com/8bD5vVCJfo",
+					"expanded_url": "https://twitter.com/shoey1968/status/1630604372244680704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630604363776376800,
+					"id_str": "1630604363776376835",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/FqESB5AXwAMPaKM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FqESB5AXwAMPaKM.jpg",
+					"url": "https://t.co/8bD5vVCJfo",
+					"display_url": "pic.twitter.com/8bD5vVCJfo",
+					"expanded_url": "https://twitter.com/shoey1968/status/1630604372244680704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 621,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 621,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 811866086,
+			"id_str": "811866086",
+			"name": "Steve Hoey",
+			"screen_name": "shoey1968",
+			"location": "Beverley, England",
+			"description": "Father of 4 fabulous daughters, PhD candidate researching school exclusion, school leader, coach, wellbeing advocate, sport mad and just very bloody curious.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986,
+			"friends_count": 1424,
+			"listed_count": 8,
+			"created_at": "Sat Sep 08 23:05:53 +0000 2012",
+			"favourites_count": 9510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340320805801091074/b5-svcDb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340320805801091074/b5-svcDb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/811866086/1487881412",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you get to do a job you love ❤️ encouraging university students to look after themselves and each other @pgrhub @UoHEducation @UniOfHull @FACEHubUoH @UoHAcademy @ThePhDPlace @PhD_Genie @thephdstory #Wellbeing #MentalHealthAwareness #TuesdayMotivaton #university https://t.co/8bD5vVCJfo"
+	},
+	{
+		"created_at": "Tue Feb 28 09:48:18 +0000 2023",
+		"id": 1630505010369888300,
+		"id_str": "1630505161696194563",
+		"full_text": "New paper @jldhe1 a call to join us in refining the guidance for accessible learning resources and the upcoming student co-created guidance for accessible teaching interactions @LeeFallin @gemmalspencer @TechieTomTom @NTF_Tweet #accessibility Get in touch!\nhttps://t.co/tN7WX3nMHa https://t.co/e0JcmbGf6x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						228,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jldhe1",
+					"name": "JLDHE",
+					"id": 984873624938143700,
+					"id_str": "984873624938143751",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"screen_name": "gemmalspencer",
+					"name": "Gemma Spencer",
+					"id": 274411240,
+					"id_str": "274411240",
+					"indices": [
+						188,
+						202
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						203,
+						216
+					]
+				},
+				{
+					"screen_name": "NTF_Tweet",
+					"name": "NTF Tweet",
+					"id": 2315738930,
+					"id_str": "2315738930",
+					"indices": [
+						217,
+						227
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tN7WX3nMHa",
+					"expanded_url": "https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/924/696",
+					"display_url": "journal.aldinhe.ac.uk/index.php/jldh…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1630504487902146600,
+					"id_str": "1630504487902146562",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FqC3MWYWcAIYe27.png",
+					"media_url_https": "https://pbs.twimg.com/media/FqC3MWYWcAIYe27.png",
+					"url": "https://t.co/e0JcmbGf6x",
+					"display_url": "pic.twitter.com/e0JcmbGf6x",
+					"expanded_url": "https://twitter.com/DrEllieDavison/status/1630505010369888256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 495,
+							"h": 393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 495,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 495,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630504487902146600,
+					"id_str": "1630504487902146562",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FqC3MWYWcAIYe27.png",
+					"media_url_https": "https://pbs.twimg.com/media/FqC3MWYWcAIYe27.png",
+					"url": "https://t.co/e0JcmbGf6x",
+					"display_url": "pic.twitter.com/e0JcmbGf6x",
+					"expanded_url": "https://twitter.com/DrEllieDavison/status/1630505010369888256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 495,
+							"h": 393,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 495,
+							"h": 393,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 495,
+							"h": 393,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1554406828208963600,
+			"id_str": "1554406828208963585",
+			"name": "Ellie Davison",
+			"screen_name": "DrEllieDavison",
+			"location": "Lincoln, UK",
+			"description": "Associate Professor @unilincoln @UoLScience | National Teaching Fellow 2022 #NTF | CATE 2019 #CATE | #wideningparticipation #inclusivity | 🧬she/her",
+			"url": "https://t.co/gKqi7Dmydi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gKqi7Dmydi",
+							"expanded_url": "https://staff.lincoln.ac.uk/9440e6b0-42ac-4952-845c-84e5a270dcf6",
+							"display_url": "staff.lincoln.ac.uk/9440e6b0-42ac-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 351,
+			"friends_count": 647,
+			"listed_count": 1,
+			"created_at": "Tue Aug 02 10:00:55 +0000 2022",
+			"favourites_count": 587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554406969271885825/55m3Grcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554406969271885825/55m3Grcu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1554406828208963585/1659435090",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New paper @jldhe1 a call to join us in refining the guidance for accessible learning resources and the upcoming student co-created guidance for accessible teaching interactions @LeeFallin @gemmalspencer @TechieTomTom @NTF_Tweet #accessibility Get in touch!\nhttps://t.co/tN7WX3nMHa https://t.co/e0JcmbGf6x"
+	},
+	{
+		"created_at": "Tue Feb 28 09:45:46 +0000 2023",
+		"id": 1630504525642473500,
+		"id_str": "1630504525642473472",
+		"full_text": "Delighted that our latest article is published in @jldhe1. Lovely collaborating with you @DrEllieDavison, @gemmalspencer and @TechieTomTom. Can't wait to see where we take the Designing for Diverse Learners project next!\n\nhttps://t.co/Y5spuSPRsI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jldhe1",
+					"name": "JLDHE",
+					"id": 984873624938143700,
+					"id_str": "984873624938143751",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"screen_name": "DrEllieDavison",
+					"name": "Ellie Davison",
+					"id": 1554406828208963600,
+					"id_str": "1554406828208963585",
+					"indices": [
+						89,
+						104
+					]
+				},
+				{
+					"screen_name": "gemmalspencer",
+					"name": "Gemma Spencer",
+					"id": 274411240,
+					"id_str": "274411240",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y5spuSPRsI",
+					"expanded_url": "https://journal.aldinhe.ac.uk/index.php/jldhe/article/view/924",
+					"display_url": "journal.aldinhe.ac.uk/index.php/jldh…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1874,
+			"friends_count": 1894,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delighted that our latest article is published in @jldhe1. Lovely collaborating with you @DrEllieDavison, @gemmalspencer and @TechieTomTom. Can't wait to see where we take the Designing for Diverse Learners project next!\n\nhttps://t.co/Y5spuSPRsI"
+	},
+	{
 		"created_at": "Sun Feb 26 21:11:48 +0000 2023",
 		"id": 1629742410384253000,
 		"id_str": "1629952394124468224",

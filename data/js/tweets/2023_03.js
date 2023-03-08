@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 21:00:53 +0000 2023",
+		"id": 1632807876510056400,
+		"id_str": "1633211137805230085",
+		"full_text": "And this paper gives some insight into why/how we can and should do this:\n\nRiyad A. Shahjahan (2015) Being ‘Lazy’ and Slowing Down: Toward decolonizing time, our body, and pedagogy, Educational Philosophy and Theory, 47:5, 488-501, https://t.co/fuJvW6JlEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fuJvW6JlEW",
+					"expanded_url": "https://www.tandfonline.com/doi/abs/10.1080/00131857.2014.880645",
+					"display_url": "tandfonline.com/doi/abs/10.108…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1066619394,
+			"id_str": "1066619394",
+			"name": "Dustin Hosseini",
+			"screen_name": "DustinHosseini",
+			"location": "Glasgow, Scotland",
+			"description": "Literacies. Decolonizing. Russia/Russian. Doctoral student in Education. Educator. Migrant. Texan. ☕📷 Tweets mine.",
+			"url": "https://t.co/vUXKxrH8Ll",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vUXKxrH8Ll",
+							"expanded_url": "https://glasgow.academia.edu/DustinHosseini",
+							"display_url": "glasgow.academia.edu/DustinHosseini",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1775,
+			"friends_count": 2742,
+			"listed_count": 43,
+			"created_at": "Sun Jan 06 20:28:17 +0000 2013",
+			"favourites_count": 12077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121163780388544512/BBllvJz8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121163780388544512/BBllvJz8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1066619394/1631908454",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And this paper gives some insight into why/how we can and should do this:\n\nRiyad A. Shahjahan (2015) Being ‘Lazy’ and Slowing Down: Toward decolonizing time, our body, and pedagogy, Educational Philosophy and Theory, 47:5, 488-501, https://t.co/fuJvW6JlEW"
+	},
+	{
 		"created_at": "Mon Mar 06 13:58:06 +0000 2023",
 		"id": 1632742256888148000,
 		"id_str": "1632742352287592448",
@@ -283,7 +390,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -401,7 +508,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -498,7 +605,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

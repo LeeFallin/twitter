@@ -1,6 +1,1212 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 20:38:49 +0000 2023",
+		"id": 1633567970797518800,
+		"id_str": "1633567970797518849",
+		"full_text": "@santanuvasant @Tee_Nadan @LTHEchat @DebbieRoberts6 The drop in pricing is insane. It feels like  the journey from niche and specialist use to mainstream and cheap took such little time. Integration into games consoles and mobile phones (via headsets/holders) helps drive it to the masses. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			299
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						290,
+						299
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant PFHEA",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Tee_Nadan",
+					"name": "Dr Teeroumanee Nadan, SFHEA",
+					"id": 130502092,
+					"id_str": "130502092",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "DebbieRoberts6",
+					"name": "Professor Debbie Roberts",
+					"id": 331823199,
+					"id_str": "331823199",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1633560958554570800,
+		"in_reply_to_status_id_str": "1633560958554570753",
+		"in_reply_to_user_id": 23588538,
+		"in_reply_to_user_id_str": "23588538",
+		"in_reply_to_screen_name": "santanuvasant",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1895,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@santanuvasant @Tee_Nadan @LTHEchat @DebbieRoberts6 The drop in pricing is insane. It feels like  the journey from niche and specialist use to mainstream and cheap took such little time. Integration into games consoles and mobile phones (via headsets/holders) helps drive it to the masses. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 08 20:31:46 +0000 2023",
+		"id": 1633566198053978000,
+		"id_str": "1633566198053978114",
+		"full_text": "#AdoptAnAcademic #LTHEchat https://t.co/aMp7BPYz8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdoptAnAcademic",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aMp7BPYz8x",
+					"expanded_url": "https://twitter.com/fidaisyg/status/1633565992566640641",
+					"display_url": "twitter.com/fidaisyg/statu…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1895,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1633565992566640600,
+		"quoted_status_id_str": "1633565992566640641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aMp7BPYz8x",
+			"expanded": "https://twitter.com/fidaisyg/status/1633565992566640641",
+			"display": "twitter.com/fidaisyg/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 08 20:30:57 +0000 2023",
+			"id": 1633565992566640600,
+			"id_str": "1633565992566640641",
+			"full_text": "@santanuvasant @LTHEchat A3 #LTHEchat would be great if employers could adopt an academic so they had a chance to follow current practice in short instalments over extended periods https://t.co/FxY0vNn5B8",
+			"truncated": false,
+			"display_text_range": [
+				25,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							28,
+							37
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "santanuvasant",
+						"name": "Santanu Vasant PFHEA",
+						"id": 23588538,
+						"id_str": "23588538",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "LTHEchat",
+						"name": "LTHE Tweetchat",
+						"id": 2659221798,
+						"id_str": "2659221798",
+						"indices": [
+							15,
+							24
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1633565980017193000,
+						"id_str": "1633565980017192962",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FquXmpQWcAIgZMA.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FquXmpQWcAIgZMA.jpg",
+						"url": "https://t.co/FxY0vNn5B8",
+						"display_url": "pic.twitter.com/FxY0vNn5B8",
+						"expanded_url": "https://twitter.com/FiDaisyG/status/1633565992566640641/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 374,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 374,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 374,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1633565980017193000,
+						"id_str": "1633565980017192962",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FquXmpQWcAIgZMA.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FquXmpQWcAIgZMA.jpg",
+						"url": "https://t.co/FxY0vNn5B8",
+						"display_url": "pic.twitter.com/FxY0vNn5B8",
+						"expanded_url": "https://twitter.com/FiDaisyG/status/1633565992566640641/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 374,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 374,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 374,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								187
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FquXmpQWcAIgZMA.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1633564501478973400,
+			"in_reply_to_status_id_str": "1633564501478973441",
+			"in_reply_to_user_id": 23588538,
+			"in_reply_to_user_id_str": "23588538",
+			"in_reply_to_screen_name": "santanuvasant",
+			"user": {
+				"id": 382593488,
+				"id_str": "382593488",
+				"name": "Fi Daisy G 🌼 🌱 💙 🐰",
+				"screen_name": "FiDaisyG",
+				"location": "Bristol, UK",
+				"description": "Lecturer & life long learner, Chartered Structural Engineer, OU tutor, PT PGR, global citizen, Mum, she/her. Finding my feet @FiDaisyG@mastodon.social",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3117,
+				"friends_count": 4999,
+				"listed_count": 443,
+				"created_at": "Fri Sep 30 10:38:48 +0000 2011",
+				"favourites_count": 28053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 133509,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1624098311656419333/kWIqzO-n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1624098311656419333/kWIqzO-n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/382593488/1640421057",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qht",
+		"text": "#AdoptAnAcademic #LTHEchat https://t.co/aMp7BPYz8x"
+	},
+	{
+		"created_at": "Wed Mar 08 20:13:16 +0000 2023",
+		"id": 1633561543995539500,
+		"id_str": "1633561543995539457",
+		"full_text": "A2: Simulation can build capacity where there is none in the workplace. Overstretched medical staff balance teaching and patients. Simulating more can build capacity for training doctors and nurses - alongside traditional placements of course. Safe way to practice too.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						271,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1895,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: Simulation can build capacity where there is none in the workplace. Overstretched medical staff balance teaching and patients. Simulating more can build capacity for training doctors and nurses - alongside traditional placements of course. Safe way to practice too.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 08 20:11:17 +0000 2023",
+		"id": 1633560964762140700,
+		"id_str": "1633561043430522880",
+		"full_text": "@LeeFallin A1 I have played with some WebVR which is free #lthechat good for outreach",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1633560568295555000,
+		"in_reply_to_status_id_str": "1633560568295555076",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Computing academic @CanterburyCCUni , Robots, computing education. Pi Cert Educator, code club, #FRSA #lthechat Views authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4082,
+			"friends_count": 3310,
+			"listed_count": 536,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 35511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LeeFallin A1 I have played with some WebVR which is free #lthechat good for outreach"
+	},
+	{
+		"created_at": "Wed Mar 08 20:10:06 +0000 2023",
+		"id": 1633560744162631700,
+		"id_str": "1633560744162631680",
+		"full_text": "A1: Lots of potential in special education - where pupils might not respond well to change and travel. Can expose pupils to new experiences in a safe and controlled way.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						171,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1895,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: Lots of potential in special education - where pupils might not respond well to change and travel. Can expose pupils to new experiences in a safe and controlled way.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 08 20:09:24 +0000 2023",
+		"id": 1633560568295555000,
+		"id_str": "1633560568295555076",
+		"full_text": "A1: Some pretty cool things happening with VR and 360 video in particular. The tech is getting to the cheap, mass market point so it’s becoming affordable for schools. Can be such a great way to engage pupils!  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1895,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: Some pretty cool things happening with VR and 360 video in particular. The tech is getting to the cheap, mass market point so it’s becoming affordable for schools. Can be such a great way to engage pupils!  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 08 20:08:19 +0000 2023",
+		"id": 1633560294973661200,
+		"id_str": "1633560294973661184",
+		"full_text": "A1: Definitely happening  in schools and education. It can be an accessible and safe way to provide experiences and take pupils places with the need for transport, money, risk assessments, permission slips etc. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1885,
+			"friends_count": 1895,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 8976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: Definitely happening  in schools and education. It can be an accessible and safe way to provide experiences and take pupils places with the need for transport, money, risk assessments, permission slips etc. #LTHEchat"
+	},
+	{
 		"created_at": "Tue Mar 07 21:00:53 +0000 2023",
 		"id": 1632807876510056400,
 		"id_str": "1633211137805230085",

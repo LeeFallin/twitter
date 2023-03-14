@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 23:02:59 +0000 2023",
+		"id": 1635298953750270000,
+		"id_str": "1635416191916449793",
+		"full_text": "Well this is good timing! Our #ChatGPT paper has just been published by Innovations in Education and Teaching International (IETI), just in time for the #LTHEChat this week. @LTHEchat @ReubenShipway @Seda_UK_ Free eprint link here: \nhttps://t.co/IPDUwmtp93",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGPT",
+					"indices": [
+						30,
+						38
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"screen_name": "ReubenShipway",
+					"name": "Reuben Shipway",
+					"id": 1092584683630706700,
+					"id_str": "1092584683630706688",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"screen_name": "Seda_UK_",
+					"name": "SEDA",
+					"id": 335534230,
+					"id_str": "335534230",
+					"indices": [
+						199,
+						208
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IPDUwmtp93",
+					"expanded_url": "https://www.tandfonline.com/eprint/SN6EDIYTAGTUMM6SKQ6P/full?target=10.1080/14703297.2023.2190148",
+					"display_url": "tandfonline.com/eprint/SN6EDIY…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20269498,
+			"id_str": "20269498",
+			"name": "Debby Cotton",
+			"screen_name": "ProfDcotton",
+			"location": "Plymouth",
+			"description": "Prof of HE & Director of Academic Practice, Plymouth Marjon University. Sustainability researcher & PGR coordinator. Trying Mastodon @ProfDCotton@home.social",
+			"url": "https://t.co/6xJ2K8hxAE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6xJ2K8hxAE",
+							"expanded_url": "http://shorturl.at/fHMOT",
+							"display_url": "shorturl.at/fHMOT",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2853,
+			"friends_count": 707,
+			"listed_count": 107,
+			"created_at": "Fri Feb 06 20:37:57 +0000 2009",
+			"favourites_count": 16373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178987638809939968/sqiz-R59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178987638809939968/sqiz-R59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20269498/1571134564",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well this is good timing! Our #ChatGPT paper has just been published by Innovations in Education and Teaching International (IETI), just in time for the #LTHEChat this week. @LTHEchat @ReubenShipway @Seda_UK_ Free eprint link here: \nhttps://t.co/IPDUwmtp93"
+	},
+	{
+		"created_at": "Mon Mar 13 09:22:41 +0000 2023",
+		"id": 1634574214819618800,
+		"id_str": "1635209758574780421",
+		"full_text": "The #academicintegrity administrative staff in the room clearly worried about the workload implications when @Turnitin switches on their AI detection (which apparently can’t be turned off). Every university will need extra staff resources ready and in place #ICAI2023 @TweetCAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academicintegrity",
+					"indices": [
+						4,
+						22
+					]
+				},
+				{
+					"text": "ICAI2023",
+					"indices": [
+						258,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Turnitin",
+					"name": "Turnitin",
+					"id": 132203530,
+					"id_str": "132203530",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"screen_name": "TweetCAI",
+					"name": "ICAI",
+					"id": 66236647,
+					"id_str": "66236647",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58439890,
+			"id_str": "58439890",
+			"name": "Thomas Lancaster",
+			"screen_name": "DrLancaster",
+			"location": "United Kingdom",
+			"description": "Experienced Computer Science academic and edtech enthusiast at @ICComputing. Researcher and speaker on contract cheating, plagiarism and academic integrity.",
+			"url": "https://t.co/cg2w1vPaSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cg2w1vPaSH",
+							"expanded_url": "http://www.thomaslancaster.co.uk",
+							"display_url": "thomaslancaster.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2008,
+			"friends_count": 385,
+			"listed_count": 62,
+			"created_at": "Mon Jul 20 10:15:57 +0000 2009",
+			"favourites_count": 3881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075192569368363009/eR8dmDw__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075192569368363009/eR8dmDw__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58439890/1670445042",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The #academicintegrity administrative staff in the room clearly worried about the workload implications when @Turnitin switches on their AI detection (which apparently can’t be turned off). Every university will need extra staff resources ready and in place #ICAI2023 @TweetCAI"
+	},
+	{
 		"created_at": "Sun Mar 12 21:59:44 +0000 2023",
 		"id": 1635037887598297000,
 		"id_str": "1635037887598297089",
@@ -145,7 +430,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

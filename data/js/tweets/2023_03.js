@@ -1,6 +1,12738 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 22:28:30 +0000 2023",
+		"id": 1636132288625881000,
+		"id_str": "1636132288625881092",
+		"full_text": "Have any other #LTHEchat peeps had chance to give #GTP4 a spin. What are your thoughts? Very in topic for tonight’s chat! https://t.co/DkLeltuSOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						50,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DkLeltuSOP",
+					"expanded_url": "https://twitter.com/leefallin/status/1635957965378269185",
+					"display_url": "twitter.com/leefallin/stat…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1635957965378269200,
+		"quoted_status_id_str": "1635957965378269185",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DkLeltuSOP",
+			"expanded": "https://twitter.com/leefallin/status/1635957965378269185",
+			"display": "twitter.com/leefallin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 15 10:55:48 +0000 2023",
+			"id": 1635957965378269200,
+			"id_str": "1635957965378269185",
+			"full_text": "From this morning's experiments, I've produced a well-written article against learning styles that is 💯 made by #ArtificialIntelligence, including references &amp; images. 🧵\n\nUsing: #GTP4 #dalle2 #Grammarly\n\n🏷 #DieLearningStylesDie #loveLD #LTHEchat #AI \n\nhttps://t.co/EBU0SU7t08",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArtificialIntelligence",
+						"indices": [
+							112,
+							135
+						]
+					},
+					{
+						"text": "GTP4",
+						"indices": [
+							182,
+							187
+						]
+					},
+					{
+						"text": "dalle2",
+						"indices": [
+							188,
+							195
+						]
+					},
+					{
+						"text": "Grammarly",
+						"indices": [
+							196,
+							206
+						]
+					},
+					{
+						"text": "DieLearningStylesDie",
+						"indices": [
+							210,
+							231
+						]
+					},
+					{
+						"text": "loveLD",
+						"indices": [
+							232,
+							239
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							240,
+							249
+						]
+					},
+					{
+						"text": "AI",
+						"indices": [
+							250,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EBU0SU7t08",
+						"expanded_url": "https://leefallin.co.uk/2023/03/debunking-the-learning-styles-myth-a-call-for-evidence-based-educational-practices/",
+						"display_url": "leefallin.co.uk/2023/03/debunk…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55448837,
+				"id_str": "55448837",
+				"name": "Dr Lee Fallin",
+				"screen_name": "LeeFallin",
+				"location": "United Kingdom",
+				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+				"url": "https://t.co/k3nlfWJfUg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k3nlfWJfUg",
+								"expanded_url": "http://www.leefallin.co.uk",
+								"display_url": "leefallin.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1906,
+				"friends_count": 1974,
+				"listed_count": 63,
+				"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+				"favourites_count": 9011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12260,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have any other #LTHEchat peeps had chance to give #GTP4 a spin. What are your thoughts? Very in topic for tonight’s chat! https://t.co/DkLeltuSOP"
+	},
+	{
+		"created_at": "Wed Mar 15 21:19:45 +0000 2023",
+		"id": 1636114988715720700,
+		"id_str": "1636114988715720705",
+		"full_text": "@RacePhil @S_J_Lancaster @ProfSallyBrown The fact it knew your handles surprised me. I asked questions about @LeeFallin and it knew too. What has this thing been trained on 😂 😆",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636114819408437200,
+		"in_reply_to_status_id_str": "1636114819408437250",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RacePhil @S_J_Lancaster @ProfSallyBrown The fact it knew your handles surprised me. I asked questions about @LeeFallin and it knew too. What has this thing been trained on 😂 😆"
+	},
+	{
+		"created_at": "Wed Mar 15 21:19:05 +0000 2023",
+		"id": 1636114819408437200,
+		"id_str": "1636114819408437250",
+		"full_text": "@RacePhil @S_J_Lancaster @ProfSallyBrown Here is the #GTP4 version of you. How did it do @RacePhil and @ProfSallyBrown? #LTHEchat https://t.co/Si65SVIKpg",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1636114813892870100,
+					"id_str": "1636114813892870149",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FrSlwTXWwAU3QVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrSlwTXWwAU3QVy.jpg",
+					"url": "https://t.co/Si65SVIKpg",
+					"display_url": "pic.twitter.com/Si65SVIKpg",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1636114819408437250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1091,
+							"h": 1742,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636114813892870100,
+					"id_str": "1636114813892870149",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FrSlwTXWwAU3QVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrSlwTXWwAU3QVy.jpg",
+					"url": "https://t.co/Si65SVIKpg",
+					"display_url": "pic.twitter.com/Si65SVIKpg",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1636114819408437250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1091,
+							"h": 1742,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 752,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636114345213018000,
+		"in_reply_to_status_id_str": "1636114345213018120",
+		"in_reply_to_user_id": 1350065268,
+		"in_reply_to_user_id_str": "1350065268",
+		"in_reply_to_screen_name": "RacePhil",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RacePhil @S_J_Lancaster @ProfSallyBrown Here is the #GTP4 version of you. How did it do @RacePhil and @ProfSallyBrown? #LTHEchat https://t.co/Si65SVIKpg"
+	},
+	{
+		"created_at": "Wed Mar 15 21:15:01 +0000 2023",
+		"id": 1636113799399850000,
+		"id_str": "1636113799399849984",
+		"full_text": "@S_J_Lancaster @RacePhil @ProfSallyBrown #LTHEchat @ProfSallyBrown @RacePhil @S_J_Lancaster https://t.co/zd3ChSZR2s",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						51,
+						66
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1636113794404434000,
+					"id_str": "1636113794404433927",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FrSk09eXwAcA5zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrSk09eXwAcA5zE.jpg",
+					"url": "https://t.co/zd3ChSZR2s",
+					"display_url": "pic.twitter.com/zd3ChSZR2s",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1636113799399849984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1042,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 611,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636113794404434000,
+					"id_str": "1636113794404433927",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/FrSk09eXwAcA5zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrSk09eXwAcA5zE.jpg",
+					"url": "https://t.co/zd3ChSZR2s",
+					"display_url": "pic.twitter.com/zd3ChSZR2s",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1636113799399849984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1042,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 611,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636113441654988800,
+		"in_reply_to_status_id_str": "1636113441654988810",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@S_J_Lancaster @RacePhil @ProfSallyBrown #LTHEchat @ProfSallyBrown @RacePhil @S_J_Lancaster https://t.co/zd3ChSZR2s"
+	},
+	{
+		"created_at": "Wed Mar 15 21:13:36 +0000 2023",
+		"id": 1636113441654988800,
+		"id_str": "1636113441654988810",
+		"full_text": "@S_J_Lancaster @RacePhil @ProfSallyBrown OMG. It actually did it!",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636112611816136700,
+		"in_reply_to_status_id_str": "1636112611816136713",
+		"in_reply_to_user_id": 240186025,
+		"in_reply_to_user_id_str": "240186025",
+		"in_reply_to_screen_name": "S_J_Lancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_J_Lancaster @RacePhil @ProfSallyBrown OMG. It actually did it!"
+	},
+	{
+		"created_at": "Wed Mar 15 21:10:52 +0000 2023",
+		"id": 1636112753185226800,
+		"id_str": "1636112753185226752",
+		"full_text": "@DrLancaster @profpeterbrad @jaxbartram @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat I guess predictive text is a very basic example of it in practice. There is serious potential for this to ramp up in the Microsoft365 ecosystem as it has our writing, our emails, our teams messages, our diary and so on. Viva/Cortana is dabbling on the periphery of this #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			167,
+			446
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						437,
+						446
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLancaster",
+					"name": "Thomas Lancaster",
+					"id": 58439890,
+					"id_str": "58439890",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						151,
+						166
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636112196198453200,
+		"in_reply_to_status_id_str": "1636112196198453252",
+		"in_reply_to_user_id": 58439890,
+		"in_reply_to_user_id_str": "58439890",
+		"in_reply_to_screen_name": "DrLancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrLancaster @profpeterbrad @jaxbartram @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat I guess predictive text is a very basic example of it in practice. There is serious potential for this to ramp up in the Microsoft365 ecosystem as it has our writing, our emails, our teams messages, our diary and so on. Viva/Cortana is dabbling on the periphery of this #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 21:07:25 +0000 2023",
+		"id": 1636111886449012700,
+		"id_str": "1636111886449012738",
+		"full_text": "@RacePhil @S_J_Lancaster And does it matter? 🤪🧐 #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636111431773855700,
+		"in_reply_to_status_id_str": "1636111431773855746",
+		"in_reply_to_user_id": 1350065268,
+		"in_reply_to_user_id_str": "1350065268",
+		"in_reply_to_screen_name": "RacePhil",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RacePhil @S_J_Lancaster And does it matter? 🤪🧐 #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 21:06:46 +0000 2023",
+		"id": 1636111721130500000,
+		"id_str": "1636111721130500097",
+		"full_text": "@profpeterbrad @jaxbartram @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat I think personal AIs will be the game changer. If I could train GTP4 with all my tweets, emails, Facebook posts, writing, notes and all other written material - it could probably do me better than me. 😂 #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			154,
+			366
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						357,
+						366
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						83,
+						95
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636111255860568000,
+		"in_reply_to_status_id_str": "1636111255860568064",
+		"in_reply_to_user_id": 14189943,
+		"in_reply_to_user_id_str": "14189943",
+		"in_reply_to_screen_name": "profpeterbrad",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@profpeterbrad @jaxbartram @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat I think personal AIs will be the game changer. If I could train GTP4 with all my tweets, emails, Facebook posts, writing, notes and all other written material - it could probably do me better than me. 😂 #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 21:03:31 +0000 2023",
+		"id": 1636110903060955100,
+		"id_str": "1636110903060955136",
+		"full_text": "@S_J_Lancaster Tempting haha! But I’m on phone tonight. Too clunky. \n\nNow if OpenAI had an app 🤔 \n\n😂 😂 😂\n\nNah. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636110418371330000,
+		"in_reply_to_status_id_str": "1636110418371330050",
+		"in_reply_to_user_id": 240186025,
+		"in_reply_to_user_id_str": "240186025",
+		"in_reply_to_screen_name": "S_J_Lancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_J_Lancaster Tempting haha! But I’m on phone tonight. Too clunky. \n\nNow if OpenAI had an app 🤔 \n\n😂 😂 😂\n\nNah. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 21:02:01 +0000 2023",
+		"id": 1636110524134875100,
+		"id_str": "1636110524134875136",
+		"full_text": "@jaxbartram @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat That’s a good analogy! Prompt engineering is definitely a cornerstone of AI literacy with this current generation of LLMs. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			139,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						262,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						55,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636110130126151700,
+		"in_reply_to_status_id_str": "1636110130126151680",
+		"in_reply_to_user_id": 393933440,
+		"in_reply_to_user_id_str": "393933440",
+		"in_reply_to_screen_name": "jaxbartram",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jaxbartram @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat That’s a good analogy! Prompt engineering is definitely a cornerstone of AI literacy with this current generation of LLMs. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:57:02 +0000 2023",
+		"id": 1636109272038637600,
+		"id_str": "1636109272038637570",
+		"full_text": "What does #ChatGTP and #GTP4 + whatever mean for academia?\n\nChange!\n\nAs for the detail of that change: \n\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n\n#LTHEchat https://t.co/VfsmRAGhoP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						231,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VfsmRAGhoP",
+					"expanded_url": "https://twitter.com/lthechat/status/1636107500587188225",
+					"display_url": "twitter.com/lthechat/statu…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1636107500587188200,
+		"quoted_status_id_str": "1636107500587188225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VfsmRAGhoP",
+			"expanded": "https://twitter.com/lthechat/status/1636107500587188225",
+			"display": "twitter.com/lthechat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 15 20:50:00 +0000 2023",
+			"id": 1636107500587188200,
+			"id_str": "1636107500587188225",
+			"full_text": "Q6: Scanning the horizon - what does ChatGPT mean for the future of academia? #LTHEchat #ChatGPT https://t.co/M6zz6Ou92R",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							78,
+							87
+						]
+					},
+					{
+						"text": "ChatGPT",
+						"indices": [
+							88,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1631330877547466800,
+						"id_str": "1631330877547466754",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/FqOmyjtX0AIZTwb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FqOmyjtX0AIZTwb.jpg",
+						"url": "https://t.co/M6zz6Ou92R",
+						"display_url": "pic.twitter.com/M6zz6Ou92R",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1636107500587188225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 612,
+								"h": 408,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 408,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 612,
+								"h": 408,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1631330877547466800,
+						"id_str": "1631330877547466754",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/FqOmyjtX0AIZTwb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FqOmyjtX0AIZTwb.jpg",
+						"url": "https://t.co/M6zz6Ou92R",
+						"display_url": "pic.twitter.com/M6zz6Ou92R",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1636107500587188225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 612,
+								"h": 408,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 612,
+								"h": 408,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 612,
+								"h": 408,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/hZv8XbCh7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZv8XbCh7U",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9649,
+				"friends_count": 3400,
+				"listed_count": 167,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 5003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10937,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1634740763",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What does #ChatGTP and #GTP4 + whatever mean for academia?\n\nChange!\n\nAs for the detail of that change: \n\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️🤷‍♂️\n\n#LTHEchat https://t.co/VfsmRAGhoP"
+	},
+	{
+		"created_at": "Wed Mar 15 20:55:10 +0000 2023",
+		"id": 1636108804147298300,
+		"id_str": "1636108804147298308",
+		"full_text": "A5: It’s also likely to disadvantage anyone who isn’t white, male, straight and western. I’m guessing here - but I imagine ChatGTP/GTP4 has been trained on more material that is white/western than not. So it can probably write more authentically in a western voice #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A5: It’s also likely to disadvantage anyone who isn’t white, male, straight and western. I’m guessing here - but I imagine ChatGTP/GTP4 has been trained on more material that is white/western than not. So it can probably write more authentically in a western voice #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:52:46 +0000 2023",
+		"id": 1636108199853011000,
+		"id_str": "1636108199853010954",
+		"full_text": "A5 We’ve seen this with Grammarly and similar tools. Some students can afford it, and it helps them articulate better. Write clearer. Others cannot.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A5 We’ve seen this with Grammarly and similar tools. Some students can afford it, and it helps them articulate better. Write clearer. Others cannot.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:51:54 +0000 2023",
+		"id": 1636107978586587100,
+		"id_str": "1636107978586587142",
+		"full_text": "A5: This morning I subscribed to #GTP4 for $20 a month - mostly to try it out. It instantly gave me access to a generative AI that can (right now) write like no other. In study context, that would disadvantage those that can’t afford it.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A5: This morning I subscribed to #GTP4 for $20 a month - mostly to try it out. It instantly gave me access to a generative AI that can (right now) write like no other. In study context, that would disadvantage those that can’t afford it.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:49:24 +0000 2023",
+		"id": 1636107351785652200,
+		"id_str": "1636107351785652227",
+		"full_text": "@ProfSallyBrown It would have to ingest a massive amount of information about hundreds of distinct sun-groups and tribes to do it. But anything is possible if there is the raw material to train it upon…",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636106899845202000,
+		"in_reply_to_status_id_str": "1636106899845201925",
+		"in_reply_to_user_id": 1561332966,
+		"in_reply_to_user_id_str": "1561332966",
+		"in_reply_to_screen_name": "ProfSallyBrown",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfSallyBrown It would have to ingest a massive amount of information about hundreds of distinct sun-groups and tribes to do it. But anything is possible if there is the raw material to train it upon…"
+	},
+	{
+		"created_at": "Wed Mar 15 20:48:00 +0000 2023",
+		"id": 1636106999531184000,
+		"id_str": "1636106999531184128",
+		"full_text": "@Mark_g_dawson @ProfSallyBrown @kay_sambell Absolutely! But it starts with decolonising all the male, white, western corpus it’s trained upon!  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						144,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mark_g_dawson",
+					"name": "Mark Dawson",
+					"id": 140804550,
+					"id_str": "140804550",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636106392581939200,
+		"in_reply_to_status_id_str": "1636106392581939201",
+		"in_reply_to_user_id": 140804550,
+		"in_reply_to_user_id_str": "140804550",
+		"in_reply_to_screen_name": "Mark_g_dawson",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Mark_g_dawson @ProfSallyBrown @kay_sambell Absolutely! But it starts with decolonising all the male, white, western corpus it’s trained upon!  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:46:51 +0000 2023",
+		"id": 1636106710975750100,
+		"id_str": "1636106710975750145",
+		"full_text": "@ProfDcotton I’ve learned more from this cohort than form any other group of students in my career. It’s an honour to teach them. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						130,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636106199543300000,
+		"in_reply_to_status_id_str": "1636106199543300096",
+		"in_reply_to_user_id": 20269498,
+		"in_reply_to_user_id_str": "20269498",
+		"in_reply_to_screen_name": "ProfDcotton",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfDcotton I’ve learned more from this cohort than form any other group of students in my career. It’s an honour to teach them. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:45:54 +0000 2023",
+		"id": 1636106470889537500,
+		"id_str": "1636106470889537539",
+		"full_text": "@S_J_Lancaster @ProfDcotton @LTHEchat Absolutely. The levels of denial are extreme in places. Those blanket AI bans that technically rule out the use of Word as it has dictate, spell check and auto ALT text etc that are all AI powered. 😂 😆 😂 #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						242,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636105852854624300,
+		"in_reply_to_status_id_str": "1636105852854624258",
+		"in_reply_to_user_id": 240186025,
+		"in_reply_to_user_id_str": "240186025",
+		"in_reply_to_screen_name": "S_J_Lancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_J_Lancaster @ProfDcotton @LTHEchat Absolutely. The levels of denial are extreme in places. Those blanket AI bans that technically rule out the use of Word as it has dictate, spell check and auto ALT text etc that are all AI powered. 😂 😆 😂 #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:44:23 +0000 2023",
+		"id": 1636106087358242800,
+		"id_str": "1636106087358242820",
+		"full_text": "@ProfSallyBrown @kay_sambell Our students are mostly West African, &amp; most are reflecting on their positionality &amp; how others will perceive their role in research within their own home contexts. I’m not sure there is enough material in the ML corpus of GTP4 to fake that with sufficient depth. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			310
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						301,
+						310
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636104647831175200,
+		"in_reply_to_status_id_str": "1636104647831175169",
+		"in_reply_to_user_id": 1561332966,
+		"in_reply_to_user_id_str": "1561332966",
+		"in_reply_to_screen_name": "ProfSallyBrown",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfSallyBrown @kay_sambell Our students are mostly West African, &amp; most are reflecting on their positionality &amp; how others will perceive their role in research within their own home contexts. I’m not sure there is enough material in the ML corpus of GTP4 to fake that with sufficient depth. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:40:20 +0000 2023",
+		"id": 1636105067265663000,
+		"id_str": "1636105067265662978",
+		"full_text": "@S_J_Lancaster @ProfDcotton @LTHEchat I don’t even think academics and most universities know where that line lies. It’s really difficult. A HUGE difference between prompting content from scratch 🆚 prompts to tidy up something you’ve substantially written yourself. That’s more Grammarly like… #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			303
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						294,
+						303
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						28,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636104548270973000,
+		"in_reply_to_status_id_str": "1636104548270972929",
+		"in_reply_to_user_id": 240186025,
+		"in_reply_to_user_id_str": "240186025",
+		"in_reply_to_screen_name": "S_J_Lancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_J_Lancaster @ProfDcotton @LTHEchat I don’t even think academics and most universities know where that line lies. It’s really difficult. A HUGE difference between prompting content from scratch 🆚 prompts to tidy up something you’ve substantially written yourself. That’s more Grammarly like… #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:38:03 +0000 2023",
+		"id": 1636104495020011500,
+		"id_str": "1636104495020011521",
+		"full_text": "@DrLancaster @ProfDcotton @LTHEchat They’re so easy to fool with the right #PromptEngineering. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PromptEngineering",
+					"indices": [
+						75,
+						93
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLancaster",
+					"name": "Thomas Lancaster",
+					"id": 58439890,
+					"id_str": "58439890",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636099480947773400,
+		"in_reply_to_status_id_str": "1636099480947773442",
+		"in_reply_to_user_id": 58439890,
+		"in_reply_to_user_id_str": "58439890",
+		"in_reply_to_screen_name": "DrLancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrLancaster @ProfDcotton @LTHEchat They’re so easy to fool with the right #PromptEngineering. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:36:10 +0000 2023",
+		"id": 1636104020212301800,
+		"id_str": "1636104020212301824",
+		"full_text": "Now… it wouldn’t be impossible… but it would require and amazing set of prompts. And to be honest, if a student could provide enough promoting to generate that reflection, they’d have shown an interest exceptional level of prompt engineering and AI literacy. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						259,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636103626631393300,
+		"in_reply_to_status_id_str": "1636103626631393280",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Now… it wouldn’t be impossible… but it would require and amazing set of prompts. And to be honest, if a student could provide enough promoting to generate that reflection, they’d have shown an interest exceptional level of prompt engineering and AI literacy. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:34:36 +0000 2023",
+		"id": 1636103626631393300,
+		"id_str": "1636103626631393280",
+		"full_text": "A3: Hard assessment for #ChatGTP? I think portfolios and reflections can be challenging. We had a combination of both last trimester, and I’d find it hard to see how it could be successful. Not with deep, culturally-situated reflection.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: Hard assessment for #ChatGTP? I think portfolios and reflections can be challenging. We had a combination of both last trimester, and I’d find it hard to see how it could be successful. Not with deep, culturally-situated reflection.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:32:24 +0000 2023",
+		"id": 1636103073717256200,
+		"id_str": "1636103073717256196",
+		"full_text": "A4: In short - if #AI takes off into the workplace, in a significant way, it’s an instant employability skill. It’s a game changer for some people. My husband is  really dyslexic, &amp; theoretically with #GTP4 on his side, he could access different career opportunities. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AI",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						272,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A4: In short - if #AI takes off into the workplace, in a significant way, it’s an instant employability skill. It’s a game changer for some people. My husband is  really dyslexic, &amp; theoretically with #GTP4 on his side, he could access different career opportunities. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:30:04 +0000 2023",
+		"id": 1636102486489432000,
+		"id_str": "1636102486489432064",
+		"full_text": "@DrLancaster Absolutely. But right now, I don’t think it’s impacting people’s lives yet. Not in the same way #ChatGTP and #GTP4 are. Baring in mind GTP4 is now in use for established apps &amp; banking. Unis tend to be more cautious &amp; risk averse. Even Google is being cautious. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			292
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						283,
+						292
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLancaster",
+					"name": "Thomas Lancaster",
+					"id": 58439890,
+					"id_str": "58439890",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636101607405355000,
+		"in_reply_to_status_id_str": "1636101607405355010",
+		"in_reply_to_user_id": 58439890,
+		"in_reply_to_user_id_str": "58439890",
+		"in_reply_to_screen_name": "DrLancaster",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrLancaster Absolutely. But right now, I don’t think it’s impacting people’s lives yet. Not in the same way #ChatGTP and #GTP4 are. Baring in mind GTP4 is now in use for established apps &amp; banking. Unis tend to be more cautious &amp; risk averse. Even Google is being cautious. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:27:18 +0000 2023",
+		"id": 1636101789345775600,
+		"id_str": "1636101789345775621",
+		"full_text": "@suebecks #GTP4 was DRAMATICALLY slow today. It might be a server load issue, but 3.5 was blazing fast in comparison. GTP4 was just over typing speed this morning, and sometimes dropping out before fully generating a response. Obviously very busy. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						248,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636101317817925600,
+		"in_reply_to_status_id_str": "1636101317817925636",
+		"in_reply_to_user_id": 34904126,
+		"in_reply_to_user_id_str": "34904126",
+		"in_reply_to_screen_name": "suebecks",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suebecks #GTP4 was DRAMATICALLY slow today. It might be a server load issue, but 3.5 was blazing fast in comparison. GTP4 was just over typing speed this morning, and sometimes dropping out before fully generating a response. Obviously very busy. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:25:36 +0000 2023",
+		"id": 1636101359739994000,
+		"id_str": "1636101359739994117",
+		"full_text": "Totally agree @ReubenShipway. It feels like we’re on the edge of something. It might be a precipice from which we fall, or an amazing rollercoaster that takes us on an amazing journey. #LTHEchat https://t.co/gY1srZDd6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReubenShipway",
+					"name": "Reuben Shipway",
+					"id": 1092584683630706700,
+					"id_str": "1092584683630706688",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gY1srZDd6D",
+					"expanded_url": "https://twitter.com/reubenshipway/status/1636100244688580611",
+					"display_url": "twitter.com/reubenshipway/…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1636100244688580600,
+		"quoted_status_id_str": "1636100244688580611",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gY1srZDd6D",
+			"expanded": "https://twitter.com/reubenshipway/status/1636100244688580611",
+			"display": "twitter.com/reubenshipway/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 15 20:21:10 +0000 2023",
+			"id": 1636100244688580600,
+			"id_str": "1636100244688580611",
+			"full_text": "@LeeFallin It could go either way between unleashing a new wave of creativity/productivity or a complete degradation of writing skills. Interesting times ahead.\n #LTHEchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							162,
+							171
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeeFallin",
+						"name": "Dr Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 55448837,
+			"in_reply_to_user_id_str": "55448837",
+			"in_reply_to_screen_name": "LeeFallin",
+			"user": {
+				"id": 1092584683630706700,
+				"id_str": "1092584683630706688",
+				"name": "Reuben Shipway",
+				"screen_name": "ReubenShipway",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 132,
+				"friends_count": 14,
+				"listed_count": 2,
+				"created_at": "Tue Feb 05 00:44:22 +0000 2019",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 77,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1555376906429775872/L0C5KBDK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555376906429775872/L0C5KBDK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1092584683630706688/1678357250",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Totally agree @ReubenShipway. It feels like we’re on the edge of something. It might be a precipice from which we fall, or an amazing rollercoaster that takes us on an amazing journey. #LTHEchat https://t.co/gY1srZDd6D"
+	},
+	{
+		"created_at": "Wed Mar 15 20:23:57 +0000 2023",
+		"id": 1636100945644748800,
+		"id_str": "1636100945644748801",
+		"full_text": "A2: and in addition - these risks are being processed, taken &amp; ‘mitigated’ by Microsoft, OpenAI, Google, Amazon, Apple &amp; other big tech corporations. NOT be the people who it impacts. NOT by the people whose data these systems commodify (at cost). NOT by government… #LTHEchat https://t.co/Fu0Dfszzq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						275,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fu0Dfszzq0",
+					"expanded_url": "https://twitter.com/leefallin/status/1636099945227796482",
+					"display_url": "twitter.com/leefallin/stat…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1636099945227796500,
+		"quoted_status_id_str": "1636099945227796482",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fu0Dfszzq0",
+			"expanded": "https://twitter.com/leefallin/status/1636099945227796482",
+			"display": "twitter.com/leefallin/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 15 20:19:58 +0000 2023",
+			"id": 1636099945227796500,
+			"id_str": "1636099945227796482",
+			"full_text": "A2: I think the broader risk is not to education, but to society. Generative AI - #ChatGTP, #GTP4, #BingChat and others have huge consequences for how we access and articulate information in the workplace &amp; the world. It impacts what is deemed ‘truth’ potentially.  #LTHEchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ChatGTP",
+						"indices": [
+							82,
+							90
+						]
+					},
+					{
+						"text": "GTP4",
+						"indices": [
+							92,
+							97
+						]
+					},
+					{
+						"text": "BingChat",
+						"indices": [
+							99,
+							108
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							270,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 55448837,
+				"id_str": "55448837",
+				"name": "Dr Lee Fallin",
+				"screen_name": "LeeFallin",
+				"location": "United Kingdom",
+				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+				"url": "https://t.co/k3nlfWJfUg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k3nlfWJfUg",
+								"expanded_url": "http://www.leefallin.co.uk",
+								"display_url": "leefallin.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1906,
+				"friends_count": 1974,
+				"listed_count": 63,
+				"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+				"favourites_count": 9011,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12260,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7bc0da87641dd821",
+				"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+				"place_type": "city",
+				"name": "Hull",
+				"full_name": "Hull, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.422572,
+								53.719616
+							],
+							[
+								-0.2453134,
+								53.719616
+							],
+							[
+								-0.2453134,
+								53.812018
+							],
+							[
+								-0.422572,
+								53.812018
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A2: and in addition - these risks are being processed, taken &amp; ‘mitigated’ by Microsoft, OpenAI, Google, Amazon, Apple &amp; other big tech corporations. NOT be the people who it impacts. NOT by the people whose data these systems commodify (at cost). NOT by government… #LTHEchat https://t.co/Fu0Dfszzq0"
+	},
+	{
+		"created_at": "Wed Mar 15 20:21:28 +0000 2023",
+		"id": 1636100322178244600,
+		"id_str": "1636100322178244616",
+		"full_text": "@simon_on_energy Only via #BingChat uses search on the fly - not #GTP4 via OpenAI. However I think Bing may have access to GTP4 alongside ChatGTP. GTP4 Speeed is a significant issue for search use. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BingChat",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simon_on_energy",
+					"name": "Simon Waldman",
+					"id": 274910218,
+					"id_str": "274910218",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636099813635752000,
+		"in_reply_to_status_id_str": "1636099813635751941",
+		"in_reply_to_user_id": 274910218,
+		"in_reply_to_user_id_str": "274910218",
+		"in_reply_to_screen_name": "simon_on_energy",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@simon_on_energy Only via #BingChat uses search on the fly - not #GTP4 via OpenAI. However I think Bing may have access to GTP4 alongside ChatGTP. GTP4 Speeed is a significant issue for search use. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:19:58 +0000 2023",
+		"id": 1636099945227796500,
+		"id_str": "1636099945227796482",
+		"full_text": "A2: I think the broader risk is not to education, but to society. Generative AI - #ChatGTP, #GTP4, #BingChat and others have huge consequences for how we access and articulate information in the workplace &amp; the world. It impacts what is deemed ‘truth’ potentially.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "BingChat",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						270,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: I think the broader risk is not to education, but to society. Generative AI - #ChatGTP, #GTP4, #BingChat and others have huge consequences for how we access and articulate information in the workplace &amp; the world. It impacts what is deemed ‘truth’ potentially.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:17:49 +0000 2023",
+		"id": 1636099401348161500,
+		"id_str": "1636099401348161537",
+		"full_text": "@suebecks It’s interesting being able to switch between #GTP4 and GTP3.5. The difference is outstanding. GTP4 is much much slower, but the level of reasoning and articulation is phenomenal. BUT then switching back to 3.5 feels magical in a different way because of the speed. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						276,
+						285
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636098539708199000,
+		"in_reply_to_status_id_str": "1636098539708198916",
+		"in_reply_to_user_id": 34904126,
+		"in_reply_to_user_id_str": "34904126",
+		"in_reply_to_screen_name": "suebecks",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suebecks It’s interesting being able to switch between #GTP4 and GTP3.5. The difference is outstanding. GTP4 is much much slower, but the level of reasoning and articulation is phenomenal. BUT then switching back to 3.5 feels magical in a different way because of the speed. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:15:57 +0000 2023",
+		"id": 1636098933549047800,
+		"id_str": "1636098933549047810",
+		"full_text": "A2: For students more broadly. The risk of #ChatGTP and #GTP4 is that you lose you. You lose your style. I had GTP4 write a blog post for me today. It was pretty good, but it wasn’t me. It didn’t have my style. It didn’t have my signature, it didn’t have me in it.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: For students more broadly. The risk of #ChatGTP and #GTP4 is that you lose you. You lose your style. I had GTP4 write a blog post for me today. It was pretty good, but it wasn’t me. It didn’t have my style. It didn’t have my signature, it didn’t have me in it.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:14:57 +0000 2023",
+		"id": 1636098679567265800,
+		"id_str": "1636098679567265793",
+		"full_text": "A2: Hmmm. Risks of #ChatGTP use in education…? Wrong, biased, or inaccurate answers that could lead to damaging educational practice.\n\nMore realistically… there is a chance of deskilling, surface-level engagement and over-reliance on AI as opposed to the practitioner. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A2: Hmmm. Risks of #ChatGTP use in education…? Wrong, biased, or inaccurate answers that could lead to damaging educational practice.\n\nMore realistically… there is a chance of deskilling, surface-level engagement and over-reliance on AI as opposed to the practitioner. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:12:21 +0000 2023",
+		"id": 1636098027755536400,
+		"id_str": "1636098027755536389",
+		"full_text": "@suebecks I kind of wish I’d recorded my first experiments with #GTP4. My jaw dropped when it started referencing properly. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636097193542074400,
+		"in_reply_to_status_id_str": "1636097193542074368",
+		"in_reply_to_user_id": 34904126,
+		"in_reply_to_user_id_str": "34904126",
+		"in_reply_to_screen_name": "suebecks",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suebecks I kind of wish I’d recorded my first experiments with #GTP4. My jaw dropped when it started referencing properly. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:11:25 +0000 2023",
+		"id": 1636097791591170000,
+		"id_str": "1636097791591170048",
+		"full_text": "@ProfDcotton Yes! #BingChat references everything via simple footnotes. They’re not always academic sources - but it sources it’s information. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BingChat",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						143,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636096931460964400,
+		"in_reply_to_status_id_str": "1636096931460964355",
+		"in_reply_to_user_id": 20269498,
+		"in_reply_to_user_id_str": "20269498",
+		"in_reply_to_screen_name": "ProfDcotton",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfDcotton Yes! #BingChat references everything via simple footnotes. They’re not always academic sources - but it sources it’s information. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:09:59 +0000 2023",
+		"id": 1636097432000888800,
+		"id_str": "1636097432000888832",
+		"full_text": "A1: I’ve shared my experiments with #GTP4 this morning. Three blogs in total - with some surprises. Accurate references was the bigger shock! Then surprising again when it went back to making them up the next prompt along. \n\nhttps://t.co/KE3gefRTbE\n\n#LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						250,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KE3gefRTbE",
+					"expanded_url": "https://leefallin.co.uk/2023/03/using-ai-gtp-4-to-grade-linguistically-analyse-text/",
+					"display_url": "leefallin.co.uk/2023/03/using-…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A1: I’ve shared my experiments with #GTP4 this morning. Three blogs in total - with some surprises. Accurate references was the bigger shock! Then surprising again when it went back to making them up the next prompt along. \n\nhttps://t.co/KE3gefRTbE\n\n#LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:07:10 +0000 2023",
+		"id": 1636096723159330800,
+		"id_str": "1636096723159330816",
+		"full_text": "@scottturneruon I’ve enjoyed Bing Create for that too - kept having to buy #Dalle2 credit. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dalle2",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1636096405222699000,
+		"in_reply_to_status_id_str": "1636096405222699011",
+		"in_reply_to_user_id": 56366858,
+		"in_reply_to_user_id_str": "56366858",
+		"in_reply_to_screen_name": "scottturneruon",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@scottturneruon I’ve enjoyed Bing Create for that too - kept having to buy #Dalle2 credit. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:06:28 +0000 2023",
+		"id": 1636096544800645000,
+		"id_str": "1636096544800645122",
+		"full_text": "A1: I’ve been particularly interested in #BingChat as it uses both #GTP3 (now 4?) and #ChatGTP with custom algorithms and search. \n\nIt’s not as eloquent as #GTP4, and more descriptive/‘factual’ - but the currency of search adds something.  #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BingChat",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "GTP3",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "ChatGTP",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						240,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: I’ve been particularly interested in #BingChat as it uses both #GTP3 (now 4?) and #ChatGTP with custom algorithms and search. \n\nIt’s not as eloquent as #GTP4, and more descriptive/‘factual’ - but the currency of search adds something.  #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 20:03:51 +0000 2023",
+		"id": 1636095888203432000,
+		"id_str": "1636095888203431941",
+		"full_text": "A1: I’ve done a lot of experimenting with #ChatGTP, #BingChat, #GTP3, #Dalle2 and now #GTP4. Most of it is playing around and testing - have not used in teaching, but have for research and some small bits of writing. Toying around mostly. \n\nhttps://t.co/ujaA29GA2i\n\n #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						42,
+						50
+					]
+				},
+				{
+					"text": "BingChat",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "GTP3",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "Dalle2",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ujaA29GA2i",
+					"expanded_url": "https://leefallin.co.uk/2023/03/ai-led-blogging-an-experiment-with-gtp4-dall-e-grammarly/",
+					"display_url": "leefallin.co.uk/2023/03/ai-led…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A1: I’ve done a lot of experimenting with #ChatGTP, #BingChat, #GTP3, #Dalle2 and now #GTP4. Most of it is playing around and testing - have not used in teaching, but have for research and some small bits of writing. Toying around mostly. \n\nhttps://t.co/ujaA29GA2i\n\n #LTHEchat"
+	},
+	{
+		"created_at": "Wed Mar 15 14:32:05 +0000 2023",
+		"id": 1636012395746279400,
+		"id_str": "1636012395746279424",
+		"full_text": "@Dr_Paul_Penn @EvilDoctorB @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat But - with the anti-learning styles essay, it provided no counter argument. With the positive learning style essay, it added an 'addressing concerns' section. This perhaps reflects the weighting of the debate?",
+		"truncated": false,
+		"display_text_range": [
+			139,
+			348
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1636012185129218000,
+		"in_reply_to_status_id_str": "1636012185129218056",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dr_Paul_Penn @EvilDoctorB @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat But - with the anti-learning styles essay, it provided no counter argument. With the positive learning style essay, it added an 'addressing concerns' section. This perhaps reflects the weighting of the debate?"
+	},
+	{
+		"created_at": "Wed Mar 15 14:31:15 +0000 2023",
+		"id": 1636012185129218000,
+		"id_str": "1636012185129218056",
+		"full_text": "@Dr_Paul_Penn @EvilDoctorB @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat Also interesting, I used the same query as for the positive, switching only two words:\n\nCan you write an argument advocating for the propagation of learning styles? They are ultimately helpful to learners - so make your argument strong and targeted to a specialist audience. (1/2)",
+		"truncated": false,
+		"display_text_range": [
+			139,
+			419
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1636011567417262000,
+		"in_reply_to_status_id_str": "1636011567417262085",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Dr_Paul_Penn @EvilDoctorB @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat Also interesting, I used the same query as for the positive, switching only two words:\n\nCan you write an argument advocating for the propagation of learning styles? They are ultimately helpful to learners - so make your argument strong and targeted to a specialist audience. (1/2)"
+	},
+	{
+		"created_at": "Wed Mar 15 14:28:47 +0000 2023",
+		"id": 1636011567417262000,
+		"id_str": "1636011567417262085",
+		"full_text": "@Dr_Paul_Penn @EvilDoctorB @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat ii) It sure can 😪\n\nInterestingly, the references are all much older - not been able to tell if they are real or not, as it keeps failing before it gets to the point of writing it. Maybe it's refusing to perform because #DieLearningStylesDie https://t.co/Ffu5TiPQi0",
+		"truncated": false,
+		"display_text_range": [
+			139,
+			379
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DieLearningStylesDie",
+					"indices": [
+						358,
+						379
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1636011518788509700,
+					"id_str": "1636011518788509696",
+					"indices": [
+						380,
+						403
+					],
+					"media_url": "http://pbs.twimg.com/media/FrRHzvHWIAACW5m.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrRHzvHWIAACW5m.png",
+					"url": "https://t.co/Ffu5TiPQi0",
+					"display_url": "pic.twitter.com/Ffu5TiPQi0",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1636011567417262085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 574,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 325,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636011518788509700,
+					"id_str": "1636011518788509696",
+					"indices": [
+						380,
+						403
+					],
+					"media_url": "http://pbs.twimg.com/media/FrRHzvHWIAACW5m.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrRHzvHWIAACW5m.png",
+					"url": "https://t.co/Ffu5TiPQi0",
+					"display_url": "pic.twitter.com/Ffu5TiPQi0",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1636011567417262085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 574,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 810,
+							"h": 1693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 325,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635996486570737700,
+		"in_reply_to_status_id_str": "1635996486570737669",
+		"in_reply_to_user_id": 1126081823191326700,
+		"in_reply_to_user_id_str": "1126081823191326720",
+		"in_reply_to_screen_name": "Dr_Paul_Penn",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Dr_Paul_Penn @EvilDoctorB @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat ii) It sure can 😪\n\nInterestingly, the references are all much older - not been able to tell if they are real or not, as it keeps failing before it gets to the point of writing it. Maybe it's refusing to perform because #DieLearningStylesDie https://t.co/Ffu5TiPQi0"
+	},
+	{
+		"created_at": "Wed Mar 15 12:41:15 +0000 2023",
+		"id": 1635984502592794600,
+		"id_str": "1635984502592794625",
+		"full_text": "Looks like you need to be really careful with the prompt. If you're not precise in what you are after, it will just invest a load of references (but will, seemingly, at least warn you!).\n\nhttps://t.co/KE3gefRTbE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KE3gefRTbE",
+					"expanded_url": "https://leefallin.co.uk/2023/03/using-ai-gtp-4-to-grade-linguistically-analyse-text/",
+					"display_url": "leefallin.co.uk/2023/03/using-…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635934463413584000,
+		"in_reply_to_status_id_str": "1635934463413583874",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looks like you need to be really careful with the prompt. If you're not precise in what you are after, it will just invest a load of references (but will, seemingly, at least warn you!).\n\nhttps://t.co/KE3gefRTbE"
+	},
+	{
+		"created_at": "Wed Mar 15 12:40:11 +0000 2023",
+		"id": 1635984236258705400,
+		"id_str": "1635984236258705409",
+		"full_text": "@beilinglaoshi @Emmadw @Lawrie Now that is hilarious! \n\nNo - no new references. Suggests it's core knowledgebase is still limited. \n\nI did some further experiments and did get some fabricated referenced again - but it did warn me this time: https://t.co/KE3gefRTbE",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KE3gefRTbE",
+					"expanded_url": "https://leefallin.co.uk/2023/03/using-ai-gtp-4-to-grade-linguistically-analyse-text/",
+					"display_url": "leefallin.co.uk/2023/03/using-…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635982109113286700,
+		"in_reply_to_status_id_str": "1635982109113286656",
+		"in_reply_to_user_id": 2266231764,
+		"in_reply_to_user_id_str": "2266231764",
+		"in_reply_to_screen_name": "beilinglaoshi",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beilinglaoshi @Emmadw @Lawrie Now that is hilarious! \n\nNo - no new references. Suggests it's core knowledgebase is still limited. \n\nI did some further experiments and did get some fabricated referenced again - but it did warn me this time: https://t.co/KE3gefRTbE"
+	},
+	{
+		"created_at": "Wed Mar 15 12:38:51 +0000 2023",
+		"id": 1635983899833630700,
+		"id_str": "1635983899833630725",
+		"full_text": "@profpeterbrad There was, indeed, fun to be had:\nhttps://t.co/KE3gefRTbE",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KE3gefRTbE",
+					"expanded_url": "https://leefallin.co.uk/2023/03/using-ai-gtp-4-to-grade-linguistically-analyse-text/",
+					"display_url": "leefallin.co.uk/2023/03/using-…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635968742445154300,
+		"in_reply_to_status_id_str": "1635968742445154304",
+		"in_reply_to_user_id": 14189943,
+		"in_reply_to_user_id_str": "14189943",
+		"in_reply_to_screen_name": "profpeterbrad",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@profpeterbrad There was, indeed, fun to be had:\nhttps://t.co/KE3gefRTbE"
+	},
+	{
+		"created_at": "Wed Mar 15 12:21:57 +0000 2023",
+		"id": 1635979644959613000,
+		"id_str": "1635979644959612929",
+		"full_text": "@TheEmmaPalmer HOWEVER - it seems very linked to the prompt. My last experiment of the day produced a completely fabricated list of references. It did, however, warn me of this - and still note that it had formatted them correctly 🤣😆😂 \n\nhttps://t.co/hcuqdr7L9d",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEmmaPalmer",
+					"name": "Emma Palmer",
+					"id": 44086661,
+					"id_str": "44086661",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hcuqdr7L9d",
+					"expanded_url": "https://leefallin.co.uk/2023/03/using-ai-to-grade-linguistically-analyse-text/",
+					"display_url": "leefallin.co.uk/2023/03/using-…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635979427023601700,
+		"in_reply_to_status_id_str": "1635979427023601665",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@TheEmmaPalmer HOWEVER - it seems very linked to the prompt. My last experiment of the day produced a completely fabricated list of references. It did, however, warn me of this - and still note that it had formatted them correctly 🤣😆😂 \n\nhttps://t.co/hcuqdr7L9d"
+	},
+	{
+		"created_at": "Wed Mar 15 12:21:05 +0000 2023",
+		"id": 1635979427023601700,
+		"id_str": "1635979427023601665",
+		"full_text": "@TheEmmaPalmer Same! When I saw those two in-text citations I was holding my breath to see if real references came. \n\nI was sad when the reference list didn't come without promoting - but SHOCKED when it did arrive.\n\nI was even more shocked when it enhanced and expanded citations on request.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEmmaPalmer",
+					"name": "Emma Palmer",
+					"id": 44086661,
+					"id_str": "44086661",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635976128413220900,
+		"in_reply_to_status_id_str": "1635976128413220864",
+		"in_reply_to_user_id": 44086661,
+		"in_reply_to_user_id_str": "44086661",
+		"in_reply_to_screen_name": "TheEmmaPalmer",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TheEmmaPalmer Same! When I saw those two in-text citations I was holding my breath to see if real references came. \n\nI was sad when the reference list didn't come without promoting - but SHOCKED when it did arrive.\n\nI was even more shocked when it enhanced and expanded citations on request."
+	},
+	{
+		"created_at": "Wed Mar 15 11:51:44 +0000 2023",
+		"id": 1635972043337347000,
+		"id_str": "1635972043337347073",
+		"full_text": "@profpeterbrad Forgot to attach the feedback: https://t.co/0keR5unASP",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635971577438240800,
+					"id_str": "1635971577438240768",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FrQje1_XgAArYLu.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrQje1_XgAArYLu.png",
+					"url": "https://t.co/0keR5unASP",
+					"display_url": "pic.twitter.com/0keR5unASP",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1635972043337347073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 808,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 808,
+							"h": 1040,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635971577438240800,
+					"id_str": "1635971577438240768",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FrQje1_XgAArYLu.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrQje1_XgAArYLu.png",
+					"url": "https://t.co/0keR5unASP",
+					"display_url": "pic.twitter.com/0keR5unASP",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1635972043337347073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 808,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 808,
+							"h": 1040,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635971448350077000,
+		"in_reply_to_status_id_str": "1635971448350076929",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@profpeterbrad Forgot to attach the feedback: https://t.co/0keR5unASP"
+	},
+	{
+		"created_at": "Wed Mar 15 11:49:22 +0000 2023",
+		"id": 1635971448350077000,
+		"id_str": "1635971448350076929",
+		"full_text": "@profpeterbrad Interestingly, the same grading prompt for GTP4 with the two different sources led to very differently structured feedback. \n\nThe difference between GTP4 and GTP3.5 is significant when it comes to speed. GTP3.5 is lightning-quick. GTP4 is not!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635971097756684300,
+		"in_reply_to_status_id_str": "1635971097756684289",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@profpeterbrad Interestingly, the same grading prompt for GTP4 with the two different sources led to very differently structured feedback. \n\nThe difference between GTP4 and GTP3.5 is significant when it comes to speed. GTP3.5 is lightning-quick. GTP4 is not!"
+	},
+	{
+		"created_at": "Wed Mar 15 11:47:59 +0000 2023",
+		"id": 1635971097756684300,
+		"id_str": "1635971097756684289",
+		"full_text": "@profpeterbrad I asked GTP3.5 to also grade the work, and it came out with:\n\nThis essay is deserving of a high grade, such as an A or A+.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635970867355164700,
+		"in_reply_to_status_id_str": "1635970867355164673",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@profpeterbrad I asked GTP3.5 to also grade the work, and it came out with:\n\nThis essay is deserving of a high grade, such as an A or A+."
+	},
+	{
+		"created_at": "Wed Mar 15 11:47:04 +0000 2023",
+		"id": 1635970867355164700,
+		"id_str": "1635970867355164673",
+		"full_text": "@profpeterbrad Interestingly, #GTP4 graded its original output and the Grammarly-enhanced version with the extra paragraph as A\n\n(When promoted to grade using university-level criteria).",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635968742445154300,
+		"in_reply_to_status_id_str": "1635968742445154304",
+		"in_reply_to_user_id": 14189943,
+		"in_reply_to_user_id_str": "14189943",
+		"in_reply_to_screen_name": "profpeterbrad",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@profpeterbrad Interestingly, #GTP4 graded its original output and the Grammarly-enhanced version with the extra paragraph as A\n\n(When promoted to grade using university-level criteria)."
+	},
+	{
+		"created_at": "Wed Mar 15 11:41:07 +0000 2023",
+		"id": 1635969372865851400,
+		"id_str": "1635969372865851393",
+		"full_text": "@Emmadw @Lawrie This, in itself, is VERY interesting, demonstrating the significant influence the search-ingested side of BingChat has on a response. \n\nWhen I asked to argue against it, it did so. Not as well written as GTP4. It also referenced websites, as opposed to academic references.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635969061979914200,
+		"in_reply_to_status_id_str": "1635969061979914242",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Emmadw @Lawrie This, in itself, is VERY interesting, demonstrating the significant influence the search-ingested side of BingChat has on a response. \n\nWhen I asked to argue against it, it did so. Not as well written as GTP4. It also referenced websites, as opposed to academic references."
+	},
+	{
+		"created_at": "Wed Mar 15 11:39:53 +0000 2023",
+		"id": 1635969061979914200,
+		"id_str": "1635969061979914242",
+		"full_text": "@Emmadw @Lawrie First off - BingChat seemed more factual. More bullet point answers than well-written responses. It did not bring up Learning Styles, so it would not have prompted the later queries. I asked anyway. It was more balanced, almost favourable, drawing on internet sources.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635968719586295800,
+		"in_reply_to_status_id_str": "1635968719586295809",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Emmadw @Lawrie First off - BingChat seemed more factual. More bullet point answers than well-written responses. It did not bring up Learning Styles, so it would not have prompted the later queries. I asked anyway. It was more balanced, almost favourable, drawing on internet sources."
+	},
+	{
+		"created_at": "Wed Mar 15 11:38:32 +0000 2023",
+		"id": 1635968719586295800,
+		"id_str": "1635968719586295809",
+		"full_text": "@Emmadw @Lawrie I had to play around a bit more to see what happened with Bing Chat on this same conversation. I believe Bing used to run on GTP3.5 and ChatGTP + some Microsoft additions to interface with search and bing. I guess 3.5 is replaced with 4?",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635965806931525600,
+		"in_reply_to_status_id_str": "1635965806931525632",
+		"in_reply_to_user_id": 1168961,
+		"in_reply_to_user_id_str": "1168961",
+		"in_reply_to_screen_name": "Emmadw",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Emmadw @Lawrie I had to play around a bit more to see what happened with Bing Chat on this same conversation. I believe Bing used to run on GTP3.5 and ChatGTP + some Microsoft additions to interface with search and bing. I guess 3.5 is replaced with 4?"
+	},
+	{
+		"created_at": "Wed Mar 15 11:33:28 +0000 2023",
+		"id": 1635967444597584000,
+		"id_str": "1635967444597583874",
+		"full_text": "Love how @DrLancaster frames this new paradigm shift in 'generative AI':\n\nhttps://t.co/sICGl2cUle",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLancaster",
+					"name": "Thomas Lancaster",
+					"id": 58439890,
+					"id_str": "58439890",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sICGl2cUle",
+					"expanded_url": "https://twitter.com/DrLancaster/status/1635701367862853638",
+					"display_url": "twitter.com/DrLancaster/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635958695128600600,
+		"in_reply_to_status_id_str": "1635958695128600576",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1635701367862853600,
+		"quoted_status_id_str": "1635701367862853638",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sICGl2cUle",
+			"expanded": "https://twitter.com/DrLancaster/status/1635701367862853638",
+			"display": "twitter.com/DrLancaster/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 14 17:56:10 +0000 2023",
+			"id": 1635701367862853600,
+			"id_str": "1635701367862853638",
+			"full_text": "What exciting news today for the #academicintegrity community. Looking forward to accessing this much more human like #artificialintelligence writing tool. Back to square one for the AI detection engines #GPT4 https://t.co/VIa3TeTtez",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "academicintegrity",
+						"indices": [
+							33,
+							51
+						]
+					},
+					{
+						"text": "artificialintelligence",
+						"indices": [
+							118,
+							141
+						]
+					},
+					{
+						"text": "GPT4",
+						"indices": [
+							204,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VIa3TeTtez",
+						"expanded_url": "https://twitter.com/OpenAI/status/1635687373060317185",
+						"display_url": "twitter.com/OpenAI/status/…",
+						"indices": [
+							210,
+							233
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58439890,
+				"id_str": "58439890",
+				"name": "Thomas Lancaster",
+				"screen_name": "DrLancaster",
+				"location": "United Kingdom",
+				"description": "Experienced Computer Science academic and edtech enthusiast at @ICComputing. Researcher and speaker on contract cheating, plagiarism and academic integrity.",
+				"url": "https://t.co/cg2w1vPaSH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cg2w1vPaSH",
+								"expanded_url": "http://www.thomaslancaster.co.uk",
+								"display_url": "thomaslancaster.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2022,
+				"friends_count": 385,
+				"listed_count": 62,
+				"created_at": "Mon Jul 20 10:15:57 +0000 2009",
+				"favourites_count": 3981,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19040,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1075192569368363009/eR8dmDw__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075192569368363009/eR8dmDw__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58439890/1670445042",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1635687373060317200,
+			"quoted_status_id_str": "1635687373060317185",
+			"quoted_status_permalink": {
+				"url": "https://t.co/VIa3TeTtez",
+				"expanded": "https://twitter.com/OpenAI/status/1635687373060317185",
+				"display": "twitter.com/OpenAI/status/…"
+			},
+			"retweet_count": 12,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love how @DrLancaster frames this new paradigm shift in 'generative AI':\n\nhttps://t.co/sICGl2cUle"
+	},
+	{
+		"created_at": "Wed Mar 15 11:29:57 +0000 2023",
+		"id": 1635966561532903400,
+		"id_str": "1635966561532903426",
+		"full_text": "@Emmadw @Lawrie I have access to BingChat (though increasingly - most people do!). But no, I shelled out for ChatGPT plus to give this a whirl. As someone who works in, and researches the field of education studies, it feels like I needed to experiment for currency's sake!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Emmadw",
+					"name": "Emma Duke-Williams",
+					"id": 1168961,
+					"id_str": "1168961",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635965806931525600,
+		"in_reply_to_status_id_str": "1635965806931525632",
+		"in_reply_to_user_id": 1168961,
+		"in_reply_to_user_id_str": "1168961",
+		"in_reply_to_screen_name": "Emmadw",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Emmadw @Lawrie I have access to BingChat (though increasingly - most people do!). But no, I shelled out for ChatGPT plus to give this a whirl. As someone who works in, and researches the field of education studies, it feels like I needed to experiment for currency's sake!"
+	},
+	{
+		"created_at": "Wed Mar 15 11:24:44 +0000 2023",
+		"id": 1635965246736154600,
+		"id_str": "1635965246736154624",
+		"full_text": "@AlicjaSyska @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton It's interesting to see GTP4 already appearing in use with Duolingo, Stripe (payments) and Morgan Stanley. Interesting ethical question for 'consumers' when it keeps popping up in new spaces ingesting more of our data (though hardly new as it's popping up everywhere!).",
+		"truncated": false,
+		"display_text_range": [
+			150,
+			419
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"screen_name": "Eddbolton",
+					"name": "Edward Bolton",
+					"id": 106359821,
+					"id_str": "106359821",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635964702349049900,
+		"in_reply_to_status_id_str": "1635964702349049856",
+		"in_reply_to_user_id": 826917535,
+		"in_reply_to_user_id_str": "826917535",
+		"in_reply_to_screen_name": "AlicjaSyska",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlicjaSyska @EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton It's interesting to see GTP4 already appearing in use with Duolingo, Stripe (payments) and Morgan Stanley. Interesting ethical question for 'consumers' when it keeps popping up in new spaces ingesting more of our data (though hardly new as it's popping up everywhere!)."
+	},
+	{
+		"created_at": "Wed Mar 15 11:19:45 +0000 2023",
+		"id": 1635963994451091500,
+		"id_str": "1635963994451091458",
+		"full_text": "@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton … and now we have access to a device, access to the internet and access to AI as potential barriers to success and inclusion. \n\n(I can see a future where it becomes a Microsoft 365 benefit…)",
+		"truncated": false,
+		"display_text_range": [
+			150,
+			340
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"screen_name": "Eddbolton",
+					"name": "Edward Bolton",
+					"id": 106359821,
+					"id_str": "106359821",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635963784450961400,
+		"in_reply_to_status_id_str": "1635963784450961409",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton … and now we have access to a device, access to the internet and access to AI as potential barriers to success and inclusion. \n\n(I can see a future where it becomes a Microsoft 365 benefit…)"
+	},
+	{
+		"created_at": "Wed Mar 15 11:18:55 +0000 2023",
+		"id": 1635963784450961400,
+		"id_str": "1635963784450961409",
+		"full_text": "@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton We also don’t know what data (in detail) it’s been trained on. For all I know, it learned some sentence formation from some horrific unethical article on eugenics. Obviously, some higher level filters would cut out such a topic - but maybe that data is in there somewhere 😭",
+		"truncated": false,
+		"display_text_range": [
+			150,
+			423
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"screen_name": "Eddbolton",
+					"name": "Edward Bolton",
+					"id": 106359821,
+					"id_str": "106359821",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635963490862084000,
+		"in_reply_to_status_id_str": "1635963490862084097",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton We also don’t know what data (in detail) it’s been trained on. For all I know, it learned some sentence formation from some horrific unethical article on eugenics. Obviously, some higher level filters would cut out such a topic - but maybe that data is in there somewhere 😭"
+	},
+	{
+		"created_at": "Wed Mar 15 11:17:45 +0000 2023",
+		"id": 1635963490862084000,
+		"id_str": "1635963490862084097",
+		"full_text": "@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton I can’t believe there aren’t Select Committees in every ministerial department asking this right now!\n\nIt’s really problematic ethically. Not a million miles from academic publishes commodifying publicly funded data. This goes further - it’s mostly publicly created.",
+		"truncated": false,
+		"display_text_range": [
+			150,
+			416
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						123,
+						138
+					]
+				},
+				{
+					"screen_name": "Eddbolton",
+					"name": "Edward Bolton",
+					"id": 106359821,
+					"id_str": "106359821",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635963068629786600,
+		"in_reply_to_status_id_str": "1635963068629786624",
+		"in_reply_to_user_id": 576962461,
+		"in_reply_to_user_id_str": "576962461",
+		"in_reply_to_screen_name": "EvilDoctorB",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat @Eddbolton I can’t believe there aren’t Select Committees in every ministerial department asking this right now!\n\nIt’s really problematic ethically. Not a million miles from academic publishes commodifying publicly funded data. This goes further - it’s mostly publicly created."
+	},
+	{
+		"created_at": "Wed Mar 15 11:13:26 +0000 2023",
+		"id": 1635962405397069800,
+		"id_str": "1635962405397069827",
+		"full_text": "@Lawrie Duolingo, Stripe payments, Icelandic Government, Khan, Morgan Stanley, Be My Eyes &amp; other companies are using GTP-4 NOW. So it’s happening, &amp; I imagine without specific consent (though well covered in those long terms and conditions that let most companies do much to our data).",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			294
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635961648430080000,
+		"in_reply_to_status_id_str": "1635961648430080001",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Lawrie Duolingo, Stripe payments, Icelandic Government, Khan, Morgan Stanley, Be My Eyes &amp; other companies are using GTP-4 NOW. So it’s happening, &amp; I imagine without specific consent (though well covered in those long terms and conditions that let most companies do much to our data)."
+	},
+	{
+		"created_at": "Wed Mar 15 11:10:26 +0000 2023",
+		"id": 1635961648430080000,
+		"id_str": "1635961648430080001",
+		"full_text": "@Lawrie Yet - we should experiment nonetheless. We need to be aware of this cutting edge of practice. Our students, our societies and other apps/companies are using it - now! GTP4 is in use right now. We have to be in it to understand it.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635961361342644200,
+		"in_reply_to_status_id_str": "1635961361342644224",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Lawrie Yet - we should experiment nonetheless. We need to be aware of this cutting edge of practice. Our students, our societies and other apps/companies are using it - now! GTP4 is in use right now. We have to be in it to understand it."
+	},
+	{
+		"created_at": "Wed Mar 15 11:09:17 +0000 2023",
+		"id": 1635961361342644200,
+		"id_str": "1635961361342644224",
+		"full_text": "@Lawrie There is a serious question around what this means for people, learning, growth, language and human development. I reflected upon this on the close of the following article: https://t.co/ujaA29GA2i",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ujaA29GA2i",
+					"expanded_url": "https://leefallin.co.uk/2023/03/ai-led-blogging-an-experiment-with-gtp4-dall-e-grammarly/",
+					"display_url": "leefallin.co.uk/2023/03/ai-led…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635961095620903000,
+		"in_reply_to_status_id_str": "1635961095620902914",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Lawrie There is a serious question around what this means for people, learning, growth, language and human development. I reflected upon this on the close of the following article: https://t.co/ujaA29GA2i"
+	},
+	{
+		"created_at": "Wed Mar 15 11:08:14 +0000 2023",
+		"id": 1635961095620903000,
+		"id_str": "1635961095620902914",
+		"full_text": "@Lawrie It’s inevitably biased - and we can’t challenge that bias fully without access to the source. Impossible when it’s all bundled into a trained algorithm.\n\nResearchers would avoid unethical documents that use unethical experiments or ideas. We can’t tell if GTP4 has those standards",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635960700756541400,
+		"in_reply_to_status_id_str": "1635960700756541440",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Lawrie It’s inevitably biased - and we can’t challenge that bias fully without access to the source. Impossible when it’s all bundled into a trained algorithm.\n\nResearchers would avoid unethical documents that use unethical experiments or ideas. We can’t tell if GTP4 has those standards"
+	},
+	{
+		"created_at": "Wed Mar 15 11:06:40 +0000 2023",
+		"id": 1635960700756541400,
+		"id_str": "1635960700756541440",
+		"full_text": "@Lawrie There are - as you suggest - serious issues around the ethics. It’s commodifying data that is mostly publicly produced or funded. All the data it is fed and trained was produced by us - and now we pay to utilise it via an AI. \n\n(Not far off the issue of publishers in academia!)",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635960234614182000,
+		"in_reply_to_status_id_str": "1635960234614181891",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Lawrie There are - as you suggest - serious issues around the ethics. It’s commodifying data that is mostly publicly produced or funded. All the data it is fed and trained was produced by us - and now we pay to utilise it via an AI. \n\n(Not far off the issue of publishers in academia!)"
+	},
+	{
+		"created_at": "Wed Mar 15 11:04:49 +0000 2023",
+		"id": 1635960234614182000,
+		"id_str": "1635960234614181891",
+		"full_text": "@Lawrie There are such HUGE questions around what this means for society - but those decisions are being made my Google, Microsoft, OpenAI, Amazon, Apple and other HUGE corporations. \n\nIt’s VERY worrying.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lawrie",
+					"name": "Lawrie",
+					"id": 3250741,
+					"id_str": "3250741",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1635943801905660000,
+		"in_reply_to_status_id_str": "1635943801905659905",
+		"in_reply_to_user_id": 3250741,
+		"in_reply_to_user_id_str": "3250741",
+		"in_reply_to_screen_name": "Lawrie",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Lawrie There are such HUGE questions around what this means for society - but those decisions are being made my Google, Microsoft, OpenAI, Amazon, Apple and other HUGE corporations. \n\nIt’s VERY worrying."
+	},
+	{
+		"created_at": "Wed Mar 15 10:58:42 +0000 2023",
+		"id": 1635958695128600600,
+		"id_str": "1635958695128600576",
+		"full_text": "Interested in your thoughts:\n@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat et al.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "Dr_Paul_Penn",
+					"name": "Dr. Paul Penn 💙",
+					"id": 1126081823191326700,
+					"id_str": "1126081823191326720",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "Paul_HEscholar",
+					"name": "PaulC",
+					"id": 18238692,
+					"id_str": "18238692",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "k8tecoulson",
+					"name": "Kate Coulson",
+					"id": 1044961696266297300,
+					"id_str": "1044961696266297345",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "jaxbartram",
+					"name": "Dr Jacqui Bartram",
+					"id": 393933440,
+					"id_str": "393933440",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"screen_name": "AlicjaSyska",
+					"name": "Dr Alicja Syska",
+					"id": 826917535,
+					"id_str": "826917535",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"screen_name": "TechieTomTom",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"screen_name": "LevellerB",
+					"name": "Tom Burns",
+					"id": 2785551756,
+					"id_str": "2785551756",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						135,
+						151
+					]
+				},
+				{
+					"screen_name": "scholastic_rat",
+					"name": "Dr Helen Webster 📚🐀",
+					"id": 395277106,
+					"id_str": "395277106",
+					"indices": [
+						152,
+						167
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635957970054832000,
+		"in_reply_to_status_id_str": "1635957970054832130",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Interested in your thoughts:\n@EvilDoctorB @Dr_Paul_Penn @Paul_HEscholar @k8tecoulson @jaxbartram @AlicjaSyska @TechieTomTom @LevellerB @Danceswithcloud @scholastic_rat et al."
+	},
+	{
+		"created_at": "Wed Mar 15 10:55:49 +0000 2023",
+		"id": 1635957970054832000,
+		"id_str": "1635957970054832130",
+		"full_text": "Interested on your thoughts:\n@suebecks @profpeterbrad @zachary_north @TheEmmaPalmer @hopkinsmmi @mike_ewen @GrahamScott14 @DebbieHolley1 @aldinhe_LH @DrSarahEaton @ProfSallyBrown et al.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"screen_name": "profpeterbrad",
+					"name": "Peter Hartley",
+					"id": 14189943,
+					"id_str": "14189943",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "TheEmmaPalmer",
+					"name": "Emma Palmer",
+					"id": 44086661,
+					"id_str": "44086661",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "hopkinsmmi",
+					"name": "Paul ‘world beating’ Hopkins 🙋🏽‍♂️👨🏽‍🔬🧮🖥🦡",
+					"id": 88457900,
+					"id_str": "88457900",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"screen_name": "mike_ewen",
+					"name": "Mike Ewen",
+					"id": 20668436,
+					"id_str": "20668436",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE and LearnHigher",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						137,
+						148
+					]
+				},
+				{
+					"screen_name": "DrSarahEaton",
+					"name": "Dr. Sarah Elaine Eaton🇨🇦",
+					"id": 36371994,
+					"id_str": "36371994",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						163,
+						178
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635957968675000300,
+		"in_reply_to_status_id_str": "1635957968675000320",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Interested on your thoughts:\n@suebecks @profpeterbrad @zachary_north @TheEmmaPalmer @hopkinsmmi @mike_ewen @GrahamScott14 @DebbieHolley1 @aldinhe_LH @DrSarahEaton @ProfSallyBrown et al."
+	},
+	{
+		"created_at": "Wed Mar 15 10:55:49 +0000 2023",
+		"id": 1635957968675000300,
+		"id_str": "1635957968675000320",
+		"full_text": "Does this use of AI represent some horrific future where I’ve handed over work to an AI, de-skilling myself and removing my authorship?\n\nOR\n\nHave I demonstrated a high level of AI literacy, helping me to produce solutions quicker?\n\n #loveLD #LTHEchat #AI #HigherEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "loveLD",
+					"indices": [
+						233,
+						240
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						251,
+						254
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						255,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635957967156568000,
+		"in_reply_to_status_id_str": "1635957967156568065",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Does this use of AI represent some horrific future where I’ve handed over work to an AI, de-skilling myself and removing my authorship?\n\nOR\n\nHave I demonstrated a high level of AI literacy, helping me to produce solutions quicker?\n\n #loveLD #LTHEchat #AI #HigherEd"
+	},
+	{
+		"created_at": "Wed Mar 15 10:55:48 +0000 2023",
+		"id": 1635957967156568000,
+		"id_str": "1635957967156568065",
+		"full_text": "The details of how this was achieved, including every prompt and step with #GTP4, #dalle2 &amp; #Grammarly is laid out here:\n\n #loveLD #LTHEchat #AI \nhttps://t.co/ujaA29GA2i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "dalle2",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "Grammarly",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						145,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ujaA29GA2i",
+					"expanded_url": "https://leefallin.co.uk/2023/03/ai-led-blogging-an-experiment-with-gtp4-dall-e-grammarly/",
+					"display_url": "leefallin.co.uk/2023/03/ai-led…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635957965378269200,
+		"in_reply_to_status_id_str": "1635957965378269185",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The details of how this was achieved, including every prompt and step with #GTP4, #dalle2 &amp; #Grammarly is laid out here:\n\n #loveLD #LTHEchat #AI \nhttps://t.co/ujaA29GA2i"
+	},
+	{
+		"created_at": "Wed Mar 15 10:55:48 +0000 2023",
+		"id": 1635957965378269200,
+		"id_str": "1635957965378269185",
+		"full_text": "From this morning's experiments, I've produced a well-written article against learning styles that is 💯 made by #ArtificialIntelligence, including references &amp; images. 🧵\n\nUsing: #GTP4 #dalle2 #Grammarly\n\n🏷 #DieLearningStylesDie #loveLD #LTHEchat #AI \n\nhttps://t.co/EBU0SU7t08",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtificialIntelligence",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"text": "GTP4",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "dalle2",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "Grammarly",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "DieLearningStylesDie",
+					"indices": [
+						210,
+						231
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						232,
+						239
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						240,
+						249
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						250,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EBU0SU7t08",
+					"expanded_url": "https://leefallin.co.uk/2023/03/debunking-the-learning-styles-myth-a-call-for-evidence-based-educational-practices/",
+					"display_url": "leefallin.co.uk/2023/03/debunk…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From this morning's experiments, I've produced a well-written article against learning styles that is 💯 made by #ArtificialIntelligence, including references &amp; images. 🧵\n\nUsing: #GTP4 #dalle2 #Grammarly\n\n🏷 #DieLearningStylesDie #loveLD #LTHEchat #AI \n\nhttps://t.co/EBU0SU7t08"
+	},
+	{
+		"created_at": "Wed Mar 15 09:27:10 +0000 2023",
+		"id": 1635935660077990000,
+		"id_str": "1635935660077989888",
+		"full_text": "@beilinglaoshi #ChatGTPplus costs $20 (USD) dollars a month. Couldn't resist giving it a go: https://t.co/Law52lXkfY",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTPplus",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beilinglaoshi",
+					"name": "Carol",
+					"id": 2266231764,
+					"id_str": "2266231764",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635935359182819300,
+					"id_str": "1635935359182819328",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FrQCiqeX0AAE36L.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrQCiqeX0AAE36L.png",
+					"url": "https://t.co/Law52lXkfY",
+					"display_url": "pic.twitter.com/Law52lXkfY",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1635935660077989888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 441,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 441,
+							"h": 414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 441,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635935359182819300,
+					"id_str": "1635935359182819328",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FrQCiqeX0AAE36L.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrQCiqeX0AAE36L.png",
+					"url": "https://t.co/Law52lXkfY",
+					"display_url": "pic.twitter.com/Law52lXkfY",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1635935660077989888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 441,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 441,
+							"h": 414,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 441,
+							"h": 414,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635935168505544700,
+		"in_reply_to_status_id_str": "1635935168505544704",
+		"in_reply_to_user_id": 2266231764,
+		"in_reply_to_user_id_str": "2266231764",
+		"in_reply_to_screen_name": "beilinglaoshi",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beilinglaoshi #ChatGTPplus costs $20 (USD) dollars a month. Couldn't resist giving it a go: https://t.co/Law52lXkfY"
+	},
+	{
+		"created_at": "Wed Mar 15 09:22:24 +0000 2023",
+		"id": 1635934463413584000,
+		"id_str": "1635934463413583874",
+		"full_text": "This thing now has 9 references in it. All real. All are formatted correctly.\n\nThis is an absolute game-changer. \n\nPrevious experiments with #ChatGTP and #GTP3 / 3.5 led to imagined reference lists. Real authors, real journals, made-up articles.\n\nDid not expect this #loveLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "GTP3",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						267,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635933111711088600,
+		"in_reply_to_status_id_str": "1635933111711088640",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This thing now has 9 references in it. All real. All are formatted correctly.\n\nThis is an absolute game-changer. \n\nPrevious experiments with #ChatGTP and #GTP3 / 3.5 led to imagined reference lists. Real authors, real journals, made-up articles.\n\nDid not expect this #loveLD"
+	},
+	{
+		"created_at": "Wed Mar 15 09:17:02 +0000 2023",
+		"id": 1635933111711088600,
+		"id_str": "1635933111711088640",
+		"full_text": "It even offered to reformat them in a different style. \n\nI'm going to experiment further and ask it to add more evidence in.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635933109781659600,
+		"in_reply_to_status_id_str": "1635933109781659648",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It even offered to reformat them in a different style. \n\nI'm going to experiment further and ask it to add more evidence in."
+	},
+	{
+		"created_at": "Wed Mar 15 09:17:02 +0000 2023",
+		"id": 1635933109781659600,
+		"id_str": "1635933109781659648",
+		"full_text": "The experiment with #GTP4 continues... it's just written a cracking argument for me - WITH REFERENCES! \n\nI waited with bated breath to see if they were genuine...\n\n... but no reference list came.\n\nSo I asked for it - and was given two, complete, REAL references. #loveLD #LTHEchat https://t.co/KpAp51Dy1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GTP4",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "loveLD",
+					"indices": [
+						263,
+						270
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						271,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635932934656893000,
+					"id_str": "1635932934656892928",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FrQAViaWIAAB-5F.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrQAViaWIAAB-5F.png",
+					"url": "https://t.co/KpAp51Dy1G",
+					"display_url": "pic.twitter.com/KpAp51Dy1G",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1635933109781659648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 796,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635932934656893000,
+					"id_str": "1635932934656892928",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FrQAViaWIAAB-5F.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrQAViaWIAAB-5F.png",
+					"url": "https://t.co/KpAp51Dy1G",
+					"display_url": "pic.twitter.com/KpAp51Dy1G",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1635933109781659648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 796,
+							"h": 364,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 796,
+							"h": 364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The experiment with #GTP4 continues... it's just written a cracking argument for me - WITH REFERENCES! \n\nI waited with bated breath to see if they were genuine...\n\n... but no reference list came.\n\nSo I asked for it - and was given two, complete, REAL references. #loveLD #LTHEchat https://t.co/KpAp51Dy1G"
+	},
+	{
+		"created_at": "Wed Mar 15 09:09:33 +0000 2023",
+		"id": 1635931227268972500,
+		"id_str": "1635931227268972545",
+		"full_text": "Reflecting on my last conversation with #ChatGTP on the same topic... the depth, structure and nuance of the response are significantly beyond the earlier replies...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChatGTP",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1635930982883680300,
+		"in_reply_to_status_id_str": "1635930982883680259",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 1974,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Reflecting on my last conversation with #ChatGTP on the same topic... the depth, structure and nuance of the response are significantly beyond the earlier replies..."
+	},
+	{
 		"created_at": "Tue Mar 14 07:53:53 +0000 2023",
 		"id": 1635549799788232700,
 		"id_str": "1635549799788232704",
@@ -49,7 +12781,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -189,7 +12921,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -329,7 +13061,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -469,7 +13201,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd, #EdTech, #loveLD & #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

@@ -1,6 +1,2460 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 20:21:30 +0000 2023",
+		"id": 1638938486181970000,
+		"id_str": "1639361820338053125",
+		"full_text": "#lthechat via NodeXL https://t.co/PAC86MIwPo\n@lthechat\n@leefallin\n@virnarossi\n@profdcotton\n@teachinginhe\n@suebecks\n@racephil\n@drlancaster\n@danceswithcloud\n@reubenshipway\n\nTop hashtags:\n#lthechat\n#chatgpt\n#highered\n#loveld\n#gtp4\n#ai\n#academictwitter\n#highereducation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "chatgpt",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "highered",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "loveld",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"text": "gtp4",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "ai",
+					"indices": [
+						228,
+						231
+					]
+				},
+				{
+					"text": "academictwitter",
+					"indices": [
+						232,
+						248
+					]
+				},
+				{
+					"text": "highereducation",
+					"indices": [
+						249,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "VirnaRossi",
+					"name": "Virna",
+					"id": 1227561574635843600,
+					"id_str": "1227561574635843584",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						78,
+						90
+					]
+				},
+				{
+					"screen_name": "TeachinginHE",
+					"name": "Teaching in Higher Education journal (TiHE)",
+					"id": 3025973253,
+					"id_str": "3025973253",
+					"indices": [
+						91,
+						104
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"screen_name": "DrLancaster",
+					"name": "Thomas Lancaster",
+					"id": 58439890,
+					"id_str": "58439890",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"screen_name": "Danceswithcloud",
+					"name": "Sandra Sinfield",
+					"id": 236802458,
+					"id_str": "236802458",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"screen_name": "ReubenShipway",
+					"name": "Reuben Shipway",
+					"id": 1092584683630706700,
+					"id_str": "1092584683630706688",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PAC86MIwPo",
+					"expanded_url": "https://bit.ly/3ZiHwN2",
+					"display_url": "bit.ly/3ZiHwN2",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56366858,
+			"id_str": "56366858",
+			"name": "Dr Scott Turner",
+			"screen_name": "scottturneruon",
+			"location": "Northamptonshire",
+			"description": "Computing academic @CanterburyCCUni , Robots, computing education. Pi Cert Educator, code club, #FRSA #lthechat Views authors only, RTs do not imply agreement",
+			"url": "https://t.co/ZdQo9bNfEs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdQo9bNfEs",
+							"expanded_url": "http://scottjturner.weebly.com/",
+							"display_url": "scottjturner.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4077,
+			"friends_count": 3309,
+			"listed_count": 536,
+			"created_at": "Mon Jul 13 13:06:27 +0000 2009",
+			"favourites_count": 35568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707234049144840195/oOSySzdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56366858/1479122559",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#lthechat via NodeXL https://t.co/PAC86MIwPo\n@lthechat\n@leefallin\n@virnarossi\n@profdcotton\n@teachinginhe\n@suebecks\n@racephil\n@drlancaster\n@danceswithcloud\n@reubenshipway\n\nTop hashtags:\n#lthechat\n#chatgpt\n#highered\n#loveld\n#gtp4\n#ai\n#academictwitter\n#highereducation"
+	},
+	{
+		"created_at": "Fri Mar 24 19:01:59 +0000 2023",
+		"id": 1639341808491585500,
+		"id_str": "1639341808491585559",
+		"full_text": "@credland_nicki @zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 That’s a fair point - and I think our ability to address that can be very disciplinary. In Education, as I imagine you can in health, it’s possible to talk about professionalism and that works both ways - and carries into the workplace.",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			384
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639341453418856400,
+		"in_reply_to_status_id_str": "1639341453418856448",
+		"in_reply_to_user_id": 929194854,
+		"in_reply_to_user_id_str": "929194854",
+		"in_reply_to_screen_name": "credland_nicki",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@credland_nicki @zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 That’s a fair point - and I think our ability to address that can be very disciplinary. In Education, as I imagine you can in health, it’s possible to talk about professionalism and that works both ways - and carries into the workplace."
+	},
+	{
+		"created_at": "Fri Mar 24 18:59:15 +0000 2023",
+		"id": 1635692487258800000,
+		"id_str": "1639341123473661958",
+		"full_text": "I think we can call it shut on 'Open' AI: the 98 page paper introducing GPT-4 proudly declares that they're disclosing *nothing* about the contents of their training set. https://t.co/dyI4Vf0uL3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1635692144777212000,
+					"id_str": "1635692144777211931",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FrMlVuNXsBsvq75.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrMlVuNXsBsvq75.jpg",
+					"url": "https://t.co/dyI4Vf0uL3",
+					"display_url": "pic.twitter.com/dyI4Vf0uL3",
+					"expanded_url": "https://twitter.com/benmschmidt/status/1635692487258800128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1146,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1146,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635692144777212000,
+					"id_str": "1635692144777211931",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FrMlVuNXsBsvq75.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrMlVuNXsBsvq75.jpg",
+					"url": "https://t.co/dyI4Vf0uL3",
+					"display_url": "pic.twitter.com/dyI4Vf0uL3",
+					"expanded_url": "https://twitter.com/benmschmidt/status/1635692487258800128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 263,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1146,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1146,
+							"h": 444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222618390,
+			"id_str": "222618390",
+			"name": "Ben Schmidt / @benmschmidt@vis.social",
+			"screen_name": "benmschmidt",
+			"location": "Manhattan",
+			"description": "VP of Information Design @nomic_ai, building new ways to understand, explore, and edit embedding models. Former history professor and digital humanist.",
+			"url": "https://t.co/dI3Tpzojwt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dI3Tpzojwt",
+							"expanded_url": "https://benschmidt.org",
+							"display_url": "benschmidt.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9142,
+			"friends_count": 1189,
+			"listed_count": 308,
+			"created_at": "Fri Dec 03 23:11:42 +0000 2010",
+			"favourites_count": 2062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481682624670322694/UnZ-NAoj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481682624670322694/UnZ-NAoj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222618390/1607620540",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1510,
+		"favorite_count": 7051,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think we can call it shut on 'Open' AI: the 98 page paper introducing GPT-4 proudly declares that they're disclosing *nothing* about the contents of their training set. https://t.co/dyI4Vf0uL3"
+	},
+	{
+		"created_at": "Fri Mar 24 18:59:10 +0000 2023",
+		"id": 1639341102309179400,
+		"id_str": "1639341102309179426",
+		"full_text": "@benmschmidt Interesting to see it includes “licensed data”. Very curious as to what that includes, who they paid and what the licence terms were.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benmschmidt",
+					"name": "Ben Schmidt / @benmschmidt@vis.social",
+					"id": 222618390,
+					"id_str": "222618390",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1635692487258800000,
+		"in_reply_to_status_id_str": "1635692487258800128",
+		"in_reply_to_user_id": 222618390,
+		"in_reply_to_user_id_str": "222618390",
+		"in_reply_to_screen_name": "benmschmidt",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@benmschmidt Interesting to see it includes “licensed data”. Very curious as to what that includes, who they paid and what the licence terms were."
+	},
+	{
+		"created_at": "Fri Mar 24 18:56:03 +0000 2023",
+		"id": 1639340316267249700,
+		"id_str": "1639340316267249684",
+		"full_text": "@BornerSusanne @profkevinburden @charlottedean99 - interesting paper.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BornerSusanne",
+					"name": "Susanne Börner",
+					"id": 1163400397735813000,
+					"id_str": "1163400397735813121",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "profkevinburden",
+					"name": "Kevin Burden",
+					"id": 167435909,
+					"id_str": "167435909",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "charlottedean99",
+					"name": "Charlotte Dean",
+					"id": 2755046129,
+					"id_str": "2755046129",
+					"indices": [
+						32,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1638876003949748200,
+		"in_reply_to_status_id_str": "1638876003949748224",
+		"in_reply_to_user_id": 1163400397735813000,
+		"in_reply_to_user_id_str": "1163400397735813121",
+		"in_reply_to_screen_name": "BornerSusanne",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BornerSusanne @profkevinburden @charlottedean99 - interesting paper."
+	},
+	{
+		"created_at": "Fri Mar 24 18:54:31 +0000 2023",
+		"id": 1639339928327684000,
+		"id_str": "1639339928327684104",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 It really isn’t one size fits all. Some students can easily get embarrassed if called out. Some feel really uncomfortable when this is addressed. So always be careful how this is approached. Know your students.",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			358
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639339493898453000,
+		"in_reply_to_status_id_str": "1639339493898452997",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 It really isn’t one size fits all. Some students can easily get embarrassed if called out. Some feel really uncomfortable when this is addressed. So always be careful how this is approached. Know your students."
+	},
+	{
+		"created_at": "Fri Mar 24 18:52:47 +0000 2023",
+		"id": 1639339493898453000,
+		"id_str": "1639339493898452997",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 Sometimes getting people moving can help - get up, shake it off - embrace the disruption, then ask people to reign it in. Can also use ‘brain breaks’ - so let people know they’re coming. If anyone is disruptive ‘save it for the break’ (nicer than no!)",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			399
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639338530471018500,
+		"in_reply_to_status_id_str": "1639338530471018514",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 Sometimes getting people moving can help - get up, shake it off - embrace the disruption, then ask people to reign it in. Can also use ‘brain breaks’ - so let people know they’re coming. If anyone is disruptive ‘save it for the break’ (nicer than no!)"
+	},
+	{
+		"created_at": "Fri Mar 24 18:48:57 +0000 2023",
+		"id": 1639338530471018500,
+		"id_str": "1639338530471018514",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 There is always the ‘you teach it’ or ‘you show me approach’. Think you know it? Prove it. I used this with a very rude business student in a class. So this wasn’t in front of the class, but I said I’d sign them in and they could leave if they did a great slide. They failed. Hard",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			428
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639338205265657900,
+		"in_reply_to_status_id_str": "1639338205265657874",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 There is always the ‘you teach it’ or ‘you show me approach’. Think you know it? Prove it. I used this with a very rude business student in a class. So this wasn’t in front of the class, but I said I’d sign them in and they could leave if they did a great slide. They failed. Hard"
+	},
+	{
+		"created_at": "Fri Mar 24 18:47:40 +0000 2023",
+		"id": 1639338205265657900,
+		"id_str": "1639338205265657874",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 Then there can be cultural differences - that shape expression, communication &amp; working practices. Sometimes contracting with the group - setting ground rules can help. Them use the class to help enforce them. One of my groups are great at this - the other students police it.",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			428
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639337798246203400,
+		"in_reply_to_status_id_str": "1639337798246203415",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 Then there can be cultural differences - that shape expression, communication &amp; working practices. Sometimes contracting with the group - setting ground rules can help. Them use the class to help enforce them. One of my groups are great at this - the other students police it."
+	},
+	{
+		"created_at": "Fri Mar 24 18:46:03 +0000 2023",
+		"id": 1639337798246203400,
+		"id_str": "1639337798246203415",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 …and you don’t always know the background to a disruption, so never assume. Our students have lives, families, dependents. Sometimes that will spill into the class - though we ask them to have phones on silent and talk calls outside, of course. But urgent things happen too 🙈",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			423
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639337490463981600,
+		"in_reply_to_status_id_str": "1639337490463981572",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 …and you don’t always know the background to a disruption, so never assume. Our students have lives, families, dependents. Sometimes that will spill into the class - though we ask them to have phones on silent and talk calls outside, of course. But urgent things happen too 🙈"
+	},
+	{
+		"created_at": "Fri Mar 24 18:44:49 +0000 2023",
+		"id": 1639337490463981600,
+		"id_str": "1639337490463981572",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 Sometimes disruptions are okay. There are circumstances that we need to let go. I had a student receive bad news and run out the class teaching. I paused the class to go check on them. Sometimes we need licence to out the human first…",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			382
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639337094295191600,
+		"in_reply_to_status_id_str": "1639337094295191566",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 Sometimes disruptions are okay. There are circumstances that we need to let go. I had a student receive bad news and run out the class teaching. I paused the class to go check on them. Sometimes we need licence to out the human first…"
+	},
+	{
+		"created_at": "Fri Mar 24 18:43:15 +0000 2023",
+		"id": 1639337094295191600,
+		"id_str": "1639337094295191566",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 If it’s someone being enthusiastic, over-contributing &amp; not giving everyone a chance, I tend to come up with a turn-taking idea. Talk only when you have the pen. I’ve been had everyone stood up, &amp; then they sit once contributed (You need to know your group. Won’t work with all!)",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			435
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639336311268966400,
+		"in_reply_to_status_id_str": "1639336311268966402",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 If it’s someone being enthusiastic, over-contributing &amp; not giving everyone a chance, I tend to come up with a turn-taking idea. Talk only when you have the pen. I’ve been had everyone stood up, &amp; then they sit once contributed (You need to know your group. Won’t work with all!)"
+	},
+	{
+		"created_at": "Fri Mar 24 18:40:08 +0000 2023",
+		"id": 1639336311268966400,
+		"id_str": "1639336311268966402",
+		"full_text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 When it’s someone being rude (which happens) I’ll cheekily call it out -ask them to contribute or share their idea. If they refuse (as it was off-topic gossip), I’ll remind them where the door is if they’re not interested. Harsh, but I’ve found it helpful with medicine students😅",
+		"truncated": false,
+		"display_text_range": [
+			148,
+			427
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zachary_north",
+					"name": "Zach North",
+					"id": 447890791,
+					"id_str": "447890791",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BioScienceMum",
+					"name": "Lesley Morrell",
+					"id": 100047303,
+					"id_str": "100047303",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "jabberjabber0",
+					"name": "Kevin Pimbblet",
+					"id": 626859202,
+					"id_str": "626859202",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "GrahamScott14",
+					"name": "Graham Scott",
+					"id": 538778092,
+					"id_str": "538778092",
+					"indices": [
+						45,
+						59
+					]
+				},
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "UoHAcademy",
+					"name": "Teaching Excellence Academy",
+					"id": 914481006,
+					"id_str": "914481006",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "CritCareLuke",
+					"name": "Luke Sargent",
+					"id": 1141460771366420500,
+					"id_str": "1141460771366420482",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "BexHuxBinns",
+					"name": "Becky Huxley-Binns",
+					"id": 322173181,
+					"id_str": "322173181",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "paulamarshall40",
+					"name": "PaulaGawthorpe 💙",
+					"id": 215034684,
+					"id_str": "215034684",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "KateBridgeman1",
+					"name": "Kate Bridgeman",
+					"id": 285549243,
+					"id_str": "285549243",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1639335842387722200,
+		"in_reply_to_status_id_str": "1639335842387722255",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1981,
+			"friends_count": 2151,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@zachary_north @BioScienceMum @jabberjabber0 @GrahamScott14 @credland_nicki @UoHAcademy @CritCareLuke @BexHuxBinns @paulamarshall40 @KateBridgeman1 When it’s someone being rude (which happens) I’ll cheekily call it out -ask them to contribute or share their idea. If they refuse (as it was off-topic gossip), I’ll remind them where the door is if they’re not interested. Harsh, but I’ve found it helpful with medicine students😅"
+	},
+	{
 		"created_at": "Thu Mar 23 13:49:23 +0000 2023",
 		"id": 1638609145052930000,
 		"id_str": "1638900753518534660",
@@ -285,7 +2739,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

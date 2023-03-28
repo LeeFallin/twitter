@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Mon Mar 27 21:44:13 +0000 2023",
+		"id": 1640469799561203700,
+		"id_str": "1640469799561203712",
+		"full_text": "@prani_doline @Ellenphysiouk Of course! https://t.co/d14uShEUOZ",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prani_doline",
+					"name": "Doliprane",
+					"id": 2474616678,
+					"id_str": "2474616678",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Ellenphysiouk",
+					"name": "Ellen Castle",
+					"id": 857937383005859800,
+					"id_str": "857937383005859841",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d14uShEUOZ",
+					"expanded_url": "https://youtube.com/playlist?list=PLjCDy_BmhjHK1GE84_UE0se9hUaoSNvlV",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1640441554601910300,
+		"in_reply_to_status_id_str": "1640441554601910289",
+		"in_reply_to_user_id": 2474616678,
+		"in_reply_to_user_id_str": "2474616678",
+		"in_reply_to_screen_name": "prani_doline",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1992,
+			"friends_count": 2178,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@prani_doline @Ellenphysiouk Of course! https://t.co/d14uShEUOZ"
+	},
+	{
+		"created_at": "Mon Mar 27 06:44:28 +0000 2023",
+		"id": 1640243372152553500,
+		"id_str": "1640243372152553477",
+		"full_text": "#DieLearningStylesDie https://t.co/XrH7KivDm7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DieLearningStylesDie",
+					"indices": [
+						0,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XrH7KivDm7",
+					"expanded_url": "https://twitter.com/C_Hendrick/status/1639979611806224387",
+					"display_url": "twitter.com/C_Hendrick/sta…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1992,
+			"friends_count": 2178,
+			"listed_count": 62,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1639979611806224400,
+		"quoted_status_id_str": "1639979611806224387",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XrH7KivDm7",
+			"expanded": "https://twitter.com/C_Hendrick/status/1639979611806224387",
+			"display": "twitter.com/C_Hendrick/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 26 13:16:23 +0000 2023",
+			"id": 1639979611806224400,
+			"id_str": "1639979611806224387",
+			"full_text": "It is a consistent source of amazement to me over the years how people who are hugely impressive in other domains, are utterly bereft when it comes to education. In this case, Bill Gates showing a limited understanding of cognitive science. h/t @thebandb   https://t.co/0xGfoyoxGJ https://t.co/8UUKqcaFK2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thebandb",
+						"name": "Pedro De Bruyckere",
+						"id": 33445129,
+						"id_str": "33445129",
+						"indices": [
+							245,
+							254
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0xGfoyoxGJ",
+						"expanded_url": "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun?ref=emergentmind",
+						"display_url": "gatesnotes.com/The-Age-of-AI-…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1639979136054599700,
+						"id_str": "1639979136054599692",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FsJgVdOWIAwL3oy.png",
+						"media_url_https": "https://pbs.twimg.com/media/FsJgVdOWIAwL3oy.png",
+						"url": "https://t.co/8UUKqcaFK2",
+						"display_url": "pic.twitter.com/8UUKqcaFK2",
+						"expanded_url": "https://twitter.com/C_Hendrick/status/1639979611806224387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 952,
+								"h": 294,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 952,
+								"h": 294,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1639979136054599700,
+						"id_str": "1639979136054599692",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FsJgVdOWIAwL3oy.png",
+						"media_url_https": "https://pbs.twimg.com/media/FsJgVdOWIAwL3oy.png",
+						"url": "https://t.co/8UUKqcaFK2",
+						"display_url": "pic.twitter.com/8UUKqcaFK2",
+						"expanded_url": "https://twitter.com/C_Hendrick/status/1639979611806224387/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 952,
+								"h": 294,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 210,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 952,
+								"h": 294,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57304101,
+				"id_str": "57304101",
+				"name": "Carl Hendrick",
+				"screen_name": "C_Hendrick",
+				"location": "London, England",
+				"description": "Dad | Teacher | Dubliner | education research | https://t.co/0rT6k11tFB",
+				"url": "https://t.co/Q7HVwskgYT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q7HVwskgYT",
+								"expanded_url": "https://www.amazon.co.uk/How-Learning-Happens-Paul-Kirschner/dp/0367184575/ref=sr_1_1?keywords=how+l",
+								"display_url": "amazon.co.uk/How-Learning-H…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0rT6k11tFB",
+								"expanded_url": "http://chronotopeblog.com",
+								"display_url": "chronotopeblog.com",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 30086,
+				"friends_count": 3102,
+				"listed_count": 461,
+				"created_at": "Thu Jul 16 11:07:20 +0000 2009",
+				"favourites_count": 62542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66047,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1428638848876224512/WHLyTK_v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428638848876224512/WHLyTK_v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57304101/1671100144",
+				"profile_link_color": "3E4C59",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "1A140E",
+				"profile_text_color": "755F41",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qht",
+		"text": "#DieLearningStylesDie https://t.co/XrH7KivDm7"
+	},
+	{
 		"created_at": "Sun Mar 26 22:34:28 +0000 2023",
 		"id": 1640043046287949800,
 		"id_str": "1640120059744993281",

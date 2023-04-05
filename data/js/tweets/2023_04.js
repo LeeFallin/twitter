@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 04 20:42:02 +0000 2023",
+		"id": 1643295246762008600,
+		"id_str": "1643353255311732738",
+		"full_text": "\" it flagged an innocent student\" Turnitin AI detector \"got over half of them at least partly wrong\". So relieved we opted out at this stage. https://t.co/nGcQGBRMtD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nGcQGBRMtD",
+					"expanded_url": "https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/",
+					"display_url": "washingtonpost.com/technology/202…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 467463085,
+			"id_str": "467463085",
+			"name": "MartinCompton",
+			"screen_name": "mart_compton",
+			"location": "London, England",
+			"description": "Masto: https://t.co/DZa8jGnqWx Assoc Prof, UK HE; Teaching modalities, Prog & Assessment design; AI, AI & AI. Peer Dialogue, review, obs. PFHEA /SCMALT",
+			"url": "https://t.co/c67JR4rGtS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c67JR4rGtS",
+							"expanded_url": "https://reflect.ucl.ac.uk/mcarena/",
+							"display_url": "reflect.ucl.ac.uk/mcarena/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DZa8jGnqWx",
+							"expanded_url": "https://scholar.social/@compton",
+							"display_url": "scholar.social/@compton",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3384,
+			"friends_count": 3571,
+			"listed_count": 75,
+			"created_at": "Wed Jan 18 14:06:23 +0000 2012",
+			"favourites_count": 24821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587212237558644738/kIYq07VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587212237558644738/kIYq07VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/467463085/1672618855",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 37,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\" it flagged an innocent student\" Turnitin AI detector \"got over half of them at least partly wrong\". So relieved we opted out at this stage. https://t.co/nGcQGBRMtD"
+	},
+	{
+		"created_at": "Tue Apr 04 20:39:57 +0000 2023",
+		"id": 1643012158542991400,
+		"id_str": "1643352730293919748",
+		"full_text": "When institutions suspect a student has inappropriately used AI, the fact that they won't be able to prove it is less of a worry IMO than the fact that the student won't be able to prove they didn't. Suspicion and mistrust could be v damaging.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12120062,
+			"id_str": "12120062",
+			"name": "Tim Fawns",
+			"screen_name": "timbocop",
+			"location": "Melbourne, Victoria",
+			"description": "Teaching & researching faculty development & digital education (+ sometimes memory). Part of @Monash_Academy. Formerly @EdClinEd. Views my own.",
+			"url": "https://t.co/QPDrKC4B6y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPDrKC4B6y",
+							"expanded_url": "https://www.ed.ac.uk/profile/tim-fawns",
+							"display_url": "ed.ac.uk/profile/tim-fa…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4998,
+			"friends_count": 4507,
+			"listed_count": 84,
+			"created_at": "Fri Jan 11 16:19:31 +0000 2008",
+			"favourites_count": 14088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427197160194547712/b0ETgfr0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427197160194547712/b0ETgfr0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12120062/1573212367",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 91,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "When institutions suspect a student has inappropriately used AI, the fact that they won't be able to prove it is less of a worry IMO than the fact that the student won't be able to prove they didn't. Suspicion and mistrust could be v damaging."
+	},
+	{
 		"created_at": "Mon Apr 03 10:05:26 +0000 2023",
 		"id": 1642830662087450600,
 		"id_str": "1642830662087450625",
@@ -59,7 +272,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

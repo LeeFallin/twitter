@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 12:23:39 +0000 2023",
+		"id": 1646126934596649000,
+		"id_str": "1646126934596648961",
+		"full_text": "@timbocop @EnglishOER @Monash_Academy @BrentAAnders Paywall really worries me. I know Microsoft is committed to free AI via Bing... (for now - I mean, that compute is HUGE and we saw them rollback on unlimited OneDrive storage when the cost became apparent...). \n\nMy OpenAI subscription affords me opportunities others don't get.",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			329
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "EnglishOER",
+					"name": "Anna Mills, amills@mastodon.oeru.org, she/her",
+					"id": 1283804252482048000,
+					"id_str": "1283804252482048005",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "Monash_Academy",
+					"name": "Monash Education Academy",
+					"id": 3069107323,
+					"id_str": "3069107323",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "BrentAAnders",
+					"name": "Brent A. Anders, Ph.D.",
+					"id": 238633758,
+					"id_str": "238633758",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1646106934062493700,
+		"in_reply_to_status_id_str": "1646106934062493698",
+		"in_reply_to_user_id": 12120062,
+		"in_reply_to_user_id_str": "12120062",
+		"in_reply_to_screen_name": "timbocop",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 2095,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timbocop @EnglishOER @Monash_Academy @BrentAAnders Paywall really worries me. I know Microsoft is committed to free AI via Bing... (for now - I mean, that compute is HUGE and we saw them rollback on unlimited OneDrive storage when the cost became apparent...). \n\nMy OpenAI subscription affords me opportunities others don't get."
+	},
+	{
+		"created_at": "Wed Apr 12 12:21:47 +0000 2023",
+		"id": 1646126463404351500,
+		"id_str": "1646126463404351492",
+		"full_text": "@timbocop It really is hard, isn't it... \n\nMaybe the focus should be 'qualification integrity' as we need to ensure learners are earning the qualification themselves? \n\nThis removes focus from student misconduct &amp; risk in that area - &amp; instead on how the institution assures integrity?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			293
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timbocop",
+					"name": "Tim Fawns",
+					"id": 12120062,
+					"id_str": "12120062",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1646105566803267600,
+		"in_reply_to_status_id_str": "1646105566803267584",
+		"in_reply_to_user_id": 12120062,
+		"in_reply_to_user_id_str": "12120062",
+		"in_reply_to_screen_name": "timbocop",
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 2095,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timbocop It really is hard, isn't it... \n\nMaybe the focus should be 'qualification integrity' as we need to ensure learners are earning the qualification themselves? \n\nThis removes focus from student misconduct &amp; risk in that area - &amp; instead on how the institution assures integrity?"
+	},
+	{
 		"created_at": "Tue Apr 11 22:59:15 +0000 2023",
 		"id": 1645924499580240000,
 		"id_str": "1645924499580239872",
@@ -69,7 +313,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

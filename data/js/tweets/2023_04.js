@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 07:39:22 +0000 2023",
+		"id": 1646417780428734500,
+		"id_str": "1646417780428734466",
+		"full_text": "Interesting read 👇 https://t.co/fSFaGUoCyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fSFaGUoCyW",
+					"expanded_url": "https://twitter.com/ozmark17/status/1646355989518778369",
+					"display_url": "twitter.com/ozmark17/statu…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1998,
+			"friends_count": 2093,
+			"listed_count": 63,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7bc0da87641dd821",
+			"url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+			"place_type": "city",
+			"name": "Hull",
+			"full_name": "Hull, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.422572,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.719616
+						],
+						[
+							-0.2453134,
+							53.812018
+						],
+						[
+							-0.422572,
+							53.812018
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1646355989518778400,
+		"quoted_status_id_str": "1646355989518778369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fSFaGUoCyW",
+			"expanded": "https://twitter.com/ozmark17/status/1646355989518778369",
+			"display": "twitter.com/ozmark17/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 13 03:33:50 +0000 2023",
+			"id": 1646355989518778400,
+			"id_str": "1646355989518778369",
+			"full_text": "@DrSarahEaton For my take on this, you can see a summary at https://t.co/95F97LvQcr. This is of course just one view among many! We cover some but not all of the literacies you mention. Our defintions of specific literacies are at the end of the page",
+			"truncated": false,
+			"display_text_range": [
+				14,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrSarahEaton",
+						"name": "Dr. Sarah Elaine Eaton🇨🇦",
+						"id": 36371994,
+						"id_str": "36371994",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/95F97LvQcr",
+						"expanded_url": "https://markpegrum.com/overview-of-digital-learning/digital-literacies/",
+						"display_url": "markpegrum.com/overview-of-di…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1646258663517212700,
+			"in_reply_to_status_id_str": "1646258663517212672",
+			"in_reply_to_user_id": 36371994,
+			"in_reply_to_user_id_str": "36371994",
+			"in_reply_to_screen_name": "DrSarahEaton",
+			"user": {
+				"id": 15095453,
+				"id_str": "15095453",
+				"name": "Mark Pegrum",
+				"screen_name": "OzMark17",
+				"location": "Perth, Western Australia",
+				"description": "Lecturer in digital & mobile learning. Researcher & writer on educational technologies.",
+				"url": "https://t.co/5FFQxPgjCg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5FFQxPgjCg",
+								"expanded_url": "http://markpegrum.com",
+								"display_url": "markpegrum.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1723,
+				"friends_count": 170,
+				"listed_count": 100,
+				"created_at": "Thu Jun 12 10:51:34 +0000 2008",
+				"favourites_count": 246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F9F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/846569114567008257/SgPSBeXW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/846569114567008257/SgPSBeXW_normal.jpg",
+				"profile_link_color": "4D4FBE",
+				"profile_sidebar_border_color": "979299",
+				"profile_sidebar_fill_color": "BFBBBB",
+				"profile_text_color": "111110",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting read 👇 https://t.co/fSFaGUoCyW"
+	},
+	{
 		"created_at": "Wed Apr 12 12:23:39 +0000 2023",
 		"id": 1646126934596649000,
 		"id_str": "1646126934596648961",
@@ -69,7 +332,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -176,7 +439,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 16:16:14 +0000 2023",
+		"id": 1647634036339220500,
+		"id_str": "1647635017902718981",
+		"full_text": "Learning Development in a Time of Disruption. View this original and insightful resource here: https://t.co/lbm1sYJxaI Thank you @LeeFallin for sharing this amazing poster. https://t.co/SDcfAqHoYu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lbm1sYJxaI",
+					"expanded_url": "https://doi.org/10.25416/NTR.21956999",
+					"display_url": "doi.org/10.25416/NTR.2…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1647633506497962000,
+					"id_str": "1647633506497961985",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2R8dLXoAEk8T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2R8dLXoAEk8T_.jpg",
+					"url": "https://t.co/SDcfAqHoYu",
+					"display_url": "pic.twitter.com/SDcfAqHoYu",
+					"expanded_url": "https://twitter.com/NTRepository/status/1647634036339220484/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 841,
+							"h": 603,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647633506497962000,
+					"id_str": "1647633506497961985",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2R8dLXoAEk8T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2R8dLXoAEk8T_.jpg",
+					"url": "https://t.co/SDcfAqHoYu",
+					"display_url": "pic.twitter.com/SDcfAqHoYu",
+					"expanded_url": "https://twitter.com/NTRepository/status/1647634036339220484/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 841,
+							"h": 603,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 841,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647633753966035000,
+					"id_str": "1647633753966034944",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft2SK3EWwAASr90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft2SK3EWwAASr90.jpg",
+					"url": "https://t.co/SDcfAqHoYu",
+					"display_url": "pic.twitter.com/SDcfAqHoYu",
+					"expanded_url": "https://twitter.com/NTRepository/status/1647634036339220484/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1269949194292297700,
+			"id_str": "1269949194292297728",
+			"name": "The National Teaching Repository",
+			"screen_name": "NTRepository",
+			"location": "",
+			"description": "Discover: https://t.co/TNAUXFfeCn\nShare: https://t.co/y73UsvO7Cw",
+			"url": "https://t.co/wTEkPM8mOc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wTEkPM8mOc",
+							"expanded_url": "https://ntrepository.wordpress.com/home/",
+							"display_url": "ntrepository.wordpress.com/home/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TNAUXFfeCn",
+							"expanded_url": "https://figshare.edgehill.ac.uk/The_National_Teaching_Repository",
+							"display_url": "figshare.edgehill.ac.uk/The_National_T…",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/y73UsvO7Cw",
+							"expanded_url": "http://figshare.edgehill.ac.uk/submit",
+							"display_url": "figshare.edgehill.ac.uk/submit",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1455,
+			"friends_count": 1346,
+			"listed_count": 6,
+			"created_at": "Mon Jun 08 11:07:46 +0000 2020",
+			"favourites_count": 1686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270497708810395649/wf2v3Utn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270497708810395649/wf2v3Utn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1269949194292297728/1641218731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learning Development in a Time of Disruption. View this original and insightful resource here: https://t.co/lbm1sYJxaI Thank you @LeeFallin for sharing this amazing poster. https://t.co/SDcfAqHoYu"
+	},
+	{
 		"created_at": "Sat Apr 15 17:47:11 +0000 2023",
 		"id": 1647295518035308500,
 		"id_str": "1647295518035308544",
@@ -53,7 +304,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -228,7 +479,7 @@ Grailbird.data.tweets_2023_04 =
 				"name": "Dr Lee Fallin",
 				"screen_name": "LeeFallin",
 				"location": "United Kingdom",
-				"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+				"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 				"url": "https://t.co/k3nlfWJfUg",
 				"entities": {
 					"url": {

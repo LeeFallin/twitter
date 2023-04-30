@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 29 07:17:10 +0000 2023",
+		"id": 1651917913861808000,
+		"id_str": "1652210400698441728",
+		"full_text": "Come work with us! https://t.co/QbkAyMWDnX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QbkAyMWDnX",
+					"expanded_url": "https://twitter.com/jldhe1/status/1651877719695585281",
+					"display_url": "twitter.com/jldhe1/status/…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 826917535,
+			"id_str": "826917535",
+			"name": "Dr Alicja Syska",
+			"screen_name": "AlicjaSyska",
+			"location": "Plymouth",
+			"description": "hybrid academic: cultural historian/learning developer/educator, lead editor at JLDHE, SFHEA, Americanist, incorrigible optimist, Stoic, baker, hiker 🌻",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 901,
+			"listed_count": 4,
+			"created_at": "Sun Sep 16 10:58:57 +0000 2012",
+			"favourites_count": 5214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539905126349082624/4Bb80fit_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539905126349082624/4Bb80fit_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826917535/1535299010",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1651877719695585300,
+		"quoted_status_id_str": "1651877719695585281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QbkAyMWDnX",
+			"expanded": "https://twitter.com/jldhe1/status/1651877719695585281",
+			"display": "twitter.com/jldhe1/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 28 09:15:13 +0000 2023",
+			"id": 1651877719695585300,
+			"id_str": "1651877719695585281",
+			"full_text": "At #ALDcon23 delegates can contribute to the collaborative conference proceedings and reflections. We invite expressions of interest for a Guest Editor for this special issue. https://t.co/qfHMjIs6DF You can read last year's #ALDcon22 on the #JLDHE website https://t.co/sYWU2ukTbc https://t.co/f4dJBIC1wQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALDcon23",
+						"indices": [
+							3,
+							12
+						]
+					},
+					{
+						"text": "ALDcon22",
+						"indices": [
+							225,
+							234
+						]
+					},
+					{
+						"text": "JLDHE",
+						"indices": [
+							242,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qfHMjIs6DF",
+						"expanded_url": "https://bit.ly/3GhXU9O",
+						"display_url": "bit.ly/3GhXU9O",
+						"indices": [
+							176,
+							199
+						]
+					},
+					{
+						"url": "https://t.co/sYWU2ukTbc",
+						"expanded_url": "https://bit.ly/3m3FQtc",
+						"display_url": "bit.ly/3m3FQtc",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1651877718173032400,
+						"id_str": "1651877718173032449",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FuymCFwWIAEaewS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuymCFwWIAEaewS.jpg",
+						"url": "https://t.co/f4dJBIC1wQ",
+						"display_url": "pic.twitter.com/f4dJBIC1wQ",
+						"expanded_url": "https://twitter.com/jldhe1/status/1651877719695585281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1651877718173032400,
+						"id_str": "1651877718173032449",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FuymCFwWIAEaewS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuymCFwWIAEaewS.jpg",
+						"url": "https://t.co/f4dJBIC1wQ",
+						"display_url": "pic.twitter.com/f4dJBIC1wQ",
+						"expanded_url": "https://twitter.com/jldhe1/status/1651877719695585281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 984873624938143700,
+				"id_str": "984873624938143751",
+				"name": "JLDHE",
+				"screen_name": "jldhe1",
+				"location": "#LoveLD",
+				"description": "#JLDHE is published by @ALDinHE_LH aimed at those interested in all aspects of how learning is facilitated & how it is experienced & achieved by students in HE.",
+				"url": "https://t.co/TWQY1rfxfe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TWQY1rfxfe",
+								"expanded_url": "http://journal.aldinhe.ac.uk/",
+								"display_url": "journal.aldinhe.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1228,
+				"friends_count": 3122,
+				"listed_count": 10,
+				"created_at": "Fri Apr 13 19:19:05 +0000 2018",
+				"favourites_count": 273,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 379,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/984877217674137604/I8kIzZ9H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/984877217674137604/I8kIzZ9H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/984873624938143751/1674052180",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come work with us! https://t.co/QbkAyMWDnX"
+	},
+	{
 		"created_at": "Thu Apr 27 19:25:06 +0000 2023",
 		"id": 1651668813505609700,
 		"id_str": "1651668813505609728",
@@ -39,7 +355,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 12 06:14:33 +0000 2023",
+		"id": 1656668268512579600,
+		"id_str": "1656905684141711360",
+		"full_text": "I'm in a JISC #connectmore23 session atm and the presenter @dannydotliu  is talking about generative AI and acceptable use in assessments. I found this slide helpful - as the presenter said, we want to aim for the top right. #CLmooc #ETMooc2 https://t.co/CmeCDMMnP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "connectmore23",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"text": "CLmooc",
+					"indices": [
+						225,
+						232
+					]
+				},
+				{
+					"text": "ETMooc2",
+					"indices": [
+						233,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dannydotliu",
+					"name": "Danny Liu",
+					"id": 17668687,
+					"id_str": "17668687",
+					"indices": [
+						59,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1656667816786022400,
+					"id_str": "1656667816786022403",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/Fv2qmhpaUAM2uvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fv2qmhpaUAM2uvD.jpg",
+					"url": "https://t.co/CmeCDMMnP5",
+					"display_url": "pic.twitter.com/CmeCDMMnP5",
+					"expanded_url": "https://twitter.com/NomadWarMachine/status/1656668268512579588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1656667816786022400,
+					"id_str": "1656667816786022403",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/Fv2qmhpaUAM2uvD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fv2qmhpaUAM2uvD.jpg",
+					"url": "https://t.co/CmeCDMMnP5",
+					"display_url": "pic.twitter.com/CmeCDMMnP5",
+					"expanded_url": "https://twitter.com/NomadWarMachine/status/1656668268512579588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 764,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 558091832,
+			"id_str": "558091832",
+			"name": "Sarah Honeychurch",
+			"screen_name": "NomadWarMachine",
+			"location": "",
+			"description": "Bricoleur, knitter, ukes, PhD, feminist. Good Practice @UofGlasgow #CLMooc #DS106 #LTHEchat #ALTC \nMastodon: @nomadwarmachine@social.ds106.us",
+			"url": "https://t.co/b48tDJtNLK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b48tDJtNLK",
+							"expanded_url": "http://about.me/sarahhoneychurch",
+							"display_url": "about.me/sarahhoneychur…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2815,
+			"friends_count": 2515,
+			"listed_count": 103,
+			"created_at": "Thu Apr 19 21:58:27 +0000 2012",
+			"favourites_count": 36452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1400799717357801482/2UGUAzD6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400799717357801482/2UGUAzD6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/558091832/1668164385",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm in a JISC #connectmore23 session atm and the presenter @dannydotliu  is talking about generative AI and acceptable use in assessments. I found this slide helpful - as the presenter said, we want to aim for the top right. #CLmooc #ETMooc2 https://t.co/CmeCDMMnP5"
+	},
+	{
 		"created_at": "Thu May 11 06:19:55 +0000 2023",
 		"id": 1656544647580188700,
 		"id_str": "1656544647580188673",
@@ -47,7 +255,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

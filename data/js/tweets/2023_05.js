@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 19 18:48:12 +0000 2023",
+		"id": 1659632062943379500,
+		"id_str": "1659632062943379460",
+		"full_text": "The Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿 translation of Designing for Diverse Learners is now live! - All thanks to the wonderful @kateawright &amp; @_TomTomlinson_. \n\n#accessibility #inclusion #diversity #LTHEchat @A_L_T @aldinhe_LH @DrEllieDavison @gemmaspencer https://t.co/xOnmsvuwf9 https://t.co/DHI9KF86ZV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "accessibility",
+					"indices": [
+						145,
+						159
+					]
+				},
+				{
+					"text": "inclusion",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "diversity",
+					"indices": [
+						171,
+						181
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						182,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kateawright",
+					"name": "Kate Wright",
+					"id": 28408419,
+					"id_str": "28408419",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "_TomTomlinson_",
+					"name": "Tom Tomlinson",
+					"id": 1668834546,
+					"id_str": "1668834546",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"screen_name": "aldinhe_LH",
+					"name": "ALDinHE and LearnHigher",
+					"id": 119064069,
+					"id_str": "119064069",
+					"indices": [
+						199,
+						210
+					]
+				},
+				{
+					"screen_name": "DrEllieDavison",
+					"name": "Ellie Davison",
+					"id": 1554406828208963600,
+					"id_str": "1554406828208963585",
+					"indices": [
+						211,
+						226
+					]
+				},
+				{
+					"screen_name": "GemmaSpencer",
+					"name": "Gemma Spencer",
+					"id": 1312324447,
+					"id_str": "1312324447",
+					"indices": [
+						227,
+						240
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xOnmsvuwf9",
+					"expanded_url": "https://designingfordiverselearners.info/cymry/",
+					"display_url": "designingfordiverselearners.info/cymry/",
+					"indices": [
+						241,
+						264
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1659630420693065700,
+					"id_str": "1659630420693065728",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FwgxExPXoAAamN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwgxExPXoAAamN5.jpg",
+					"url": "https://t.co/DHI9KF86ZV",
+					"display_url": "pic.twitter.com/DHI9KF86ZV",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1659632062943379460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659630420693065700,
+					"id_str": "1659630420693065728",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FwgxExPXoAAamN5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwgxExPXoAAamN5.jpg",
+					"url": "https://t.co/DHI9KF86ZV",
+					"display_url": "pic.twitter.com/DHI9KF86ZV",
+					"expanded_url": "https://twitter.com/LeeFallin/status/1659632062943379460/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2027,
+			"friends_count": 2110,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿 translation of Designing for Diverse Learners is now live! - All thanks to the wonderful @kateawright &amp; @_TomTomlinson_. \n\n#accessibility #inclusion #diversity #LTHEchat @A_L_T @aldinhe_LH @DrEllieDavison @gemmaspencer https://t.co/xOnmsvuwf9 https://t.co/DHI9KF86ZV"
+	},
+	{
 		"created_at": "Thu May 18 22:15:08 +0000 2023",
 		"id": 1659321750738313200,
 		"id_str": "1659321750738313219",
@@ -36,7 +311,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -132,7 +407,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -239,7 +514,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
@@ -335,7 +610,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {

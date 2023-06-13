@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 16:27:48 +0000 2023",
+		"id": 1668294038980624400,
+		"id_str": "1668294038980624384",
+		"full_text": "Arrived in a very warm &amp; sunny Portsmouth for #ALDcon23. Looking forward to 2 days of Learning Development research and practice.\n\nParticularly looking forward to presenting with the LearnHigher Team, @jldhe1 Editorial Board &amp; on the metaverse with @EvilDoctorB &amp; @DebbieHolley1!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALDcon23",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jldhe1",
+					"name": "JLDHE",
+					"id": 984873624938143700,
+					"id_str": "984873624938143751",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"screen_name": "EvilDoctorB",
+					"name": "Dr Carina Buckley",
+					"id": 576962461,
+					"id_str": "576962461",
+					"indices": [
+						257,
+						269
+					]
+				},
+				{
+					"screen_name": "DebbieHolley1",
+					"name": "Dr Debbie Holley",
+					"id": 77721089,
+					"id_str": "77721089",
+					"indices": [
+						276,
+						290
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55448837,
+			"id_str": "55448837",
+			"name": "Dr Lee Fallin",
+			"screen_name": "LeeFallin",
+			"location": "United Kingdom",
+			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"url": "https://t.co/k3nlfWJfUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k3nlfWJfUg",
+							"expanded_url": "http://www.leefallin.co.uk",
+							"display_url": "leefallin.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2040,
+			"friends_count": 2114,
+			"listed_count": 61,
+			"created_at": "Fri Jul 10 02:53:40 +0000 2009",
+			"favourites_count": 9342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/753894560108011520/7h68mawt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55448837/1555627842",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "511655fc081bb251",
+			"url": "https://api.twitter.com/1.1/geo/id/511655fc081bb251.json",
+			"place_type": "city",
+			"name": "Portsmouth",
+			"full_name": "Portsmouth, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.117912,
+							50.778429
+						],
+						[
+							-1.0160589,
+							50.778429
+						],
+						[
+							-1.0160589,
+							50.8593
+						],
+						[
+							-1.117912,
+							50.8593
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Arrived in a very warm &amp; sunny Portsmouth for #ALDcon23. Looking forward to 2 days of Learning Development research and practice.\n\nParticularly looking forward to presenting with the LearnHigher Team, @jldhe1 Editorial Board &amp; on the metaverse with @EvilDoctorB &amp; @DebbieHolley1!"
+	},
+	{
+		"created_at": "Mon Jun 12 05:27:12 +0000 2023",
+		"id": 1668010682434957300,
+		"id_str": "1668127791626305538",
+		"full_text": "Meet #JLDHE Editorial Board member, Lee Fallin @LeeFallin at #ALDcon23 ⬇️ https://t.co/ghlQnIF0fi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JLDHE",
+					"indices": [
+						5,
+						11
+					]
+				},
+				{
+					"text": "ALDcon23",
+					"indices": [
+						61,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ghlQnIF0fi",
+					"expanded_url": "https://twitter.com/aldinhe_LH/status/1666807397523005440",
+					"display_url": "twitter.com/aldinhe_LH/sta…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 984873624938143700,
+			"id_str": "984873624938143751",
+			"name": "JLDHE",
+			"screen_name": "jldhe1",
+			"location": "#LoveLD",
+			"description": "#JLDHE is published by @ALDinHE_LH aimed at those interested in all aspects of how learning is facilitated & how it is experienced & achieved by students in HE.",
+			"url": "https://t.co/TWQY1rfxfe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TWQY1rfxfe",
+							"expanded_url": "http://journal.aldinhe.ac.uk/",
+							"display_url": "journal.aldinhe.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1278,
+			"friends_count": 3122,
+			"listed_count": 10,
+			"created_at": "Fri Apr 13 19:19:05 +0000 2018",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984877217674137604/I8kIzZ9H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984877217674137604/I8kIzZ9H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/984873624938143751/1674052180",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1666807397523005400,
+		"quoted_status_id_str": "1666807397523005440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ghlQnIF0fi",
+			"expanded": "https://twitter.com/aldinhe_LH/status/1666807397523005440",
+			"display": "twitter.com/aldinhe_LH/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 08 14:00:26 +0000 2023",
+			"id": 1666807397523005400,
+			"id_str": "1666807397523005440",
+			"full_text": "Introducing speaker Lee Fallin at #ALDcon23 ! Get ready to be inspired and gain insights from his expertise. Read Lee's profile on the conference website - https://t.co/4OcMMkF6HQ  #LoveLD @LeeFallin https://t.co/9bw441seRy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ALDcon23",
+						"indices": [
+							34,
+							43
+						]
+					},
+					{
+						"text": "LoveLD",
+						"indices": [
+							181,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LeeFallin",
+						"name": "Dr Lee Fallin",
+						"id": 55448837,
+						"id_str": "55448837",
+						"indices": [
+							189,
+							199
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4OcMMkF6HQ",
+						"expanded_url": "https://shorturl.at/bitEV",
+						"display_url": "shorturl.at/bitEV",
+						"indices": [
+							156,
+							179
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1666807395279073300,
+						"id_str": "1666807395279073286",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGwfrCacAYxKvU.png",
+						"media_url_https": "https://pbs.twimg.com/media/FyGwfrCacAYxKvU.png",
+						"url": "https://t.co/9bw441seRy",
+						"display_url": "pic.twitter.com/9bw441seRy",
+						"expanded_url": "https://twitter.com/aldinhe_LH/status/1666807397523005440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 777,
+								"h": 767,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 777,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1666807395279073300,
+						"id_str": "1666807395279073286",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/FyGwfrCacAYxKvU.png",
+						"media_url_https": "https://pbs.twimg.com/media/FyGwfrCacAYxKvU.png",
+						"url": "https://t.co/9bw441seRy",
+						"display_url": "pic.twitter.com/9bw441seRy",
+						"expanded_url": "https://twitter.com/aldinhe_LH/status/1666807397523005440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 671,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 777,
+								"h": 767,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 777,
+								"h": 767,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119064069,
+				"id_str": "119064069",
+				"name": "ALDinHE and LearnHigher",
+				"screen_name": "aldinhe_LH",
+				"location": "",
+				"description": "Association for Learning Development in Higher Education: empowering Learning Developers to empower students in Higher Education. Find our journal at @JLDHE1",
+				"url": "https://t.co/lfFXnPsRG2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lfFXnPsRG2",
+								"expanded_url": "https://aldinhe.ac.uk",
+								"display_url": "aldinhe.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2652,
+				"friends_count": 3010,
+				"listed_count": 37,
+				"created_at": "Tue Mar 02 15:21:07 +0000 2010",
+				"favourites_count": 2628,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013736217937137664/g4Ydq7j-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119064069/1620115551",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Meet #JLDHE Editorial Board member, Lee Fallin @LeeFallin at #ALDcon23 ⬇️ https://t.co/ghlQnIF0fi"
+	},
+	{
 		"created_at": "Sun Jun 11 14:45:24 +0000 2023",
 		"id": 1667905878803005400,
 		"id_str": "1667905878803005440",
@@ -150,7 +668,7 @@ Grailbird.data.tweets_2023_06 =
 			"name": "Dr Lee Fallin",
 			"screen_name": "LeeFallin",
 			"location": "United Kingdom",
-			"description": "🏳️‍🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
+			"description": "🏳️🌈 EdD SFHEA FRGS FRSA #MIEExpert\n💼 Lecturer in Education Studies @UniofHull\n❤️ #HigherEd #EdTech #AI #loveLD #Inclusion\n🏫@JLDHE1 Editor & School Governor",
 			"url": "https://t.co/k3nlfWJfUg",
 			"entities": {
 				"url": {
